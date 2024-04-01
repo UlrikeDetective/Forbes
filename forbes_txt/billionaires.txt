@@ -1,0 +1,7 @@
+Tasks:
+
+Add all Billionaires
+
+Add columns gender and continents
+
+SQL - DATABASE? ID + Person + Source + Industry, net_worth_2023 + AGE, net_worth_2022 + AGE,

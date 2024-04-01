@@ -1,0 +1,2601 @@
+ID;User_ID;Table_rank_2022;Person;net_worth_in_BillionUSD_2022;Age_of_person_2022
+1;2;1;Elon Musk;219,00;50
+2;3;2;Jeff Bezos;171,00;58
+3;1;3;Bernard Arnault and family;158,00;73
+4;6;4;Bill Gates;129,00;66
+5;5;5;Warren Buffett;118,00;91
+6;12;6;Larry Page;111,00;49
+7;14;7;Sergey Brin;107,00;48
+8;4;8;Larry Ellison;106,00;77
+9;10;9;Steve Ballmer;91,40;66
+10;9;10;Mukesh Ambani;90,70;64
+11;2642;11;Gautam Adani and family;90,00;59
+12;7;12;Michael Bloomberg;82,00;80
+13;8;13;Carlos Slim Helu and family;81,20;82
+14;11;14;Francoise Bettencourt Meyers and family;74,80;68
+15;16;15;Mark Zuckerberg;67,30;37
+16;19;16;Jim Walton;66,20;73
+17;15;17;Zhong Shanshan;65,70;67
+18;21;18;Alice Walton;65,30;72
+19;2643;19;Rob Walton;65,00;77
+20;169;19;Changpeng Zhao;65,00;44
+21;2644;21;Charles Koch;60,00;86
+22;18;21;Julia Koch and family;60,00;59
+23;13;23;Amancio Ortega;59,60;86
+24;23;24;Michael Dell;55,10;57
+25;26;25;Zhang Yiming;50,00;38
+26;22;26;David Thomson and family;49,20;64
+27;25;27;Phil Knight and family;47,30;84
+28;27;28;Dieter Schwarz;47,10;82
+29;38;29;Robin Zeng;44,80;53
+30;60;30;MacKenzie Scott;43,60;51
+31;2646;31;Rodolphe Saade and family;41,40;52
+32;28;32;Francois Pinault and family;40,40;85
+33;29;33;Klaus-Michael Kuehne;37,30;84
+34;34;34;Ma Huateng;37,20;50
+35;2647;35;Beate Heister and Karl Albrecht Jr. and family;36,80;64
+36;30;36;Giovanni Ferrero;36,20;57
+37;33;37;Li Ka-shing;34,80;93
+38;50;37;Stephen Schwarzman;34,80;75
+39;47;39;Lee Shau Kee;32,60;94
+40;40;40;Len Blavatnik;32,50;64
+41;31;41;Jacqueline Mars;31,70;82
+42;32;41;John Mars;31,70;86
+43;41;43;Alain Wertheimer;31,20;73
+44;42;43;Gerard Wertheimer;31,20;71
+45;54;45;German Larrea Mota Velasco and family;30,80;68
+46;52;46;Gina Rinehart;30,20;68
+47;55;47;Shiv Nadar;28,70;76
+48;49;48;Jim Simons;28,60;83
+49;2649;49;He Xiangjian;28,30;79
+50;2650;50;Miriam Adelson;27,50;76
+51;2651;51;Dietrich Mateschitz;27,40;77
+52;2652;52;Leonardo Del Vecchio and family;27,30;86
+53;36;53;Ken Griffin;27,20;53
+54;39;54;Tadashi Yanai and family;26,10;73
+55;2653;55;William Lei Ding;25,20;50
+56;51;56;Susanne Klatten;24,30;59
+57;68;56;Cyrus Poonawalla;24,30;80
+58;75;56;Wang Wei;24,30;51
+59;87;59;Qin Yinglin;24,10;56
+60;2654;60;Sam Bankman-Fried;24,00;30
+61;78;61;Takemitsu Takizaki;23,90;76
+62;2655;62;Li Shufu;23,70;58
+63;71;63;Emmanuel Besnier;23,50;51
+64;61;64;R. Budi Hartono;23,20;81
+65;77;65;Leonard Lauder;23,10;89
+66;322;66;Guillaume Pousaz;23,00;40
+67;65;67;Iris Fontbona and family;22,80;79
+68;63;67;Jack Ma;22,80;57
+69;66;69;Michael Hartono;22,30;82
+70;105;70;Eric Schmidt;22,10;66
+71;83;71;Ray Dalio;22,00;72
+72;92;71;Daniel Gilbert;22,00;60
+73;81;73;Thomas Frist  Jr. and family;21,80;83
+74;69;74;Masayoshi Son;21,30;64
+75;72;75;Abigail Johnson;21,20;60
+76;99;76;Rupert Murdoch and family;20,80;91
+77;59;77;Stefan Quandt;20,70;55
+78;76;78;Jensen Huang;20,60;59
+79;115;79;Huang Shilin;20,30;55
+80;57;80;Thomas Peterffy;20,10;77
+81;114;81;Radhakishan Damani;20,00;67
+82;107;82;Pang Kang;19,60;66
+83;88;83;Wang Chuanfu;19,50;56
+84;46;84;Reinhold Wuerth and family;19,00;86
+85;101;85;Theo Albrecht  Jr. and family;18,70;71
+86;255;85;Yang Huiyan and family;18,70;40
+87;70;87;Vladimir Lisin;18,40;65
+88;2657;88;Fan Hongwei and family;18,20;55
+89;93;89;Lakshmi Mittal;17,90;71
+90;82;90;Andrew Forrest;17,80;60
+91;143;91;Jiang Rensheng and family;17,70;68
+92;96;91;Savitri Jindal and family;17,70;72
+93;85;91;Wang Wenyin;17,70;54
+94;103;94;Li Xiting;17,60;71
+95;104;94;Stefan Persson;17,60;74
+96;94;96;Steve Cohen;17,40;65
+97;62;97;Vladimir Potanin;17,30;61
+98;89;98;Harold Hamm and family;17,20;76
+99;194;99;Sun Piaoyang;17,10;63
+100;197;100;Luo Liguo and family;17,00;66
+101;111;100;Peter Woo;17,00;75
+102;2658;102;Gianluigi and Rafaela Aponte;16,80;81
+103;90;103;David Tepper;16,70;64
+104;102;104;Renata Kellnerova and family;16,60;54
+105;98;104;John Menard  Jr.;16,60;82
+106;124;106;Kumar Birla;16,50;54
+107;95;106;Carl Icahn;16,50;86
+108;2659;106;Hank and Doug Meijer;16,50;64
+109;74;106;Lukas Walton;16,50;35
+110;145;110;Laurene Powell Jobs and family;16,40;58
+111;67;111;James Ratcliffe;16,30;69
+112;97;112;Donald Bren;16,20;89
+113;120;113;Xu Hang;16,10;55
+114;136;114;Lu Xiangyang;15,70;59
+115;112;115;Dilip Shanghvi;15,60;66
+116;121;116;Wei Jianjun and family;15,50;58
+117;110;117;Jorge Paulo Lemann and family;15,40;82
+118;86;117;Eyal Ofer;15,40;71
+119;171;119;Mike Cannon-Brookes;15,30;42
+120;181;119;Wu Yajun;15,30;58
+121;119;121;Charlene de Carvalho-Heineken and family;15,20;67
+122;106;121;Michael Platt;15,20;54
+123;148;123;Pavel Durov;15,10;37
+124;179;123;Scott Farquhar;15,10;42
+125;2660;125;Pallonji Mistry;15,00;92
+126;142;126;Dang Yanbao;14,80;49
+127;113;127;Robert Pera;14,60;44
+128;164;128;Donald Newhouse;14,40;92
+129;138;129;Uday Kotak;14,30;63
+130;125;130;Aliko Dangote;14,00;64
+131;2662;130;Leonid Mikhelson;14,00;66
+132;2663;132;Sunil Mittal and family;13,90;64
+133;2664;133;Robert and Philip Ng;13,70;64
+134;151;134;Liu Hanyuan;13,65;58
+135;135;135;Joseph Lau;13,60;70
+136;314;135;Anders Holch Povlsen;13,60;49
+137;116;137;Dhanin Chearavanont;13,50;82
+138;159;138;Gong Hongjia and family;13,20;57
+139;183;138;Liu Yongxing;13,20;73
+140;2665;138;Alexey Mordashov;13,20;56
+141;254;138;Wang Jianlin;13,20;67
+142;173;142;David Duffield;12,90;81
+143;241;142;Li Zhenguo and family;12,90;54
+144;137;144;Harry Triguboff;12,80;89
+145;160;144;Zhang Zhidong;12,80;50
+146;128;146;Chen Bang;12,70;56
+147;224;146;John Doerr;12,70;70
+148;2666;146;Hinduja brothers;12,70;64
+149;126;149;Kwong Siu-hing;12,60;92
+150;228;150;Pei Zhenhua;12,50;63
+151;163;151;Ricardo Salinas Pliego and family;12,40;66
+152;203;152;Jim Pattison;12,20;93
+153;213;152;Charles Schwab;12,20;84
+154;123;154;Goh Cheng Liang;12,10;94
+155;2667;154;Lin Jianhua and family;12,10;59
+156;118;156;Charoen Sirivadhanabhakdi;12,00;77
+157;48;156;Jeff Yass;12,00;63
+158;130;158;John Fredriksen;11,90;77
+159;149;158;Andreas Struengmann and family;11,90;72
+160;150;158;Thomas Struengmann and family;11,90;72
+161;140;161;Mikhail Fridman;11,80;57
+162;141;161;Sarath Ratanavadi;11,80;56
+163;146;163;Robert Kuok;11,70;98
+164;192;163;Lei Jun;11,70;52
+165;281;163;Zhang Congyuan;11,70;74
+166;129;166;Lui Che Woo;11,60;93
+167;206;167;Brian Chesky;11,50;40
+168;153;167;Israel Englander;11,50;73
+169;226;167;Dustin Moskovitz;11,50;37
+170;122;167;Alisher Usmanov;11,50;68
+171;429;171;Jay Chaudhry;11,40;62
+172;155;171;Anthony Pratt;11,40;61
+173;2668;173;Colin Zheng Huang;11,30;42
+174;196;173;Jin Baofang;11,30;69
+175;227;173;Pierre Omidyar;11,30;54
+176;91;173;Gennady Timchenko;11,30;69
+177;172;177;Carl Cook;11,10;59
+178;2669;177;Andrey Melnichenko;11,10;50
+179;2670;179;Xing Wang;11,00;43
+180;161;180;Philip Anschutz;10,90;82
+181;215;180;David Cheriton;10,90;71
+182;217;180;Alexander Otto;10,90;54
+183;131;183;Diane Hendricks;10,70;75
+184;139;183;Stanley Kroenke;10,70;74
+185;133;185;Jerry Jones;10,60;79
+186;180;185;Quek Leng Chan;10,60;80
+187;176;185;Eduardo Saverin;10,60;40
+188;80;188;Vagit Alekperov;10,50;71
+189;225;188;Richard Liu;10,50;48
+190;127;188;Idan Ofer;10,50;66
+191;189;191;Melker Schorling and family;10,40;74
+192;239;192;Chase Coleman III;10,30;46
+193;2674;192;Shuirong Li;10,30;65
+194;247;192;Stefano Pessina;10,30;80
+195;156;192;Mikhail Prokhorov;10,30;56
+196;2675;192;Marcel Herrmann Telles;10,30;72
+197;232;197;Leon Black;10,10;70
+198;293;197;Joe Gebbia;10,10;40
+199;284;197;David Geffen;10,10;79
+200;746;197;Yu Renrong;10,10;56
+201;170;201;Andrew Beal;9,90;69
+202;134;201;George Kaiser;9,90;79
+203;279;201;Qi Shi and family;9,90;52
+204;403;201;Luis Carlos Sarmiento;9,90;89
+205;238;201;Andreas von Bechtolsheim and family;9,90;66
+206;132;206;Jan Koum;9,80;46
+207;734;206;Jorge Moll Filho and family;9,80;77
+208;212;206;Azim Premji;9,80;76
+209;220;206;Finn Rausing;9,80;67
+210;221;206;Jorn Rausing;9,80;62
+211;222;206;Kirsten Rausing;9,80;69
+212;363;206;Wang Laisheng;9,80;57
+213;2676;213;Tom and Judy Love;9,70;64
+214;469;214;John Collison;9,50;31
+215;470;214;Patrick Collison;9,50;33
+216;359;214;Gordon Moore;9,50;93
+217;316;214;Wang Laichun;9,50;54
+218;233;218;Graeme Hart;9,40;66
+219;245;218;Zheng Shuliang and family;9,40;76
+220;290;220;Cao Renxian;9,30;53
+221;261;221;Nathan Blecharczyk;9,20;38
+222;207;221;James Dyson;9,20;74
+223;216;223;Ivan Glasenberg;9,10;65
+224;541;223;Kim Beom-su;9,10;56
+225;271;223;Jay Y. Lee;9,10;53
+226;286;223;Liu Yonghao and family;9,10;70
+227;240;227;Ann Walton Kroenke;9,00;73
+228;371;227;Li Ping;9,00;54
+229;267;227;Eric Wittouck;9,00;75
+230;2677;230;Ian and Richard Livingstone;8,90;64
+231;193;230;Friedhelm Loh;8,90;75
+232;374;230;Xavier Niel;8,90;54
+233;231;230;Michael Otto;8,90;78
+234;158;230;Johann Rupert and family;8,90;71
+235;1003;235;Hui Ka Yan;8,80;63
+236;346;235;Pauline MacMillan Keinath;8,80;88
+237;2678;235;Herbert Kohler  Jr. and family;8,80;83
+238;460;235;Li Ge;8,80;55
+239;253;235;Kushal Pal Singh;8,80;90
+240;324;235;Zong Qinghou;8,80;76
+241;437;241;Cai Kui;8,70;59
+242;915;241;Charles Ergen;8,70;69
+243;406;241;Gao Jifan and family;8,70;57
+244;263;241;Bernard Marcus;8,70;92
+245;243;241;Nicky Oppenheimer and family;8,70;76
+246;2679;246;Bajaj brothers;8,60;64
+247;3137;246;Ernest Garcia II;8,60;64
+248;2680;246;Paul Xiaoming Lee and family;8,60;64
+249;378;246;George Soros;8,60;91
+250;219;246;Wang Liping and family;8,60;56
+251;204;251;Ernesto Bertarelli;8,50;56
+252;327;251;Tamara Gustavson;8,50;60
+253;236;251;Carlos Alberto Sicupira and family;8,50;74
+254;256;254;Laurent Dassault;8,40;68
+255;257;254;Thierry Dassault;8,40;65
+256;259;254;Marie-Helene Habert-Dassault;8,40;57
+257;348;254;Liu Jincheng and family;8,40;57
+258;2681;254;Ma Jianrong and family;8,40;58
+259;309;254;Steven Rales;8,40;71
+260;297;254;Joseph Tsai;8,40;58
+261;248;254;Francine von Finck and family;8,40;64
+262;218;254;Anthony von Mandl;8,40;72
+263;397;263;Carl Bennet;8,30;70
+264;165;263;Robert Kraft;8,30;80
+265;564;263;Chairul Tanjung;8,30;59
+266;237;263;Manuel Villar;8,30;72
+267;282;267;Jean-Michel Besnier;8,20;54
+268;283;267;Marie Besnier Beauvalot;8,20;41
+269;412;267;Gustaf Douglas;8,20;84
+270;367;267;Kjeld Kirk Kristiansen;8,20;74
+271;368;267;Sofie Kirk Kristiansen;8,20;46
+272;369;267;Thomas Kirk Kristiansen;8,20;43
+273;147;267;Stephen Ross;8,20;81
+274;380;267;Agnete Kirk Thinggaard;8,20;38
+275;332;275;Marc Benioff;8,10;57
+276;333;275;Dmitri Bukhman;8,10;36
+277;334;275;Igor Bukhman;8,10;40
+278;249;275;Francis Choi;8,10;74
+279;553;275;Murali Divi and family;8,10;71
+280;270;275;Nancy Walton Laurie;8,10;70
+281;177;275;Georg Schaeffler;8,10;57
+282;280;275;Yao Liangsong;8,10;57
+283;298;275;Zhong Huijuan;8,10;61
+284;2683;284;Stewart and Lynda Resnick;8,00;64
+285;252;284;George Roberts;8,00;78
+286;152;284;Michael Rubin;8,00;49
+287;264;284;Patrick Ryan;8,00;84
+288;366;288;Christopher Hohn;7,90;55
+289;198;288;Marijke Mars;7,90;57
+290;199;288;Pamela Mars;7,90;61
+291;200;288;Valerie Mars;7,90;63
+292;201;288;Victoria Mars;7,90;65
+293;235;288;Hasso Plattner and family;7,90;78
+294;275;288;Georg Stumpf;7,90;49
+295;178;288;Christy Walton;7,90;73
+296;157;296;Giorgio Armani;7,80;87
+297;430;296;Gopikishan Damani;7,80;64
+298;2684;296;Ding Shizhong and family;7,80;51
+299;242;296;Jim Kennedy;7,80;74
+300;250;296;German Khan;7,80;60
+301;328;296;Liang Wengen;7,80;65
+302;244;296;Blair Parry-Okeden;7,80;71
+303;441;296;Tsai Eng-meng;7,80;65
+304;2685;304;Bajaj siblings;7,70;64
+305;336;304;Ashwin Dani and family;7,70;79
+306;301;304;Ding Shijia;7,70;58
+307;260;304;Karel Komarek;7,70;53
+308;303;304;Henry Kravis;7,70;78
+309;329;304;Frederik Paulsen;7,70;71
+310;2686;304;Safra siblings;7,70;64
+311;310;304;Nassef Sawiris;7,70;61
+312;382;304;Xu Shihui;7,70;64
+313;383;313;Rahel Blocher;7,60;46
+314;144;313;Shahid Khan;7,60;71
+315;373;313;Magdalena Martullo-Blocher;7,60;53
+316;202;316;Vincent Bollore and family;7,50;70
+317;174;316;Jeffery Hildebrand;7,50;63
+318;191;316;Michael Kim;7,50;58
+319;321;316;Richard Kinder;7,50;77
+320;273;316;David Shaw;7,50;71
+321;211;321;John Malone;7,40;81
+322;2687;321;Vicky Safra;7,40;69
+323;590;321;Tim Sweeney;7,40;51
+324;418;324;Mike Adenuga;7,30;68
+325;117;324;David Green and family;7,30;80
+326;302;324;Paul Tudor Jones II.;7,30;67
+327;358;324;Yuri Milner;7,30;60
+328;287;324;Henry Samueli;7,30;67
+329;444;324;Patrick Soon-Shiong;7,30;69
+330;209;330;Antonia Axson Johnson and family;7,20;78
+331;422;330;Michael Kadoorie;7,20;80
+332;278;330;Lin Shu-hong;7,20;93
+333;443;330;Niels Peter Louis-Hansen;7,20;74
+334;288;330;Reinhold Schmieding;7,20;67
+335;330;330;Wee Cho Yaw;7,20;93
+336;353;336;Silvio Berlusconi and family;7,10;85
+337;299;336;Arthur Blank;7,10;79
+338;634;336;Qian Dongqi and family;7,10;64
+339;341;336;J. Christopher Reyes;7,10;68
+340;342;336;Jude Reyes;7,10;66
+341;899;336;Nik Storonsky;7,10;37
+342;2688;336;Zhou Qunfei and family;7,10;52
+343;1178;343;Deng Weiming and family;7,00;53
+344;325;343;Judy Faulkner;7,00;78
+345;285;343;Robin Li;7,00;53
+346;229;343;Carrie Perrodo and family;7,00;71
+347;394;343;David Reuben;7,00;83
+348;395;343;Simon Reuben;7,00;80
+349;464;343;Seo Jung-jin;7,00;64
+350;2690;350;Roman Abramovich;6,90;55
+351;466;350;Micky Arison;6,90;72
+352;345;350;Edythe Broad and family;6,90;86
+353;318;350;Terry Gou;6,90;71
+354;613;350;Jiang Bin;6,90;55
+355;574;350;Vinod Khosla;6,90;67
+356;337;350;Ralph Lauren;6,90;82
+357;501;350;Douglas Leone;6,90;64
+358;2075;350;Lucia Maggi and family;6,90;89
+359;578;350;Horst Julius Pudwill;6,90;77
+360;251;350;Abdulsamad Rabiu;6,90;61
+361;311;350;Harry Stine;6,90;80
+362;404;350;Dennis Washington;6,90;87
+363;291;363;Hasmukh Chudgar and family;6,80;88
+364;399;363;Stanley Druckenmiller;6,80;68
+365;557;363;Jonathan Gray;6,80;52
+366;526;363;Kwon Hyuk-bin;6,80;48
+367;433;363;Frank Lowy;6,80;91
+368;351;363;Ronda Stryker;6,80;67
+369;2692;369;Alejandro Bailleres Gual and siblings;6,70;61
+370;312;369;Benu Gopal Bangur;6,70;90
+371;305;369;James Goodnight;6,70;79
+372;408;369;Alain Merieux and family;6,70;84
+373;315;369;Enrique Razon Jr.;6,70;62
+374;265;369;Robert F. Smith;6,70;59
+375;1369;375;Brian Armstrong;6,60;39
+376;352;375;Dannine Avara;6,60;58
+377;636;375;Patrick Drahi;6,60;58
+378;355;375;Scott Duncan;6,60;39
+379;356;375;Milane Frantz;6,60;52
+380;439;375;Andreas Halvorsen;6,60;60
+381;338;375;Law Kar Po;6,60;73
+382;185;375;Nicolas Puech;6,60;79
+383;175;375;Viktor Rashnikov;6,60;73
+384;2693;375;Dmitry Rybolovlev;6,60;55
+385;364;375;Randa Duncan Williams;6,60;60
+386;230;386;Chen Jianhua;6,50;51
+387;407;386;John Grayken;6,50;65
+388;456;386;Ray Lee Hunt;6,50;78
+389;347;386;Philippe Laffont;6,50;54
+390;388;386;Henry Nicholas III.;6,50;62
+391;2694;386;Axel Oberwelland and siblings;6,50;55
+392;807;386;Cliff Obrecht;6,50;36
+393;360;386;John Overdeck;6,50;52
+394;808;386;Melanie Perkins;6,50;34
+395;741;386;Ruan Hongliang and family;6,50;61
+396;361;386;David Siegel;6,50;60
+397;2695;386;David Velez;6,50;40
+398;721;398;Juergen Blickle;6,40;75
+399;512;398;Cheng Xue;6,40;52
+400;335;398;Jack Dangermond;6,40;76
+401;475;398;Jiang Weiping and family;6,40;67
+402;323;398;Takahisa Takahara;6,40;60
+403;268;403;Orlando Bravo;6,30;51
+404;586;403;Hong Ra-hee;6,30;76
+405;2696;403;Edward Johnson  IV.;6,30;57
+406;1047;403;Li Xiaohua and family;6,30;60
+407;306;403;Sri Prakash Lohia;6,30;69
+408;490;403;Miao Hangen;6,30;57
+409;1252;403;Bobby Murphy;6,30;33
+410;465;403;Wu Jianshu;6,30;58
+411;411;411;Maria Asuncion Aramburuzabala and family;6,20;58
+412;391;411;Melinda French Gates;6,20;57
+413;387;411;Bruce Kovner;6,20;77
+414;651;411;Pham Nhat Vuong;6,20;53
+415;417;411;Michal Solowow;6,20;59
+416;296;411;Leonard Stern;6,20;84
+417;410;411;Stef Wertheimer and family;6,20;95
+418;276;418;Rocco Commisso;6,10;72
+419;594;418;Jack Dorsey;6,10;45
+420;670;418;Lin Li;6,10;58
+421;544;418;George Lucas;6,10;77
+422;1156;418;Evan Spiegel;6,10;31
+423;485;418;Zhao Yan;6,10;55
+424;419;424;Tom Gores;6,00;57
+425;489;424;Leo Koguan;6,00;67
+426;401;424;Alexei Kuzmichev;6,00;59
+427;449;424;Fredrik Lundberg;6,00;70
+428;246;424;John Morris;6,00;74
+429;289;424;Ivar Tollefsen;6,00;60
+430;2697;424;John  Alan and Bruce Wilson;6,00;64
+431;398;431;Stephen Bisciotti;5,90;61
+432;487;431;Mahendra Choksi and family;5,90;80
+433;400;431;Jian Jun;5,90;58
+434;517;431;Barry Lam;5,90;72
+435;671;431;Michael Moritz;5,90;67
+436;2698;431;Teh Hong Piow;5,90;92
+437;2699;431;Gary Wang;5,90;28
+438;584;438;Andre Esteves;5,80;53
+439;2700;438;Joshua Harris;5,80;57
+440;2701;438;Rakesh Jhunjhunwala;5,80;61
+441;459;438;Ken Langone;5,80;86
+442;477;438;Ludwig Merckle;5,80;57
+443;350;438;Sandra Ortega Mera;5,80;53
+444;375;438;Terrence Pegula;5,80;71
+445;461;438;Karen Pritzker;5,80;64
+446;478;438;Mitchell Rales;5,80;65
+447;493;438;Wolfgang Reimann;5,80;69
+448;494;438;Matthias Reimann-Andersen;5,80;57
+449;495;438;Stefan Reimann-Andersen;5,80;58
+450;496;438;Renate Reimann-Haas;5,80;70
+451;415;438;Ruan Liping;5,80;58
+452;416;438;Ruan Xueping;5,80;50
+453;520;438;Charles Simonyi;5,80;73
+454;377;438;John A. Sobrato and family;5,80;82
+455;435;438;David Steward;5,80;70
+456;396;438;Radovan Vitek;5,80;50
+457;436;438;Les Wexner and family;5,80;84
+458;2702;438;Aloys Wobben;5,80;70
+459;522;438;Sam Zell;5,80;80
+460;405;460;Anthony Bamford and family;5,70;76
+461;2703;460;Rainer Blickle;5,70;74
+462;447;460;Clive Calder;5,70;75
+463;413;460;Frits Goldschmeding;5,70;88
+464;516;460;Ananda Krishnan;5,70;84
+465;633;460;Joe Mansueto;5,70;65
+466;617;460;Odd Reitan and family;5,70;70
+467;440;460;Antony Ressler;5,70;60
+468;1420;460;Tang Xiao  ou;5,70;54
+469;2704;460;Tse Ping;5,70;70
+470;697;460;Ken Xie;5,70;59
+471;258;471;Tilman Fertitta;5,60;64
+472;502;471;Prajogo Pangestu;5,60;77
+473;3136;471;Edward Roski Jr;5,60;83
+474;463;471;Teddy Sagi;5,60;50
+475;548;471;Thomas Straumann;5,60;58
+476;379;471;David Sun;5,60;70
+477;381;471;John Tu;5,60;80
+478;509;471;Erich Wesjohann and family;5,60;76
+479;2706;471;Xu Jinfu;5,60;58
+480;425;480;Alexander Abramov;5,50;63
+481;427;480;Neil Bluhm;5,50;84
+482;320;480;Don Hankey;5,50;78
+483;2707;480;Kwee brothers;5,50;64
+484;542;480;Jane Lauder;5,50;49
+485;649;480;Gwendolyn Sontheim Meyer;5,50;60
+486;295;480;John Reece;5,50;65
+487;214;480;Eric Smidt;5,50;62
+488;362;480;Viktor Vekselberg;5,50;64
+489;508;480;Ronald Wanek;5,50;80
+490;426;490;Rene Benko;5,40;45
+491;446;490;John Brown;5,40;87
+492;1174;490;Chen Zhiping;5,40;46
+493;292;490;Andrew Currie;5,40;66
+494;552;490;Jim Davis and family;5,40;78
+495;593;490;Charles Dolan and family;5,40;95
+496;556;490;Tom Golisano;5,40;80
+497;1606;490;Hui Wing Mau;5,40;71
+498;210;490;Daniel Kretinsky;5,40;46
+499;370;490;Massimiliana Landini Aleotti and family;5,40;79
+500;432;490;Joe Lewis;5,40;85
+501;599;490;Li Chunan;5,40;53
+502;414;490;Lin Muqin and family;5,40;58
+503;778;490;Shigenobu Nagamori;5,40;77
+504;528;490;Kjell Inge Rokke;5,40;63
+505;657;490;Wang Wenjing;5,40;57
+506;2710;490;Chris Xu;5,40;38
+507;622;490;Samuel Yin;5,40;71
+508;510;490;M.A. Yusuff Ali;5,40;66
+509;354;509;Denise Coates;5,30;54
+510;365;509;Ken Fisher;5,30;71
+511;629;509;Peter Grogg;5,30;80
+512;612;509;Dietmar Hopp and family;5,30;81
+513;431;509;Sumet Jiaravanon;5,30;87
+514;392;509;Nathan Kirsh;5,30;90
+515;600;509;Forrest Li;5,30;44
+516;560;509;Rudolf Maag;5,30;76
+517;506;509;Gary Rollins;5,30;77
+518;546;509;Ugur Sahin;5,30;56
+519;519;509;Mark Scheinberg;5,30;48
+520;938;509;Shen Guojun;5,30;59
+521;550;509;Chip Wilson;5,30;65
+522;304;509;Zhang Yong;5,30;51
+523;467;523;James Chambers;5,20;64
+524;2711;523;Chen Fashu;5,20;61
+525;438;523;Jaran Chiaravanont;5,20;92
+526;234;523;Ravi Jaipuria;5,20;67
+527;706;523;Koon Poh Keong;5,20;60
+528;925;523;Li Liangbin;5,20;54
+529;926;523;Liang Feng;5,20;53
+530;476;523;Wolfgang Marguerre and family;5,20;80
+531;479;523;Katharine Rayner;5,20;77
+532;1980;523;Carlos Rodriguez-Pastor;5,20;62
+533;483;523;Margaretta Taylor;5,20;79
+534;2712;523;You Xiaoping;5,20;64
+535;876;523;Eric Yuan and family;5,20;52
+536;535;536;Robert Bass;5,10;74
+537;511;536;Alexandre Behring;5,10;55
+538;661;536;Chan Laiwa and family;5,10;81
+539;319;536;Jeff Greene;5,10;67
+540;2713;536;Montri Jiaravanont;5,10;91
+541;525;536;Charles B. Johnson;5,10;89
+542;500;536;Elizabeth Johnson;5,10;58
+543;669;536;Lin Bin;5,10;54
+544;867;536;Hiroshi Mikitani;5,10;57
+545;713;536;Isaac Perlmutter;5,10;79
+546;491;536;Michael Pieper;5,10;76
+547;605;536;Issad Rebrab and family;5,10;78
+548;743;536;Tsai Hong-tu;5,10;69
+549;654;536;Richard Tsai;5,10;64
+550;656;536;Wang Junshi and family;5,10;73
+551;786;536;Wang Yanqing and family;5,10;55
+552;659;552;Shari Arison;5,00;64
+553;428;552;Alain Bouchard;5,00;73
+554;722;552;Austen Cargill II.;5,00;71
+555;723;552;James Cargill II.;5,00;72
+556;700;552;Ben Chestnut;5,00;47
+557;2716;552;Wei Fang;5,00;48
+558;262;552;Leonid Fedun;5,00;66
+559;326;552;Johann Graf;5,00;75
+560;2717;552;Huang Chulong;5,00;63
+561;797;552;Huang Yi;5,00;60
+562;596;552;Vladimir Kim;5,00;61
+563;707;552;Dan Kurzius;5,00;50
+564;598;552;Ronald Lauder;5,00;78
+565;733;552;Marianne Liebmann;5,00;68
+566;709;552;Tobi Lutke;5,00;41
+567;503;552;Thomas Pritzker;5,00;71
+568;844;552;Scott Shleifer;5,00;44
+569;182;552;Autry Stephens;5,00;83
+570;678;552;Peter Thiel;5,00;54
+571;762;552;Tsai Cheng-ta;5,00;72
+572;608;552;Maximilian Viessmann;5,00;64
+573;532;552;Hansjoerg Wyss;5,00;87
+574;847;552;Xiao Yongming and family;5,00;57
+575;566;552;Zhang Tao;5,00;49
+576;452;552;Daniel Ziff;5,00;50
+577;453;552;Dirk Ziff;5,00;58
+578;454;552;Robert Ziff;5,00;55
+579;2718;579;Kapil and Rahul Bhatia;4,90;64
+580;488;579;Mat Ishbia;4,90;42
+581;518;579;Robert Rich Jr.;4,90;81
+582;450;579;Thomas Schmidheiny;4,90;76
+583;547;579;Alexandra Schoerghuber and family;4,90;63
+584;1017;579;Erik Selin;4,90;54
+585;653;579;Daniel Tsai;4,90;65
+586;536;586;Dona Bertarelli;4,80;54
+587;2721;586;Andrei Guriev and family;4,80;62
+588;920;586;Luciano Hang;4,80;59
+589;922;586;Hu Baifan;4,80;59
+590;558;586;Bidzina Ivanishvili;4,80;66
+591;2722;586;Yeow Chor and Yeow Seng Lee;4,80;64
+592;834;586;Leng Youbin;4,80;53
+593;615;586;Theo Mueller;4,80;82
+594;2723;586;Julian Robertson  Jr.;4,80;89
+595;618;586;Marc Rowan;4,80;59
+596;561;586;Emanuele Saputo and family;4,80;85
+597;674;586;Jeff Skoll;4,80;57
+598;655;586;Frank Wang;4,80;41
+599;2724;586;Wang Junlin;4,80;59
+600;849;586;Yang Shaopeng;4,80;64
+601;580;601;Maria Fernanda Amorim and family;4,70;87
+602;789;601;Leonid Boguslavsky;4,70;70
+603;858;601;Richard Branson;4,70;71
+604;2725;601;Robert Brockman;4,70;80
+605;468;601;Pierre Chen;4,70;65
+606;2726;601;Chu Mang Yee and family;4,70;62
+607;684;601;Scott Cook;4,70;69
+608;592;601;Mark Cuban;4,70;63
+609;729;601;Guenther Fielmann and family;4,70;82
+610;538;601;Martin Haefner;4,70;68
+611;641;601;Johnelle Hunt;4,70;90
+612;597;601;Andre Koo  Sr.;4,70;54
+613;457;601;Lai Meisong;4,70;51
+614;601;601;Richard Li;4,70;55
+615;631;601;Mangal Prabhat Lodha;4,70;66
+616;349;601;Igor Olenicoff;4,70;79
+617;562;601;Mark Shoen;4,70;71
+618;274;601;Andrei Skoch and family;4,70;56
+619;606;601;Fred Smith;4,70;77
+620;549;601;Murat Ulker;4,70;63
+621;579;601;Yu Yong;4,70;61
+622;624;622;Stephane Bancel;4,60;49
+623;384;622;Bubba Cathy;4,60;67
+624;385;622;Dan Cathy;4,60;69
+625;386;622;Trudy Cathy White;4,60;66
+626;582;622;Jason Chang;4,60;77
+627;554;622;Dagmar Dolby and family;4,60;80
+628;1120;622;Bruce Flatt;4,60;56
+629;2729;622;Masatoshi Ito;4,60;97
+630;154;622;Viatcheslav Kantor;4,60;68
+631;666;622;Min Kao and family;4,60;73
+632;1008;622;Lin Xiucheng and family;4,60;66
+633;527;622;Sami Mnaymneh;4,60;60
+634;529;622;Tony Tamer;4,60;64
+635;484;622;Richard White;4,60;67
+636;2730;622;Baoguo Zhu and family;4,60;59
+637;567;637;Michael Ashley;4,50;57
+638;534;637;Ron Baron;4,50;78
+639;591;637;Bert Beveridge;4,50;60
+640;497;637;Todd Boehly;4,50;48
+641;390;637;David Bonderman;4,50;79
+642;2731;637;Guo Guangchang;4,50;55
+643;643;637;Daryl Katz;4,50;60
+644;2732;637;Ted Lerner and family;4,50;96
+645;1200;637;Falguni Nayar;4,50;59
+646;759;637;Trevor Rees-Jones;4,50;70
+647;869;637;J. Joe Ricketts and family;4,50;80
+648;462;637;Robert Rowling;4,50;68
+649;742;637;Mark Stevens;4,50;62
+650;1160;637;Gustav Magnar Witzoe;4,50;28
+651;2733;637;Xie Liangzhi and family;4,50;56
+652;1429;637;Yeung Kin-man;4,50;58
+653;331;637;Zhang Hejun;4,50;64
+654;679;654;Andrej Babis;4,40;67
+655;728;654;Giuseppe De Longhi and family;4,40;82
+656;750;654;Barry Diller;4,40;80
+657;630;654;Christian Haub;4,40;57
+658;770;654;Huang Li;4,40;58
+659;642;654;Marian Ilitch;4,40;89
+660;167;654;Suleiman Kerimov and family;4,40;56
+661;802;654;Edwin Leong;4,40;70
+662;1248;654;Lu Yiwen;4,40;35
+663;616;654;N.R. Narayana Murthy;4,40;75
+664;1309;654;Yang Jianliang and family;4,40;52
+665;660;665;Pyotr Aven;4,30;67
+666;1168;665;Joesley Batista;4,30;50
+667;1169;665;Wesley Batista;4,30;49
+668;625;665;Margot Birmingham Perot;4,30;88
+669;498;665;Rick Caruso;4,30;63
+670;627;665;Jim Davis;4,30;62
+671;829;665;Walter P.J. Droege;4,30;69
+672;473;665;Dan Friedkin;4,30;57
+673;514;665;Gao Dekang and family;4,30;70
+674;686;665;Antti Herlin;4,30;65
+675;730;665;W. Herbert Hunt;4,30;93
+676;773;665;Jason Jiang;4,30;49
+677;664;665;Rupert Johnson  Jr.;4,30;81
+678;458;665;Vikram Lal and family;4,30;80
+679;1469;665;Lam Wai-ying;4,30;64
+680;1392;665;Chris Larsen;4,30;61
+681;784;665;Richard Schulze;4,30;81
+682;481;665;Paul Singer;4,30;77
+683;607;665;Barry Sternlicht;4,30;61
+684;1096;665;Su Hua;4,30;40
+685;507;665;Mark Walter;4,30;61
+686;521;665;Ty Warner;4,30;77
+687;445;687;Rinat Akhmetov;4,20;55
+688;2738;687;Martin and Olivier Bouygues;4,20;64
+689;569;687;Bernard Broermann;4,20;78
+690;726;687;Mong-Koo Chung;4,20;84
+691;822;687;Daniel DAniello;4,20;75
+692;2739;687;Traudl Engelhorn and family;4,20;95
+693;472;687;Piero Ferrari;4,20;76
+694;585;687;Carlo Fidani;4,20;67
+695;769;687;Yakir Gabay;4,20;55
+696;794;687;Jaime Gilinski Bacal;4,20;64
+697;960;687;Bertil Hult;4,20;81
+698;755;687;Martha Ingram and family;4,20;86
+699;2740;687;Lee Yin Yee;4,20;70
+700;835;687;Daniel Loeb;4,20;60
+701;545;687;Janice McNair;4,20;85
+702;1013;687;Ajay Piramal;4,20;66
+703;675;687;Lynsi Snyder;4,20;39
+704;694;687;Peter Spuhler;4,20;62
+705;696;687;Kerry Stokes;4,20;81
+706;652;687;Jon Stryker;4,20;63
+707;944;687;Vincent Viola;4,20;66
+708;531;687;Romesh T. Wadhwani;4,20;74
+709;611;709;Juan Domingo Beckmann Legorreta and family;4,10;54
+710;628;709;Rafael Del Pino;4,10;63
+711;1233;709;Sergey Dmitriev;4,10;56
+712;919;709;Senapathy Gopalakrishnan;4,10;67
+713;474;709;James Irving;4,10;94
+714;924;709;Lee Boo-jin;4,10;51
+715;801;709;Samuel Tak Lee;4,10;82
+716;575;709;Thai Lee;4,10;63
+717;668;709;Eric Lefkofsky;4,10;52
+718;2742;709;Weiguo Li;4,10;57
+719;2743;709;Ermirio Pereira de Moraes and family;4,10;89
+720;2744;709;Maria Helena Moraes Scripilliti and family;4,10;91
+721;2745;709;Augusto and Giorgio Perfetti;4,10;64
+722;588;709;Thomas Secunda;4,10;67
+723;715;709;Shaul Shani;4,10;67
+724;673;709;E. Joe Shoen;4,10;72
+725;763;709;Steven Udvar-Hazy;4,10;76
+726;609;709;Russ Weiner;4,10;51
+727;2746;709;Guanjiang Wu and family;4,10;53
+728;2747;728;Anil Agarwal and family;4,00;68
+729;853;728;Somphote Ahunai;4,00;54
+730;486;728;Patrizio Bertelli;4,00;76
+731;753;728;Rakesh Gangwal;4,00;68
+732;1284;728;Paul Gauselmann and family;4,00;87
+733;1383;728;Hao Hong;4,00;66
+734;2044;728;He Xiaopeng;4,00;44
+735;420;728;Michael Herz;4,00;78
+736;421;728;Wolfgang Herz;4,00;71
+737;448;728;Arthur Irving;4,00;92
+738;2748;728;Victor Jacobsson;4,00;40
+739;667;728;Marc Ladreit de Lacharriere;4,00;81
+740;833;728;Patrick Lee;4,00;80
+741;1396;728;Max Lytvyn;4,00;42
+742;1010;728;Gilles Martin;4,00;58
+743;272;728;Ramzi Musallam;4,00;53
+744;1052;728;Georg Nemetschek and family;4,00;88
+745;891;728;Akio Nitori;4,00;78
+746;779;728;Daniel Och;4,00;61
+747;577;728;Pankaj Patel;4,00;69
+748;1012;728;John Paulson;4,00;66
+749;492;728;Miuccia Prada;4,00;72
+750;672;728;Jean Pritzker;4,00;59
+751;810;728;Juan Roig;4,00;72
+752;933;728;David Rubenstein;4,00;72
+753;783;728;Howard Schultz;4,00;68
+754;1411;728;Alex Shevchenko;4,00;42
+755;563;728;Dan Snyder;4,00;57
+756;717;728;Jerzy Starak;4,00;74
+757;2750;728;Udo and Harald Tschira;4,00;64
+758;565;728;Kelcy Warren;4,00;66
+759;658;728;Herbert Wertheim;4,00;82
+760;2385;728;Cameron Winklevoss;4,00;40
+761;2386;728;Tyler Winklevoss;4,00;40
+762;533;728;Denise York and family;4,00;71
+763;1215;728;Zhao Lixin;4,00;56
+764;681;764;Hubert Burda;3,90;82
+765;749;764;Francesco Gaetano Caltagirone;3,90;79
+766;555;764;Marcos Galperin;3,90;64
+767;756;764;Li Xiang;3,90;40
+768;803;764;Stephen Mandel Jr.;3,90;66
+769;737;764;Gabe Newell;3,90;59
+770;1011;764;Maja Oeri;3,90;67
+771;2751;764;Paolo and Gianfelice Mario Rocca;3,90;64
+772;2752;764;Neil Shen;3,90;54
+773;451;764;Helmut Sohmen;3,90;82
+774;695;764;Donald Sterling;3,90;87
+775;343;764;Don Vultaggio and family;3,90;70
+776;2753;764;Yiling Wu;3,90;72
+777;2754;764;Gongshan Zhu;3,90;64
+778;581;778;Gayle Benson;3,80;75
+779;993;778;William Conway Jr.;3,80;72
+780;953;778;Gurbachan Singh Dhingra;3,80;71
+781;954;778;Kuldip Singh Dhingra;3,80;74
+782;685;778;Luca Garavoglia;3,80;53
+783;2756;778;Vinod and Anil Rai Gupta;3,80;64
+784;570;778;Jimmy Haslam;3,80;68
+785;1002;778;Susan Carol Holland;3,80;65
+786;645;778;Timur Kulibaev;3,80;55
+787;646;778;Dinara Kulibaeva;3,80;54
+788;543;778;Michel Leclercq and family;3,80;82
+789;889;778;Pablo Legorreta;3,80;58
+790;836;778;Margarita Louis-Dreyfus and family;3,80;59
+791;434;778;Michael Milken;3,80;75
+792;1141;778;Denis O  Brien;3,80;63
+793;972;778;Katharina Otto-Bernstein;3,80;58
+794;1201;778;James Packer;3,80;54
+795;482;778;Sergio Stevanato and family;3,80;79
+796;871;778;Leena Tewari;3,80;64
+797;785;778;Yitzhak Tshuva;3,80;73
+798;1363;778;Paul-Heinz Wesjohann and family;3,80;78
+799;816;778;Zeng Fangqin;3,80;56
+800;948;778;Zhou Bajin;3,80;86
+801;767;801;William Berkley;3,70;75
+802;683;801;John Catsimatidis;3,70;73
+803;2758;801;Che Jianxing;3,70;55
+804;2759;801;Gustavo Denegri;3,70;85
+805;956;801;Charles Edelstenne;3,70;84
+806;959;801;Reed Hastings;3,70;61
+807;862;801;Amos Hostetter  Jr.;3,70;85
+808;771;801;Brad Jacobs;3,70;65
+809;1005;801;Friedrich Knapp;3,70;70
+810;865;801;William Lauder;3,70;61
+811;775;801;Richard LeFrak and family;3,70;76
+812;1192;801;Li Guoqiang;3,70;58
+813;56;801;Low Tuck Kwong;3,70;73
+814;1086;801;Akira Mori and family;3,70;85
+815;781;801;Anthony Pritzker;3,70;61
+816;838;801;Ira Rennert;3,70;87
+817;714;801;Bernard Saul II.;3,70;89
+818;2760;801;Shi Yonghong and family;3,70;53
+819;2761;801;Song Chi-hyung;3,70;43
+820;716;801;Steven Spielberg;3,70;75
+821;1101;801;Wong Luen Hei;3,70;60
+822;680;822;Danielle Bellon and family;3,60;82
+823;2762;822;Byju Raveendran and Divya Gokulnath;3,60;40
+824;949;822;Cho Tak Wong;3,60;75
+825;768;822;Charles Cohen;3,60;70
+826;727;822;Kenneth Dart;3,60;66
+827;955;822;Martin Ebner;3,60;76
+828;916;822;David Filo;3,60;55
+829;1121;822;Miguel Fluxa Rossello;3,60;83
+830;704;822;John Henry;3,60;72
+831;640;822;Hu Kaijun;3,60;60
+832;798;822;Peter Kellogg;3,60;79
+833;1612;822;James Leprino;3,60;84
+834;313;822;Iskander Makhmudov;3,60;58
+835;967;822;Daniel Mate;3,60;58
+836;929;822;Aristotelis Mistakidis;3,60;60
+837;693;822;Arturo Moreno;3,60;75
+838;2763;822;Nan Cunhui;3,60;58
+839;892;822;Julio Ponce Lerou;3,60;76
+840;809;822;J.B. Pritzker;3,60;57
+841;758;822;Chandru Raheja;3,60;81
+842;893;822;Rodger Riney and family;3,60;76
+843;2764;822;Shi Yuzhu;3,60;59
+844;589;822;Zuowen Song;3,60;75
+845;2765;822;Jerry Speyer;3,60;81
+846;1210;822;Julia Thiele-Schuerhoff;3,60;50
+847;813;822;Tung Chee Chen;3,60;79
+848;1267;822;Roger Wang;3,60;73
+849;945;822;Wu Shaoxun;3,60;66
+850;2766;822;Wenzhong Zhang;3,60;60
+851;910;851;Chen Kaixuan;3,50;63
+852;792;851;Beatriz Davila de Santo Domingo;3,50;83
+853;912;851;Antonio Del Valle Ruiz and family;3,50;83
+854;1180;851;Carl Douglas;3,50;60
+855;1181;851;Eric Douglas;3,50;53
+856;2767;851;Jiangtao Du and family;3,50;52
+857;638;851;Juan Carlos Escotet;3,50;62
+858;1182;851;Fiona Geminder;3,50;57
+859;2768;851;Yuhua Gu and family;3,50;72
+860;731;851;James Irsay;3,50;62
+861;962;851;Kuok Khoon Hong;3,50;72
+862;963;851;Aerin Lauder;3,50;51
+863;1044;851;Lee Seo-hyun;3,50;48
+864;2770;851;Li Yongxin and family;3,50;46
+865;2771;851;Jeffrey Lurie;3,50;70
+866;690;851;Mary Alice Dorrance Malone;3,50;72
+867;1050;851;Ronald McAulay;3,50;86
+868;2603;851;Apoorva Mehta;3,50;35
+869;890;851;Arnon Milchan;3,50;77
+870;806;851;Masahiro Noda;3,50;83
+871;1091;851;Maren Otto;3,50;64
+872;976;851;Renzo Rosso and family;3,50;66
+873;2772;851;Lynn Schusterman;3,50;83
+874;897;851;Gil Shwed;3,50;53
+875;845;851;Thomas Siebel;3,50;69
+876;870;851;Herb Simon;3,50;87
+877;977;851;Friede Springer;3,50;79
+878;1362;851;Wang Zhenhua;3,50;60
+879;873;851;Hans Peter Wild;3,50;80
+880;1064;851;William Wrigley  Jr.;3,50;58
+881;815;851;Xia Zuoquan;3,50;60
+882;903;851;Xue Hua;3,50;52
+883;878;883;Mohed Altrad;3,40;74
+884;699;883;Sid Bass;3,40;79
+885;682;883;Nick Caporella;3,40;86
+886;1226;883;Cheng Yixiao;3,40;38
+887;751;883;Wesley Edens;3,40;60
+888;637;883;Behdad Eghbali;3,40;45
+889;471;883;Archie Aldis Emmerson and family;3,40;92
+890;639;883;Jose E. Feliciano;3,40;48
+891;885;883;Fu Liquan and family;3,40;54
+892;2773;883;David Gottesman;3,40;95
+893;861;883;Laurence Graff and family;3,40;83
+894;958;883;Jeff T. Green;3,40;45
+895;774;883;Jim Kavanaugh;3,40;59
+896;864;883;Steven Klinsky;3,40;65
+897;866;883;John Middleton;3,40;67
+898;2774;883;Jerry Ng;3,40;56
+899;1549;883;Tengyun Nie and family;3,40;46
+900;1089;883;Nandan Nilekani;3,40;66
+901;868;883;Bob Parsons;3,40;71
+902;837;883;Prasert Prasarttong-Osoth;3,40;89
+903;2775;883;Qiu Guanghe and family;3,40;70
+904;1351;883;Richard Sands;3,40;71
+905;1016;883;Robert Sands;3,40;63
+906;1557;883;T. Denny Sanford;3,40;86
+907;895;883;Naguib Sawiris;3,40;67
+908;266;883;Pavel Tykac;3,40;57
+909;902;883;Todd Wanek;3,40;58
+910;1100;883;Meg Whitman;3,40;65
+911;848;883;Michael Xie;3,40;53
+912;1102;883;Chenghai Ye and family;3,40;78
+913;2776;913;An Kang;3,30;73
+914;879;913;John Arnold;3,30;48
+915;908;913;Arun Bharat Ram;3,30;81
+916;568;913;Tomasz Biernacki;3,30;49
+917;1435;913;Travis Boersma;3,30;51
+918;990;913;Chan Tan Ching-fen;3,30;64
+919;2777;913;Dongsheng Chen;3,30;64
+920;994;913;Jean Coutu and family;3,30;94
+921;1446;913;Ralph Dommermuth;3,30;58
+922;883;913;Walter Faria;3,30;67
+923;793;913;Bob Gaglardi;3,30;81
+924;886;913;John Gandel;3,30;87
+925;1287;913;Xuande Hua and family;3,30;78
+926;515;913;Micky Jagtiani;3,30;70
+927;571;913;H. Fisk Johnson;3,30;63
+928;572;913;S. Curtis Johnson;3,30;66
+929;573;913;Helen Johnson-Leipold;3,30;65
+930;961;913;Miguel Krigsner;3,30;72
+931;1045;913;Li Jianquan and family;3,30;65
+932;1007;913;Lin Ming-hsiung;3,30;72
+933;576;913;Winifred J. Marquart;3,30;62
+934;1481;913;Kiran Mazumdar-Shaw;3,30;69
+935;1140;913;Patrice Motsepe;3,30;60
+936;738;913;Alfred Oetker;3,30;55
+937;739;913;Carl Ferdinand Oetker;3,30;49
+938;740;913;Julia Oetker;3,30;43
+939;971;913;Or Wai Sheun;3,30;70
+940;650;913;Jay Paul;3,30;74
+941;780;913;Horst Paulmann and family;3,30;87
+942;975;913;Theodore Rachmat;3,30;78
+943;782;913;John Sall;3,30;74
+944;872;913;Stefan von Holtzbrinck;3,30;58
+945;744;913;Nusli Wadia;3,30;78
+946;946;913;Steve Wynn;3,30;80
+947;1310;913;Yang Weidong and family;3,30;53
+948;851;913;Barry Zekelman;3,30;55
+949;2778;913;Zhang Shilong and family;3,30;56
+950;1803;913;Zhong Ruonong and family;3,30;59
+951;1647;951;Cameron Adams;3,20;42
+952;2779;951;Dongchen Cai;3,20;69
+953;724;951;Vanich Chaiyawan;3,20;90
+954;2780;951;Andrew and Peggy Cherng;3,20;64
+955;1032;951;James Clark;3,20;78
+956;1115;951;Jack Cowin;3,20;79
+957;821;951;Giuseppe Crippa and family;3,20;86
+958;918;951;Sergei Galitsky;3,20;54
+959;2781;951;Ernest Garcia  III;3,20;39
+960;887;951;Peter Gilgan;3,20;71
+961;754;951;Joseph Grendys;3,20;60
+962;663;951;Thomas Hagen;3,20;86
+963;539;951;Robert Hale  Jr.;3,20;55
+964;921;951;Michael Hintze;3,20;68
+965;795;951;Pansy Ho;3,20;59
+966;796;951;Alan Howard;3,20;58
+967;1128;951;Kei Hoi Pang;3,20;56
+968;2782;951;Rudy Ma;3,20;81
+969;1084;951;Najib Mikati;3,20;66
+970;1085;951;Taha Mikati;3,20;77
+971;710;951;Gail Miller;3,20;78
+972;1054;951;Vikas Oberoi;3,20;51
+973;757;951;H. Ross Perot Jr.;3,20;63
+974;2783;951;Candido Pinheiro Koren de Lima;3,20;75
+975;1552;951;Matthew Prince;3,20;47
+976;974;951;Penny Pritzker;3,20;62
+977;760;951;Yasumitsu Shigeta;3,20;57
+978;2784;951;Sebastian Siemiatkowski;3,20;40
+979;2785;951;Barry Silbert;3,20;45
+980;1063;951;Daniel Sundheim;3,20;45
+981;978;951;Rita Tong Liu;3,20;73
+982;1709;951;Tran Dinh Long;3,20;61
+983;720;951;Zhang Daocai;3,20;72
+984;1031;984;John Caudwell;3,10;69
+985;2786;984;Philippe Foriel-Destezet;3,10;86
+986;884;984;Walter Frey;3,10;78
+987;860;984;Alessandra Garavoglia;3,10;62
+988;831;984;Peter Gassner;3,10;57
+989;1285;984;Mitchell Goldhar;3,10;60
+990;1039;984;Otto Happel;3,10;74
+991;1286;984;Peter Hargreaves;3,10;75
+992;1331;984;Bom Kim;3,10;43
+993;2787;984;Gaiteng Li;3,10;49
+994;2788;984;Liufa Li and family;3,10;64
+995;1195;984;Lu Weiding;3,10;51
+996;1009;984;Harsh Mariwala;3,10;70
+997;927;984;Samir Mehta;3,10;58
+998;928;984;Sudhir Mehta;3,10;67
+999;2789;984;Pawan Munjal and family;3,10;68
+1000;2790;984;Nguyen Thi Phuong Thao;3,10;51
+1001;1093;984;Madhukar Parekh;3,10;75
+1002;973;984;Sergei Popov;3,10;50
+1003;1059;984;Haim Saban;3,10;77
+1004;1061;984;Karthik Sarma;3,10;47
+1005;935;984;Klaus-Peter Schulenberg;3,10;70
+1006;940;984;Pat Stryker;3,10;65
+1007;1260;984;Jeff Sutton;3,10;62
+1008;947;984;Jon Yarbrough;3,10;64
+1009;1023;984;Gang Ye;3,10;41
+1010;875;984;Yi Zheng;3,10;51
+1011;1569;984;Zhang Fan;3,10;56
+1012;852;1012;William Ackman;3,00;55
+1013;857;1012;Markus Blocher;3,00;51
+1014;626;1012;Neal Blue and family;3,00;87
+1015;987;1012;Eva Maria Bucher-Haefner;3,00;65
+1016;1920;1012;Chang Kuo-Hua;3,00;67
+1017;991;1012;Todd Christopher;3,00;59
+1018;1072;1012;Euisun Chung;3,00;51
+1019;1035;1012;Bernard Ecclestone and family;3,00;91
+1020;1036;1012;Michael Federmann and family;3,00;78
+1021;1040;1012;Gudrun Heine;3,00;67
+1022;2791;1012;Heidi Horten;3,00;81
+1023;2792;1012;Dawen Huang;3,00;61
+1024;964;1012;Sheldon Lavin;3,00;89
+1025;1540;1012;Li Min;3,00;56
+1026;1138;1012;Liang Yunchao;3,00;53
+1027;614;1012;Joseph Liemandt;3,00;53
+1028;1616;1012;Strive Masiyiwa;3,00;61
+1029;805;1012;Masahiro Miki;3,00;66
+1030;1293;1012;Pan Laican;3,00;64
+1031;1146;1012;Karsanbhai Patel;3,00;78
+1032;1057;1012;Arvind Poddar;3,00;64
+1033;841;1012;Remo Ruffini;3,00;60
+1034;2613;1012;Eddy Kusnadi Sariaatmadja;3,00;68
+1035;1062;1012;Sybill Storz;3,00;84
+1036;812;1012;Lawrence Stroll;3,00;62
+1037;2793;1012;Wijono and Hermanto Tanoko;3,00;64
+1038;1878;1012;Michael Tojner;3,00;56
+1039;1265;1012;Donald Trump;3,00;75
+1040;1304;1012;Tsai Ming-kai;3,00;71
+1041;2794;1012;John Tyson;3,00;68
+1042;719;1012;Rufino Vigil Gonzalez;3,00;73
+1043;1884;1012;Ning Wang and family;3,00;35
+1044;409;1012;Wang Yusuo and family;3,00;58
+1045;2795;1012;Zhigang Wu and family;3,00;87
+1046;1642;1012;Xie Juhua and family;3,00;71
+1047;1431;1012;Oren Zeev;3,00;57
+1048;877;1012;Charles Zegar;3,00;74
+1049;2796;1012;Zhang Lei;3,00;49
+1050;2797;1012;Zhang Xin and Pan Shiyi;3,00;56
+1051;551;1012;Zhu Yan and family;3,00;64
+1052;1311;1012;Mortimer Zuckerman;3,00;84
+1053;1105;1053;Juan Abello;2,90;80
+1054;1312;1053;John Armitage;2,90;62
+1055;1729;1053;Bang Si-hyuk;2,90;49
+1056;1171;1053;Miriam Baumann-Blocher;2,90;47
+1057;1221;1053;Riley Bechtel and family;2,90;70
+1058;1521;1053;Wilhelm Beier and family;2,90;65
+1059;984;1053;Nicolas Berggruen;2,90;60
+1060;2798;1053;Bui Thanh Nhon;2,90;64
+1061;1029;1053;Cao Longxiang and family;2,90;64
+1062;952;1053;Deng Wen;2,90;54
+1063;1825;1053;Daniel Dines;2,90;50
+1064;1234;1053;Joseph Edelman;2,90;66
+1065;1117;1053;N. Murray Edwards;2,90;62
+1066;1458;1053;Jane Goldman;2,90;66
+1067;1599;1053;Guo Zhenyu and family;2,90;58
+1068;1183;1053;Stewart Horejsi and family;2,90;84
+1069;1185;1053;Zhenda Huang and family;2,90;74
+1070;688;1053;Jeremy Jacobs Sr. and family;2,90;82
+1071;2799;1053;Hamilton James;2,90;70
+1072;1675;1053;Valentin Kipyatkov;2,90;45
+1073;1137;1053;Li Zhongchu;2,90;58
+1074;1049;1053;Martin Lorentzon;2,90;53
+1075;1083;1053;Drayton McLane  Jr.;2,90;85
+1076;1090;1053;Benjamin Otto;2,90;64
+1077;931;1053;Roger Penske;2,90;85
+1078;1697;1053;Olivier Pomel;2,90;45
+1079;480;1053;Jean Salata;2,90;56
+1080;1300;1053;Arnout Schuijff;2,90;54
+1081;2801;1053;Shen Hua and family;2,90;59
+1082;1019;1053;Martua Sitorus;2,90;62
+1083;1559;1053;Zygmunt Solorz-Zak;2,90;65
+1084;939;1053;Warren Stephens;2,90;65
+1085;1419;1053;Tang Jinkui and family;2,90;66
+1086;1710;1053;Alan Trefler;2,90;66
+1087;1636;1053;Masateru Uno and family;2,90;75
+1088;980;1053;Frank VanderSloot;2,90;73
+1089;1162;1053;Guangming Wu;2,90;60
+1090;1427;1053;Kai Wu;2,90;54
+1091;1898;1053;Ye Fan and family;2,90;51
+1092;981;1053;Yoo Jung-hyun;2,90;52
+1093;2802;1053;Fenggang Zhao;2,90;56
+1094;1802;1053;Zheng Xiaodong;2,90;58
+1095;1066;1053;Zhou Jianping;2,90;61
+1096;1104;1096;Jose Joao Abdalla Filho;2,80;76
+1097;1272;1096;Brian Acton;2,80;50
+1098;1218;1096;Bill Alfond;2,80;73
+1099;1219;1096;Susan Alfond;2,80;76
+1100;1220;1096;Ted Alfond;2,80;77
+1101;1165;1096;Felix Baker;2,80;53
+1102;1166;1096;Julian Baker;2,80;55
+1103;905;1096;Karen Virginia Beckmann Legoretta;2,80;52
+1104;819;1096;Maurizio Billi;2,80;64
+1105;1276;1096;Otto Philipp Braun;2,80;44
+1106;1069;1096;Garrett Camp;2,80;43
+1107;1440;1096;Cao Ji;2,80;70
+1108;2803;1096;Hua Chen;2,80;56
+1109;1034;1096;John Paul DeJoria;2,80;77
+1110;1444;1096;Beda Diethelm;2,80;81
+1111;1321;1096;K. Dinesh;2,80;67
+1112;1593;1096;Dong Fan;2,80;52
+1113;882;1096;Bennett Dorrance;2,80;76
+1114;1279;1096;Marcel Erni;2,80;57
+1115;1119;1096;Abhay Firodia;2,80;77
+1116;1283;1096;Alfred Gantner;2,80;54
+1117;2804;1096;Allan Goldman;2,80;79
+1118;1529;1096;Amy Goldman Fowler;2,80;67
+1119;1240;1096;J. Tomilson Hill;2,80;73
+1120;687;1096;Hong Jie;2,80;54
+1121;1389;1096;James Jannard;2,80;72
+1122;705;1096;Travis Kalanick;2,80;45
+1123;1536;1096;Diane Kemper;2,80;76
+1124;1677;1096;George Kurtz;2,80;51
+1125;888;1096;Kwek Leng Beng;2,80;81
+1126;1131;1096;Geoffrey Kwok;2,80;36
+1127;2805;1096;Lai Jianping;2,80;64
+1128;1135;1096;Maritsa Lazari and family;2,80;77
+1129;1762;1096;Alexis Le-Quoc;2,80;47
+1130;1136;1096;Angela Leong;2,80;61
+1131;1247;1096;Lin Chen-hai;2,80;75
+1132;1196;1096;Sergio Mantegazza;2,80;94
+1133;1197;1096;Hans Melchers;2,80;83
+1134;777;1096;Tom Morris;2,80;67
+1135;1484;1096;Eugene Murtagh;2,80;79
+1136;1088;1096;Philip Niarchos;2,80;68
+1137;1145;1096;Pan Dong;2,80;57
+1138;1094;1096;Sean Parker;2,80;42
+1139;1147;1096;Richard Peery;2,80;83
+1140;1055;1096;Gregorio Perez Companc and family;2,80;86
+1141;1056;1096;Sebastian Pinera and family;2,80;72
+1142;1203;1096;Nicholas Pritzker;2,80;78
+1143;1151;1096;Jeff Rothschild;2,80;67
+1144;1205;1096;Steven Sarowitz;2,80;56
+1145;937;1096;Isabella Seragnoli;2,80;76
+1146;898;1096;Stephen Smith;2,80;70
+1147;1414;1096;William Stone;2,80;66
+1148;2806;1096;Sun Hongbin;2,80;59
+1149;1097;1096;Sun Shoukuan;2,80;72
+1150;1261;1096;Henry Sy  Jr.;2,80;69
+1151;1262;1096;Andrew Tan;2,80;70
+1152;1790;1096;Kenneth Tuchman;2,80;62
+1153;1099;1096;Tung Chee Hwa;2,80;84
+1154;1159;1096;Bulat Utemuratov;2,80;64
+1155;1212;1096;Anna Katharina Viessmann;2,80;64
+1156;1361;1096;Xicheng Wang and family;2,80;73
+1157;1307;1096;Urs Wietlisbach;2,80;60
+1158;1161;1096;Wong Man Li;2,80;57
+1159;1270;1096;Xie Weitong;2,80;65
+1160;2807;1096;Xu Chuanhua and family;2,80;87
+1161;1024;1096;Ye Xiaoping;2,80;59
+1162;2808;1096;Weiguo Zhao;2,80;55
+1163;1164;1163;Ben Ashkenazy;2,70;52
+1164;880;1163;Bill Austin;2,70;80
+1165;1520;1163;Pavel Baudis;2,70;61
+1166;1170;1163;Yvonne Bauer;2,70;45
+1167;906;1163;Giuliana Benetton;2,70;84
+1168;907;1163;Luciano Benetton;2,70;86
+1169;1372;1163;Aneel Bhusri;2,70;56
+1170;985;1163;George Bishop;2,70;84
+1171;1224;1163;Vivek Chand Burman;2,70;84
+1172;1317;1163;Morris Chang;2,70;90
+1173;2809;1163;Jinxia Chen;2,70;54
+1174;859;1163;Cho Jung-ho;2,70;63
+1175;1820;1163;Jack Cockwell;2,70;81
+1176;996;1163;Edward DeBartolo Jr.;2,70;75
+1177;1278;1163;Abilio dos Santos Diniz;2,70;85
+1178;1179;1163;John Dorrance  III.;2,70;78
+1179;2810;1163;Hailiang Feng;2,70;61
+1180;1452;1163;Xingjiang Gao;2,70;58
+1181;1001;1163;Carlos Hank Rhon;2,70;74
+1182;1004;1163;Vivek Jain;2,70;66
+1183;1244;1163;Brad Kelley;2,70;65
+1184;1187;1163;Alicia Koplowitz;2,70;68
+1185;1046;1163;Li Li;2,70;56
+1186;1198;1163;C. Dean Metropoulos;2,70;75
+1187;1143;1163;Dan Olsson;2,70;75
+1188;1294;1163;Tor Peterson;2,70;57
+1189;1255;1163;John Pritzker;2,70;68
+1190;619;1163;Hussain Sajwani;2,70;69
+1191;1098;1163;Tseng Cheng;2,70;60
+1192;1308;1163;Jerry Yang;2,70;53
+1193;904;1163;Takao Yasuda;2,70;72
+1194;1512;1163;Yu Qibing and family;2,70;56
+1195;2400;1163;Zhang Xuezheng;2,70;46
+1196;982;1196;Abdulla bin Ahmad Al Ghurair and family;2,60;64
+1197;1027;1196;Isak Andic and family;2,60;68
+1198;1110;1196;Harindarpal Banga;2,60;71
+1199;1112;1196;Anne Beaufour;2,60;58
+1200;1113;1196;Henri Beaufour;2,60;56
+1201;1653;1196;Sanjeev Bikhchandani;2,60;58
+1202;986;1196;Norman Braman;2,60;89
+1203;1374;1196;J. Hyatt Brown;2,60;84
+1204;1070;1196;Chen Lip Keong;2,60;74
+1205;790;1196;Jim Coulter;2,60;62
+1206;1924;1196;Federico De Nora;2,60;54
+1207;1378;1196;Dong Wei;2,60;51
+1208;1235;1196;Sandeep Engineer;2,60;60
+1209;2811;1196;Alceu Elias Feldmann;2,60;72
+1210;1118;1196;Frank Fertitta  III.;2,60;60
+1211;1076;1196;Lorenzo Fertitta;2,60;53
+1212;1280;1196;Doris Fisher;2,60;90
+1213;1238;1196;Alec Gores;2,60;69
+1214;2040;1196;Rajinder Gupta;2,60;63
+1215;689;1196;Igor Kesaev;2,60;55
+1216;2812;1196;Raj Kumar and Kishin RK;2,60;67
+1217;1246;1196;Li Hongxin and family;2,60;69
+1218;2070;1196;Liu Fangyi;2,60;52
+1219;1960;1196;Lu Zhongfang;2,60;79
+1220;1482;1196;Nirmal Minda;2,60;64
+1221;969;1196;Farhad Moshiri;2,60;66
+1222;1199;1196;Hans Georg Naeder;2,60;60
+1223;1254;1196;Eren Ozmen;2,60;63
+1224;1696;1196;Ronald Perelman;2,60;79
+1225;932;1196;Ravi Pillai;2,60;68
+1226;1295;1196;Daniel Pritzker;2,60;62
+1227;1299;1196;Matthias Reinhart;2,60;62
+1228;1204;1196;Alejandro Santo Domingo;2,60;45
+1229;843;1196;Vivek Chaand Sehgal;2,60;65
+1230;1412;1196;Kavitark Ram Shriram;2,60;65
+1231;1301;1196;Hans Sy;2,60;66
+1232;1302;1196;Herbert Sy;2,60;65
+1233;677;1196;Tahir and family;2,60;70
+1234;1504;1196;Wang Linpeng;2,60;53
+1235;1426;1196;David Wertheim;2,60;64
+1236;1268;1196;Oprah Winfrey;2,60;68
+1237;2814;1196;Xingming Zhu;2,60;55
+1238;1273;1238;Abdulla Al Futtaim and family;2,50;64
+1239;1106;1238;Suhail Bahwan;2,50;83
+1240;1111;1238;Ulrike Baro;2,50;64
+1241;1167;1238;David Baszucki;2,50;59
+1242;1222;1238;Thor Bjorgolfsson;2,50;55
+1243;1223;1238;Charles Bronfman;2,50;90
+1244;1585;1238;Chen Qiongxiang;2,50;64
+1245;1277;1238;Chen Tei-fu;2,50;73
+1246;2815;1238;Chuchat Petaumpai and Daonapa Petampai;2,50;69
+1247;1229;1238;Leon G. Cooperman;2,50;78
+1248;1073;1238;Smita Crishna-Godrej;2,50;71
+1249;1033;1238;Jacques D  Amours;2,50;65
+1250;1177;1238;Maria Del Pino;2,50;66
+1251;2816;1238;Yoichi and Keiko Erikawa;2,50;64
+1252;1281;1238;Gerald Ford;2,50;77
+1253;1078;1238;Adi Godrej;2,50;80
+1254;1079;1238;Jamshyd Godrej;2,50;73
+1255;1124;1238;Nadir Godrej;2,50;71
+1256;1457;1238;Sanjiv Goenka;2,50;61
+1257;1459;1238;Stein Erik Hagen;2,50;65
+1258;1041;1238;Donald Horton and family;2,50;72
+1259;1531;1238;Hu Yangzhong;2,50;57
+1260;1242;1238;Baba Kalyani;2,50;73
+1261;1334;1238;Stephen Lansdown;2,50;69
+1262;1191;1238;Mark Leonard and family;2,50;65
+1263;2068;1238;William Li;2,50;47
+1264;2071;1238;K.C. Liu;2,50;68
+1265;1048;1238;Liu Xiaodong;2,50;54
+1266;1544;1238;Aloke Lohia;2,50;63
+1267;804;1238;Mohamed Mansour;2,50;74
+1268;1339;1238;Kishore Mariwala;2,50;87
+1269;1291;1238;Jed McCaleb;2,50;47
+1270;2817;1238;Enhua Mi;2,50;64
+1271;1250;1238;Willy Michel;2,50;75
+1272;1251;1238;Lachhman Das Mittal;2,50;91
+1273;968;1238;Ravi Modi;2,50;45
+1274;1399;1238;Charles Munger;2,50;98
+1275;1087;1238;Rishad Naoroji;2,50;70
+1276;2818;1238;Yongpei Ni and family;2,50;70
+1277;1292;1238;Fatih Ozmen;2,50;64
+1278;1256;1238;Qiu Minxiu;2,50;76
+1279;1095;1238;Stewart Rahr;2,50;76
+1280;1406;1238;Prathap Reddy;2,50;90
+1281;1408;1238;Chad Richison;2,50;51
+1282;842;1238;Karin Sartorius-Herbst;2,50;64
+1283;1153;1238;Christiane Schoeller;2,50;64
+1284;1705;1238;Suh Kyung-bae;2,50;59
+1285;1157;1238;Glen Taylor;2,50;80
+1286;389;1238;Nadia Thiele;2,50;46
+1287;1792;1238;Wang Minwen;2,50;58
+1288;1430;1238;Huijiao Yu;2,50;56
+1289;1514;1238;Zhang Ning and family;2,50;48
+1290;1515;1238;Zhao Tao;2,50;56
+1291;1216;1238;Hongyi Zhou;2,50;51
+1292;2135;1292;Rajendra Agarwal;2,40;63
+1293;1368;1292;George Argyros and family;2,40;85
+1294;1274;1292;Edward Bass;2,40;76
+1295;2143;1292;Banwari Lal Bawri;2,40;69
+1296;2024;1292;Girdhari Lal Bawri;2,40;74
+1297;1318;1292;Chao Teng-hsiung;2,40;77
+1298;2819;1292;Zhisong Chen;2,40;56
+1299;1817;1292;Chey Tae-won;2,40;61
+1300;1071;1292;Choo Chong Ngen;2,40;68
+1301;950;1292;John Coates;2,40;52
+1302;1589;1292;Alexandra Daitch;2,40;59
+1303;2820;1292;Chetan Dube;2,40;56
+1304;1324;1292;Daniel Ek;2,40;39
+1305;1325;1292;John Fisher;2,40;60
+1306;1282;1292;Bernard Fraisse and family;2,40;65
+1307;1527;1292;William Franke;2,40;84
+1308;1601;1292;Caroline Hagen Kjos;2,40;38
+1309;1333;1292;Lam Kong;2,40;57
+1310;1133;1292;Hans Langer;2,40;70
+1311;1679;1292;Joe Lau;2,40;32
+1312;1335;1292;Kevin David Lehmann;2,40;19
+1313;1855;1292;Liang Qin and family;2,40;50
+1314;1194;1292;Peter Lim;2,40;68
+1315;1615;1292;Sarah MacMillan;2,40;68
+1316;1290;1292;Kalanithi Maran;2,40;56
+1317;1345;1292;Lirio Parisotto;2,40;68
+1318;1298;1292;Rajan Raheja and family;2,40;67
+1319;2821;1292;Alberto Roemmers;2,40;95
+1320;1060;1292;Rodney Sacks;2,40;72
+1321;1257;1292;Ferit Faik Sahenk;2,40;58
+1322;934;1292;Hilton Schlosberg;2,40;69
+1323;1353;1292;Alberto Siccardi and family;2,40;77
+1324;1154;1292;Salil Singhal;2,40;74
+1325;1632;1292;Lucy Stitzer;2,40;62
+1326;1562;1292;Otto Toto Sugiri;2,40;68
+1327;1416;1292;Harley Sy;2,40;62
+1328;1417;1292;Teresita Sy-Coson;2,40;71
+1329;1418;1292;Katsumi Tada;2,40;76
+1330;1355;1292;Tang Yiu;2,40;88
+1331;2000;1292;Jeff Tangney;2,40;49
+1332;1421;1292;Lottie Tham and family;2,40;72
+1333;1357;1292;T.Y. Tsai;2,40;69
+1334;979;1292;Timur Turlov;2,40;34
+1335;1503;1292;Hamdi Ulukaya;2,40;49
+1336;1266;1292;Peter Unger;2,40;77
+1337;1714;1292;Nikil Viswanathan;2,40;34
+1338;1890;1292;Anthony Wood;2,40;56
+1339;1645;1292;Zhang Hongwei;2,40;67
+1340;1724;1292;Zhang Li;2,40;69
+1341;2822;1341;Houshan Bai;2,30;58
+1342;1434;1341;Alex Beard;2,30;54
+1343;1275;1341;Koos Bekker;2,30;69
+1344;1438;1341;William Boyd and family;2,30;90
+1345;1316;1341;Timothy Boyle;2,30;72
+1346;1439;1341;Anand Burman;2,30;69
+1347;1173;1341;Richard Chandler;2,30;63
+1348;1656;1341;R.G. Chandramogan;2,30;73
+1349;2823;1341;Cho Young-sik;2,30;60
+1350;1320;1341;Chu Lam Yiu;2,30;52
+1351;1733;1341;Kommer Damen;2,30;78
+1352;1231;1341;Henry Davis;2,30;71
+1353;1176;1341;Ray Davis;2,30;80
+1354;752;1341;Stephen Feinberg;2,30;62
+1355;1037;1341;Kenneth Feld and family;2,30;73
+1356;1123;1341;Alexander Frolov;2,30;57
+1357;1528;1341;Mario Germano Giuliani;2,30;50
+1358;1237;1341;Serge Godin;2,30;72
+1359;1381;1341;Noam Gottesman;2,30;60
+1360;2824;1341;Philip and Cristina Green;2,30;70
+1361;1669;1341;Yusuf Hamied;2,30;85
+1362;1239;1341;Bill Haslam;2,30;63
+1363;1385;1341;Hans-Werner Hector;2,30;82
+1364;1939;1341;Ho Hung Anh;2,30;51
+1365;1462;1341;Douglas Hsu;2,30;79
+1366;1327;1341;Erman Ilicak;2,30;54
+1367;1841;1341;Zhaobai Jiang;2,30;58
+1368;1753;1341;Osman Kibar;2,30;51
+1369;1188;1341;Adam Kwok;2,30;39
+1370;1134;1341;Frank Laukien;2,30;62
+1371;1190;1341;Louis Le Duff;2,30;75
+1372;1393;1341;Solomon Lew;2,30;77
+1373;1541;1341;Liang Rubo;2,30;39
+1374;1542;1341;Liang Zhaoxian;2,30;57
+1375;1249;1341;Prayudh Mahagitsiri;2,30;76
+1376;1340;1341;Clayton Mathile;2,30;81
+1377;1051;1341;Erwin Franz Mueller;2,30;89
+1378;1343;1341;David Murdock;2,30;98
+1379;1971;1341;Rubens Ometto Silveira Mello;2,30;72
+1380;2825;1341;Erik Paulsson and family;2,30;80
+1381;1403;1341;Heloise Pratt;2,30;59
+1382;1297;1341;Qiu Jianping and family;2,30;60
+1383;839;1341;Dirk Rossmann and family;2,30;75
+1384;1700;1341;Karin Schick;2,30;64
+1385;1352;1341;Stephan Schmidheiny;2,30;74
+1386;1258;1341;Wenrong Shen;2,30;76
+1387;1020;1341;Guangxin Sun;2,30;59
+1388;2826;1341;Mengquan Sun and family;2,30;72
+1389;1158;1341;Thomas Tull;2,30;51
+1390;1305;1341;Ted Turner;2,30;83
+1391;1306;1341;David Walentas;2,30;83
+1392;2827;1341;Yingming Wu;2,30;55
+1393;2828;1341;Yingzhuo Xu;2,30;54
+1394;1366;1341;Christoph Zeller;2,30;64
+1395;1571;1341;Zhang Wanzhen;2,30;72
+1396;2829;1341;Xiaojuan Zhang;2,30;52
+1397;1519;1397;Michael Ashcroft;2,20;76
+1398;2830;1397;Alex Atallah;2,20;30
+1399;1373;1397;Brett Blundy;2,20;62
+1400;2831;1397;Chris Britt;2,20;49
+1401;1172;1397;Cen Junda;2,20;57
+1402;1230;1397;Yadu Hari Dalmia and family;2,20;74
+1403;2832;1397;Zhenggang Dou;2,20;68
+1404;2163;1397;Weimin Du;2,20;58
+1405;2833;1397;Devin Finzer;2,20;31
+1406;1122;1397;Robert Friedland;2,20;71
+1407;1666;1397;Phillip Frost;2,20;85
+1408;1382;1397;Jeffrey Gundlach;2,20;63
+1409;1530;1397;John Hancock;2,20;46
+1410;1326;1397;Georg Haub;2,20;60
+1411;1461;1397;Hortensia Herrero;2,20;71
+1412;1605;1397;B. Wayne Hughes  Jr.;2,20;61
+1413;1330;1397;Bruce Karsh;2,20;66
+1414;1537;1397;Shlomo Kramer;2,20;56
+1415;1132;1397;Jonathan Kwok;2,20;30
+1416;2834;1397;Christian Latouche;2,20;81
+1417;1539;1397;Martin Lau;2,20;49
+1418;1853;1397;Li Wa;2,20;56
+1419;1394;1397;Liang Xinjun;2,20;54
+1420;1473;1397;Lin Chang Su-O;2,20;81
+1421;1543;1397;Lin Fanlian;2,20;60
+1422;1767;1397;Lin Lairong and family;2,20;53
+1423;1476;1397;Daniel Lubetzky;2,20;53
+1424;1398;1397;Howard Marks;2,20;75
+1425;1547;1397;Craig McCaw;2,20;72
+1426;1139;1397;Vincent McMahon;2,20;76
+1427;1483;1397;Mu Rongjun;2,20;42
+1428;970;1397;Jonathan Nelson;2,20;65
+1429;1555;1397;Bianca Rinehart;2,20;45
+1430;1556;1397;Ginia Rinehart;2,20;35
+1431;1350;1397;Filiz Sahenk;2,20;55
+1432;1704;1397;S.D. Shibulal;2,20;67
+1433;1500;1397;Alexander Svetakov;2,20;54
+1434;900;1397;Jeffrey Talpins;2,20;47
+1435;2835;1397;Ming Tian;2,20;68
+1436;1263;1397;Arvind Tiku;2,20;52
+1437;1501;1397;Torsten Toeller;2,20;55
+1438;1711;1397;Riaz Valani;2,20;45
+1439;1712;1397;Pieter van der Does;2,20;52
+1440;1360;1397;Lang Walker;2,20;76
+1441;1566;1397;Hope Welker;2,20;36
+1442;1364;1397;Xie Bingkun and family;2,20;55
+1443;1567;1397;William Young;2,20;81
+1444;1573;1397;Zhou Jian;2,20;45
+1445;2836;1445;Bill and Jean Adderley and family;2,10;64
+1446;1517;1445;Mohamed Al Fayed;2,10;93
+1447;1649;1445;Faisal Bin Qassim Al Thani;2,10;74
+1448;1651;1445;Masaaki Arai;2,10;56
+1449;223;1445;Tatyana Bakalchuk;2,10;46
+1450;1313;1445;Lee Bass;2,10;65
+1451;1028;1445;Alberto Bombassei;2,10;81
+1452;1731;1445;Jim Breyer;2,10;60
+1453;909;1445;Ron Burkle;2,10;69
+1454;2837;1445;Chen Huwen;2,10;51
+1455;2838;1445;Chen Huxiong;2,10;51
+1456;2152;1445;Chen Xuehua;2,10;61
+1457;1441;1445;Bruce Cheng;2,10;86
+1458;951;1445;Ryan Cohen;2,10;36
+1459;1377;1445;Dermot Desmond;2,10;71
+1460;2840;1445;Fred Ehrsam;2,10;33
+1461;1737;1445;John Elkann;2,10;46
+1462;1449;1445;Bob Ell;2,10;77
+1463;2841;1445;Fang Xiaoliang and family;2,10;63
+1464;917;1445;Lindsay Fox;2,10;84
+1465;2292;1445;Gary Friedman;2,10;64
+1466;1453;1445;Gordon Getty;2,10;88
+1467;1455;1445;Dennis Gillings;2,10;77
+1468;1456;1445;Harsh Goenka;2,10;64
+1469;2842;1445;David Hains;2,10;91
+1470;1460;1445;Bahaa Hariri;2,10;55
+1471;1384;1445;Shmuel Harlap;2,10;77
+1472;1744;1445;Gerry Harvey;2,10;82
+1473;1603;1445;Reid Hoffman;2,10;54
+1474;1184;1445;Hou Juncheng;2,10;57
+1475;1388;1445;Thomas James;2,10;79
+1476;1847;1445;Eiichi Kuriwada;2,10;75
+1477;1288;1445;Kwek Leng Kee;2,10;67
+1478;1391;1445;Lai Shixian;2,10;47
+1479;1761;1445;Lau Cho Kun;2,10;86
+1480;2192;1445;Lee Hae-jin;2,10;54
+1481;1395;1445;Harald Link;2,10;67
+1482;1959;1445;Liu Xiucai and family;2,10;65
+1483;2843;1445;Yangyong Luo and family;2,10;46
+1484;1397;1445;Igor Makarov;2,10;60
+1485;1546;1445;Alexander Mamut;2,10;62
+1486;1687;1445;David Mindus;2,10;50
+1487;1144;1445;Yuji Otsuka;2,10;68
+1488;1551;1445;Clive Palmer;2,10;68
+1489;1620;1445;Ajay Parekh;2,10;64
+1490;1621;1445;Narendrakumar Parekh;2,10;83
+1491;2844;1445;Xiangdong Qi;2,10;51
+1492;2845;1445;Jianhua Ren;2,10;65
+1493;1410;1445;Alice Schwartz;2,10;95
+1494;1631;1445;Peter Sondakh;2,10;72
+1495;2234;1445;Song Fei;2,10;55
+1496;1496;1445;Timothy Springer;2,10;74
+1497;2846;1445;Suyu Su and family;2,10;73
+1498;1633;1445;Elizabeth Sy;2,10;69
+1499;1021;1445;Sukanto Tanoto;2,10;72
+1500;1358;1445;Jayshree Ullal;2,10;61
+1501;1022;1445;Sunny Varkey;2,10;64
+1502;1638;1445;Jitendra Virwani;2,10;56
+1503;1640;1445;Wang Ren-sheng;2,10;90
+1504;1424;1445;Wang Wenmo;2,10;65
+1505;1718;1445;Thomas Wu;2,10;72
+1506;1891;1445;Wu Ying;2,10;57
+1507;1720;1445;Amy Wyss;2,10;51
+1508;1894;1445;Xiang Guangming and family;2,10;58
+1509;1365;1445;Xu Shugen;2,10;56
+1510;1897;1445;Steven Meng Yang and family;2,10;39
+1511;1432;1445;Clayton Zekelman;2,10;53
+1512;1572;1445;Hongfei Zhao;2,10;47
+1513;1217;1513;S. Daniel Abraham;2,00;97
+1514;1906;1513;Aziz Akhannouch and family;2,00;61
+1515;1518;1513;Andrey Andreev;2,00;48
+1516;855;1513;Ramon Ang;2,00;68
+1517;2847;1513;Guilherme Benchimol;2,00;45
+1518;1578;1513;Julio Bozano;2,00;86
+1519;2415;1513;Ryan Breslow;2,00;27
+1520;1522;1513;Cao Jianwei;2,00;43
+1521;1225;1513;Herb Chambers;2,00;80
+1522;1443;1513;Daniel Chiu;2,00;61
+1523;1659;1513;Tim Cook;2,00;61
+1524;911;1513;Brunello Cucinelli and family;2,00;68
+1525;1447;1513;Georgi Domuschiev;2,00;49
+1526;1448;1513;Kiril Domuschiev;2,00;52
+1527;1116;1513;Glenn Dubin;2,00;64
+1528;1322;1513;James Duff;2,00;61
+1529;1323;1513;Thomas Duff;2,00;65
+1530;1664;1513;Robert Duggan;2,00;77
+1531;1526;1513;Maria Franca Fissolo;2,00;87
+1532;1928;1513;Fu Mingkang and family;2,00;59
+1533;1747;1513;Jay Hennick;2,00;65
+1534;2301;1513;Orion Hindawi;2,00;42
+1535;772;1513;Ji Qi;2,00;55
+1536;1754;1513;Kim Chang-soo;2,00;61
+1537;799;1513;Vyacheslav Kim;2,00;52
+1538;2848;1513;Kuan Kam Hon and family;2,00;74
+1539;1006;1513;Egor Kulkov;2,00;50
+1540;800;1513;Josh Kushner;2,00;36
+1541;1189;1513;Henry Laufer;2,00;76
+1542;2849;1513;Thomas Lee;2,00;78
+1543;2064;1513;Michael Lee-Chin;2,00;71
+1544;2850;1513;Li Xuhui;2,00;53
+1545;1338;1513;Lim Kok Thay;2,00;70
+1546;1682;1513;Joao Roberto Marinho;2,00;68
+1547;1683;1513;Jose Roberto Marinho;2,00;66
+1548;1684;1513;Roberto Irineu Marinho;2,00;74
+1549;1858;1513;Jim McKelvey;2,00;56
+1550;1617;1513;Robert Miller;2,00;88
+1551;1344;1513;David Nahmad;2,00;74
+1552;1487;1513;Florentino Perez;2,00;75
+1553;1622;1513;Jennifer Pritzker;2,00;71
+1554;1553;1513;Linda Pritzker;2,00;68
+1555;2220;1513;P.V. Ramprasad Reddy;2,00;64
+1556;1781;1513;Joe Rogers  Jr.;2,00;75
+1557;1782;1513;Ruan Shuilong and family;2,00;86
+1558;894;1513;Phil Ruffin;2,00;87
+1559;1699;1513;Vinod Saraf;2,00;69
+1560;1206;1513;Maria-Elisabeth Schaeffler-Thumann;2,00;80
+1561;1702;1513;Genhuo Shao;2,00;56
+1562;1703;1513;Shen Xiqiang and family;2,00;74
+1563;1630;1513;Shi Wen-long;2,00;94
+1564;1494;1513;Thaksin Shinawatra;2,00;72
+1565;1155;1513;Alexander Skorobogatko;2,00;54
+1566;1561;1513;Sylvia Stroeher;2,00;66
+1567;1564;1513;Wichai Thongtang;2,00;75
+1568;1715;1513;Todd Wagner;2,00;61
+1569;2244;1513;Wang Jianguo;2,00;62
+1570;2112;1513;Shuifu Wang;2,00;67
+1571;2851;1513;Wenbiao Wang;2,00;65
+1572;2852;1513;Kanye West;2,00;44
+1573;1716;1513;Evan Williams;2,00;50
+1574;1893;1513;Zhongyi Wu;2,00;48
+1575;2853;1513;Zhihan Xu;2,00;49
+1576;1721;1513;Yan Zhi;2,00;49
+1577;1511;1513;Michael Ying;2,00;72
+1578;2124;1513;Yuan Liping;2,00;51
+1579;1516;1579;Anu Aga;1,90;79
+1580;1067;1579;Joy Alukkas;1,90;65
+1581;1371;1579;Sezai Bacaksiz;1,90;72
+1582;2854;1579;Baokun Bai;1,90;52
+1583;856;1579;Acharya Balkrishna;1,90;49
+1584;2141;1579;Kiki Barki;1,90;82
+1585;2025;1579;John Bloor;1,90;78
+1586;1580;1579;Nicola Bulgari;1,90;81
+1587;1655;1579;Alejandro Bulgheroni;1,90;77
+1588;1732;1579;Chen Kaichen;1,90;64
+1589;1175;1579;Fernando Chico Pardo;1,90;70
+1590;2855;1579;Jose Luis Cutrale;1,90;75
+1591;1662;1579;D. Leopoldo Del Pino;1,90;59
+1592;1592;1579;James Dinan;1,90;62
+1593;1738;1579;Francois Feuillet and family;1,90;73
+1594;2856;1579;Guangming Fu and family;1,90;68
+1595;1740;1579;Mario Gabelli;1,90;80
+1596;2036;1579;Reinold Geiger;1,90;74
+1597;1937;1579;He Zhenggang;1,90;68
+1598;2857;1579;Roberto Hernandez Ramirez;1,90;80
+1599;2173;1579;Hoi Kin Hong;1,90;69
+1600;1533;1579;Huang Qiaoling;1,90;63
+1601;1390;1579;Willis Johnson;1,90;74
+1602;1752;1579;Keeree Kanjanapas;1,90;71
+1603;2858;1579;Kim Dae-il;1,90;42
+1604;2859;1579;Kim Hyoung-nyon;1,90;46
+1605;644;1579;Andrei Kozitsyn;1,90;61
+1606;1468;1579;Thomas Kwok;1,90;70
+1607;1763;1579;Lei Jufang;1,90;69
+1608;1613;1579;David Lichtenstein;1,90;60
+1609;1614;1579;Lin Dingqiang and family;1,90;55
+1610;776;1579;Mikhail Lomtadze;1,90;46
+1611;1477;1579;Melissa Ma;1,90;64
+1612;1771;1579;Yusaku Maezawa;1,90;46
+1613;1480;1579;Katarina Martinson;1,90;40
+1614;2860;1579;Shouliang Miao;1,90;67
+1615;1964;1579;Romano Minozzi;1,90;87
+1616;736;1579;Pedro Moreira Salles;1,90;62
+1617;1485;1579;Alexander Nesis;1,90;59
+1618;2212;1579;Nguyen Dang Quang;1,90;58
+1619;1550;1579;Oei Hong Leong;1,90;74
+1620;1693;1579;Nihat Ozdemir;1,90;72
+1621;2087;1579;Gretel Packer;1,90;56
+1622;1694;1579;Benjamin Zhengmin Pan and family;1,90;52
+1623;1488;1579;Victor Pinchuk;1,90;61
+1624;1202;1579;Alexander Ponomarenko;1,90;57
+1625;2862;1579;Qi Jinxing;1,90;60
+1626;1625;1579;Larry Robbins;1,90;52
+1627;1626;1579;Dwight Schar;1,90;80
+1628;1493;1579;Shi Yifeng;1,90;48
+1629;2505;1579;Sun Hongjun;1,90;48
+1630;2107;1579;Anand Surana;1,90;51
+1631;2108;1579;Dilip Surana;1,90;56
+1632;676;1579;Djoko Susanto;1,90;72
+1633;1707;1579;Sze Man Bok;1,90;72
+1634;1788;1579;Alain Taravella;1,90;74
+1635;1713;1579;Martin Viessmann;1,90;68
+1636;1359;1579;Georg von Opel;1,90;55
+1637;2863;1579;Changtian Wang;1,90;56
+1638;1639;1579;Wang Chaobin;1,90;66
+1639;1791;1579;Wang Chou-hsiong;1,90;81
+1640;2382;1579;Wang Xiaoshen;1,90;53
+1641;1507;1579;Wei Yin-Heng;1,90;63
+1642;1895;1579;Xue Xiangdong and family;1,90;63
+1643;1513;1579;Yuan Fugen and family;1,90;71
+1644;1800;1579;David Zalik;1,90;48
+1645;1650;1645;Leslie Alexander;1,80;78
+1646;854;1645;Igor Altushkin;1,80;51
+1647;1575;1645;Roberto Angelini Rossi;1,80;73
+1648;2022;1645;Nigel Austin;1,80;51
+1649;2864;1645;Bang Jun-hyuk;1,80;53
+1650;1654;1645;O. Francis Biondi;1,80;57
+1651;2865;1645;Chang Byung-gyu;1,80;48
+1652;2551;1645;Chang Kuo-Ming;1,80;64
+1653;2866;1645;Chen Gang;1,80;54
+1654;2426;1645;Liying Chen;1,80;46
+1655;1376;1645;Chen Xueli;1,80;70
+1656;1442;1645;Chi Yufeng;1,80;51
+1657;1660;1645;Mark Coombs;1,80;61
+1658;1821;1645;Tench Coxe;1,80;64
+1659;1661;1645;John de Mol;1,80;67
+1660;1826;1645;Alfredo Egydio Arruda Villela Filho;1,80;52
+1661;499;1645;Ibrahim Erdemoglu;1,80;59
+1662;2167;1645;Philip Fayer;1,80;64
+1663;1450;1645;Paul Foster;1,80;64
+1664;1665;1645;James France;1,80;77
+1665;1739;1645;Yasuhiro Fukushima;1,80;74
+1666;2867;1645;Zhongru Gan;1,80;73
+1667;2445;1645;Rahul Gautam;1,80;69
+1668;2037;1645;Ali Ghodsi;1,80;43
+1669;1831;1645;Giammaria Giuliani;1,80;44
+1670;1668;1645;Christopher Goldsbury;1,80;79
+1671;1743;1645;Alexandre Grendene Bartelle;1,80;72
+1672;1600;1645;Surjit Kumar Gupta;1,80;80
+1673;1670;1645;Brian Higgins;1,80;57
+1674;2455;1645;David Hindawi;1,80;77
+1675;2868;1645;Chengzhong Hu;1,80;61
+1676;1463;1645;Huang Min;1,80;48
+1677;1838;1645;Stanley Hubbard;1,80;88
+1678;1839;1645;Hui Lin Chit;1,80;68
+1679;1750;1645;Hal Jackman;1,80;89
+1680;1942;1645;Stephen Jarislowsky;1,80;96
+1681;2869;1645;Mark and Robyn Jones;1,80;64
+1682;2181;1645;George Joseph;1,80;100
+1683;2308;1645;Kim Kardashian;1,80;41
+1684;1609;1645;Dominika Kulczyk;1,80;44
+1685;1610;1645;Edward Lampert;1,80;59
+1686;1470;1645;Marc Lasry;1,80;61
+1687;2597;1645;Michiel Le Roux;1,80;72
+1688;1951;1645;Peter Leibinger;1,80;55
+1689;1952;1645;Regine Leibinger;1,80;59
+1690;1953;1645;Nicola Leibinger-Kammueller;1,80;62
+1691;1245;1645;Wolfgang Leitner;1,80;69
+1692;2871;1645;Liu Zhongtian and family;1,80;58
+1693;1545;1645;Bill Malhotra;1,80;72
+1694;2204;1645;Charlwin Mao;1,80;64
+1695;2205;1645;George Marcus;1,80;80
+1696;2206;1645;Yves-Loic Martin;1,80;56
+1697;1685;1645;Gary Michelson;1,80;73
+1698;1686;1645;Robert G. Miller;1,80;76
+1699;735;1645;Fernando Roberto Moreira Salles;1,80;75
+1700;691;1645;Joao Moreira Salles;1,80;60
+1701;692;1645;Walther Moreira Salles Junior;1,80;65
+1702;2872;1645;Zugen Ni;1,80;65
+1703;1861;1645;Liora Ofer;1,80;68
+1704;1775;1645;Mrudula Parekh;1,80;74
+1705;2090;1645;David Paul;1,80;55
+1706;1695;1645;Pierre Karl Peladeau;1,80;60
+1707;2873;1645;Miranda Qu;1,80;37
+1708;1405;1645;Phillip T. (Terry) Ragon;1,80;72
+1709;1623;1645;G. Rajendran;1,80;79
+1710;1698;1645;Krit Ratanarak;1,80;75
+1711;1407;1645;Jerry Reinsdorf;1,80;86
+1712;2095;1645;Mochtar Riady and family;1,80;92
+1713;1786;1645;Rajju Shroff;1,80;88
+1714;1989;1645;Frank Slootman;1,80;63
+1715;1415;1645;Henry Swieca;1,80;64
+1716;2001;1645;Yuequn Tao;1,80;62
+1717;2241;1645;Robert Toennies;1,80;43
+1718;718;1645;Torbjorn Tornqvist;1,80;68
+1719;2874;1645;Zhenghua Wang;1,80;77
+1720;1641;1645;Charlotte Colket Weber;1,80;79
+1721;1796;1645;Wu Lanlan and family;1,80;48
+1722;1892;1645;Wu Yulan;1,80;52
+1723;1509;1645;Elaine Wynn;1,80;79
+1724;2393;1645;Xu Shijun and family;1,80;59
+1725;1510;1645;Xu Xudong and family;1,80;52
+1726;1798;1645;Yang Xuegang;1,80;57
+1727;2125;1645;Zhang Chuanwei and family;1,80;59
+1728;2875;1645;Xuexin Zhang and family;1,80;74
+1729;1804;1729;Noubar Afeyan;1,70;59
+1730;2406;1729;Farkhad Akhmedov;1,70;66
+1731;1726;1729;Marc Andreessen;1,70;50
+1732;1314;1729;John Bicket;1,70;42
+1733;1915;1729;Zadik Bino and family;1,70;78
+1734;1811;1729;Alex Birkenstock;1,70;53
+1735;1812;1729;Christian Birkenstock;1,70;49
+1736;1315;1729;Sanjit Biswas;1,70;40
+1737;1730;1729;David Booth;1,70;76
+1738;1813;1729;Josef Boquoi and family;1,70;88
+1739;1917;1729;Saket Burman;1,70;45
+1740;2876;1729;Mingtong Cai;1,70;70
+1741;1816;1729;Chen Yung-tai;1,70;86
+1742;1587;1729;Manas Chiaravanond;1,70;64
+1743;1524;1729;Phongthep Chiaravanont;1,70;70
+1744;1818;1729;Ivan Chrenko;1,70;54
+1745;1590;1729;Sol Daurella;1,70;56
+1746;2877;1729;Dulce Pugliese de Godoy Bueno;1,70;74
+1747;1823;1729;Norbert Dentressangle;1,70;67
+1748;1232;1729;Oleg Deripaska;1,70;54
+1749;914;1729;Dong Jinggui;1,70;52
+1750;1736;1729;Keith Dunleavy and family;1,70;52
+1751;2878;1729;Donald Foss;1,70;77
+1752;1741;1729;Rolf Gerling;1,70;67
+1753;1931;1729;G. Gnanalingam;1,70;77
+1754;1745;1729;He Zhaoxi;1,70;48
+1755;1746;1729;William Heinecke;1,70;72
+1756;2879;1729;Huh Jae-myung;1,70;50
+1757;1840;1729;Tianjiang Jia and family;1,70;59
+1758;1535;1729;Michael Jordan;1,70;59
+1759;1186;1729;Dmitry Kamenshchik;1,70;53
+1760;2051;1729;Kim Taek-jin;1,70;55
+1761;1676;1729;Koo Kwang-mo;1,70;44
+1762;1849;1729;Anthony Langley;1,70;67
+1763;2475;1729;Lee Joong-keun;1,70;81
+1764;1764;1729;James Leininger;1,70;77
+1765;1336;1729;Li Haiyan;1,70;64
+1766;1954;1729;Li Jianli;1,70;49
+1767;2880;1729;Weiwei Li;1,70;45
+1768;2197;1729;Li Zhigang;1,70;45
+1769;1766;1729;Jimmy John Liautaud;1,70;58
+1770;1680;1729;Louise Lindh;1,70;42
+1771;1768;1729;Lu Di;1,70;64
+1772;1478;1729;Anand Mahindra;1,70;66
+1773;1963;1729;Bruce Mathieson;1,70;78
+1774;2881;1729;Billy Joe (Red) McCombs;1,70;94
+1775;2079;1729;Deepak Mehta;1,70;65
+1776;1966;1729;Mario Moretti Polegato and family;1,70;69
+1777;1774;1729;Alberto Palatchi;1,70;72
+1778;1974;1729;Nelson Peltz;1,70;79
+1779;1777;1729;Jorge Perez;1,70;72
+1780;1348;1729;Alberto Prada;1,70;68
+1781;1349;1729;Marina Prada;1,70;76
+1782;2094;1729;M.Satyanarayana Reddy;1,70;64
+1783;2096;1729;Rihanna;1,70;34
+1784;840;1729;Arkady Rotenberg;1,70;70
+1785;1208;1729;Dieter Schnabel;1,70;76
+1786;1870;1729;Shang Xiaobo and family;1,70;48
+1787;2882;1729;Shao Qinxiang;1,70;67
+1788;2883;1729;Renate Sick-Glaser;1,70;64
+1789;1988;1729;Basudeo Singh;1,70;81
+1790;1498;1729;Edward Stack;1,70;67
+1791;2884;1729;Weijie Sun;1,70;58
+1792;2511;1729;Vonnarat Tangkaravakoon;1,70;50
+1793;1264;1729;Byron Trott;1,70;63
+1794;2885;1729;Jan Van Geet;1,70;50
+1795;1423;1729;Radha Vembu;1,70;49
+1796;2886;1729;Patrizio Vinciarelli;1,70;75
+1797;2887;1729;Mingwang Wang;1,70;54
+1798;786;1729;Wang Yanqing and family;1,70;75
+1799;2518;1729;Lars Wingefors;1,70;45
+1800;1794;1729;Stephen Winn;1,70;75
+1801;1795;1729;Ian Wood and family;1,70;79
+1802;2010;1729;Gordon Wu;1,70;86
+1803;2524;1729;Wu Xiangdong;1,70;53
+1804;2122;1729;Yao Kuizhang;1,70;57
+1805;1799;1729;Vladimir Yevtushenkov;1,70;73
+1806;2889;1729;Dasheng Yi;1,70;61
+1807;1900;1729;Yu Lili;1,70;54
+1808;1723;1729;Alan Zekelman;1,70;59
+1809;2890;1729;Kaitian Zeng;1,70;47
+1810;1367;1729;Zhang Jingzhang and family;1,70;86
+1811;2891;1729;Zhang Yubai;1,70;57
+1812;2892;1729;Zheng Hong and family;1,70;71
+1813;2893;1729;Zhong Peifeng;1,70;59
+1814;2019;1729;Zhou Zongwen and family;1,70;65
+1815;2537;1729;Zhu Yiming;1,70;49
+1816;2894;1729;Zhaojiang Zhu;1,70;48
+1817;1646;1729;Anita Zucker;1,70;70
+1818;1806;1818;Herbert Allen  Jr. and family;1,60;82
+1819;1807;1818;Vasily Anisimov;1,60;70
+1820;1912;1818;Mori Arkin;1,60;69
+1821;983;1818;Semahat Sevim Arsel;1,60;93
+1822;1808;1818;Clifford Asness;1,60;55
+1823;1809;1818;Louis Bacon;1,60;65
+1824;2145;1818;Hari Bhartia;1,60;65
+1825;2146;1818;Shyam Bhartia;1,60;69
+1826;2027;1818;Amit Burman;1,60;52
+1827;881;1818;Chen Shibin;1,60;55
+1828;1815;1818;Chen Tianshi;1,60;37
+1829;1819;1818;Robert Clark;1,60;63
+1830;1923;1818;Ana Lucia de Mattos Barretto Villela;1,60;48
+1831;1663;1818;Diao Zhizhong;1,60;58
+1832;1824;1818;Jamie Dimon;1,60;66
+1833;1827;1818;Gary Fegel;1,60;48
+1834;2568;1818;Gao Yunfeng;1,60;55
+1835;1930;1818;Philippe Ginestet and family;1,60;68
+1836;1077;1818;Sebastian Glaser;1,60;64
+1837;1000;1818;Sam Goi;1,60;75
+1838;2038;1818;Lance Gokongwei;1,60;54
+1839;957;1818;Sergei Gordeev;1,60;49
+1840;1832;1818;Bill Gross;1,60;77
+1841;1833;1818;Sue Gross;1,60;72
+1842;1934;1818;Patrick Hanrahan;1,60;66
+1843;2895;1818;Lutz Mario Helmig;1,60;75
+1844;1748;1818;Ilkka Herlin;1,60;63
+1845;1749;1818;Asok Kumar Hiranandani;1,60;67
+1846;2896;1818;Hu Kunhui;1,60;31
+1847;1940;1818;Archie Hwang;1,60;69
+1848;1464;1818;Jared Isaacman;1,60;39
+1849;2177;1818;Anurang Jain;1,60;60
+1850;1674;1818;Jin Lei and family;1,60;67
+1851;2466;1818;Sunjay Kapur;1,60;50
+1852;1608;1818;Richard Kayne;1,60;76
+1853;1844;1818;Randal J. Kirk;1,60;68
+1854;1948;1818;Jim Koch;1,60;72
+1855;1845;1818;William Koch;1,60;81
+1856;2187;1818;Kagemasa Kozuki;1,60;81
+1857;2473;1818;Arvind Lal;1,60;72
+1858;1848;1818;Robert Langer;1,60;73
+1859;1472;1818;Theodore Leonsis;1,60;66
+1860;2897;1818;David Xueling Li;1,60;49
+1861;2194;1818;Li Denghai;1,60;72
+1862;2317;1818;Li Guoqing;1,60;52
+1863;1955;1818;Li Jiaquan;1,60;58
+1864;1956;1818;Li Rucheng;1,60;70
+1865;1852;1818;Li Sze Lim;1,60;65
+1866;2196;1818;Li Yongqing;1,60;57
+1867;2898;1818;Lim Wee Chai;1,60;64
+1868;2899;1818;Liu Aisen and family;1,60;49
+1869;2072;1818;Liu Ming Chung;1,60;59
+1870;1856;1818;Vincent Lo;1,60;73
+1871;2074;1818;Brandt Louie;1,60;78
+1872;1289;1818;Catherine Lozick;1,60;76
+1873;1961;1818;Lu Zongjun;1,60;58
+1874;2201;1818;Lv Jianming;1,60;57
+1875;2324;1818;Cargill MacMillan  III.;1,60;62
+1876;1770;1818;Duncan MacMillan;1,60;84
+1877;2325;1818;John MacMillan;1,60;72
+1878;2326;1818;Martha MacMillan;1,60;70
+1879;2327;1818;William MacMillan;1,60;67
+1880;1857;1818;Terence (Terry) Matthews;1,60;79
+1881;2213;1818;Kazuo Okada;1,60;79
+1882;1253;1818;Tomas Olivo Lopez;1,60;48
+1883;2900;1818;Jorge Pinheiro Koren de Lima;1,60;49
+1884;2901;1818;Candido Pinheiro Koren de Lima Junior;1,60;51
+1885;2346;1818;Qian Ying;1,60;56
+1886;2902;1818;Ren Jinsheng and family;1,60;59
+1887;1780;1818;Brian Roberts;1,60;62
+1888;2903;1818;Austin Russell;1,60;27
+1889;2612;1818;George Sakellaris;1,60;75
+1890;1983;1818;Sheryl Sandberg;1,60;52
+1891;1868;1818;Andres Santo Domingo;1,60;43
+1892;1783;1818;Paul Saville;1,60;66
+1893;2904;1818;Ivan Savvidis;1,60;63
+1894;2905;1818;Michael Saylor;1,60;57
+1895;2355;1818;Gerald Schwartz;1,60;80
+1896;2906;1818;Sathien Setthasit;1,60;67
+1897;2907;1818;Niraj Shah;1,60;48
+1898;1785;1818;Keiichi Shibahara;1,60;57
+1899;1872;1818;Evgeny (Eugene) Shvidler;1,60;58
+1900;1873;1818;Ryan Smith;1,60;43
+1901;1875;1818;Peter Sperling;1,60;62
+1902;2367;1818;Ion Stoica;1,60;57
+1903;1706;1818;Bambang Sutantio;1,60;63
+1904;2909;1818;Lili Tan;1,60;64
+1905;2509;1818;Tan Yu Yeh;1,60;51
+1906;2002;1818;David Teoh;1,60;66
+1907;901;1818;Carl Thoma;1,60;73
+1908;1565;1818;Ion Tiriac;1,60;82
+1909;2240;1818;Clemens Toennies;1,60;65
+1910;2004;1818;Tran Ba Duong and family;1,60;62
+1911;1880;1818;Tseng Sing-ai;1,60;64
+1912;2910;1818;Tung Ching Bor;1,60;59
+1913;2513;1818;Tung Ching Sai;1,60;57
+1914;1885;1818;Scott Watterson;1,60;66
+1915;1505;1818;Wei Ing-Chou;1,60;68
+1916;1506;1818;Wei Yin-Chun;1,60;65
+1917;1508;1818;Wei Ying-Chiao;1,60;67
+1918;1793;1818;Tom Werner;1,60;71
+1919;1717;1818;Kie Chie Wong;1,60;74
+1920;2121;1818;Xu Guozhong and family;1,60;58
+1921;2395;1818;Xu Yuejuan;1,60;60
+1922;2911;1818;Yang Tingdong;1,60;61
+1923;2123;1818;Yu Peidi;1,60;62
+1924;2398;1818;Matei Zaharia;1,60;36
+1925;817;1818;Zhang Jian;1,60;53
+1926;2912;1818;Keqiang Zhang;1,60;61
+1927;2129;1818;Zheng Jianjiang and family;1,60;61
+1928;2130;1818;Zhong Sheng Jian;1,60;64
+1929;2020;1929;Antti Aarnio-Wihuri;1,50;82
+1930;1907;1929;Hamdi Akin and family;1,50;67
+1931;2136;1929;Chirayu Amin;1,50;75
+1932;2913;1929;Joachim Ante;1,50;39
+1933;2139;1929;Ziv Aviram;1,50;63
+1934;2266;1929;Danna Azrieli;1,50;54
+1935;2267;1929;Naomi Azrieli;1,50;56
+1936;2268;1929;Sharon Azrieli;1,50;61
+1937;1728;1929;Lesley Bamberger;1,50;56
+1938;2271;1929;Bernhard Braun-Luedicke;1,50;45
+1939;2272;1929;Eva Maria Braun-Luedicke;1,50;35
+1940;2547;1929;Ana Maria Brescia Cafferata;1,50;97
+1941;1579;1929;Nikolai Buinov;1,50;54
+1942;1916;1929;Paolo Bulgari;1,50;84
+1943;2914;1929;Andres Bzurovski Bay;1,50;44
+1944;1918;1929;Ahmet Calik;1,50;64
+1945;2421;1929;Giuliana Caprotti;1,50;81
+1946;2422;1929;Marina Caprotti;1,50;44
+1947;2029;1929;Steve Case;1,50;63
+1948;1919;1929;Safra Catz;1,50;60
+1949;1657;1929;Binod Chaudhary;1,50;66
+1950;2424;1929;Chen Baohua;1,50;60
+1951;2915;1929;Xianbao Chen and family;1,50;62
+1952;2277;1929;Chung Yong-jin;1,50;53
+1953;2916;1929;Steve Conine;1,50;49
+1954;2157;1929;Eduardo Costantini;1,50;75
+1955;2158;1929;Wenjun Dai;1,50;53
+1956;1925;1929;Bharat Desai;1,50;69
+1957;1926;1929;Mohammed Dewji;1,50;46
+1958;2284;1929;Mathias Doepfner;1,50;59
+1959;1445;1929;Domenico Dolce;1,50;63
+1960;1735;1929;Marek Dospiva;1,50;52
+1961;1594;1929;Fritz Draexlmaier;1,50;64
+1962;2917;1929;Henrique Dubugras;1,50;26
+1963;1927;1929;Egon Durban;1,50;48
+1964;1595;1929;Bulent Eczacibasi;1,50;72
+1965;1596;1929;Faruk Eczacibasi;1,50;67
+1966;2435;1929;Henry Engelhardt;1,50;64
+1967;583;1929;Ali Erdemoglu;1,50;62
+1968;1597;1929;Eduardo Eurnekian;1,50;89
+1969;2034;1929;John Farber;1,50;96
+1970;2918;1929;Clement Fayat and family;1,50;90
+1971;2437;1929;Daniel Feffer;1,50;62
+1972;2289;1929;David Feffer;1,50;65
+1973;2438;1929;Ruben Feffer;1,50;52
+1974;2565;1929;Feng Yuxia;1,50;57
+1975;2919;1929;Sergio Fogel;1,50;58
+1976;2920;1929;Pedro Franceschi;1,50;25
+1977;1451;1929;Stefano Gabbana;1,50;59
+1978;2921;1929;Yi Gao and family;1,50;53
+1979;2922;1929;Geng Jianming;1,50;59
+1980;1929;1929;Alan Gerry;1,50;93
+1981;2294;1929;Balkrishan Goenka;1,50;55
+1982;1932;1929;Esther Grether;1,50;86
+1983;2923;1929;Gu Wei;1,50;57
+1984;2041;1929;Torstein Hagen;1,50;79
+1985;1935;1929;Kenneth Hao;1,50;53
+1986;2171;1929;He Zhiping;1,50;58
+1987;1835;1929;Timothy Headington;1,50;71
+1988;1836;1929;Ilona Herlin;1,50;57
+1989;1938;1929;Niranjan Hiranandani;1,50;72
+1990;2047;1929;Drew Houston;1,50;39
+1991;2924;1929;Huang Rulun;1,50;70
+1992;2925;1929;Matt Hulsizer;1,50;64
+1993;1328;1929;Justin Ishbia;1,50;44
+1994;1941;1929;Peter Jackson;1,50;60
+1995;2927;1929;Jin Lei;1,50;56
+1996;2179;1929;Jin Xin;1,50;55
+1997;2180;1929;Conni Jonsson;1,50;61
+1998;2928;1929;Jenny Just;1,50;54
+1999;1945;1929;Ke Xiping and family;1,50;61
+2000;2050;1929;Ke Zunhong and family;1,50;67
+2001;1947;1929;Sidney Kimmel;1,50;94
+2002;2186;1929;Seth Klarman;1,50;64
+2003;1129;1929;Mustafa Rahmi Koc;1,50;91
+2004;1846;1929;Pyotr Kondrashev;1,50;72
+2005;2592;1929;Kong Jian Min;1,50;54
+2006;2054;1929;Hemendra Kothari;1,50;75
+2007;2189;1929;Eduard Kucera;1,50;69
+2008;1758;1929;Christopher Kwok;1,50;36
+2009;1759;1929;Edward Kwok;1,50;41
+2010;1678;1929;Joe Lacob;1,50;66
+2011;1760;1929;Lai Jianfa;1,50;52
+2012;2474;1929;Manuel Lao Hernandez;1,50;77
+2013;2929;1929;Lee Joon-ho;1,50;57
+2014;2065;1929;Manfredi Lefebvre d  Ovidio and family;1,50;68
+2015;2067;1929;Li Jinyang;1,50;64
+2016;2930;1929;Li Ming;1,50;64
+2017;2320;1929;Zhen Li and family;1,50;58
+2018;2931;1929;Rongfu Lu;1,50;51
+2019;1479;1929;Rafique Malik;1,50;71
+2020;1962;1929;Youssef Mansour;1,50;76
+2021;2077;1929;Mao Lixiang and family;1,50;81
+2022;2078;1929;David McMurtry;1,50;81
+2023;1773;1929;Meng Qingshan and family;1,50;73
+2024;2333;1929;Alan Miller and family;1,50;84
+2025;1965;1929;Greg Mondre;1,50;47
+2026;1860;1929;Massimo Moratti;1,50;76
+2027;1967;1929;Robert Mouawad;1,50;77
+2028;1690;1929;Ezra Nahmad;1,50;76
+2029;2084;1929;Tadako Nakatani;1,50;64
+2030;1619;1929;Kentaro Ogawa;1,50;73
+2031;2339;1929;Jonathan Oringer;1,50;47
+2032;2086;1929;Niti Osathanugrah;1,50;48
+2033;1776;1929;Dragos Paval;1,50;55
+2034;2932;1929;Zach Perret;1,50;34
+2035;1976;1929;Karl-Johan Persson;1,50;47
+2036;2342;1929;Markus Persson;1,50;42
+2037;2091;1929;Tom Persson;1,50;37
+2038;2492;1929;Kevin Plank;1,50;49
+2039;1863;1929;Andreas Pohl;1,50;57
+2040;1864;1929;Reinfried Pohl  Jr.;1,50;62
+2041;1865;1929;Michael Polsky;1,50;73
+2042;2093;1929;Qin Long;1,50;56
+2043;2219;1929;G. M. Rao;1,50;71
+2044;1977;1929;Mike Repole;1,50;54
+2045;2222;1929;Fernando Roig;1,50;74
+2046;1981;1929;Christopher Rokos;1,50;51
+2047;2933;1929;Fayez Sarofim;1,50;93
+2048;2356;1929;Antonio Luiz Seabra;1,50;79
+2049;1984;1929;Amnon Shashua;1,50;61
+2050;1871;1929;Yuri Shefler;1,50;54
+2051;635;1929;Mikhail Shelkov;1,50;53
+2052;2106;1929;Charlotte Soderstrom;1,50;45
+2053;2361;1929;Edwin Soeryadjaya;1,50;72
+2054;1992;1929;Thomas Steyer;1,50;64
+2055;1995;1929;Kevin Systrom;1,50;38
+2056;1997;1929;Tang Binsen;1,50;39
+2057;2934;1929;Hary Tanoesoedibjo;1,50;56
+2058;1789;1929;Jonathan Tisch;1,50;68
+2059;2109;1929;Wilma Tisch;1,50;94
+2060;2005;1929;Kenny Troutt;1,50;74
+2061;2379;1929;Thomas von Koch;1,50;56
+2062;2245;1929;Junjin Wang;1,50;53
+2063;2114;1929;Wang Zelong;1,50;25
+2064;2248;1929;Myron Wentz;1,50;82
+2065;2935;1929;Kaiting Wu;1,50;52
+2066;2011;1929;Xiong Wu;1,50;46
+2067;2936;1929;Xu Wanmao;1,50;77
+2068;2012;1929;Xu Zhenhua;1,50;64
+2069;2527;1929;Xue Jiping;1,50;71
+2070;2937;1929;Yang Jian;1,50;50
+2071;2016;1929;Justin Yuan;1,50;64
+2072;2128;1929;Xinghai Zhang and family;1,50;59
+2073;2938;1929;Xuansong Zhang;1,50;50
+2074;2401;1929;Zhang Yin;1,50;65
+2075;2939;1929;Chengjian Zhou;1,50;56
+2076;2940;2076;Radhe Shyam Agarwal;1,40;77
+2077;1805;2076;Syed Mokhtar AlBukhary;1,40;70
+2078;1908;2076;Nerio Alessandri;1,40;60
+2079;1911;2076;Patricia Angelini Rossi;1,40;68
+2080;2264;2076;Tope Awotona;1,40;40
+2081;2142;2076;Elena Baturina;1,40;59
+2082;1652;2076;Sabrina Benetton;1,40;48
+2083;2416;2076;Thomas Bruch;1,40;71
+2084;2417;2076;Marina Budiman;1,40;60
+2085;2147;2076;Stewart Butterfield;1,40;49
+2086;2151;2076;Richard Chang;1,40;75
+2087;2941;2076;Chen Tianqiao;1,40;48
+2088;2030;2076;Chen Wenyuan and family;1,40;54
+2089;2557;2076;Cheng Antares;1,40;64
+2090;2154;2076;Chin Jong Hwa;1,40;63
+2091;2430;2076;Cho Jyh-jer;1,40;64
+2092;1822;2076;Jim Crane;1,40;68
+2093;2942;2076;Thierry Cruanes;1,40;54
+2094;2562;2076;Benoit Dageville;1,40;55
+2095;2431;2076;Weili Dai;1,40;60
+2096;2278;2076;Darwin Deason;1,40;81
+2097;2279;2076;Diego Della Valle;1,40;68
+2098;2433;2076;Deng Yingzhong;1,40;71
+2099;2282;2076;Ding Shui Po;1,40;51
+2100;2563;2076;Mark Dixon;1,40;62
+2101;2943;2076;Du Shuanghua;1,40;57
+2102;2944;2076;Mukand Lal Dua;1,40;73
+2103;2945;2076;Ramesh Kumar Dua;1,40;68
+2104;2946;2076;Fan Minhua;1,40;60
+2105;2947;2076;Hongbo Fang;1,40;55
+2106;1828;2076;William Foley  II.;1,40;77
+2107;1667;2076;Jayme Garfinkel and family;1,40;76
+2108;2949;2076;Radhe Shyam Goenka;1,40;76
+2109;2950;2076;Maggie Hardy Knox;1,40;56
+2110;2042;2076;Ayman Hariri;1,40;43
+2111;2045;2076;Christoph Henkel;1,40;64
+2112;2046;2076;Daniel Hirschfeld;1,40;80
+2113;2951;2076;William Hockey;1,40;32
+2114;2303;2076;Huang Guanlin;1,40;57
+2115;2457;2076;Huang Xiaofen and family;1,40;60
+2116;1241;2076;Jay-Z;1,40;52
+2117;1672;2076;Yintai Jiang and family;1,40;71
+2118;2583;2076;Johan Johannson;1,40;55
+2119;1944;2076;Ramesh Juneja;1,40;66
+2120;1607;2076;Scott Kapnick;1,40;63
+2121;540;2076;Viktor Kharitonin;1,40;49
+2122;1946;2076;Kim Jun-ki;1,40;77
+2123;2953;2076;Kim Sang-yeol;1,40;61
+2124;2312;2076;Christine Knauf;1,40;64
+2125;2313;2076;Karl Knauf;1,40;64
+2126;2472;2076;Yogesh Kothari;1,40;73
+2127;2954;2076;Kurt Krieger;1,40;74
+2128;1757;2076;Mustafa Kucuk;1,40;58
+2129;2055;2076;Sebastian Kulczyk;1,40;41
+2130;2191;2076;Gary Lauder;1,40;59
+2131;2193;2076;Art Levinson;1,40;72
+2132;1046;2076;Li Li;1,40;58
+2133;2321;2076;Guangwei Liang;1,40;58
+2134;1958;2076;Scott Lin;1,40;89
+2135;2069;2076;Jenny Linden Urnes;1,40;51
+2136;2073;2076;Anatoly Lomakin;1,40;69
+2137;2481;2076;Jeffrey Lorberbaum;1,40;67
+2138;2076;2076;Gary Magness;1,40;68
+2139;2955;2076;Zhongwu Mao;1,40;59
+2140;1772;2076;Ilson Mateus and family;1,40;59
+2141;1342;2076;Vadim Moshkovich;1,40;54
+2142;1968;2076;Jerry Moyes and family;1,40;78
+2143;2956;2076;George Alexander Muthoot;1,40;66
+2144;2957;2076;George Jacob Muthoot;1,40;69
+2145;2958;2076;George Thomas Muthoot;1,40;71
+2146;2959;2076;Sara George Muthoot;1,40;61
+2147;2083;2076;Marius Nacht;1,40;56
+2148;1400;2076;Adam Neumann;1,40;43
+2149;1618;2076;Simon Nixon;1,40;54
+2150;1970;2076;Stefan Olsson;1,40;73
+2151;1092;2076;Ranjan Pai;1,40;49
+2152;2491;2076;Antonio Percassi;1,40;68
+2153;2343;2076;Mark Pincus;1,40;56
+2154;1058;2076;Alexey Repik;1,40;42
+2155;2497;2076;Matthew Roszak;1,40;49
+2156;2098;2076;Subhash Runwal;1,40;78
+2157;2100;2076;Carlos Sanchez;1,40;60
+2158;2101;2076;Martin Selig;1,40;84
+2159;1558;2076;Bhadresh Shah;1,40;70
+2160;1627;2076;Shao Jianxiong;1,40;64
+2161;1495;2076;Shu Ping;1,40;52
+2162;1985;2076;Ben Silbermann;1,40;39
+2163;2105;2076;Jared Smith;1,40;47
+2164;2960;2076;Sun Qinghuan;1,40;48
+2165;2961;2076;Denis Sverdlov;1,40;43
+2166;1999;2076;Prachak Tangkaravakoon;1,40;78
+2167;2373;2076;Lina Tombolato;1,40;74
+2168;2962;2076;Tong Jinquan;1,40;67
+2169;2963;2076;Luiza Helena Trajano;1,40;70
+2170;2242;2076;John Van Lieshout;1,40;76
+2171;1637;2076;Vardis Vardinoyannis and family;1,40;89
+2172;2006;2076;Jens von Bahr;1,40;51
+2173;2380;2076;Wang Fuji;1,40;64
+2174;2964;2076;Wang Jian;1,40;68
+2175;2115;2076;Werner O. Weber;1,40;83
+2176;2247;2076;Wei Lidong and family;1,40;46
+2177;2384;2076;Drorit Wertheim;1,40;66
+2178;2118;2076;Bo Wu;1,40;67
+2179;2388;2076;Eugene Wu;1,40;76
+2180;2250;2076;Wu Xushun and family;1,40;73
+2181;2391;2076;Wenbo Xiang;1,40;59
+2182;2120;2076;Swift Xie;1,40;42
+2183;1797;2076;Xu Bingzhong;1,40;48
+2184;2252;2076;Xu Shaochun;1,40;59
+2185;2634;2076;Yan Junxu;1,40;52
+2186;1896;2076;George Yancopoulos;1,40;62
+2187;2965;2076;Gavril Yushvaev;1,40;64
+2188;2539;2076;Zhuo Jun;1,40;56
+2189;1904;2076;Fredrik Oesterberg;1,40;51
+2190;2021;2190;Alberto Alcocer;1,30;79
+2191;1909;2190;Alexandra Andresen;1,30;25
+2192;1910;2190;Katharina Andresen;1,30;26
+2193;2966;2190;Rutger Arnhult;1,30;54
+2194;2967;2190;Anant Asavabhokin;1,30;71
+2195;2265;2190;Mehmet Aydinlar;1,30;65
+2196;2023;2190;Binny Bansal;1,30;39
+2197;2140;2190;Sachin Bansal;1,30;40
+2198;1913;2190;Barbara Benetton;1,30;52
+2199;2144;2190;Othman Benjelloun and family;1,30;89
+2200;1914;2190;Angela Bennett;1,30;78
+2201;2414;2190;Oleg Boyko;1,30;57
+2202;2543;2190;Anna Maria Braun;1,30;43
+2203;2550;2190;Edouard Carmignac;1,30;74
+2204;2149;2190;Anthony Casalena;1,30;39
+2205;2423;2190;Chang Jing;1,30;39
+2206;2274;2190;Jeffrey Cheah;1,30;77
+2207;2554;2190;Chen Shiliang;1,30;58
+2208;2556;2190;Yuantai Chen;1,30;54
+2209;2276;2190;Cheng Xianfeng;1,30;53
+2210;1921;2190;Chu Jian;1,30;59
+2211;2031;2190;Chua Thian Poh;1,30;73
+2212;2156;2190;Alberto Cortina;1,30;76
+2213;1922;2190;Sandor Csanyi;1,30;69
+2214;2032;2190;Sasson Dayan and family;1,30;82
+2215;2159;2190;Anand Deshpande;1,30;59
+2216;2281;2190;Richard Desmond;1,30;70
+2217;2434;2190;Shlomo Eliahu;1,30;86
+2218;2286;2190;Jose Roberto Ermirio de Moraes;1,30;64
+2219;2287;2190;Jose Ermirio de Moraes Neto;1,30;69
+2220;2968;2190;David Fattal and family;1,30;64
+2221;2168;2190;Marvy Finger;1,30;86
+2222;2969;2190;Adam Foroughi;1,30;41
+2223;1829;2190;Richard Fortin;1,30;73
+2224;2970;2190;Luiz Frias;1,30;58
+2225;2971;2190;Susumu Fujita;1,30;48
+2226;2169;2190;Simona Giorgetta;1,30;44
+2227;2972;2190;Premchand Godha;1,30;75
+2228;2973;2190;Mikhail Gutseriev and brother;1,30;64
+2229;2573;2190;Hang Hong;1,30;54
+2230;2043;2190;Alfredo Harp Helu and family;1,30;78
+2231;1936;2190;Jaroslav Hascak and family;1,30;52
+2232;2452;2190;He Zuxun;1,30;56
+2233;1837;2190;David Hoffmann;1,30;69
+2234;2974;2190;Francis Holder;1,30;81
+2235;1604;2190;Hu Rongda and family;1,30;63
+2236;1671;2190;Wei Huang;1,30;62
+2237;1042;2190;Zarakh Iliev;1,30;55
+2238;2176;2190;Mitchell Jacobson;1,30;71
+2239;2178;2190;Jiang Guiting and family;1,30;63
+2240;1943;2190;Rajeev Juneja;1,30;56
+2241;2975;2190;Peter Kelly;1,30;64
+2242;2976;2190;Kim Nam-jung;1,30;49
+2243;2977;2190;Koon Poh Ming;1,30;65
+2244;2978;2190;Yuri Kovalchuk;1,30;70
+2245;2188;2190;Michael Krasny;1,30;68
+2246;2062;2190;Raymond Kwok;1,30;68
+2247;1538;2190;Heikki Kyostila;1,30;76
+2248;2063;2190;Lee Ho-jin;1,30;59
+2249;2066;2190;Bernard Lewis and family;1,30;96
+2250;2195;2190;Fengluan Li;1,30;60
+2251;1337;2190;Hua Li;1,30;44
+2252;2319;2190;Li Ruiqiang;1,30;42
+2253;2479;2190;Lin Zhijun;1,30;46
+2254;2480;2190;Lin Zhixiong and family;1,30;48
+2255;2322;2190;Liu Ming Hui;1,30;59
+2256;2979;2190;Xuejing Liu and family;1,30;71
+2257;2601;2190;Lu Yonghua and family;1,30;58
+2258;2980;2190;Zhaoxi Lu;1,30;53
+2259;2323;2190;Frederic Luddy;1,30;67
+2260;2081;2190;Miao Yongjun;1,30;54
+2261;2209;2190;Martin Moller Nielsen;1,30;57
+2262;2335;2190;Neide Helena de Moraes;1,30;67
+2263;2082;2190;Yoshiko Mori;1,30;81
+2264;1689;2190;Mofatraj Munot;1,30;77
+2265;2211;2190;Randal Nardone;1,30;66
+2266;1053;2190;God Nisanov;1,30;49
+2267;2085;2190;Vadim Novinsky;1,30;58
+2268;1691;2190;Satyanarayan Nuwal;1,30;69
+2269;1969;2190;John Ocampo;1,30;63
+2270;2981;2190;Pan Gang;1,30;51
+2271;2345;2190;Forrest Preston;1,30;89
+2272;2982;2190;Riju Raveendran;1,30;39
+2273;1491;2190;P.P. Reddy;1,30;64
+2274;2983;2190;P.V.Krishna Reddy;1,30;52
+2275;2221;2190;Satish Reddy;1,30;54
+2276;2984;2190;Lily Safra;1,30;84
+2277;1492;2190;Richard Saghian;1,30;40
+2278;2225;2190;Deniz Sahenk;1,30;76
+2279;2352;2190;Thomas Sandell;1,30;61
+2280;2227;2190;Hajime Satomi;1,30;80
+2281;2228;2190;James Scapa;1,30;65
+2282;2498;2190;Paul Sciarra;1,30;41
+2283;2231;2190;Albert Shigaboutdinov;1,30;69
+2284;2104;2190;Nobutoshi Shimamura;1,30;96
+2285;1986;2190;Ron Sim;1,30;63
+2286;2359;2190;Alexander Sixt;1,30;42
+2287;2360;2190;Konstantin Sixt;1,30;39
+2288;1990;2190;Terry Snow;1,30;78
+2289;2364;2190;Marco Squinzi;1,30;50
+2290;2365;2190;Veronica Squinzi;1,30;50
+2291;2504;2190;Manny Stul;1,30;72
+2292;2239;2190;Rustem Sulteev;1,30;68
+2293;2507;2190;Sehat Sutardja;1,30;60
+2294;2370;2190;Tony Tan Caktiong;1,30;69
+2295;1708;2190;Jim Thompson;1,30;82
+2296;2003;2190;Carmen Thyssen;1,30;78
+2297;1879;2190;August Troendle;1,30;66
+2298;2375;2190;Joop van den Ende;1,30;80
+2299;1881;2190;Sekar Vembu;1,30;50
+2300;2377;2190;Sandro Veronesi and family;1,30;62
+2301;2516;2190;Wan Long;1,30;81
+2302;2985;2190;Han Wang;1,30;34
+2303;2986;2190;Wang Jianyi;1,30;59
+2304;2987;2190;Wang Qinghua;1,30;56
+2305;2988;2190;Pengcheng Wen and family;1,30;59
+2306;2117;2190;Alfred West  Jr.;1,30;79
+2307;1886;2190;Dan Wilks;1,30;65
+2308;2009;2190;Farris Wilks;1,30;70
+2309;2989;2190;Gang Xu;1,30;58
+2310;2392;2190;Xu Jin;1,30;57
+2311;2990;2190;Tony Xu;1,30;37
+2312;2991;2190;Ye Yanqiao;1,30;52
+2313;2992;2190;Patrick Zalupski;1,30;41
+2314;2993;2190;Shengda Zan;1,30;59
+2315;2254;2190;Zeng Chaoyi;1,30;53
+2316;2639;2190;Zhang Guiping and family;1,30;70
+2317;2255;2190;Peng Zhao;1,30;51
+2318;2994;2190;Zheng Zhiguo;1,30;50
+2319;2257;2190;Kostyantin Zhevago;1,30;48
+2320;2995;2190;Zhou Mingjie;1,30;64
+2321;2404;2190;Zhu Xingliang;1,30;62
+2322;1574;2190;Zhu Yiwen and family;1,30;64
+2323;2258;2190;Zong Yanmin;1,30;64
+2324;2259;2324;Sanjay Agarwal;1,20;51
+2325;2260;2324;Hamad bin Jassim bin Jaber Al Thani;1,20;62
+2326;2996;2324;Betty Ang;1,20;67
+2327;2541;2324;Christian Angermayer;1,20;43
+2328;1576;2324;Mika Anttonen;1,20;55
+2329;2262;2324;Jose Maria Aristrain;1,20;59
+2330;2997;2324;Emilio Azcarraga Jean;1,20;54
+2331;2270;2324;Thomas Bailey;1,20;85
+2332;1114;2324;Andrei Bokarev;1,20;55
+2333;2413;2324;Stephane Bonvin;1,20;55
+2334;2998;2324;Ashok Boob;1,20;70
+2335;2546;2324;Ludwig Theodor Braun;1,20;32
+2336;2273;2324;Friederike Braun-Luedicke;1,20;38
+2337;2418;2324;Pradip Burman;1,20;79
+2338;2419;2324;Cai Hongbin;1,20;64
+2339;2999;2324;Chang Kuo-Cheng;1,20;64
+2340;3000;2324;Jiancheng Chen;1,20;63
+2341;2428;2324;Chen Xueling;1,20;54
+2342;2429;2324;Cheng Lili;1,20;57
+2343;3001;2324;Yvon Chouinard;1,20;83
+2344;3002;2324;Luigi Cremonini and family;1,20;82
+2345;3003;2324;Tim Draper;1,20;63
+2346;3004;2324;Fan Zhaoxia and family;1,20;54
+2347;2439;2324;Gleb Fetisov;1,20;55
+2348;2441;2324;Robert Fisher;1,20;68
+2349;2567;2324;William Fisher;1,20;65
+2350;2035;2324;J. Christopher Flowers;1,20;64
+2351;2442;2324;Bernd Freier;1,20;65
+2352;3005;2324;Geng Diangen;1,20;65
+2353;2293;2324;Dan Gertler;1,20;48
+2354;3006;2324;David Girouard;1,20;56
+2355;1742;2324;John Goff;1,20;67
+2356;2295;2324;Lawrence Golub;1,20;62
+2357;2570;2324;Sven Hagstroemer;1,20;78
+2358;2298;2324;Fahed Hariri;1,20;41
+2359;2299;2324;Richard Hayne;1,20;74
+2360;2574;2324;He Yamin and family;1,20;65
+2361;2300;2324;Michael Heine;1,20;72
+2362;2172;2324;Heikki Herlin;1,20;35
+2363;2576;2324;Hong Feng;1,20;45
+2364;3007;2324;Hu Kun;1,20;52
+2365;3008;2324;Huang Hongyun and family;1,20;55
+2366;3009;2324;Shanbing Huang and family;1,20;65
+2367;3010;2324;Huang Shih Tsai;1,20;70
+2368;3011;2324;Huang Wenbiao;1,20;54
+2369;2305;2324;Mohammed Ibrahim;1,20;75
+2370;2580;2324;Hedda im Brahm-Droege;1,20;67
+2371;2049;2324;Rameshchandra Jain;1,20;73
+2372;2182;2324;Laurent Junique;1,20;56
+2373;2183;2324;Zbigniew Juroszek and family;1,20;59
+2374;2460;2324;Chatchai Kaewbootta;1,20;70
+2375;2306;2324;Shirley Kao;1,20;65
+2376;1043;2324;Ipek Kirac;1,20;37
+2377;2469;2324;Carsten Koerl;1,20;57
+2378;2471;2324;Andrei Kosogov;1,20;61
+2379;3012;2324;John Krystynak;1,20;53
+2380;3013;2324;John Kusuma;1,20;55
+2381;3014;2324;Hartono Kweefanus;1,20;72
+2382;2061;2324;Kwek Leng Peck;1,20;66
+2383;2190;2324;Kristo Kaeaermann;1,20;41
+2384;2315;2324;Guy Laliberte;1,20;62
+2385;3015;2324;Lee Sang-ryul;1,20;60
+2386;3016;2324;Lee Seung-gun;1,20;40
+2387;3017;2324;Hongjing Li;1,20;54
+2388;2598;2324;Li Wanqiang;1,20;44
+2389;2200;2324;Lu Hongyan;1,20;44
+2390;3018;2324;Dalong Lv;1,20;60
+2391;2207;2324;Carsten Maschmeyer;1,20;62
+2392;3019;2324;Todd McKinnon;1,20;50
+2393;3020;2324;Rubens Menin Teixeira de Souza;1,20;66
+2394;2331;2324;Lorinc Meszaros;1,20;56
+2395;2334;2324;Ulrich Mommert and family;1,20;81
+2396;3021;2324;Park Kwan-ho;1,20;50
+2397;3022;2324;George Pedersen;1,20;86
+2398;1975;2324;David Penaloza Alanis;1,20;48
+2399;1862;2324;Stefan Pierer;1,20;65
+2400;2344;2324;Murdaya Poo;1,20;81
+2401;3024;2324;Michael Price;1,20;69
+2402;1489;2324;Leonid Radvinsky;1,20;40
+2403;3025;2324;Megdet Rahimkulov and family;1,20;76
+2404;2348;2324;Andrei Rappoport;1,20;58
+2405;3026;2324;Dasari Uday Kumar Reddy;1,20;54
+2406;2496;2324;Helena Revoredo;1,20;75
+2407;1978;2324;Duke Reyes;1,20;65
+2408;2226;2324;Nobutada Saji;1,20;76
+2409;1207;2324;Leonard Schleifer;1,20;69
+2410;2102;2324;Airat Shaimiev;1,20;60
+2411;2103;2324;Radik Shaimiev;1,20;57
+2412;3027;2324;Vijay Shekhar Sharma;1,20;43
+2413;2230;2324;Devi Shetty;1,20;69
+2414;3028;2324;Shum Chiu Hung and family;1,20;52
+2415;2366;2324;Michael Steinhardt;1,20;81
+2416;2616;2324;Petter Stordalen and family;1,20;59
+2417;3029;2324;Winarko Sulistyo;1,20;76
+2418;1787;2324;Sun Huaiqing and family;1,20;52
+2419;2369;2324;Luc Tack;1,20;60
+2420;1303;2324;Lucio Tan;1,20;87
+2421;3030;2324;Yoshikazu Tanaka;1,20;45
+2422;3031;2324;Stanley Tang;1,20;29
+2423;2372;2324;Sam Tarascio;1,20;77
+2424;3032;2324;Alexander Tedja;1,20;76
+2425;1876;2324;Laurie Tisch;1,20;71
+2426;1877;2324;Steven Tisch;1,20;73
+2427;3033;2324;Stefania Triva;1,20;57
+2428;3034;2324;Maria Grace Uy;1,20;53
+2429;3035;2324;Wim van der Leegte;1,20;74
+2430;2378;2324;Thongma Vijitpongpun;1,20;64
+2431;3036;2324;Jianfeng Wang and family;1,20;52
+2432;2111;2324;Wang Jilei;1,20;57
+2433;2007;2324;Wang Junmin;1,20;53
+2434;3037;2324;Wang Kunxiao;1,20;52
+2435;3038;2324;Wang Zhentao and family;1,20;56
+2436;2383;2324;J. Wayne Weaver;1,20;86
+2437;2008;2324;Weng Xianding;1,20;60
+2438;2521;2324;Horst Wortmann;1,20;80
+2439;2387;2324;Wu Chung-yi;1,20;66
+2440;2523;2324;Wu Li-gann;1,20;81
+2441;3039;2324;Wu Peifu and family;1,20;60
+2442;2525;2324;Xiu Laigui;1,20;67
+2443;2531;2324;Yeh Kuo-I;1,20;80
+2444;3040;2324;Faxiang Yu;1,20;50
+2445;2533;2324;Zeng Chaolin;1,20;39
+2446;3041;2324;Zhang Tianyu;1,20;54
+2447;3042;2324;Shusheng Zheng;1,20;56
+2448;2133;2448;A. Jayson Adair;1,10;52
+2449;2261;2448;Joao Alves de Queiroz Filho;1,10;69
+2450;2542;2448;Ryuji Arai;1,10;75
+2451;2410;2448;Sara Blakely;1,10;51
+2452;2411;2448;Lloyd Blankfein;1,10;67
+2453;2412;2448;Henadiy Boholyubov;1,10;60
+2454;3043;2448;Caspar Callerstroem;1,10;48
+2455;3044;2448;Kejian Cao;1,10;59
+2456;2561;2448;Turgay Ciner;1,10;66
+2457;3045;2448;Dai Lizhong;1,10;53
+2458;3046;2448;Pedro de Godoy Bueno;1,10;31
+2459;2160;2448;Aydin Dogan;1,10;85
+2460;3047;2448;Wolfgang Egger;1,10;56
+2461;2436;2448;Gabriel Escarrer;1,10;87
+2462;3048;2448;Richard Fairbank;1,10;71
+2463;3049;2448;Andy Fang;1,10;29
+2464;2566;2448;Benedicte Find;1,10;64
+2465;2440;2448;Paul Fireman;1,10;78
+2466;2443;2448;Donald Friese;1,10;81
+2467;3050;2448;Soichiro Fukutake;1,10;76
+2468;3051;2448;Antonio Gallardo Ballart;1,10;86
+2469;2446;2448;David Golub;1,10;59
+2470;2039;2448;Guan Yihong;1,10;52
+2471;2572;2448;Stelios Haji-Ioannou;1,10;55
+2472;3052;2448;Mustafa Hamied;1,10;81
+2473;3053;2448;Han Arming Hanafia;1,10;64
+2474;3054;2448;Ronnen Harary;1,10;50
+2475;3055;2448;David Helgason;1,10;44
+2476;2453;2448;Christian Herz;1,10;64
+2477;2454;2448;Michaela Herz;1,10;64
+2478;3056;2448;Eduardo Hochschild;1,10;58
+2479;2577;2448;Hong Seok-joh;1,10;69
+2480;3057;2448;Huang Jiangji;1,10;64
+2481;3058;2448;Huang Xu;1,10;54
+2482;3059;2448;Subba Rao Jasti;1,10;95
+2483;1329;2448;Long Jiang;1,10;48
+2484;3060;2448;Jiang Xuefei and family;1,10;52
+2485;2462;2448;Jonas Kamprad;1,10;56
+2486;2463;2448;Mathias Kamprad;1,10;52
+2487;2464;2448;Peter Kamprad;1,10;58
+2488;3061;2448;Andrew Karam;1,10;40
+2489;1127;2448;Samvel Karapetyan;1,10;56
+2490;2184;2448;Alexander Karp;1,10;54
+2491;2309;2448;Ke Guihua;1,10;56
+2492;2590;2448;Kim Jung-woong;1,10;47
+2493;3062;2448;Harry Klagsbrun;1,10;67
+2494;3063;2448;Alexander Knauf;1,10;47
+2495;3064;2448;Martin Knauf;1,10;64
+2496;3065;2448;Robert Knauf;1,10;64
+2497;2052;2448;Koh Wee Meng;1,10;58
+2498;2053;2448;Sergei Kolesnikov;1,10;50
+2499;3066;2448;Andrei Komarov;1,10;55
+2500;2593;2448;Koo Bon-neung;1,10;73
+2501;2470;2448;Koo Bon-sik;1,10;63
+2502;2314;2448;Suresh Krishna;1,10;85
+2503;2476;2448;Nancy Lerner;1,10;61
+2504;2477;2448;Norma Lerner;1,10;86
+2505;2478;2448;Randolph Lerner;1,10;60
+2506;1957;2448;Li Shui-po;1,10;65
+2507;3068;2448;Li Tan;1,10;57
+2508;3069;2448;Li Wenmei and family;1,10;59
+2509;559;2448;Lim Hariyanto Wijaya Sarwono;1,10;93
+2510;3070;2448;Lin Jie and family;1,10;53
+2511;1474;2448;Liu Chengyu and family;1,10;59
+2512;3071;2448;Lou Boliang;1,10;58
+2513;3072;2448;Lun Ruixiang and family;1,10;54
+2514;3073;2448;Lv Yongxiang;1,10;72
+2515;2602;2448;Ma Xiuhui;1,10;51
+2516;2203;2448;Yasseen Mansour;1,10;60
+2517;2330;2448;Jorge Mas;1,10;59
+2518;3074;2448;Michael McCain;1,10;64
+2519;2604;2448;Gabriella Meister;1,10;64
+2520;2605;2448;Ulrike Meister;1,10;55
+2521;2332;2448;Jeffrey Michael and family;1,10;65
+2522;2484;2448;Soichiro Minami;1,10;45
+2523;3075;2448;Bob Muglia;1,10;62
+2524;3076;2448;Erik Must;1,10;79
+2525;3077;2448;Kerr Neilson;1,10;72
+2526;2214;2448;John Oyler;1,10;54
+2527;3078;2448;Park Hyeon-joo;1,10;63
+2528;2341;2448;Jose Isaac Peres and family;1,10;81
+2529;3079;2448;Catherine Phillips;1,10;64
+2530;3080;2448;John Phillips;1,10;71
+2531;2494;2448;Pu Zhongjie and family;1,10;59
+2532;3081;2448;Qian Xiaojun;1,10;47
+2533;3082;2448;Anton Rabie;1,10;50
+2534;2099;2448;Igor Rybakov;1,10;49
+2535;3083;2448;K. Rai Sahi;1,10;75
+2536;1409;2448;Karl Scheufele  III. and family;1,10;83
+2537;3084;2448;Steven Schuurman;1,10;46
+2538;3085;2448;Shao Zengming;1,10;64
+2539;3086;2448;Analjit Singh;1,10;68
+2540;3087;2448;Kavita Singhania;1,10;60
+2541;1209;2448;Michael S. Smith;1,10;66
+2542;2615;2448;Scott Smith;1,10;72
+2543;3088;2448;Ashok Soota;1,10;79
+2544;2501;2448;Michael Spencer;1,10;66
+2545;1497;2448;Venu Srinivasan;1,10;69
+2546;3089;2448;Dirk Stroeer;1,10;53
+2547;3090;2448;Susanto Suwarto;1,10;66
+2548;2371;2448;Xiuguo Tang;1,10;58
+2549;1635;2448;Mehmet Sinan Tara;1,10;63
+2550;3091;2448;Robert Toll;1,10;81
+2551;3092;2448;Surin Upatkoon;1,10;72
+2552;3093;2448;Sunil Vachani;1,10;53
+2553;2623;2448;Murat Vargi;1,10;74
+2554;2243;2448;Pongsak Viddayakorn;1,10;88
+2555;3094;2448;Wang Linxiang;1,10;64
+2556;3095;2448;Wang Shumin;1,10;65
+2557;3096;2448;Richard Warke;1,10;64
+2558;2116;2448;Anne Werninghaus;1,10;36
+2559;2519;2448;Allan Wong;1,10;72
+2560;3097;2448;Chaoqun Wu;1,10;52
+2561;2389;2448;Wu Yonghua;1,10;51
+2562;3098;2448;Wu Zhenxing;1,10;52
+2563;2631;2448;Franziska Wuerbser;1,10;34
+2564;2390;2448;Xia Xinde;1,10;57
+2565;3099;2448;Xiong Jun and family;1,10;48
+2566;3100;2448;Jane Yan and family;1,10;52
+2567;3101;2448;Yang Erzhu;1,10;71
+2568;3102;2448;Vlad Yatsenko;1,10;38
+2569;2635;2448;Yi Xianzhong and family;1,10;62
+2570;1722;2448;Yoshiaki Yoshida;1,10;81
+2571;2636;2448;Yu Rong;1,10;50
+2572;3103;2448;Igor Yusufov;1,10;65
+2573;3104;2448;Zeng Weixiong;1,10;64
+2574;3105;2448;Zhang Cheng Fei;1,10;54
+2575;3106;2448;Zhang Fangliang;1,10;57
+2576;3107;2448;Baoshen Zhong;1,10;54
+2577;3108;2448;Zhou Minghua;1,10;58
+2578;3109;2578;Krishna Kumar Bangur;1,00;61
+2579;3110;2578;Wilbur    Ed   Bosarge  Jr.;1,00;82
+2580;2544;2578;Johanna Braun;1,00;42
+2581;2545;2578;Karl Friedrich Braun;1,00;39
+2582;989;2578;Jean-Pierre Cayard;1,00;79
+2583;2427;2578;Tony Chen;1,00;72
+2584;3111;2578;Vivien Chen;1,00;63
+2585;3112;2578;Chey Ki-won;1,00;57
+2586;2560;2578;Pollyanna Chu;1,00;64
+2587;3113;2578;Roy Chi Ping Chung;1,00;69
+2588;3114;2578;Doug Clarke;1,00;41
+2589;3115;2578;Ronald Clarke;1,00;66
+2590;3116;2578;Jean-Paul Clozel;1,00;67
+2591;1734;2578;Carl DeSantis;1,00;82
+2592;2283;2578;Sefik Yilmaz Dizdar;1,00;84
+2593;3117;2578;Charles Dunstone;1,00;58
+2594;3118;2578;Larry Fink;1,00;69
+2595;3119;2578;Fu Gang;1,00;51
+2596;3120;2578;Jorge Gallardo Ballart;1,00;80
+2597;3121;2578;Nari Genomal;1,00;82
+2598;3122;2578;Ramesh Genomal;1,00;71
+2599;3123;2578;Sunder Genomal;1,00;68
+2600;3124;2578;Horst-Otto Gerberding;1,00;69
