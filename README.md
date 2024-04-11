@@ -1,2 +1,0 @@
-# Forbes
-Forbes analysis
