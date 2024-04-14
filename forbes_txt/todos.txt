@@ -1,0 +1,6 @@
+<b> TO DOS FORBES </b>
+
+* adding monthly data
+* building categories of rang
+* analysis
+* publish
