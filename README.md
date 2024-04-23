@@ -35,7 +35,7 @@ It began with monthly data scraping from [Forbes](https://www.forbes.com/real-ti
 - Gender
 
 ## Technologies Used
-- Primarily: R (for data analysis and manipulation). Refer to the [youtube_analysis](https://github.com/UlrikeDetective/youtube/tree/main/youtube_analysis) files for information about necessary packages and libraries.
+- Primarily: R (for data analysis and manipulation). Refer to the [forbes_analysis](https://github.com/UlrikeDetective/Forbes/tree/main/analysis) files for information about necessary packages and libraries (work in progress).
 - (Optional) Web scraping tool (depending on the scraping method)
 - (Optional) MySQL for querying data
 
