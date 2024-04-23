@@ -1,53 +1,47 @@
-
-# Forbes Billionaires list 2021 -
+# Forbes Billionaires List 2021-2024
 
 ## About the Project
-This project serves as a learning experience for web scraping, MySQL learning and data analysis of Forbes billionaires list. The data is yearly for the years 2021, 2022 and 2023 and monthly for the year 2024. 
-It began by monthly scraping data from 
+This project serves as a learning experience for web scraping, MySQL database management, and data analysis of the Forbes billionaires list. The dataset spans from 2021 to 2023 yearly and includes monthly data for the year 2024. 
 
-#### [Forbes](https://www.forbes.com/real-time-billionaires) 
+It began with monthly data scraping from [Forbes](https://www.forbes.com/real-time-billionaires).
 
-<h4> The initial steps involved: </h4>
+#### Initial steps involved:
+- Data scraping using R or an appropriate tool.
+- Data cleaning and organization into CSV files.
+- Importing the CSV files into a MySQL database.
+- Querying the database and saving the output as CSV files.
+- Exploratory data analysis.
 
-<ul>
-<li>Data scraping using R or a suitable tool. </li>
-<li>Data cleaning and organization into CSV files. </li>
-<li>transfering the csv files into a MySQL database </li>
-<li>Quering queries and save the output as csv files</li>
-<li>Exploratory data analysis </li>
-</ul>
+#### The repository contains the following folders:
+- [CSV files](https://github.com/UlrikeDetective/Forbes/tree/main/forbes_csv)
+- [MySQL files](https://github.com/UlrikeDetective/Forbes/tree/main/forbes_sql)
+- [Text files](https://github.com/UlrikeDetective/Forbes/tree/main/forbes_txt)
+- [Analysis](https://github.com/UlrikeDetective/Forbes/tree/main/analysis)
 
-<br>
-<h4>The repositary contains the following folders: </h4>
-<ul>
-<li>[CSV files](https://github.com/UlrikeDetective/Forbes/tree/main/forbes_csv)</li>
-<li>[MySQL files](https://github.com/UlrikeDetective/Forbes/tree/main/forbes_sql) </li>
-<li>[Text files](https://github.com/UlrikeDetective/Forbes/tree/main/forbes_txt) </li>
-<li>[Analysis](https://github.com/UlrikeDetective/Forbes/tree/main/analysis)</li>
-</ul>
-  
-<h4>The csv files contains the following fields:</h4>
-
-ID - User_ID - Table_rank <br>
-Person - net_worth_inBillionUSD <br>
-Age_of_Person - Date <br>
-Business - Industrie <br>
-Country_of_Residence - Continent <br>
-Gender <br>
-
+#### The CSV files contain the following fields:
+- ID
+- User_ID
+- Table_rank
+- Person
+- net_worth_inBillionUSD
+- Age_of_Person
+- Date
+- Business
+- Industry
+- Country_of_Residence
+- Continent
+- Gender
 
 ## Technologies Used
-
-- Primarily: R (data analysis and manipulation)Information about needed packages and libraries in the [youtube_analysis](https://github.com/UlrikeDetective/youtube/tree/main/youtube_analysis) files.
-- (Optional) Web scraping tool (depending on scraping method)
-- (Optional) MySQL for quering data
+- Primarily: R (for data analysis and manipulation). Refer to the [youtube_analysis](https://github.com/UlrikeDetective/youtube/tree/main/youtube_analysis) files for information about necessary packages and libraries.
+- (Optional) Web scraping tool (depending on the scraping method)
+- (Optional) MySQL for querying data
 
 ## Usage
-
-learning R and MySQL and doing experiements with data analytics
+Learning R and MySQL and experimenting with data analytics.
 
 ## Contributors
-
+[Add contributors' names here]
 
 ## License
 This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE) file for details.
@@ -57,6 +51,6 @@ This project is licensed under the GNU General Public License v3.0 License - see
 [![GitHub forks](https://img.shields.io/github/forks/UlrikeDetective/Forbes)](https://github.com/UlrikeDetective/Forbes/network/members) 
 [![GitHub issues](https://img.shields.io/github/issues/UlrikeDetective/Forbes)](https://github.com/UlrikeDetective/Forbes/issues) 
 [![GitHub license](https://img.shields.io/github/license/UlrikeDetective/Forbes)](https://github.com/UlrikeDetective/Forbes/blob/master/LICENSE)
-## GitHub Repository
-[Link to GitHub repository](https://github.com/UlrikeDetective/Forbes)
 
+## GitHub Repository
+[Link to the GitHub repository](https://github.com/UlrikeDetective/Forbes)
