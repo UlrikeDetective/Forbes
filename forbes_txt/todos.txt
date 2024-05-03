@@ -5,4 +5,6 @@
 * analysis
 * publish
 
+* adding GPS data of residence
+
 *create new Kaggle code
