@@ -1,0 +1,699 @@
+﻿ID_location;City;Country_of_residence;Continent
+1;A Coruña;Spain;South America
+2;Aarhus;Denmark;Europe
+3;Aberdeen;United Kingdom;Europe
+4;Aberdyfi;United Kingdom;Europe
+5;Abu Dhabi;United Arab Emirates;Asia
+6;Adel;United States;North America
+7;Afton;United States;North America
+8;Ahmedabad;India;Asia
+9;Albany;United Kingdom;Europe
+10;Albuquerque;United States;North America
+11;Alexandria;United States;North America
+12;Algiers;Algeria;Africa
+13;Allendorf;Germany;Europe
+14;Almaty;Kazakhstan;Asia
+15;Alpine;United States;North America
+16;Amsterdam;Netherlands;Europe
+17;Ankara;Turkey;Europe
+18;Annapolis;United States;North America
+19;Anyang;South Korea;Asia
+20;Aspen;United States;North America
+21;Astana;Kazakhstan;Asia
+22;Athens;Greece;Europe
+23;Atherton;United States;North America
+24;Atherton;China;Asia
+25;Atlanta;United States;North America
+26;Auckland;New Zealand;Australia
+27;Audubon;United States;North America
+28;Augsburg;Germany;Europe
+29;Aurangabad;India;Asia
+30;Aurich;Germany;Europe
+31;Austin;United States;North America
+32;Baar;Switzerland;Europe
+33;Baarn;Netherlands;Europe
+34;Bad Homburg;Germany;Europe
+35;Bal Harbour;United States;North America
+36;Bangalore;India;Asia
+37;Bangkok;Thailand;Asia
+38;Baoding;China;Asia
+39;Barcelona;Spain;Europe
+40;Baroda;India;Asia
+41;Basel;Switzerland;Europe
+42;Bassano del Grappa;Italy;Europe
+43;Båstad;Sweden;Europe
+44;Bat-Yam;Israel;Asia
+45;Baton Rouge;United States;North America
+46;Bedford;United States;North America
+47;Beijing;China;Asia
+48;Beirut;Lebanon;Asia
+49;Beit Yanay;Israel;Asia
+50;Bellawongarah;Australia;Australia
+51;Belle Vernon;United States;North America
+52;Belo Horizonte;Brazil;South America
+53;Belvedere;United States;North America
+54;Bentonville;United States;North America
+55;Bergamo;Italy;Europe
+56;Berkeley;United States;North America
+57;Berlin;Germany;Europe
+58;Bermuda;Bermuda;North America
+59;Bethesda;United States;North America
+60;Beverly Hills;United States;North America
+61;Bielefeld;Germany;Europe
+62;Big Sky;United States;North America
+63;Bikaner;India;Asia
+64;Billund;Denmark;Europe
+65;Bingham Farms;United States;North America
+66;Binningen;Switzerland;Europe
+67;Binzhou;China;Asia
+68;Birchwood;United States;North America
+69;Birmingham;United States;North America
+70;Blaricum;Netherlands;Europe
+71;Bloomfield Hills;United States;North America
+72;Bloomington;United States;North America
+73;Bnei Atarot;Israel;Asia
+74;Bnei Brak;Israel;Asia
+75;Boca Raton;United States;North America
+76;Bogota;Colombia;South America
+77;Bonita Springs;United States;North America
+78;Boston;United States;North America
+79;Boucherville;Canada;North America
+80;Bovenden;Germany;Europe
+81;Bozeman;United States;North America
+82;Branford;United States;North America
+83;Bratislava;Slovakia;Europe
+84;Brescia;Italy;Europe
+85;Brisbane;Australia;Australia
+86;Bristol;United Kingdom;Europe
+87;Brookline;United States;North America
+88;Brookville;United States;North America
+89;Brownsville;United States;North America
+90;Bruchsal;Germany;Europe
+91;Brunswick;Germany;Europe
+92;Brusque;Brazil;South America
+93;Brussels;Italy;Europe
+94;Bryn Mawr;United States;North America
+95;Bucharest;Romania;Europe
+96;Budapest;Hungary;Europe
+97;Buenos Aires;Argentina;South America
+98;Burgdorf;Switzerland;Europe
+99;Burlington;Canada;North America
+100;Busan;South Korea;Asia
+101;Cairo;Egypt;Africa
+102;Camas;United States;North America
+103;Campodoro;Italy;Europe
+104;Campos do Jordão;Brazil;South America
+105;Canberra;Australia;Australia
+106;Cape Town;South Africa;Africa
+107;Cardiff;United Kingdom;Europe
+108;Carmel;United States;North America
+109;Cary;United States;North America
+110;Casablanca;Morocco;Africa
+111;Cataguazes;Brazil;South America
+112;Cesena;Italy;Europe
+113;Chang Hwa County;Taiwan;Asia
+114;Changchun;China;Asia
+115;Changsha;China;Asia
+116;Changshu;China;Asia
+117;Changzhou;China;Asia
+118;Chaozhou;China;Asia
+119;Charleston;United States;North America
+120;Charlotte;United States;North America
+121;Chattanooga;United States;North America
+122;Chengdu;China;Asia
+123;Chennai;India;Asia
+124;Cheongju;South Korea;Asia
+125;Chestnut Hill;United States;North America
+126;Chevy Chase;United States;North America
+127;Chiba;Japan;Asia
+128;Chicago;United States;North America
+129;Chongqing;China;Asia
+130;Cieszyn;Poland;Europe
+131;Cincinnati;United States;North America
+132;Cisco;United States;North America
+133;Clearwater;United States;North America
+134;Cleveland;United States;North America
+135;Coatesville;United States;North America
+136;Coconut Grove;United States;North America
+137;Cologne;Germany;Europe
+138;Como;Italy;Europe
+139;Concord;United States;North America
+140;Copenhagen;Denmark;Europe
+141;Coral Gables;United States;North America
+142;Crans Montana;Switzerland;Europe
+143;Crocetta del Montello;Italy;Europe
+144;Croton-on-Hudson;United States;North America
+145;Cupertino;United States;North America
+146;Curitiba;Brazil;South America
+147;Cut Off;United States;North America
+148;Dallas;United States;North America
+149;Danyang;China;Asia
+150;Dar es Salaam;Tanzania;Africa
+151;Darien;Norway;Europe
+152;Darmstadt;Germany;Europe
+153;Davos;Switzerland;Europe
+154;Daye;China;Asia
+155;Daytona Beach;United States;North America
+156;Deinze;Belgium;Europe
+157;Delhi;India;Asia
+158;Delray Beach;United States;North America
+159;Denver;United States;North America
+160;Detmold;Germany;Europe
+161;Dnipro;Ukraine;Europe
+162;Doha;Qatar;Asia
+163;Donetsk;Ukraine;Europe
+164;Dongguan;China;Asia
+165;Dubai;United Arab Emirates;Asia
+166;Dublin;Ireland;Europe
+167;Duderstadt;Germany;Europe
+168;Duluth;United States;North America
+169;Durham;United Kingdom;Europe
+170;Dusseldorf;Germany;Europe
+171;East Aurora;United States;North America
+172;East Hampton;United States;North America
+173;East Setauket;United States;North America
+174;Easton;United States;North America
+175;Edmond;United States;North America
+176;Edmonton;Canada;North America
+177;Eindhoven;Netherlands;Europe
+178;El Cerrito;United States;North America
+179;El Paso;United States;North America
+180;Electra;United States;North America
+181;Elizabeth;United States;North America
+182;Englewood;United States;North America
+183;Erie;United States;North America
+184;Ernakulam;India;Asia
+185;Espelkamp;Germany;Europe
+186;Esporles;Spain;Europe
+187;Eusébio;Brazil;South America
+188;Ezulwini;Eswatini;Africa
+189;Far Hills;United States;North America
+190;Faridabad;India;Asia
+191;Farmington Hills;United States;North America
+192;Fayetteville;United States;North America
+193;Felcsút;Hungary;Europe
+194;Feldmeilen;Switzerland;Europe
+195;Fiesole;Italy;Europe
+196;Fisher Island;United States;North America
+197;Florianopolis;Brazil;South America
+198;Fort Collins;United States;North America
+199;Fort Lauderdale;United States;North America
+200;Fort Worth;United States;North America
+201;Fortaleza;Brazil;South America
+202;Foshan;China;Asia
+203;Frankfurt am Main;Germany;Europe
+204;Franklin;United States;North America
+205;Fukuoka;Japan;Asia
+206;Fuqing;China;Asia
+207;Fuschl am See;Austria;Europe
+208;Fushun;China;Asia
+209;Fuzhou;China;Asia
+210;Gallatin;United States;North America
+211;Gaomi;China;Asia
+212;Geneva;Switzerland;Europe
+213;Glencoe;United States;North America
+214;Glendora;United States;North America
+215;Gloucestershire;United Kingdom;Europe
+216;Gold Coast;Australia;Australia
+217;Gorinchem;Netherlands;Europe
+218;Göteborg;Sweden;Europe
+219;Gothenberg;Sweden;Europe
+220;Gothenburg;Sweden;Europe
+221;Grand Cayman;Cayman Islands;North America
+222;Grand Rapids;United States;North America
+223;Graz;Austria;Europe
+224;Grebenhain;Germany;Europe
+225;Greenwich;United States;North America
+226;Grijo;Portugal;Europe
+227;Gstaad;Switzerland;Europe
+228;Guangzhou;China;Asia
+229;Gurgaon;India;Asia
+230;Haiger;Germany;Europe
+231;Haikou;China;Asia
+232;Hamburg;Germany;Europe
+233;Hangzhou;China;Asia
+234;Hanoi;Vietnam;Asia
+235;Haridwar;India;Asia
+236;Hattiesburg;United States;North America
+237;Haverford;United States;North America
+238;Hefei;China;Asia
+239;Heidelberg;Germany;Europe
+240;Helsingborg;Sweden;Europe
+241;Helsinki;Finland;Europe
+242;Henderson;United States;North America
+243;Hengshui;China;Asia
+244;Hertfordshire;United Kingdom;Europe
+245;Herzliya;Israel;Asia
+246;Herzliya Pituach;Israel;Asia
+247;Herzogenaurach;Germany;Europe
+248;Highland Park;United States;North America
+249;Hillsboro;United States;North America
+250;Hillsborough;United States;North America
+251;Hisar;India;Asia
+252;Ho Chi Minh City;Vietnam;Asia
+253;Hobe Sound;United States;North America
+254;Hohhot;China;Asia
+255;Hokkaido;Japan;Asia
+256;Holzminden;Germany;Europe
+257;Hong Kong;China;Asia
+258;Hong Kong;United Kingdom;Europe
+259;Honolulu;United States;North America
+260;Houston;United States;North America
+261;Hsinchu;Taiwan;Asia
+262;Huaibei city;China;Asia
+263;Huizhou;China;Asia
+264;Humlebaek;Denmark;Europe
+265;Hunts Point;United States;North America
+266;Hurden;Switzerland;Europe
+267;Huzhou;China;Asia
+268;Hyderabad;India;Asia
+269;Idaho Falls;United States;North America
+270;Incline Village;United States;North America
+271;Indian Creek;United States;North America
+272;Indian Hills;United States;North America
+273;Indianapolis;United States;North America
+274;Irkutsk;Russia;Europe
+275;Irvine;United States;North America
+276;Islamorada;United States;North America
+277;Isle of Man;United Kingdom;Europe
+278;Istanbul;Turkey;Asia
+279;Jackson;United States;North America
+280;Jacksonville;United States;North America
+281;Jaipur;India;Asia
+282;Jakarta;Indonesia;Asia
+283;Jiangyin;China;Asia
+284;Jiaozuo;China;Asia
+285;Jiaxing;China;Asia
+286;Jinhua;China;Asia
+287;Jinjiang;China;Asia
+288;Johannesburg;South Africa;Africa
+289;Joinville;Brazil;South America
+290;Jona;Switzerland;Europe
+291;Jupiter;United States;North America
+292;Kaliningrad;Russia;Europe
+293;Kanton Schwyz;Switzerland;Europe
+294;Kaohsiung;Taiwan;Asia
+295;Karlstad;Sweden;Europe
+296;Kathmandu;Nepal;Asia
+297;Katonah;United States;North America
+298;Kauai;United States;North America
+299;Kazan;Russia;Europe
+300;Kearney;United States;North America
+301;Kent;United Kingdom;Europe
+302;Key Largo;United States;North America
+303;Key West;United States;North America
+304;Kfar Shmaryahu;Israel;Asia
+305;Kielce;Poland;Europe
+306;Kiev;Ukraine;Europe
+307;Kingscourt;Ireland;Europe
+308;Kirkkonummi;Finland;Europe
+309;Kitzbuhel;Germany;Europe
+310;Knoxville;United States;North America
+311;Koenigstein;Germany;Europe
+312;Kohler;United States;North America
+313;Kolkata;India;Asia
+314;Konstancin;Poland;Europe
+315;Kottayam;India;Asia
+316;Krasnodar;Russia;Europe
+317;Krefeld;Germany;Europe
+318;Krotoszyn,;Poland;Europe
+319;Kuala Lumpur;Malaysia;Asia
+320;Kudus;Indonesia;Asia
+321;Kuenzelsau;Germany;Europe
+322;Küsnacht;Switzerland;Europe
+323;Kverva;Norway;Europe
+324;Kyoto;Japan;Asia
+325;La Coruna;Spain;Europe
+326;La Jolla;United States;North America
+327;Lagos;Nigeria;Africa
+328;Laguna Beach;United States;North America
+329;Laizhou;China;Asia
+330;Lake Worth;United States;North America
+331;Lakeland;United States;North America
+332;Lanai;United States;North America
+333;Landsberg;Germany;Europe
+334;Langfang;China;Asia
+335;Lanzhou;China;Asia
+336;Larchmont;United States;North America
+337;Las Vegas;United States;North America
+338;Lausanne;Switzerland;Europe
+339;Laval;France;Europe
+340;Leawood;United States;North America
+341;Leicester;United Kingdom;Europe
+342;Leipzig;Germany;Europe
+343;Lexington;United States;North America
+344;Lianyungang;China;Asia
+345;Liaocheng;China;Asia
+346;Liaoyang;China;Asia
+347;Liberty;United States;North America
+348;Liestal;Switzerland;Europe
+349;Lighthouse Point;United States;North America
+350;Lille;France;Europe
+351;Lima;Peru;South America
+352;Limassol;Cyprus;Europe
+353;Linhai;China;Asia
+354;Linyi;China;Asia
+355;Lipperswil;Switzerland;Europe
+356;Little Jackson Hole;United States;North America
+357;Little Rock;United States;North America
+358;Livingston;United States;North America
+359;Locust Valley;United States;North America
+360;London;United Kingdom;Europe
+361;Longkou;China;Asia
+362;Los Altos;United States;North America
+363;Los Angeles;United States;North America
+364;Luancheng;China;Asia
+365;Lucerne;Switzerland;Europe
+366;Lugano;Switzerland;Europe
+367;Luohe;China;Asia
+368;Lutherville-Timonium;United States;North America
+369;Luzerne;Switzerland;Europe
+370;Lyon;France;Europe
+371;Madison;United States;North America
+372;Madrid;Spain;Europe
+373;Magnitogorsk;Russia;Europe
+374;Mainz;Germany;Europe
+375;Makati;Philippines;Asia
+376;Malibu;United States;North America
+377;Manalapan;United States;North America
+378;Manama;Bahrain;Asia
+379;Manantiales;Uruguay;South America
+380;Manaus;Brazil;South America
+381;Manila;Philippines;Asia
+382;Mankato;United States;North America
+383;Marbella;Spain;Europe
+384;Marburg;Germany;Europe
+385;Marin County;United States;North America
+386;Marina Del Rey;United States;North America
+387;Martigny;Switzerland;Europe
+388;Matadepera;Spain;Europe
+389;McLean;United States;North America
+390;Medina;United States;North America
+391;Meishan;China;Asia
+392;Melbourne;Australia;Australia
+393;Melsungen;Germany;Europe
+394;Menlo Park;United States;North America
+395;Mercer Island;United States;North America
+396;Merseyside;United Kingdom;Europe
+397;Mevaseret Zion;Israel;Asia
+398;Mexico City;Mexico;North America
+399;Miami;United States;North America
+400;Miami Beach;United States;North America
+401;Miamisburg;United States;North America
+402;Milan;Italy;Europe
+403;Millburn;United States;North America
+404;Millersville;United States;North America
+405;Milton;United States;North America
+406;Missoula;United States;North America
+407;Modena;Italy;Europe
+408;Monsey;United States;North America
+409;Montabaur;Germany;Europe
+410;Montagnola;Switzerland;Europe
+411;Monte Carlo;Monaco;Europe
+412;Monte vista;United States;North America
+413;Montecito;United States;North America
+414;Montpellier;France;Europe
+415;Montreal;Canada;North America
+416;Moscow;Russia;Europe
+417;Mount Kisco;United States;North America
+418;Mumbai;India;Asia
+419;Munich;Germany;Europe
+420;Murmansk;Russia;Europe
+421;Muscat;Oman;Asia
+422;Nanjing;China;Asia
+423;Nanping;China;Asia
+424;Nantes;France;Europe
+425;Nantong;China;Asia
+426;Nanyang;China;Asia
+427;Naples;United States;North America
+428;Nashville;United States;North America
+429;Neckarsulm;Germany;Europe
+430;Necker Island;United Kingdom;Europe
+431;Netanya;Israel;Asia
+432;Neustadt an der Waldnaab;Germany;Europe
+433;New Albany;United States;North America
+434;New Delhi;India;Asia
+435;New Orleans;United States;North America
+436;New South Wales;Australia;Australia
+437;New York City;United States;North America
+438;Newmarket;United Kingdom;Europe
+439;Newport Beach;United States;North America
+440;Newport Coast;United States;North America
+441;Newton;United States;North America
+442;Nicasio;United States;North America
+443;Ningbo;China;Asia
+444;Ningde;China;Asia
+445;North Palm Beach;United States;North America
+446;North Salem;United States;North America
+447;North York;Canada;North America
+448;Norwich;United Kingdom;Europe
+449;Nottinghamshire;United Kingdom;Europe
+450;Oak Brook;United States;North America
+451;Oakville;Canada;North America
+452;Ohningen;Germany;Europe
+453;Oklahoma City;United States;North America
+454;Old Lyme;United States;North America
+455;Omaha;United States;North America
+456;Ormond Beach;United States;North America
+457;Orono;United States;North America
+458;Osaka;Japan;Asia
+459;Oslo;Norway;Europe
+460;Ottawa;Canada;North America
+461;Oveido;Spain;Europe
+462;Oyster Bay;United States;North America
+463;Pacific Palisades;United States;North America
+464;Palisades;United States;North America
+465;Palm Beach;United States;North America
+466;Palma de Majorca;Spain;Europe
+467;Palo Alto;United States;North America
+468;Panzhihua;China;Asia
+469;Paradise Island;Bahamas;Australia
+470;Paradise Valley;United States;North America
+471;Paris;France;Europe
+472;Park City;United States;North America
+473;Passau;Germany;Europe
+474;Perth;Australia;Australia
+475;Petaling Jaya;Malaysia;Asia
+476;Philadelphia;United States;North America
+477;Phnom Penh;Cambodia;Asia
+478;Phoenix;United States;North America
+479;Pittsburgh;United States;North America
+480;Plantation;United States;North America
+481;Pleasanton;United States;North America
+482;Plymouth;United States;North America
+483;Ponzano Veneto;Italy;Europe
+484;Port Washington;United States;North America
+485;Portage;United States;North America
+486;Portland;United States;North America
+487;Porto Alegre;Brazil;South America
+488;Portola Valley;United States;North America
+489;Potomac;United States;North America
+490;Prague;Czech Republic;Europe
+491;Princeton;United States;North America
+492;Providence;United States;North America
+493;Provo;United States;North America
+494;Pujols;France;Europe
+495;Pune;India;Asia
+496;Putian;China;Asia
+497;Qingdao;China;Asia
+498;Qinhuangdao;China;Asia
+499;Quanzhou;China;Asia
+500;Quzhou;China;Asia
+501;Racine;United States;North America
+502;Raleigh;United States;North America
+503;Rancho Santa Fe;United States;North America
+504;Rechterfeld;Germany;Europe
+505;Redding;United States;North America
+506;Redlands;United States;North America
+507;Redwood City;United States;North America
+508;Rennes;France ;Europe
+509;Reno;United States;North America
+510;Rheda-Wiedenbrück;Germany;Europe
+511;Rheinfelden;Switzerland;Europe
+512;Rhinebeck;United States;North America
+513;Rio de Janeiro;Brazil;South America
+514;Rochester;United States;North America
+515;Rolling Hills;United States;North America
+516;Rome;Italy;Europe
+517;Rostov-on-Don;Russia;Europe
+518;Rottendorf;Germany;Europe
+519;Ruschlikon;Switzerland;Europe
+520;Ruzhou;China;Asia
+521;Rye;United States;North America
+522;Saddle River;United States;North America
+523;Sag Harbor;United States;North America
+524;Sagaponack;United States;North America
+525;Saint John;Canada;North America
+526;Saint Petersburg;United States;North America
+527;Saint Petersburg;Russia;Europe
+528;Saint-Émilion;France;Europe
+529;Saitama;Japan;Asia
+530;Salt Lake City;United States;North America
+531;San Anselmo;United States;North America
+532;San Antonio;United States;North America
+533;San Carlos;United States;North America
+534;San Diego;United States;North America
+535;San Francisco;United States;North America
+536;San Jose;United States;North America
+537;San Juan Islands;United States;North America
+538;San Mateo;United States;North America
+539;Sands Point;United States;North America
+540;Sant Elpidio A Mare;Italy;Europe
+541;Santa Barbara;United States;North America
+542;Santa Clara;United States;North America
+543;Santa Cruz;United States;North America
+544;Santa Monica;United States;North America
+545;Santiago;Chile;South America
+546;Santo Andre;Brazil;South America
+547;Sao Jose dos Pinhais;Brazil;South America
+548;Sao Paulo;Brazil;South America
+549;Sarasota;United States;North America
+550;Saratoga;United States;North America
+551;Scarborough;United States;North America
+552;Schindellegi;Germany;Europe
+553;Schwieberdingen;Germany;Europe
+554;Scottsdale;United States;North America
+555;Seattle;United States;North America
+556;Selangor;Malaysia;Asia
+557;Seoul;South Korea;Asia
+558;Sewickley;United States;North America
+559;Shanghai;China;Asia
+560;Shangyu;China;Asia
+561;Shantou;China;Asia
+562;Shaoxing;China;Asia
+563;Shelburne;United States;North America
+564;Shenyang;China;Asia
+565;Shenzhen;China;Asia
+566;Shijiazhuang;China;Asia
+567;Short Hills;United States;North America
+568;Shunde;China;Asia
+569;Singapore;Singapore;Asia
+570;Sioux Falls;United States;North America
+571;Solomeo;Italy;Europe
+572;Southampton;United States;North America
+573;Spilamberto;Italy;Europe
+574;Springdale;United States;North America
+575;Springfield;United States;North America
+576;St. Brelade;United Kingdom;Europe
+577;St. Gallen;Switzerland;Europe
+578;St. Louis;United States;North America
+579;St. Paul;United States;North America
+580;St. Peter Port;Guernsey;Europe
+581;St. Petersburg;United States;North America
+582;St. Petersburg;Russia;Europe
+583;St. Wendel;Germany;Europe
+584;Steamboat Springs;United States;North America
+585;Stellenbosch;South Africa;Africa
+586;Stockholm;Sweden;Europe
+587;Stoke-on-Trent;United Kingdom;Europe
+588;Straelen;Germany;Europe
+589;Stuttgart;Germany;Europe
+590;Sugar Land;United States;North America
+591;Suqian;China;Asia
+592;Surabaya;Indonesia;Asia
+593;Surfers Paradise;Australia;Australia
+594;Surgut;Russia;Europe
+595;Surrey;United Kingdom;Europe
+596;Suzhou;China;Asia
+597;Sydney;Australia;Australia
+598;Taichung;Taiwan;Asia
+599;Tainan;Taiwan;Asia
+600;Taipei;Taiwan;Asia
+601;Taixing;China;Asia
+602;Taizhou;China;Asia
+603;Tampa;United States;North America
+604;Taoyuan;Taiwan;Asia
+605;Tarrytown;United States;North America
+606;Tawau;Malaysia;Asia
+607;Tbilisi;Georgia;Asia
+608;Tegernsee;Germany;Europe
+609;Tel Aviv;Israel;Asia
+610;Tempe;United States;North America
+611;Tervuren;Belgium;Europe
+612;The Plains;United States;North America
+613;The Woodlands;United States;North America
+614;Thrissur;India;Asia
+615;Tianjin;China;Asia
+616;Tokyo;Japan;Asia
+617;Tonghua;China;Asia
+618;Tongxiang;China;Asia
+619;Torino;Italy;Europe
+620;Toronto;Canada;North America
+621;Treviso;Italy;Europe
+622;Trivandrum;India;Asia
+623;Trondheim;Norway;Europe
+624;Tulsa;United States;North America
+625;Turin;Italy;Europe
+626;Turks and Caicos Islands;Turks and Caicos Islands;North America
+627;Ulm;Germany;Europe
+628;Urumchi;China;Asia
+629;Urumqi;China;Asia
+630;Vadodara;India;Asia
+631;Vaduz;Liechtenstein;Europe
+632;Valencia;Spain;Europe
+633;Vancouver;Canada;North America
+634;Venice;United States;North America
+635;Ventura;United States;North America
+636;Verbier;France;Europe
+637;Verkhniaya Pyshma;Russia;Europe
+638;Vettre;Norway;Europe
+639;Vienna;Austria;Europe
+640;Virginia Beach;United States;North America
+641;Visbek;Germany;Europe
+642;Vladivostok;Russia;Europe
+643;Vorden;Netherlands;Europe
+644;Walldorf;Germany;Europe
+645;Warsaw;Poland;Europe
+646;Weifang;China;Asia
+647;Weihai;China;Asia
+648;Weinheim;Germany;Europe
+649;Weiningen;Switzerland;Europe
+650;Wellington;United States;North America
+651;Wels;Austria;Europe
+652;Wenzhou;China;Asia
+653;Westmount;Canada;North America
+654;Weston;United States;North America
+655;Whistler;Australia;Australia
+656;Wichita;United States;North America
+657;Wilen;Switzerland;Europe
+658;Wilen bei Wollerau;Switzerland;Europe
+659;Wilson;United States;North America
+660;Windermere;United States;North America
+661;Windsor;Canada;North America
+662;Winnetka;United States;North America
+663;Wollerau;Switzerland;Europe
+664;Woodside;United States;North America
+665;Wotton-under-Edge;United Kingdom;Europe
+666;Wuhan;China;Asia
+667;Wuhu;China;Asia
+668;Wujiang;China;Asia
+669;Wuxi;China;Asia
+670;Wynnewood;United States;North America
+671;Xi'an;China;Asia
+672;Xiamen;China;Asia
+673;Xianyang;China;Asia
+674;Xingtai;China;Asia
+675;Xinxiang;China;Asia
+676;Xinyu;China;Asia
+677;Yangzhou;China;Asia
+678;Yantai;China;Asia
+679;Yanzhou;China;Asia
+680;Yekaterinburg;Russia;Europe
+681;Yinchuan;China;Asia
+682;Yingkou;China;Asia
+683;Yixing;China;Asia
+684;Yongzhou;China;Asia
+685;Yorktown Heights;United States;North America
+686;Youngstown;United States;North America
+687;Ypsilanti;United States;North America
+688;Yunfu;China;Asia
+689;Yunlin;Taiwan;Asia
+690;Yuxi;China;Asia
+691;Zermatt;Switzerland;Europe
+692;Zhaoyuan;China;Asia
+693;Zhengzhou;China;Asia
+694;Zhongshan;China;Asia
+695;Zhuji;China;Asia
+696;Zhuzhou;China;Asia
+697;Zug;Switzerland;Europe
+698;Zurich;Switzerland;Europe
