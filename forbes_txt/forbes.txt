@@ -13,10 +13,22 @@ Net_worth in Billion USD is cleaned up to only numbers.
 
 Data cleaning of persons Names - deleted all special characters 
 
-Data is stored in a MySQL Database called Forbes. 
+Data is stored in a MySQL Database called Forbes_new (Forbes is the old one until 2024_03). 
 Table names: 
-forbes_names - Information on Names of Billionaires, ID for each Billionaire, plus Country and Continent of residence, Source of wealth, Industry of wealth and Gender of person. If the Name include "& Family" than the gender is the gender of the named person. Primary key is ID
+forbes_names - Information on Names of Billionaires, 
+ID for each Billionaire, plus Country and Continent of residence, 
+Source of wealth, 
+Industry of wealth and 
+Gender of person. 
+If the Name include "& Family" than the gender is the gender of the named person. 
+Primary key is ID
 
-Years and Month tables: contain User_ID, Rank as of ..., Name, net_worth_in BillionUSD_..., Age_of_person_... Foreign Key is User_ID.
+Years and Month tables: 
+contain User_ID, 
+Rank as of ..., 
+Name, 
+net_worth_in BillionUSD_..., 
+Age_of_person_... 
+Foreign Key is User_ID.
 
 
