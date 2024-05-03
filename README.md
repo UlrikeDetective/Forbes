@@ -32,6 +32,7 @@ It began with monthly data scraping from [Forbes](https://www.forbes.com/real-ti
 - Industry
 - Country_of_Residence
 - Continent
+- Citzenship
 - Gender
 
 ## Technologies Used
