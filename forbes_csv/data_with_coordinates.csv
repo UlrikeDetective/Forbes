@@ -1,0 +1,699 @@
+ID_location,City,Country_of_residence,Continent,latitude,longitude
+1,A Coruña,Spain,Europe,43.3709703,-8.3959425
+2,Aarhus,Denmark,Europe,56.1496278,10.2134046
+3,Aberdeen,United Kingdom,Europe,57.1482429,-2.0928095
+4,Aberdyfi,United Kingdom,Europe,52.5451248,-4.0533624
+5,Abu Dhabi,United Arab Emirates,Asia,24.4538352,54.3774014
+6,Adel,United States,North America,41.6174123,-94.0185176
+7,Afton,United States,North America,44.9027452,-92.7835373
+8,Ahmedabad,India,Asia,23.0216238,72.5797068
+9,Albany,United Kingdom,Europe,42.6511674,-73.754968
+10,Albuquerque,United States,North America,35.0841034,-106.650985
+11,Alexandria,United States,North America,44.83495335,8.745030418605868
+12,Algiers,Algeria,Africa,36.7753606,3.0601882
+13,Allendorf,Germany,Europe,50.2679502,7.9982619
+14,Almaty,Kazakhstan,Asia,43.2363924,76.9457275
+15,Alpine,United States,North America,38.5893934,-119.8345013
+16,Amsterdam,Netherlands,Europe,52.3730796,4.8924534
+17,Ankara,Turkey,Europe,39.9207759,32.8540497
+18,Annapolis,United States,North America,38.9786401,-76.492786
+19,Anyang,South Korea,Asia,36.1023552,114.33633
+20,Aspen,United States,North America,39.1911128,-106.82356
+21,Astana,Kazakhstan,Asia,51.115320749999995,71.46636599643543
+22,Athens,Greece,Europe,33.9597677,-83.376398
+23,Atherton,United States,North America,37.453773,-122.2058272
+24,Atherton,China,Asia,37.453773,-122.2058272
+25,Atlanta,United States,North America,33.7489924,-84.3902644
+26,Auckland,New Zealand,Australia,-36.852095,174.7631803
+27,Audubon,United States,North America,41.670205,-94.9106526
+28,Augsburg,Germany,Europe,48.3690341,10.8979522
+29,Aurangabad,India,Asia,19.877263,75.3390241
+30,Aurich,Germany,Europe,53.51228535,7.391528412821689
+31,Austin,United States,North America,30.2711286,-97.7436995
+32,Baar,Switzerland,Europe,50.35440955,7.0524441530485245
+33,Baarn,Netherlands,Europe,52.2111182,5.2931841
+34,Bad Homburg,Germany,Europe,50.2267699,8.6169093
+35,Bal Harbour,United States,North America,-28.0261122,153.4226224
+36,Bangalore,India,Asia,12.9767936,77.590082
+37,Bangkok,Thailand,Asia,-7.33495,110.6589317
+38,Baoding,China,Asia,38.8579735,115.490696
+39,Barcelona,Spain,Europe,41.3828939,2.1774322
+40,Baroda,India,Asia,22.2973142,73.1942567
+41,Basel,Switzerland,Europe,47.5581077,7.5878261
+42,Bassano del Grappa,Italy,Europe,45.7669109,11.7343469
+43,Båstad,Sweden,Europe,56.4267895,12.8607151
+44,Bat-Yam,Israel,Asia,32.0154565,34.7505283
+45,Baton Rouge,United States,North America,30.4494155,-91.1869659
+46,Bedford,United States,North America,40.0271453,-78.5237447
+47,Beijing,China,Asia,40.190632,116.412144
+48,Beirut,Lebanon,Asia,33.8959203,35.47843
+49,Beit Yanay,Israel,Asia,,
+50,Bellawongarah,Australia,Australia,-34.7592151,150.6149612
+51,Belle Vernon,United States,North America,40.1250725,-79.8664356
+52,Belo Horizonte,Brazil,South America,-19.9227318,-43.9450948
+53,Belvedere,United States,North America,48.193917150000004,16.380402369966355
+54,Bentonville,United States,North America,36.3728538,-94.2088172
+55,Bergamo,Italy,Europe,45.756655699999996,9.754219200862249
+56,Berkeley,United States,North America,37.8708393,-122.272863
+57,Berlin,Germany,Europe,52.5170365,13.3888599
+58,Bermuda,Bermuda,North America,32.3040273,-64.7563086
+59,Bethesda,United States,North America,38.9846816,-77.0942447
+60,Beverly Hills,United States,North America,34.0696501,-118.3963062
+61,Bielefeld,Germany,Europe,52.0191005,8.531007
+62,Big Sky,United States,North America,45.255111,-111.26618953487102
+63,Bikaner,India,Asia,28.0159286,73.3171367
+64,Billund,Denmark,Europe,55.7247018,9.1195835
+65,Bingham Farms,United States,North America,42.515868,-83.2732643
+66,Binningen,Switzerland,Europe,49.0369745,7.2516945
+67,Binzhou,China,Asia,37.3821206,117.9647262
+68,Birchwood,United States,North America,53.4218666,-2.522364
+69,Birmingham,United States,North America,52.4796992,-1.9026911
+70,Blaricum,Netherlands,Europe,52.281133749999995,5.29371090566366
+71,Bloomfield Hills,United States,North America,42.583645,-83.2454883
+72,Bloomington,United States,North America,39.1670396,-86.5342881
+73,Bnei Atarot,Israel,Asia,32.0235637,34.9118719
+74,Bnei Brak,Israel,Asia,32.0873899,34.8324376
+75,Boca Raton,United States,North America,26.3586885,-80.0830984
+76,Bogota,Colombia,South America,4.6533816,-74.0836333
+77,Bonita Springs,United States,North America,26.339806,-81.7786972
+78,Boston,United States,North America,42.3554334,-71.060511
+79,Boucherville,Canada,North America,45.6050197,-73.4526144
+80,Bovenden,Germany,Europe,51.5869442,9.9265526
+81,Bozeman,United States,North America,45.6794293,-111.044047
+82,Branford,United States,North America,41.2795414,-72.8150989
+83,Bratislava,Slovakia,Europe,48.1516988,17.1093063
+84,Brescia,Italy,Europe,45.77958045,10.4258729694612
+85,Brisbane,Australia,Australia,-27.4689682,153.0234991
+86,Bristol,United Kingdom,Europe,51.4538022,-2.5972985
+87,Brookline,United States,North America,42.3329021,-71.1187421
+88,Brookville,United States,North America,40.8131553,-73.5673482
+89,Brownsville,United States,North America,25.9024289,-97.4981698
+90,Bruchsal,Germany,Europe,49.124118,8.5980244
+91,Brunswick,Germany,Europe,34.0718195,-78.1914215
+92,Brusque,Brazil,South America,43.7676064,2.9490127
+93,Brussels,Italy,Europe,50.8550018,4.3512333761166175
+94,Bryn Mawr,United States,North America,40.0198335,-75.3046299
+95,Bucharest,Romania,Europe,44.4361414,26.1027202
+96,Budapest,Hungary,Europe,47.48138955,19.14609412691246
+97,Buenos Aires,Argentina,South America,-34.6037181,-58.38153
+98,Burgdorf,Switzerland,Europe,47.0571316,7.6237466
+99,Burlington,Canada,North America,44.4761601,-73.212906
+100,Busan,South Korea,Asia,35.1799528,129.0752365
+101,Cairo,Egypt,Africa,30.0443879,31.2357257
+102,Camas,United States,North America,37.4020115,-6.0331571
+103,Campodoro,Italy,Europe,45.490294,11.752004
+104,Campos do Jordão,Brazil,South America,-22.738299,-45.5903769
+105,Canberra,Australia,Australia,-35.2975906,149.1012676
+106,Cape Town,South Africa,Africa,-33.928992,18.417396
+107,Cardiff,United Kingdom,Europe,51.4816546,-3.1791934
+108,Carmel,United States,North America,39.9784186,-86.1283681
+109,Cary,United States,North America,35.7882893,-78.7812081
+110,Casablanca,Morocco,Africa,33.5945144,-7.6200284
+111,Cataguazes,Brazil,South America,-23.5069481,-46.387386
+112,Cesena,Italy,Europe,44.136352,12.2422442
+113,Chang Hwa County,Taiwan,Asia,25.035002,121.37255932385222
+114,Changchun,China,Asia,43.8844201,125.3180998
+115,Changsha,China,Asia,28.1450774,113.2384362
+116,Changshu,China,Asia,31.6572954,120.7480757
+117,Changzhou,China,Asia,31.8122623,119.9691539
+118,Chaozhou,China,Asia,23.656593,116.6204223
+119,Charleston,United States,North America,32.7884363,-79.9399309
+120,Charlotte,United States,North America,35.2272086,-80.8430827
+121,Chattanooga,United States,North America,35.0457219,-85.3094883
+122,Chengdu,China,Asia,30.7001324,104.0708278
+123,Chennai,India,Asia,13.0836939,80.270186
+124,Cheongju,South Korea,Asia,36.6421169,127.4891742
+125,Chestnut Hill,United States,North America,42.3306529,-71.1661647
+126,Chevy Chase,United States,North America,38.9942121,-77.0771572
+127,Chiba,Japan,Asia,35.549399,140.2647303
+128,Chicago,United States,North America,41.8755616,-87.6244212
+129,Chongqing,China,Asia,30.05518,107.8748712
+130,Cieszyn,Poland,Europe,49.7557676,18.65623134091032
+131,Cincinnati,United States,North America,39.1014537,-84.5124602
+132,Cisco,United States,North America,32.3828077,-98.9797165
+133,Clearwater,United States,North America,27.9658533,-82.8001026
+134,Cleveland,United States,North America,41.4996574,-81.6936772
+135,Coatesville,United States,North America,39.9831616,-75.8238355
+136,Coconut Grove,United States,North America,25.7126013,-80.2569947
+137,Cologne,Germany,Europe,43.7218277,0.9774958
+138,Como,Italy,Europe,45.939475900000005,9.149410132545793
+139,Concord,United States,North America,43.207178,-71.537476
+140,Copenhagen,Denmark,Europe,55.6867243,12.5700724
+141,Coral Gables,United States,North America,25.7331105,-80.2585107
+142,Crans Montana,Switzerland,Europe,46.3304899,7.526435803722132
+143,Crocetta del Montello,Italy,Europe,45.8339959,12.0323268
+144,Croton-on-Hudson,United States,North America,41.2088215,-73.8905175
+145,Cupertino,United States,North America,37.3228934,-122.0322895
+146,Curitiba,Brazil,South America,-25.4295963,-49.2712724
+147,Cut Off,United States,North America,29.513768,-90.32390923113208
+148,Dallas,United States,North America,32.7762719,-96.7968559
+149,Danyang,China,Asia,32.0109736,119.6012702
+150,Dar es Salaam,Tanzania,Africa,-6.8160837,39.2803583
+151,Darien,Norway,Europe,41.0787079,-73.4692873
+152,Darmstadt,Germany,Europe,49.872775,8.651177
+153,Davos,Switzerland,Europe,46.796198,9.8236892
+154,Daye,China,Asia,15.3576907,-7.2542671
+155,Daytona Beach,United States,North America,29.2108147,-81.0228331
+156,Deinze,Belgium,Europe,50.9840526,3.5274017
+157,Delhi,India,Asia,28.6273928,77.1716954
+158,Delray Beach,United States,North America,26.4614625,-80.0728201
+159,Denver,United States,North America,39.7392364,-104.984862
+160,Detmold,Germany,Europe,51.936284,8.8791526
+161,Dnipro,Ukraine,Europe,51.9191343,30.8243039
+162,Doha,Qatar,Asia,25.2856329,51.5264162
+163,Donetsk,Ukraine,Europe,48.0158753,37.8013407
+164,Dongguan,China,Asia,23.0205969,113.7457788
+165,Dubai,United Arab Emirates,Asia,25.2653471,55.2924914
+166,Dublin,Ireland,Europe,53.3493795,-6.2605593
+167,Duderstadt,Germany,Europe,51.5123672,10.2610699
+168,Duluth,United States,North America,46.7729322,-92.1251218
+169,Durham,United Kingdom,Europe,54.666667,-1.75
+170,Dusseldorf,Germany,Europe,51.2254018,6.7763137
+171,East Aurora,United States,North America,42.7689141,-78.6177611
+172,East Hampton,United States,North America,40.9633868,-72.1847598
+173,East Setauket,United States,North America,40.920966,-73.093714
+174,Easton,United States,North America,40.6916081,-75.2099866
+175,Edmond,United States,North America,35.6571367,-97.4649038
+176,Edmonton,Canada,North America,53.5462055,-113.491241
+177,Eindhoven,Netherlands,Europe,51.44855695,5.450122521857143
+178,El Cerrito,United States,North America,33.8410146,-117.52079778811958
+179,El Paso,United States,North America,31.7550511,-106.488234
+180,Electra,United States,North America,34.0320855,-98.9163686
+181,Elizabeth,United States,North America,40.6639916,-74.2107006
+182,Englewood,United States,North America,39.6482059,-104.9879641
+183,Erie,United States,North America,42.1294712,-80.0852695
+184,Ernakulam,India,Asia,9.98408,76.2741457
+185,Espelkamp,Germany,Europe,52.3778041,8.6157377
+186,Esporles,Spain,Europe,39.6692405,2.5775624
+187,Eusébio,Brazil,South America,-3.8889838,-38.4546585
+188,Ezulwini,Eswatini,Africa,-26.4018193,31.178316
+189,Far Hills,United States,North America,40.684268,-74.6357148
+190,Faridabad,India,Asia,28.4031478,77.3105561
+191,Farmington Hills,United States,North America,42.4853125,-83.3771553
+192,Fayetteville,United States,North America,36.0625843,-94.1574328
+193,Felcsút,Hungary,Europe,47.4545349,18.5862386
+194,Feldmeilen,Switzerland,Europe,47.2791676,8.6207481
+195,Fiesole,Italy,Europe,43.8066689,11.2930735
+196,Fisher Island,United States,North America,25.7598373,-80.14003652640545
+197,Florianopolis,Brazil,South America,-27.5973002,-48.5496098
+198,Fort Collins,United States,North America,40.5871782,-105.0770113
+199,Fort Lauderdale,United States,North America,26.1223084,-80.1433786
+200,Fort Worth,United States,North America,32.753177,-97.3327459
+201,Fortaleza,Brazil,South America,-3.7304512,-38.5217989
+202,Foshan,China,Asia,23.0499845,113.0983795
+203,Frankfurt am Main,Germany,Europe,50.1106444,8.6820917
+204,Franklin,United States,North America,33.2002659,-95.2231752
+205,Fukuoka,Japan,Asia,33.6251241,130.6180016
+206,Fuqing,China,Asia,25.7237321,119.3795377
+207,Fuschl am See,Austria,Europe,47.7963895,13.3027787
+208,Fushun,China,Asia,41.8011658,124.7459491
+209,Fuzhou,China,Asia,27.502232,116.415177
+210,Gallatin,United States,North America,37.7509507,-88.2264519
+211,Gaomi,China,Asia,36.3654065,119.8005385
+212,Geneva,Switzerland,Europe,46.2047169,6.1423106290939335
+213,Glencoe,United States,North America,42.1350268,-87.7581188
+214,Glendora,United States,North America,34.1361187,-117.865339
+215,Gloucestershire,United Kingdom,Europe,51.8333313,-2.1666674
+216,Gold Coast,Australia,Australia,-28.0023731,153.4145987
+217,Gorinchem,Netherlands,Europe,51.8296133,4.9738743
+218,Göteborg,Sweden,Europe,57.7072326,11.9670171
+219,Gothenberg,Sweden,Europe,46.8674346,-92.1325183
+220,Gothenburg,Sweden,Europe,57.7072326,11.9670171
+221,Grand Cayman,Cayman Islands,North America,19.32984715,-81.17122162349
+222,Grand Rapids,United States,North America,42.9632425,-85.6678639
+223,Graz,Austria,Europe,47.0708678,15.4382786
+224,Grebenhain,Germany,Europe,50.4964493,9.3254613
+225,Greenwich,United States,North America,51.46862565,0.04883057313755089
+226,Grijo,Portugal,Europe,-7.4734906,110.7065678
+227,Gstaad,Switzerland,Europe,46.4761004,7.2873587
+228,Guangzhou,China,Asia,23.1301964,113.2592945
+229,Gurgaon,India,Asia,28.4646148,77.0299194
+230,Haiger,Germany,Europe,50.7420214,8.2039451
+231,Haikou,China,Asia,20.0462328,110.1956502
+232,Hamburg,Germany,Europe,53.550341,10.000654
+233,Hangzhou,China,Asia,30.2489634,120.2052342
+234,Hanoi,Vietnam,Asia,21.0283334,105.854041
+235,Haridwar,India,Asia,29.9384473,78.1452985
+236,Hattiesburg,United States,North America,31.3271189,-89.2903392
+237,Haverford,United States,North America,40.0131672,-75.2943516
+238,Hefei,China,Asia,31.8665676,117.281428
+239,Heidelberg,Germany,Europe,49.4093582,8.694724
+240,Helsingborg,Sweden,Europe,56.0442098,12.703706
+241,Helsinki,Finland,Europe,60.1674881,24.9427473
+242,Henderson,United States,North America,32.182598,-95.7893178
+243,Hengshui,China,Asia,37.7364305,115.6677229
+244,Hertfordshire,United Kingdom,Europe,51.840052299999996,-0.09785519224523963
+245,Herzliya,Israel,Asia,32.1656255,34.8469023
+246,Herzliya Pituach,Israel,Asia,32.1739444,34.8081804
+247,Herzogenaurach,Germany,Europe,49.5710376,10.8815262
+248,Highland Park,United States,North America,32.8334607,-96.7919454
+249,Hillsboro,United States,North America,45.5228939,-122.989827
+250,Hillsborough,United States,North America,27.9184543,-82.3488057
+251,Hisar,India,Asia,29.080640950000003,75.788754109493
+252,Ho Chi Minh City,Vietnam,Asia,10.7763897,106.7011391
+253,Hobe Sound,United States,North America,27.080492,-80.13991799627857
+254,Hohhot,China,Asia,40.8337963,111.6730788
+255,Hokkaido,Japan,Asia,43.4603175,143.33071579283663
+256,Holzminden,Germany,Europe,51.8989989,9.5741099
+257,Hong Kong,China,Asia,22.2793278,114.1628131
+258,Hong Kong,United Kingdom,Europe,22.2793278,114.1628131
+259,Honolulu,United States,North America,21.304547,-157.855676
+260,Houston,United States,North America,29.7589382,-95.3676974
+261,Hsinchu,Taiwan,Asia,24.8066333,120.9686833
+262,Huaibei city,China,Asia,33.9540078,116.79855841870967
+263,Huizhou,China,Asia,23.1125153,114.4127007
+264,Humlebaek,Denmark,Europe,55.9618789,12.5305462
+265,Hunts Point,United States,North America,47.6434321,-122.230124
+266,Hurden,Switzerland,Europe,47.2142501,8.8043485
+267,Huzhou,China,Asia,30.8942995,120.0851114
+268,Hyderabad,India,Asia,17.360589,78.4740613
+269,Idaho Falls,United States,North America,43.4887907,-112.03628
+270,Incline Village,United States,North America,39.2501246,-119.951909
+271,Indian Creek,United States,North America,42.2269684,-87.9797968
+272,Indian Hills,United States,North America,38.2725704,-85.6627394
+273,Indianapolis,United States,North America,39.7683331,-86.1583502
+274,Irkutsk,Russia,Europe,56.6370122,104.719221
+275,Irvine,United States,North America,33.6856969,-117.825981
+276,Islamorada,United States,North America,24.9236561,-80.6291479
+277,Isle of Man,United Kingdom,Europe,54.1936805,-4.5591148
+278,Istanbul,Turkey,Asia,41.006381,28.9758715
+279,Jackson,United States,North America,32.2998686,-90.1830408
+280,Jacksonville,United States,North America,30.3321838,-81.655651
+281,Jaipur,India,Asia,26.9154576,75.8189817
+282,Jakarta,Indonesia,Asia,-6.175247,106.8270488
+283,Jiangyin,China,Asia,31.9215518,120.2808847
+284,Jiaozuo,China,Asia,35.2075729,113.2533977
+285,Jiaxing,China,Asia,30.7474425,120.7510971
+286,Jinhua,China,Asia,29.1080344,119.6486487
+287,Jinjiang,China,Asia,30.6013439,104.1143806
+288,Johannesburg,South Africa,Africa,-26.205,28.049722
+289,Joinville,Brazil,South America,48.4433253,5.1377537
+290,Jona,Switzerland,Europe,47.2692872,8.8778671
+291,Jupiter,United States,North America,26.9342246,-80.0942087
+292,Kaliningrad,Russia,Europe,54.710128,20.5105838
+293,Kanton Schwyz,Switzerland,Europe,47.0571976,8.7222073
+294,Kaohsiung,Taiwan,Asia,22.6203348,120.3120375
+295,Karlstad,Sweden,Europe,59.3809146,13.5027631
+296,Kathmandu,Nepal,Asia,27.708317,85.3205817
+297,Katonah,United States,North America,41.25877,-73.6853852
+298,Kauai,United States,North America,22.050466550000003,-159.55876775017003
+299,Kazan,Russia,Europe,40.2054445,32.6813148
+300,Kearney,United States,North America,40.4906216,-98.9472344
+301,Kent,United Kingdom,Europe,51.20707485,0.7210361813401444
+302,Key Largo,United States,North America,25.167201,-80.37424856462349
+303,Key West,United States,North America,24.5548262,-81.8020722
+304,Kfar Shmaryahu,Israel,Asia,32.1853666,34.8197755
+305,Kielce,Poland,Europe,50.85402845,20.60991568734511
+306,Kiev,Ukraine,Europe,50.4500336,30.5241361
+307,Kingscourt,Ireland,Europe,53.9080467,-6.8054428
+308,Kirkkonummi,Finland,Europe,60.1227857,24.4406694
+309,Kitzbuhel,Germany,Europe,47.4463585,12.3911473
+310,Knoxville,United States,North America,35.9603948,-83.9210261
+311,Koenigstein,Germany,Europe,50.1818833,8.465271
+312,Kohler,United States,North America,43.7391616,-87.7817541
+313,Kolkata,India,Asia,22.5726459,88.3638953
+314,Konstancin,Poland,Europe,52.0941864,19.3486177
+315,Kottayam,India,Asia,9.591564,76.5221599
+316,Krasnodar,Russia,Europe,45.0351532,38.9772396
+317,Krefeld,Germany,Europe,51.3331205,6.5623343
+318,"Krotoszyn,",Poland,Europe,51.695926,17.4374158
+319,Kuala Lumpur,Malaysia,Asia,3.1516964,101.6942371
+320,Kudus,Indonesia,Asia,19.5323299,73.0999374
+321,Kuenzelsau,Germany,Europe,49.2803765,9.6901512
+322,Küsnacht,Switzerland,Europe,47.3176276,8.5830859
+323,Kverva,Norway,Europe,63.7054863,8.529964
+324,Kyoto,Japan,Asia,35.021041,135.7556075
+325,La Coruna,Spain,Europe,43.3709703,-8.3959425
+326,La Jolla,United States,North America,32.8401623,-117.2740777
+327,Lagos,Nigeria,Africa,6.4550575,3.3941795
+328,Laguna Beach,United States,North America,33.5426975,-117.785366
+329,Laizhou,China,Asia,37.1773133,119.9370943
+330,Lake Worth,United States,North America,32.8048507,-97.44502
+331,Lakeland,United States,North America,28.0394654,-81.9498042
+332,Lanai,United States,North America,11.0234071,-74.84305212680471
+333,Landsberg,Germany,Europe,48.0497474,10.8768728
+334,Langfang,China,Asia,39.5302055,116.6926134
+335,Lanzhou,China,Asia,36.474436,103.733224
+336,Larchmont,United States,North America,40.9278769,-73.7517983
+337,Las Vegas,United States,North America,36.1672559,-115.148516
+338,Lausanne,Switzerland,Europe,46.5218269,6.6327025
+339,Laval,France,Europe,48.0706687,-0.7734022
+340,Leawood,United States,North America,38.966673,-94.6169012
+341,Leicester,United Kingdom,Europe,52.6362,-1.1331969
+342,Leipzig,Germany,Europe,51.3406321,12.3747329
+343,Lexington,United States,North America,38.0464066,-84.4970393
+344,Lianyungang,China,Asia,34.5933134,119.2171662
+345,Liaocheng,China,Asia,36.4441808,115.9642007
+346,Liaoyang,China,Asia,41.2742898,123.1695757
+347,Liberty,United States,North America,30.0856736,-94.7856262
+348,Liestal,Switzerland,Europe,47.4839723,7.7347783
+349,Lighthouse Point,United States,North America,26.27787305,-80.08896651356972
+350,Lille,France,Europe,50.6365654,3.0635282
+351,Lima,Peru,South America,-12.0621065,-77.0365256
+352,Limassol,Cyprus,Europe,34.6852901,33.0332657
+353,Linhai,China,Asia,28.8616886,121.1402223
+354,Linyi,China,Asia,35.1032403,118.3506988
+355,Lipperswil,Switzerland,Europe,47.6158599,9.0562291
+356,Little Jackson Hole,United States,North America,,
+357,Little Rock,United States,North America,34.7465071,-92.2896267
+358,Livingston,United States,North America,40.8682487,-88.5631125
+359,Locust Valley,United States,North America,40.8757712,-73.5971927
+360,London,United Kingdom,Europe,51.4893335,-0.14405508452768728
+361,Longkou,China,Asia,37.6443474,120.4708629
+362,Los Altos,United States,North America,42.7811566,-3.620209626541331
+363,Los Angeles,United States,North America,34.0536909,-118.242766
+364,Luancheng,China,Asia,37.8845246,114.6519713
+365,Lucerne,Switzerland,Europe,47.0505452,8.3054682
+366,Lugano,Switzerland,Europe,46.0050102,8.9520281
+367,Luohe,China,Asia,33.688056,113.913056
+368,Lutherville-Timonium,United States,North America,39.423629950000006,-76.62091509974786
+369,Luzerne,Switzerland,Europe,41.1749635,-75.9695233
+370,Lyon,France,Europe,45.7578137,4.8320114
+371,Madison,United States,North America,43.074761,-89.3837613
+372,Madrid,Spain,Europe,40.4167047,-3.7035825
+373,Magnitogorsk,Russia,Europe,53.42568665,59.050732193093054
+374,Mainz,Germany,Europe,50.0012314,8.2762513
+375,Makati,Philippines,Asia,14.5567949,121.0211226
+376,Malibu,United States,North America,34.035591,-118.689423
+377,Manalapan,United States,North America,40.2852895,-74.333495
+378,Manama,Bahrain,Asia,26.2235041,50.5822436
+379,Manantiales,Uruguay,South America,-34.9059095,-54.8238616
+380,Manaus,Brazil,South America,-3.1316333,-59.9825041
+381,Manila,Philippines,Asia,14.5906346,120.9799964
+382,Mankato,United States,North America,44.1634663,-93.9993505
+383,Marbella,Spain,Europe,36.508976,-4.88562
+384,Marburg,Germany,Europe,50.8090106,8.7704695
+385,Marin County,United States,North America,38.0409144,-122.6199638
+386,Marina Del Rey,United States,North America,33.9776848,-118.448647
+387,Martigny,Switzerland,Europe,49.8597222,4.1375
+388,Matadepera,Spain,Europe,41.6012311,2.0275199
+389,McLean,United States,North America,40.4631789,-88.8196613
+390,Medina,United States,North America,29.2836281,-99.1126826
+391,Meishan,China,Asia,29.9866838,103.7790009
+392,Melbourne,Australia,Australia,-37.8142454,144.9631732
+393,Melsungen,Germany,Europe,51.1425944,9.5833158
+394,Menlo Park,United States,North America,37.4519671,-122.177992
+395,Mercer Island,United States,North America,47.5602073,-122.22014226861951
+396,Merseyside,United Kingdom,Europe,53.4953602,-2.973937960086006
+397,Mevaseret Zion,Israel,Asia,31.8057198,35.152731
+398,Mexico City,Mexico,North America,19.4326296,-99.1331785
+399,Miami,United States,North America,25.7741728,-80.19362
+400,Miami Beach,United States,North America,25.7929198,-80.1353006
+401,Miamisburg,United States,North America,39.6428362,-84.2866083
+402,Milan,Italy,Europe,45.4641943,9.1896346
+403,Millburn,United States,North America,57.4814618,-4.2075028
+404,Millersville,United States,North America,35.3038485,-118.4578633
+405,Milton,United States,North America,30.6324149,-87.0396881
+406,Missoula,United States,North America,46.8701049,-113.995267
+407,Modena,Italy,Europe,44.5384728,10.935960870530739
+408,Monsey,United States,North America,41.1112069,-74.0684751
+409,Montabaur,Germany,Europe,50.4362219,7.8302494
+410,Montagnola,Switzerland,Europe,45.9829744,8.9184373
+411,Monte Carlo,Monaco,Europe,43.7402961,7.426559
+412,Monte vista,United States,North America,37.5816182,-106.1496731
+413,Montecito,United States,North America,34.4366626,-119.6320753
+414,Montpellier,France,Europe,43.6112422,3.8767337
+415,Montreal,Canada,North America,45.5031824,-73.5698065
+416,Moscow,Russia,Europe,55.625578,37.6063916
+417,Mount Kisco,United States,North America,41.2042616,-73.7270761
+418,Mumbai,India,Asia,18.9733536,72.82810491917377
+419,Munich,Germany,Europe,48.1371079,11.5753822
+420,Murmansk,Russia,Europe,68.970665,33.07497
+421,Muscat,Oman,Asia,23.5882019,58.3829448
+422,Nanjing,China,Asia,32.0438284,118.7788631
+423,Nanping,China,Asia,23.7824277,121.4580926
+424,Nantes,France,Europe,47.2186371,-1.5541362
+425,Nantong,China,Asia,31.9827896,120.8904588
+426,Nanyang,China,Asia,35.0947913,116.6666407
+427,Naples,United States,North America,40.8358846,14.2487679
+428,Nashville,United States,North America,36.1622767,-86.7742984
+429,Neckarsulm,Germany,Europe,49.191133,9.2248391
+430,Necker Island,United Kingdom,Europe,23.576479550000002,-164.7047211950301
+431,Netanya,Israel,Asia,32.3286181,34.8566246
+432,Neustadt an der Waldnaab,Germany,Europe,49.7314121,12.1732938
+433,New Albany,United States,North America,38.2856247,-85.8241312
+434,New Delhi,India,Asia,28.6138954,77.2090057
+435,New Orleans,United States,North America,29.9759983,-90.0782127
+436,New South Wales,Australia,Australia,-31.8759835,147.2869493
+437,New York City,United States,North America,40.7127281,-74.0060152
+438,Newmarket,United Kingdom,Europe,52.2443103,0.4065503
+439,Newport Beach,United States,North America,33.6170092,-117.9294401
+440,Newport Coast,United States,North America,33.5963719,-117.826821
+441,Newton,United States,North America,30.8118989,-93.740504
+442,Nicasio,United States,North America,-15.2355119,-70.260922
+443,Ningbo,China,Asia,29.8622194,121.6203873
+444,Ningde,China,Asia,26.6695006,119.5432715
+445,North Palm Beach,United States,North America,26.8237944,-80.05592659756701
+446,North Salem,United States,North America,41.3348169,-73.5712374
+447,North York,Canada,North America,43.7543311,-79.449109096412
+448,Norwich,United Kingdom,Europe,52.6285576,1.2923954
+449,Nottinghamshire,United Kingdom,Europe,53.1459288,-1.0214971168122484
+450,Oak Brook,United States,North America,41.8328085,-87.9289504
+451,Oakville,Canada,North America,43.447436,-79.666672
+452,Ohningen,Germany,Europe,47.6617131,8.8873571
+453,Oklahoma City,United States,North America,35.4729886,-97.5170536
+454,Old Lyme,United States,North America,41.3159315,-72.3289715
+455,Omaha,United States,North America,41.2587459,-95.9383758
+456,Ormond Beach,United States,North America,29.2854132,-81.0557921
+457,Orono,United States,North America,44.883607,-68.672791
+458,Osaka,Japan,Asia,34.7021912,135.4955866
+459,Oslo,Norway,Europe,59.9133301,10.7389701
+460,Ottawa,Canada,North America,45.4208777,-75.6901106
+461,Oveido,Spain,Europe,14.7622219,120.9614653
+462,Oyster Bay,United States,North America,40.7696568,-73.49986083708588
+463,Pacific Palisades,United States,North America,34.0480643,-118.5264706
+464,Palisades,United States,North America,41.0111793,-73.91346
+465,Palm Beach,United States,North America,26.6279798,-80.4494174
+466,Palma de Majorca,Spain,Europe,45.63566395,13.060816198533619
+467,Palo Alto,United States,North America,37.4443293,-122.1598465
+468,Panzhihua,China,Asia,26.5860102,101.7179276
+469,Paradise Island,Bahamas,Australia,25.08335515,-77.3063341678734
+470,Paradise Valley,United States,North America,33.5428006,-111.9556001
+471,Paris,France,Europe,48.8534951,2.3483915
+472,Park City,United States,North America,40.6460921,-111.4979963
+473,Passau,Germany,Europe,48.5748229,13.4609744
+474,Perth,Australia,Australia,-31.9558933,115.8605855
+475,Petaling Jaya,Malaysia,Asia,3.0988792,101.6454202
+476,Philadelphia,United States,North America,39.9527237,-75.1635262
+477,Phnom Penh,Cambodia,Asia,11.568271,104.9224426
+478,Phoenix,United States,North America,33.4484367,-112.074141
+479,Pittsburgh,United States,North America,40.4416941,-79.9900861
+480,Plantation,United States,North America,26.12744855,-80.25779069425029
+481,Pleasanton,United States,North America,37.6624312,-121.8746789
+482,Plymouth,United States,North America,50.3714122,-4.1424451
+483,Ponzano Veneto,Italy,Europe,45.723851,12.194218
+484,Port Washington,United States,North America,40.8257072,-73.6958069
+485,Portage,United States,North America,41.1496775,-81.2082
+486,Portland,United States,North America,45.5202471,-122.674194
+487,Porto Alegre,Brazil,South America,-30.0324999,-51.2303767
+488,Portola Valley,United States,North America,37.3736298,-122.219047
+489,Potomac,United States,North America,39.0180508,-77.1956331355745
+490,Prague,Czech Republic,Europe,50.0596288,14.446459273258009
+491,Princeton,United States,North America,40.3496953,-74.6597376
+492,Providence,United States,North America,41.8239891,-71.4128343
+493,Provo,United States,North America,40.2337289,-111.6587085
+494,Pujols,France,Europe,44.8082356,-0.0312502
+495,Pune,India,Asia,18.521428,73.8544541
+496,Putian,China,Asia,25.4965882,118.8500963
+497,Qingdao,China,Asia,36.0637967,120.3192081
+498,Qinhuangdao,China,Asia,39.9395724,119.5894129
+499,Quanzhou,China,Asia,24.8755492,118.6723605
+500,Quzhou,China,Asia,36.7698986,114.9585243
+501,Racine,United States,North America,42.7260523,-87.7825242
+502,Raleigh,United States,North America,35.7803977,-78.6390989
+503,Rancho Santa Fe,United States,North America,33.024231400000005,-117.19797812499999
+504,Rechterfeld,Germany,Europe,52.8422565,8.3847971
+505,Redding,United States,North America,40.5863563,-122.391675
+506,Redlands,United States,North America,34.0550328,-117.1827445
+507,Redwood City,United States,North America,37.4863239,-122.232523
+508,Rennes,France ,Europe,48.1113387,-1.6800198
+509,Reno,United States,North America,39.5261206,-119.8126581
+510,Rheda-Wiedenbrück,Germany,Europe,51.8428202,8.2985615
+511,Rheinfelden,Switzerland,Europe,47.5543859,7.7922905
+512,Rhinebeck,United States,North America,41.9267604,-73.912763
+513,Rio de Janeiro,Brazil,South America,-22.9110137,-43.2093727
+514,Rochester,United States,North America,43.157285,-77.615214
+515,Rolling Hills,United States,North America,33.7668041,-118.3496623
+516,Rome,Italy,Europe,41.8933203,12.4829321
+517,Rostov-on-Don,Russia,Europe,47.2216548,39.7096061
+518,Rottendorf,Germany,Europe,49.7913804,10.0246112
+519,Ruschlikon,Switzerland,Europe,47.307465,8.5546421
+520,Ruzhou,China,Asia,34.1678145,112.8392579
+521,Rye,United States,North America,46.8712641,5.4297754
+522,Saddle River,United States,North America,41.0317637,-74.1020866
+523,Sag Harbor,United States,North America,40.9978727,-72.2922292
+524,Sagaponack,United States,North America,40.9253776,-72.2781375
+525,Saint John,Canada,North America,45.2787992,-66.0585188
+526,Saint Petersburg,United States,North America,59.9606739,30.1586551
+527,Saint Petersburg,Russia,Europe,59.9606739,30.1586551
+528,Saint-Émilion,France,Europe,44.8931452,-0.1560662
+529,Saitama,Japan,Asia,35.9754168,139.4160114
+530,Salt Lake City,United States,North America,40.7596198,-111.886797
+531,San Anselmo,United States,North America,37.9744323,-122.561503
+532,San Antonio,United States,North America,29.4246002,-98.4951405
+533,San Carlos,United States,North America,37.504936,-122.261823
+534,San Diego,United States,North America,32.7174202,-117.162772
+535,San Francisco,United States,North America,37.7792588,-122.4193286
+536,San Jose,United States,North America,37.3361663,-121.890591
+537,San Juan Islands,United States,North America,57.2870602,-134.00490622741472
+538,San Mateo,United States,North America,37.496904,-122.3330573
+539,Sands Point,United States,North America,40.8517669,-73.718742
+540,Sant Elpidio A Mare,Italy,Europe,43.2347405,13.6878517
+541,Santa Barbara,United States,North America,34.4221319,-119.702667
+542,Santa Clara,United States,North America,37.2333253,-121.6846349
+543,Santa Cruz,United States,North America,28.467178,-16.2507843
+544,Santa Monica,United States,North America,34.0194704,-118.491227
+545,Santiago,Chile,South America,9.8694792,-83.7980749
+546,Santo Andre,Brazil,South America,-23.6533509,-46.5279039
+547,Sao Jose dos Pinhais,Brazil,South America,-25.533816,-49.2072163
+548,Sao Paulo,Brazil,South America,-23.5506507,-46.6333824
+549,Sarasota,United States,North America,27.3365805,-82.5308545
+550,Saratoga,United States,North America,43.0833231,-73.8712155
+551,Scarborough,United States,North America,54.2820009,-0.4011868
+552,Schindellegi,Germany,Europe,47.175612,8.7112027
+553,Schwieberdingen,Germany,Europe,48.8749991,9.0778484
+554,Scottsdale,United States,North America,33.4942189,-111.926018
+555,Seattle,United States,North America,47.6038321,-122.330062
+556,Selangor,Malaysia,Asia,3.2083304,101.304146
+557,Seoul,South Korea,Asia,37.5666791,126.9782914
+558,Sewickley,United States,North America,40.5403417,-80.1805269
+559,Shanghai,China,Asia,31.2312707,121.4700152
+560,Shangyu,China,Asia,30.0357,120.8640628
+561,Shantou,China,Asia,23.3563921,116.6775856
+562,Shaoxing,China,Asia,29.9992425,120.576854
+563,Shelburne,United States,North America,43.7656395,-65.3174974
+564,Shenyang,China,Asia,41.8026095,123.4279105
+565,Shenzhen,China,Asia,22.5445741,114.0545429
+566,Shijiazhuang,China,Asia,38.0429742,114.5088385
+567,Short Hills,United States,North America,40.7478786,-74.3254271
+568,Shunde,China,Asia,22.8073913,113.2883085
+569,Singapore,Singapore,Asia,1.357107,103.8194992
+570,Sioux Falls,United States,North America,43.5476008,-96.7293629
+571,Solomeo,Italy,Europe,43.0830922,12.2772146
+572,Southampton,United States,North America,50.9025349,-1.404189
+573,Spilamberto,Italy,Europe,44.533413,11.0240826
+574,Springdale,United States,North America,36.1867442,-94.1288142
+575,Springfield,United States,North America,39.7990175,-89.6439575
+576,St. Brelade,United Kingdom,Europe,49.1930223,-2.1996144
+577,St. Gallen,Switzerland,Europe,47.425618,9.3762397
+578,St. Louis,United States,North America,38.6280278,-90.1910154
+579,St. Paul,United States,North America,53.9446204,-111.2100163
+580,St. Peter Port,Guernsey,Europe,49.4568142,-2.5389979
+581,St. Petersburg,United States,North America,59.9606739,30.1586551
+582,St. Petersburg,Russia,Europe,59.9606739,30.1586551
+583,St. Wendel,Germany,Europe,49.4787585,7.072434727256018
+584,Steamboat Springs,United States,North America,40.4848003,-106.831735
+585,Stellenbosch,South Africa,Africa,-33.934444,18.869167
+586,Stockholm,Sweden,Europe,59.3251172,18.0710935
+587,Stoke-on-Trent,United Kingdom,Europe,53.0162014,-2.1812607
+588,Straelen,Germany,Europe,51.4439341,6.2694388
+589,Stuttgart,Germany,Europe,48.7784485,9.1800132
+590,Sugar Land,United States,North America,29.6196787,-95.6349463
+591,Suqian,China,Asia,33.9644701,118.2696994
+592,Surabaya,Indonesia,Asia,-7.2459717,112.7378266
+593,Surfers Paradise,Australia,Australia,-27.9989899,153.42398
+594,Surgut,Russia,Europe,61.254032,73.3964
+595,Surrey,United Kingdom,Europe,51.2715316,-0.3414523511290909
+596,Suzhou,China,Asia,31.3016935,120.5810725
+597,Sydney,Australia,Australia,-33.8698439,151.2082848
+598,Taichung,Taiwan,Asia,24.163162,120.6478282
+599,Tainan,Taiwan,Asia,22.9912348,120.184982
+600,Taipei,Taiwan,Asia,25.0375198,121.5636796
+601,Taixing,China,Asia,32.1738588,120.0466771
+602,Taizhou,China,Asia,28.6581723,121.4163876
+603,Tampa,United States,North America,27.9477595,-82.458444
+604,Taoyuan,Taiwan,Asia,24.9929995,121.3010003
+605,Tarrytown,United States,North America,41.0762077,-73.8587461
+606,Tawau,Malaysia,Asia,4.2435206,117.885331
+607,Tbilisi,Georgia,Asia,41.6934591,44.8014495
+608,Tegernsee,Germany,Europe,47.7099191,11.7543337
+609,Tel Aviv,Israel,Asia,32.0852997,34.7818064
+610,Tempe,United States,North America,33.4255117,-111.940016
+611,Tervuren,Belgium,Europe,50.8241883,4.5138824
+612,The Plains,United States,North America,38.8624506,-77.774073
+613,The Woodlands,United States,North America,30.1734194,-95.504686
+614,Thrissur,India,Asia,10.5270099,76.214621
+615,Tianjin,China,Asia,39.3032619,117.4163641
+616,Tokyo,Japan,Asia,35.6821936,139.762221
+617,Tonghua,China,Asia,41.7260568,125.9339857
+618,Tongxiang,China,Asia,30.6316971,120.5610365
+619,Torino,Italy,Europe,45.0677551,7.6824892
+620,Toronto,Canada,North America,43.6534817,-79.3839347
+621,Treviso,Italy,Europe,45.806691349999994,12.206315763116372
+622,Trivandrum,India,Asia,8.4882267,76.947551
+623,Trondheim,Norway,Europe,63.4304475,10.3952118
+624,Tulsa,United States,North America,36.1563122,-95.9927516
+625,Turin,Italy,Europe,45.0677551,7.6824892
+626,Turks and Caicos Islands,Turks and Caicos Islands,North America,21.721746,-71.5527809
+627,Ulm,Germany,Europe,48.3966578,9.9931893
+628,Urumchi,China,Asia,43.419754,87.319461
+629,Urumqi,China,Asia,43.419754,87.319461
+630,Vadodara,India,Asia,22.2973142,73.1942567
+631,Vaduz,Liechtenstein,Europe,47.1392862,9.5227962
+632,Valencia,Spain,Europe,39.4697065,-0.3763353
+633,Vancouver,Canada,North America,49.2608724,-123.113952
+634,Venice,United States,North America,45.4371908,12.3345898
+635,Ventura,United States,North America,34.4458248,-119.0779359
+636,Verbier,France,Europe,46.0961011,7.2286765
+637,Verkhniaya Pyshma,Russia,Europe,,
+638,Vettre,Norway,Europe,59.8239244,10.4662329
+639,Vienna,Austria,Europe,48.2083537,16.3725042
+640,Virginia Beach,United States,North America,36.8529841,-75.9774183
+641,Visbek,Germany,Europe,52.8337724,8.3148496
+642,Vladivostok,Russia,Europe,43.1150678,131.8855768
+643,Vorden,Netherlands,Europe,52.1041075,6.3126099
+644,Walldorf,Germany,Europe,49.3038134,8.6433518
+645,Warsaw,Poland,Europe,52.2337172,21.071432235636493
+646,Weifang,China,Asia,36.6961413,119.0915313
+647,Weihai,China,Asia,45.7931952,123.7132133
+648,Weinheim,Germany,Europe,49.5462349,8.6717458
+649,Weiningen,Switzerland,Europe,47.4199708,8.4366271
+650,Wellington,United States,North America,-41.2887953,174.7772114
+651,Wels,Austria,Europe,52.2928116,-3.73893
+652,Wenzhou,China,Asia,27.9963899,120.695345
+653,Westmount,Canada,North America,45.4856917,-73.596562
+654,Weston,United States,North America,51.3471927,-2.9778916
+655,Whistler,Australia,Australia,50.1171903,-122.9543022
+656,Wichita,United States,North America,37.6922361,-97.3375448
+657,Wilen,Switzerland,Europe,47.451714,9.0341561
+658,Wilen bei Wollerau,Switzerland,Europe,47.1976363,8.7343795
+659,Wilson,United States,North America,29.1589961,-98.1251465
+660,Windermere,United States,North America,54.3794828,-2.9061994
+661,Windsor,Canada,North America,51.4837886,-0.6040418665032687
+662,Winnetka,United States,North America,42.1080703,-87.7365286
+663,Wollerau,Switzerland,Europe,47.1957261,8.7194595
+664,Woodside,United States,North America,37.4299388,-122.253855
+665,Wotton-under-Edge,United Kingdom,Europe,51.6378241,-2.3547251
+666,Wuhan,China,Asia,30.5951051,114.2999353
+667,Wuhu,China,Asia,31.1800568,118.2141777
+668,Wujiang,China,Asia,30.9943375,120.59880059269469
+669,Wuxi,China,Asia,31.5776626,120.2952752
+670,Wynnewood,United States,North America,40.0028514,-75.2707469
+671,Xi'an,China,Asia,34.261004,108.9423363
+672,Xiamen,China,Asia,24.5438732,118.0768065
+673,Xianyang,China,Asia,34.3323227,108.7128495
+674,Xingtai,China,Asia,37.0616519,114.499746
+675,Xinxiang,China,Asia,35.3021133,113.9202062
+676,Xinyu,China,Asia,27.853572,114.8867147
+677,Yangzhou,China,Asia,32.3968554,119.4077658
+678,Yantai,China,Asia,37.461928,121.4425255
+679,Yanzhou,China,Asia,36.602796,109.4873978
+680,Yekaterinburg,Russia,Europe,56.839104,60.60825
+681,Yinchuan,China,Asia,38.4852037,106.2261926
+682,Yingkou,China,Asia,40.6747155,122.2357736
+683,Yixing,China,Asia,31.3495972,119.817253
+684,Yongzhou,China,Asia,25.781344,111.6979977
+685,Yorktown Heights,United States,North America,41.2709274,-73.7776336
+686,Youngstown,United States,North America,41.1035786,-80.6520161
+687,Ypsilanti,United States,North America,42.2410562,-83.613055
+688,Yunfu,China,Asia,22.9173703,112.0396246
+689,Yunlin,Taiwan,Asia,23.6990775,120.5245511
+690,Yuxi,China,Asia,24.3511487,102.527044
+691,Zermatt,Switzerland,Europe,46.0212076,7.749254
+692,Zhaoyuan,China,Asia,37.3538319,120.4281727
+693,Zhengzhou,China,Asia,34.7533392,113.6599983
+694,Zhongshan,China,Asia,24.5290384,111.2975324
+695,Zhuji,China,Asia,29.7296617,120.1805427
+696,Zhuzhou,China,Asia,27.4989086,113.1529127
+697,Zug,Switzerland,Europe,47.1486137,8.5539378
+698,Zurich,Switzerland,Europe,47.3744489,8.5410422

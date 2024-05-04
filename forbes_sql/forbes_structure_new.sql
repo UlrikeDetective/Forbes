@@ -6,7 +6,7 @@ SET GLOBAL local_infile = 'ON';
 SHOW VARIABLES LIKE 'local_infile';
 SHOW VARIABLES LIKE "secure_file_priv";
 
-drop table forbes_names; 
+-- drop table forbes_names; 
 
 CREATE TABLE forbes_names (
     Person VARCHAR(150) NOT NULL UNIQUE,
@@ -100,17 +100,21 @@ CREATE TABLE forbes_2024_04 (
     PRIMARY KEY (ID),
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
+drop table forbes_location;
 
 CREATE TABLE forbes_location (
 	ID_location int,
     City VARCHAR(100),
-    Country_of_residence varchar(100),
+    US_State VARCHAR(100),
+    Country varchar(100),
     Continent varchar(100),
+    latitude DECIMAL(22, 19),
+    longitude DECIMAL(20, 17),
     PRIMARY KEY (ID_location),
     FOREIGN KEY (City) REFERENCES forbes_names (City)
 );
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/Trial_and_error/data/Forbes/forbes_names_new.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/forbes_project/forbes_csv/forbes_names_new.csv'
 INTO TABLE forbes_names
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -124,7 +128,7 @@ Delete from forbes_names;
 Select Person From forbes_names;
 select * from forbes_names;
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/Trial_and_error/data/Forbes/forbes_2022.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/forbes_project/forbes_csv/forbes_2022.csv'
 INTO TABLE forbes_2022
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -134,7 +138,7 @@ SET Net_worth_in_BillionUSD_2022 = REPLACE(@Net_worth_in_BillionUSD_2022, ',', '
 
 Select * from forbes_2022 Limit 15;
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/Trial_and_error/data/Forbes/forbes_2023.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/forbes_project/forbes_csv/forbes_2023.csv'
 INTO TABLE forbes_2023
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -144,7 +148,7 @@ SET Net_worth_in_BillionUSD_2023 = REPLACE(@Net_worth_in_BillionUSD_2023, ',', '
 
 Select * from forbes_2023 Limit 15;
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/Trial_and_error/data/Forbes/forbes_2024_01.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/forbes_project/forbes_csv/forbes_2024_01.csv'
 INTO TABLE forbes_2024_01
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -155,7 +159,7 @@ SET Net_worth_in_BillionUSD_2024_01 = REPLACE(@Net_worth_in_BillionUSD_2024_01, 
 
 Select * from forbes_2024_01 Limit 5;
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/Trial_and_error/data/Forbes/forbes_2024_02.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/forbes_project/forbes_csv/forbes_2024_02.csv'
 INTO TABLE forbes_2024_02
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -165,7 +169,7 @@ SET Net_worth_in_BillionUSD_2024_02 = REPLACE(@Net_worth_in_BillionUSD_2024_02, 
 
 Select * from forbes_2024_02 Limit 5;
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/Trial_and_error/data/Forbes/forbes_2024_03.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/forbes_project/forbes_csv/forbes_2024_03.csv'
 INTO TABLE forbes_2024_03
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -175,7 +179,7 @@ SET Net_worth_in_BillionUSD_2024_03 = REPLACE(@Net_worth_in_BillionUSD_2024_03, 
 
 Select * from forbes_2024_03 Limit 5;
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/Trial_and_error/data/Forbes/forbes_2024_04.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/forbes_project/forbes_csv/forbes_2024_04.csv'
 INTO TABLE forbes_2024_04
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -185,12 +189,12 @@ SET Net_worth_in_BillionUSD_2024_04 = REPLACE(@Net_worth_in_BillionUSD_2024_04, 
 
 Select * from forbes_2024_04 Limit 5;
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/Trial_and_error/data/Forbes/forbes_gps.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/forbes_project/forbes_csv/forbes_data_with_coordinates.csv'
 INTO TABLE forbes_location
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(ID_location, City, Country_of_residence, Continent)
+(ID_location, City, US_State, Country, Continent, latitude, longitude)
 ;
 
-Select * from forbes_location Limit 5;
+Select * from forbes_location Limit 15;

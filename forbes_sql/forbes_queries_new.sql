@@ -66,6 +66,8 @@ SELECT
     forbes_names.City,
     forbes_names.Country_of_residence,
     forbes_names.Continent,
+    forbes_location.latitude,
+    forbes_location.longitude,
     forbes_names.Citzenship,
     forbes_names.Gender,
     forbes_2022.net_worth_in_BillionUSD_2022,
@@ -94,4 +96,6 @@ FROM
     forbes_2024_03 ON forbes_names.ID = forbes_2024_03.USER_ID
     LEFT JOIN
     forbes_2024_04 ON forbes_names.ID = forbes_2024_04.USER_ID
+    left join
+    forbes_location on forbes_names.City = forbes_location.City
 ORDER BY forbes_names.ID;
