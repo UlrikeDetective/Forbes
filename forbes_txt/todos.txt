@@ -5,6 +5,13 @@
 * analysis
 * publish
 
+Working with SQL queries
+
+- how many billionairs per country
+- sum of wealth by billionairs per country
+- sum men vs women
+- counting male - female in dataset
+
 * adding GPS data of residence - done with python code
 
 *create new Kaggle code
