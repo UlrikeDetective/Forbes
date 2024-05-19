@@ -79,7 +79,7 @@ FROM
     LEFT JOIN
     forbes_2024_04 ON forbes_names.ID = forbes_2024_04.USER_ID
 WHERE 
-    forbes_names.City LIKE 'Mountain View';
+    forbes_names.City LIKE 'Paris';
 
 SELECT 
     forbes_names.Person,
@@ -106,7 +106,8 @@ FROM
     LEFT JOIN
     forbes_2024_04 ON forbes_names.ID = forbes_2024_04.USER_ID
 WHERE 
-    forbes_names.Person IN ('Steve', 'Bill');
+    forbes_names.Person LIKE '%Steve%' OR
+    forbes_names.Person LIKE '%Bill%';
 
 SELECT 
     forbes_names.Person,
@@ -185,6 +186,6 @@ FROM
     LEFT JOIN
     forbes_2024_04 ON forbes_names.ID = forbes_2024_04.USER_ID
 WHERE 
-    forbes_names.Person = 'Steve' AND
+    forbes_names.Person LIKE '%William%' AND
     forbes_names.State = 'California';
 
