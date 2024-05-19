@@ -1,4 +1,4 @@
-Use Forbes;
+Use Forbes_new;
 
 SELECT 
     forbes_names.Person,
