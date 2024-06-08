@@ -1,4 +1,4 @@
-Use Forbes_new;
+Use Forbes;
 
 SELECT forbes_names.Person, forbes_names.ID, forbes_names.Country_of_residence, forbes_2022.net_worth_in_BillionUSD_2022
 FROM forbes_names
