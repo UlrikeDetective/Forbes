@@ -1,7 +1,7 @@
 ﻿ID;User_ID;Table_rank_2022;Person;net_worth_in_BillionUSD_2022;Age_of_person_2022;year
 1;2;1;Elon Musk;219,00;50;2022
 2;3;2;Jeff Bezos;171,00;58;2022
-3;1;3;Bernard Arnault  ;158,00;73;2022
+3;1;3;Bernard Arnault;158,00;73;2022
 4;6;4;Bill Gates;129,00;66;2022
 5;5;5;Warren Buffett;118,00;91;2022
 6;12;6;Larry Page;111,00;49;2022
@@ -11,29 +11,29 @@
 10;9;10;Mukesh Ambani;90,70;64;2022
 11;24;11;Gautam Adani;90,00;59;2022
 12;7;12;Michael Bloomberg;82,00;80;2022
-13;8;13;Carlos Slim Helu  ;81,20;82;2022
-14;11;14;Francoise Bettencourt Meyers  ;74,80;68;2022
+13;8;13;Carlos Slim Helu;81,20;82;2022
+14;11;14;Francoise Bettencourt Meyers;74,80;68;2022
 15;16;15;Mark Zuckerberg;67,30;37;2022
 16;19;16;Jim Walton;66,20;73;2022
 17;15;17;Zhong Shanshan;65,70;67;2022
 18;21;18;Alice Walton;65,30;72;2022
 19;20;19;Rob Walton;65,00;77;2022
 20;164;19;Changpeng Zhao;65,00;44;2022
-21;2606;21;Charles Koch;60,00;86;2022
-22;18;21;Julia Koch  ;60,00;59;2022
+21;17;21;Charles Koch;60,00;86;2022
+22;18;21;Julia Koch;60,00;59;2022
 23;13;23;Amancio Ortega;59,60;86;2022
 24;23;24;Michael Dell;55,10;57;2022
 25;26;25;Zhang Yiming;50,00;38;2022
-26;22;26;David Thomson  ;49,20;64;2022
-27;25;27;Phil Knight  ;47,30;84;2022
+26;22;26;David Thomson;49,20;64;2022
+27;25;27;Phil Knight;47,30;84;2022
 28;27;28;Dieter Schwarz;47,10;82;2022
 29;38;29;Robin Zeng;44,80;53;2022
 30;60;30;MacKenzie Scott;43,60;51;2022
 31;182;31;Rodolphe Saade;41,40;52;2022
-32;28;32;Francois Pinault  ;40,40;85;2022
+32;28;32;Francois Pinault;40,40;85;2022
 33;29;33;Klaus-Michael Kuehne;37,30;84;2022
 34;34;34;Ma Huateng;37,20;50;2022
-35;105;35;Karl Albrecht jr  ;36,80;64;2022
+35;105;35;Karl Albrecht jr;36,80;64;2022
 36;30;36;Giovanni Ferrero;36,20;57;2022
 37;33;37;Li Ka-shing;34,80;93;2022
 38;50;37;Stephen Schwarzman;34,80;75;2022
@@ -43,16 +43,16 @@
 42;32;41;John Mars;31,70;86;2022
 43;41;43;Alain Wertheimer;31,20;73;2022
 44;42;43;Gerard Wertheimer;31,20;71;2022
-45;54;45;German Larrea Mota Velasco  ;30,80;68;2022
+45;54;45;German Larrea Mota Velasco;30,80;68;2022
 46;52;46;Gina Rinehart;30,20;68;2022
 47;55;47;Shiv Nadar;28,70;76;2022
 48;49;48;Jim Simons;28,60;83;2022
 49;64;49;He Xiangjian;28,30;79;2022
 50;35;50;Miriam Adelson;27,50;76;2022
 51;2607;51;Dietrich Mateschitz;27,40;77;2022
-52;2608;52;Leonardo Del Vecchio  ;27,30;86;2022
+52;2608;52;Leonardo Del Vecchio;27,30;86;2022
 53;36;53;Ken Griffin;27,20;53;2022
-54;39;54;Tadashi Yanai  ;26,10;73;2022
+54;39;54;Tadashi Yanai;26,10;73;2022
 55;2609;55;William Lei Ding;25,20;50;2022
 56;51;56;Susanne Klatten;24,30;59;2022
 57;68;56;Cyrus Poonawalla;24,30;80;2022
@@ -65,16 +65,16 @@
 64;61;64;R. Budi Hartono;23,20;81;2022
 65;77;65;Leonard Lauder;23,10;89;2022
 66;316;66;Guillaume Pousaz;23,00;40;2022
-67;65;67;Iris Fontbona  ;22,80;79;2022
+67;65;67;Iris Fontbona;22,80;79;2022
 68;63;67;Jack Ma;22,80;57;2022
 69;66;69;Michael Hartono;22,30;82;2022
 70;102;70;Eric Schmidt;22,10;66;2022
 71;81;71;Ray Dalio;22,00;72;2022
 72;90;71;Daniel Gilbert;22,00;60;2022
-73;3011;73;Thomas Frist Jr  ;21,80;83;2022
+73;3011;73;Thomas Frist Jr;21,80;83;2022
 74;69;74;Masayoshi Son;21,30;64;2022
 75;72;75;Abigail Johnson;21,20;60;2022
-76;97;76;Rupert Murdoch  ;20,80;91;2022
+76;97;76;Rupert Murdoch;20,80;91;2022
 77;59;77;Stefan Quandt;20,70;55;2022
 78;76;78;Jensen Huang;20,60;59;2022
 79;112;79;Huang Shilin;20,30;55;2022
@@ -82,44 +82,44 @@
 81;111;81;Radhakishan Damani;20,00;67;2022
 82;104;82;Pang Kang;19,60;66;2022
 83;86;83;Wang Chuanfu;19,50;56;2022
-84;46;84;Reinhold Wuerth  ;19,00;86;2022
-85;98;85;Theo Albrecht jr  ;18,70;71;2022
-86;250;85;Yang Huiyan  ;18,70;40;2022
+84;46;84;Reinhold Wuerth;19,00;86;2022
+85;98;85;Theo Albrecht jr;18,70;71;2022
+86;250;85;Yang Huiyan;18,70;40;2022
 87;70;87;Vladimir Lisin;18,40;65;2022
 88;586;88;Fan Hongwei;18,20;55;2022
 89;91;89;Lakshmi Mittal;17,90;71;2022
 90;3105;90;Andrew Forrest;17,80;60;2022
-91;140;91;Jiang Rensheng  ;17,70;68;2022
-92;94;91;Savitri Jindal  ;17,70;72;2022
+91;140;91;Jiang Rensheng;17,70;68;2022
+92;94;91;Savitri Jindal;17,70;72;2022
 93;83;91;Wang Wenyin;17,70;54;2022
 94;100;94;Li Xiting;17,60;71;2022
 95;101;94;Stefan Persson;17,60;74;2022
 96;92;96;Steve Cohen;17,40;65;2022
 97;62;97;Vladimir Potanin;17,30;61;2022
-98;87;98;Harold Hamm  ;17,20;76;2022
+98;87;98;Harold Hamm;17,20;76;2022
 99;189;99;Sun Piaoyang;17,10;63;2022
-100;192;100;Luo Liguo  ;17,00;66;2022
+100;192;100;Luo Liguo;17,00;66;2022
 101;108;100;Peter Woo;17,00;75;2022
 102;43;102;Gianluigi Aponte;16,80;81;2022
 103;88;103;David Tepper;16,70;64;2022
-104;99;104;Renata Kellnerova  ;16,60;54;2022
+104;99;104;Renata Kellnerova;16,60;54;2022
 105;96;104;John Menard jr;16,60;82;2022
 106;121;106;Kumar Birla;16,50;54;2022
 107;93;106;Carl Icahn;16,50;86;2022
 108;594;106;Hank Meijer;16,50;64;2022
 109;74;106;Lukas Walton;16,50;35;2022
-110;142;110;Laurene Powell Jobs  ;16,40;58;2022
+110;142;110;Laurene Powell Jobs;16,40;58;2022
 111;67;111;James Ratcliffe;16,30;69;2022
 112;95;112;Donald Bren;16,20;89;2022
 113;117;113;Xu Hang;16,10;55;2022
 114;133;114;Lu Xiangyang;15,70;59;2022
 115;109;115;Dilip Shanghvi;15,60;66;2022
-116;118;116;Wei Jianjun  ;15,50;58;2022
-117;107;117;Jorge Paulo Lemann  ;15,40;82;2022
+116;118;116;Wei Jianjun;15,50;58;2022
+117;107;117;Jorge Paulo Lemann;15,40;82;2022
 118;84;117;Eyal Ofer;15,40;71;2022
 119;166;119;Mike Cannon-Brookes;15,30;42;2022
 120;176;119;Wu Yajun;15,30;58;2022
-121;116;121;Charlene de Carvalho-Heineken  ;15,20;67;2022
+121;116;121;Charlene de Carvalho-Heineken;15,20;67;2022
 122;103;121;Michael Platt;15,20;54;2022
 123;145;123;Pavel Durov;15,10;37;2022
 124;174;123;Scott Farquhar;15,10;42;2022
@@ -136,12 +136,12 @@
 135;132;135;Joseph Lau;13,60;70;2022
 136;308;135;Anders Holch Povlsen;13,60;49;2022
 137;113;137;Dhanin Chearavanont;13,50;82;2022
-138;156;138;Gong Hongjia  ;13,20;57;2022
+138;156;138;Gong Hongjia;13,20;57;2022
 139;178;138;Liu Yongxing;13,20;73;2022
 140;79;138;Alexey Mordashov;13,20;56;2022
 141;249;138;Wang Jianlin;13,20;67;2022
 142;168;142;David Duffield;12,90;81;2022
-143;236;142;Li Zhenguo  ;12,90;54;2022
+143;236;142;Li Zhenguo;12,90;54;2022
 144;134;144;Harry Triguboff;12,80;89;2022
 145;157;144;Zhang Zhidong;12,80;50;2022
 146;125;146;Chen Bang;12,70;56;2022
@@ -149,7 +149,7 @@
 148;2613;146;Hinduja brothers;12,70;64;2022
 149;123;149;Kwong Siu-hing;12,60;92;2022
 150;223;150;Pei Zhenhua;12,50;63;2022
-151;159;151;Ricardo Salinas Pliego  ;12,40;66;2022
+151;159;151;Ricardo Salinas Pliego;12,40;66;2022
 152;198;152;Jim Pattison;12,20;93;2022
 153;208;152;Charles Schwab;12,20;84;2022
 154;120;154;Goh Cheng Liang;12,10;94;2022
@@ -157,8 +157,8 @@
 156;115;156;Charoen Sirivadhanabhakdi;12,00;77;2022
 157;48;156;Jeff Yass;12,00;63;2022
 158;127;158;John Fredriksen;11,90;77;2022
-159;146;158;Andreas Struengmann  ;11,90;72;2022
-160;147;158;Thomas Struengmann  ;11,90;72;2022
+159;146;158;Andreas Struengmann;11,90;72;2022
+160;147;158;Thomas Struengmann;11,90;72;2022
 161;137;161;Mikhail Fridman;11,80;57;2022
 162;138;161;Sarath Ratanavadi;11,80;56;2022
 163;143;163;Robert Kuok;11,70;98;2022
@@ -189,7 +189,7 @@
 188;80;188;Vagit Alekperov;10,50;71;2022
 189;220;188;Richard Liu;10,50;48;2022
 190;124;188;Idan Ofer;10,50;66;2022
-191;184;191;Melker Schorling  ;10,40;74;2022
+191;184;191;Melker Schorling;10,40;74;2022
 192;234;192;Chase Coleman III;10,30;46;2022
 193;2617;192;Shuirong Li;10,30;65;2022
 194;242;192;Stefano Pessina;10,30;80;2022
@@ -201,11 +201,11 @@
 200;732;197;Yu Renrong;10,10;56;2022
 201;165;201;Andrew Beal;9,90;69;2022
 202;131;201;George Kaiser;9,90;79;2022
-203;274;201;Qi Shi  ;9,90;52;2022
+203;274;201;Qi Shi;9,90;52;2022
 204;396;201;Luis Carlos Sarmiento;9,90;89;2022
-205;233;201;Andreas von Bechtolsheim  ;9,90;66;2022
+205;233;201;Andreas von Bechtolsheim;9,90;66;2022
 206;129;206;Jan Koum;9,80;46;2022
-207;718;206;Jorge Moll Filho  ;9,80;77;2022
+207;718;206;Jorge Moll Filho;9,80;77;2022
 208;207;206;Azim Premji;9,80;76;2022
 209;215;206;Finn Rausing;9,80;67;2022
 210;216;206;Jorn Rausing;9,80;62;2022
@@ -217,14 +217,14 @@
 216;353;214;Gordon Moore;9,50;93;2022
 217;310;214;Wang Laichun;9,50;54;2022
 218;228;218;Graeme Hart;9,40;66;2022
-219;240;218;Zheng Shuliang  ;9,40;76;2022
+219;240;218;Zheng Shuliang;9,40;76;2022
 220;285;220;Cao Renxian;9,30;53;2022
 221;256;221;Nathan Blecharczyk;9,20;38;2022
 222;202;221;James Dyson;9,20;74;2022
 223;211;223;Ivan Glasenberg;9,10;65;2022
 224;532;223;Kim Beom-su;9,10;56;2022
 225;266;223;Jay Y. Lee;9,10;53;2022
-226;281;223;Liu Yonghao  ;9,10;70;2022
+226;281;223;Liu Yonghao;9,10;70;2022
 227;235;227;Ann Walton Kroenke;9,00;73;2022
 228;365;227;Li Ping;9,00;54;2022
 229;262;227;Eric Wittouck;9,00;75;2022
@@ -232,34 +232,34 @@
 231;188;230;Friedhelm Loh;8,90;75;2022
 232;368;230;Xavier Niel;8,90;54;2022
 233;226;230;Michael Otto;8,90;78;2022
-234;155;230;Johann Rupert  ;8,90;71;2022
+234;155;230;Johann Rupert;8,90;71;2022
 235;983;235;Hui Ka Yan;8,80;63;2022
 236;340;235;Pauline MacMillan Keinath;8,80;88;2022
-237;2619;235;Herbert Kohler jr  ;8,80;83;2022
+237;2619;235;Herbert Kohler jr;8,80;83;2022
 238;453;235;Li Ge;8,80;55;2022
 239;248;235;Kushal Pal Singh;8,80;90;2022
 240;318;235;Zong Qinghou;8,80;76;2022
 241;430;241;Cai Kui;8,70;59;2022
 242;898;241;Charles Ergen;8,70;69;2022
-243;399;241;Gao Jifan  ;8,70;57;2022
+243;399;241;Gao Jifan;8,70;57;2022
 244;258;241;Bernard Marcus;8,70;92;2022
-245;238;241;Nicky Oppenheimer  ;8,70;76;2022
+245;238;241;Nicky Oppenheimer;8,70;76;2022
 246;2623;246;Bajaj siblings;8,60;64;2022
 247;3015;246;Ernest Garcia II.;8,60;64;2022
-248;2620;246;Paul Xiaoming Lee  ;8,60;64;2022
+248;2620;246;Paul Xiaoming Lee;8,60;64;2022
 249;371;246;George Soros;8,60;91;2022
-250;214;246;Wang Liping  ;8,60;56;2022
+250;214;246;Wang Liping;8,60;56;2022
 251;199;251;Ernesto Bertarelli;8,50;56;2022
 252;321;251;Tamara Gustavson;8,50;60;2022
-253;231;251;Carlos Alberto Sicupira  ;8,50;74;2022
+253;231;251;Carlos Alberto Sicupira;8,50;74;2022
 254;251;254;Laurent Dassault;8,40;68;2022
 255;252;254;Thierry Dassault;8,40;65;2022
 256;254;254;Marie-Helene Habert-Dassault;8,40;57;2022
-257;342;254;Liu Jincheng  ;8,40;57;2022
+257;342;254;Liu Jincheng;8,40;57;2022
 258;301;254;Ma Jianrong;8,40;58;2022
 259;303;254;Steven Rales;8,40;71;2022
 260;292;254;Joseph Tsai;8,40;58;2022
-261;243;254;Francine von Finck  ;8,40;64;2022
+261;243;254;Francine von Finck;8,40;64;2022
 262;213;254;Anthony von Mandl;8,40;72;2022
 263;390;263;Carl Bennet;8,30;70;2022
 264;2621;263;Robert Kraft;8,30;80;2022
@@ -277,7 +277,7 @@
 276;327;275;Dmitri Bukhman;8,10;36;2022
 277;328;275;Igor Bukhman;8,10;40;2022
 278;244;275;Francis Choi;8,10;74;2022
-279;544;275;Murali Divi  ;8,10;71;2022
+279;544;275;Murali Divi;8,10;71;2022
 280;265;275;Nancy Walton Laurie;8,10;70;2022
 281;172;275;Georg Schaeffler;8,10;57;2022
 282;275;275;Yao Liangsong;8,10;57;2022
@@ -291,7 +291,7 @@
 290;194;288;Pamela Mars;7,90;61;2022
 291;195;288;Valerie Mars;7,90;63;2022
 292;196;288;Victoria Mars;7,90;65;2022
-293;230;288;Hasso Plattner  ;7,90;78;2022
+293;230;288;Hasso Plattner;7,90;78;2022
 294;270;288;Georg Stumpf;7,90;49;2022
 295;173;288;Christy Walton;7,90;73;2022
 296;154;296;Giorgio Armani;7,80;87;2022
@@ -303,7 +303,7 @@
 302;239;296;Blair Parry-Okeden;7,80;71;2022
 303;434;296;Tsai Eng-meng;7,80;65;2022
 304;2623;304;Bajaj siblings;7,70;64;2022
-305;330;304;Ashwin Dani  ;7,70;79;2022
+305;330;304;Ashwin Dani;7,70;79;2022
 306;296;304;Ding Shijia;7,70;58;2022
 307;255;304;Karel Komarek;7,70;53;2022
 308;297;304;Henry Kravis;7,70;78;2022
@@ -314,7 +314,7 @@
 313;376;313;Rahel Blocher;7,60;46;2022
 314;141;313;Shahid Khan;7,60;71;2022
 315;367;313;Magdalena Martullo-Blocher;7,60;53;2022
-316;197;316;Vincent Bollore  ;7,50;70;2022
+316;197;316;Vincent Bollore;7,50;70;2022
 317;169;316;Jeffery Hildebrand;7,50;63;2022
 318;186;316;Michael Kim;7,50;58;2022
 319;315;316;Richard Kinder;7,50;77;2022
@@ -323,45 +323,45 @@
 322;2625;321;Vicky Safra;7,40;69;2022
 323;581;321;Tim Sweeney;7,40;51;2022
 324;411;324;Mike Adenuga;7,30;68;2022
-325;114;324;David Green  ;7,30;80;2022
+325;114;324;David Green;7,30;80;2022
 326;3012;324;Paul Tudor Jones II.;7,30;67;2022
 327;352;324;Yuri Milner;7,30;60;2022
 328;282;324;Henry Samueli;7,30;67;2022
 329;437;324;Patrick Soon-Shiong;7,30;69;2022
-330;204;330;Antonia Axson Johnson  ;7,20;78;2022
+330;204;330;Antonia Axson Johnson;7,20;78;2022
 331;415;330;Michael Kadoorie;7,20;80;2022
 332;273;330;Lin Shu-hong;7,20;93;2022
 333;436;330;Niels Peter Louis-Hansen;7,20;74;2022
 334;283;330;Reinhold Schmieding;7,20;67;2022
 335;324;330;Wee Cho Yaw;7,20;93;2022
-336;347;336;Silvio Berlusconi  ;7,10;85;2022
+336;347;336;Silvio Berlusconi;7,10;85;2022
 337;294;336;Arthur Blank;7,10;79;2022
 338;3041;336;Qian Dongqi;7,10;64;2022
 339;335;336;J. Christopher Reyes;7,10;68;2022
 340;336;336;Jude Reyes;7,10;66;2022
 341;882;336;Nik Storonsky;7,10;37;2022
-342;2626;336;Zhou Qunfei  ;7,10;52;2022
-343;1154;343;Deng Weiming  ;7,00;53;2022
+342;417;336;Zhou Qunfei;7,10;52;2022
+343;1154;343;Deng Weiming;7,00;53;2022
 344;319;343;Judy Faulkner;7,00;78;2022
 345;280;343;Robin Li;7,00;53;2022
-346;224;343;Carrie Perrodo  ;7,00;71;2022
+346;224;343;Carrie Perrodo;7,00;71;2022
 347;387;343;David Reuben;7,00;83;2022
 348;388;343;Simon Reuben;7,00;80;2022
 349;457;343;Seo Jung-jin;7,00;64;2022
 350;203;350;Roman Abramovich;6,90;55;2022
 351;459;350;Micky Arison;6,90;72;2022
-352;339;350;Edythe Broad  ;6,90;86;2022
+352;339;350;Edythe Broad;6,90;86;2022
 353;312;350;Terry Gou;6,90;71;2022
 354;604;350;Jiang Bin;6,90;55;2022
 355;565;350;Vinod Khosla;6,90;67;2022
 356;331;350;Ralph Lauren;6,90;82;2022
 357;494;350;Douglas Leone;6,90;64;2022
-358;2046;350;Lucia Maggi  ;6,90;89;2022
+358;2046;350;Lucia Maggi;6,90;89;2022
 359;569;350;Horst Julius Pudwill;6,90;77;2022
 360;246;350;Abdulsamad Rabiu;6,90;61;2022
 361;305;350;Harry Stine;6,90;80;2022
 362;397;350;Dennis Washington;6,90;87;2022
-363;286;363;Hasmukh Chudgar  ;6,80;88;2022
+363;286;363;Hasmukh Chudgar;6,80;88;2022
 364;392;363;Stanley Druckenmiller;6,80;68;2022
 365;548;363;Jonathan Gray;6,80;52;2022
 366;518;363;Kwon Hyuk-bin;6,80;48;2022
@@ -370,7 +370,7 @@
 369;338;369;Alejandro Bailleres Gual;6,70;61;2022
 370;306;369;Benu Gopal Bangur;6,70;90;2022
 371;299;369;James Goodnight;6,70;79;2022
-372;401;369;Alain Merieux  ;6,70;84;2022
+372;401;369;Alain Merieux;6,70;84;2022
 373;309;369;Enrique Razon jr;6,70;62;2022
 374;260;369;Robert F. Smith;6,70;59;2022
 375;1342;375;Brian Armstrong;6,60;39;2022
@@ -399,23 +399,23 @@
 398;706;398;Juergen Blickle;6,40;75;2022
 399;505;398;Cheng Xue;6,40;52;2022
 400;329;398;Jack Dangermond;6,40;76;2022
-401;468;398;Jiang Weiping  ;6,40;67;2022
+401;468;398;Jiang Weiping;6,40;67;2022
 402;317;398;Takahisa Takahara;6,40;60;2022
 403;263;403;Orlando Bravo;6,30;51;2022
 404;577;403;Hong Ra-hee;6,30;76;2022
 405;2628;403;Edward Johnson IV.;6,30;57;2022
-406;1025;403;Li Xiaohua  ;6,30;60;2022
+406;1025;403;Li Xiaohua;6,30;60;2022
 407;300;403;Sri Prakash Lohia;6,30;69;2022
 408;483;403;Miao Hangen;6,30;57;2022
 409;1225;403;Bobby Murphy;6,30;33;2022
 410;458;403;Wu Jianshu;6,30;58;2022
-411;404;411;Maria Asuncion Aramburuzabala  ;6,20;58;2022
+411;404;411;Maria Asuncion Aramburuzabala;6,20;58;2022
 412;384;411;Melinda French Gates;6,20;57;2022
 413;380;411;Bruce Kovner;6,20;77;2022
 414;637;411;Pham Nhat Vuong;6,20;53;2022
 415;410;411;Michal Solowow;6,20;59;2022
 416;291;411;Leonard Stern;6,20;84;2022
-417;403;411;Stef Wertheimer  ;6,20;95;2022
+417;403;411;Stef Wertheimer;6,20;95;2022
 418;271;418;Rocco Commisso;6,10;72;2022
 419;585;418;Jack Dorsey;6,10;45;2022
 420;656;418;Lin Li;6,10;58;2022
@@ -430,7 +430,7 @@
 429;284;424;Ivar Tollefsen;6,00;60;2022
 430;2629;424;John  Alan and Bruce Wilson;6,00;64;2022
 431;391;431;Stephen Bisciotti;5,90;61;2022
-432;480;431;Mahendra Choksi  ;5,90;80;2022
+432;480;431;Mahendra Choksi;5,90;80;2022
 433;393;431;Jian Jun;5,90;58;2022
 434;510;431;Barry Lam;5,90;72;2022
 435;657;431;Michael Moritz;5,90;67;2022
@@ -452,22 +452,22 @@
 451;408;438;Ruan Liping;5,80;58;2022
 452;409;438;Ruan Xueping;5,80;50;2022
 453;513;438;Charles Simonyi;5,80;73;2022
-454;370;438;John A. Sobrato  ;5,80;82;2022
+454;370;438;John A. Sobrato;5,80;82;2022
 455;428;438;David Steward;5,80;70;2022
 456;389;438;Radovan Vitek;5,80;50;2022
-457;429;438;Les Wexner  ;5,80;84;2022
+457;429;438;Les Wexner;5,80;84;2022
 458;2634;438;Aloys Wobben;5,80;70;2022
 459;515;438;Sam Zell;5,80;80;2022
-460;398;460;Anthony Bamford  ;5,70;76;2022
+460;398;460;Anthony Bamford;5,70;76;2022
 461;2635;460;Rainer Blickle;5,70;74;2022
 462;440;460;Clive Calder;5,70;75;2022
 463;406;460;Frits Goldschmeding;5,70;88;2022
 464;509;460;Ananda Krishnan;5,70;84;2022
 465;621;460;Joe Mansueto;5,70;65;2022
-466;608;460;Odd Reitan  ;5,70;70;2022
+466;608;460;Odd Reitan;5,70;70;2022
 467;433;460;Antony Ressler;5,70;60;2022
 468;1393;460;Tang Xiao  ou;5,70;54;2022
-469;522;460;Tse Ping  ;5,70;70;2022
+469;522;460;Tse Ping;5,70;70;2022
 470;683;460;Ken Xie;5,70;59;2022
 471;253;471;Tilman Fertitta;5,60;64;2022
 472;495;471;Prajogo Pangestu;5,60;77;2022
@@ -476,7 +476,7 @@
 475;539;471;Thomas Straumann;5,60;58;2022
 476;372;471;David Sun;5,60;70;2022
 477;374;471;John Tu;5,60;80;2022
-478;502;471;Erich Wesjohann  ;5,60;76;2022
+478;502;471;Erich Wesjohann;5,60;76;2022
 479;612;471;Xu Jinfu;5,60;58;2022
 480;418;480;Alexander Abramov;5,50;63;2022
 481;420;480;Neil Bluhm;5,50;84;2022
@@ -493,14 +493,14 @@
 492;1150;490;Chen Zhiping;5,40;46;2022
 493;287;490;Andrew Currie;5,40;66;2022
 494;543;490;Jim Davis;5,40;78;2022
-495;584;490;Charles Dolan  ;5,40;95;2022
+495;584;490;Charles Dolan;5,40;95;2022
 496;547;490;Tom Golisano;5,40;80;2022
 497;1579;490;Hui Wing Mau;5,40;71;2022
 498;205;490;Daniel Kretinsky;5,40;46;2022
-499;364;490;Massimiliana Landini Aleotti  ;5,40;79;2022
+499;364;490;Massimiliana Landini Aleotti;5,40;79;2022
 500;425;490;Joe Lewis;5,40;85;2022
 501;590;490;Li Chunan;5,40;53;2022
-502;407;490;Lin Muqin  ;5,40;58;2022
+502;407;490;Lin Muqin;5,40;58;2022
 503;764;490;Shigenobu Nagamori;5,40;77;2022
 504;520;490;Kjell Inge Rokke;5,40;63;2022
 505;643;490;Wang Wenjing;5,40;57;2022
@@ -510,7 +510,7 @@
 509;348;509;Denise Coates;5,30;54;2022
 510;359;509;Ken Fisher;5,30;71;2022
 511;618;509;Peter Grogg;5,30;80;2022
-512;603;509;Dietmar Hopp  ;5,30;81;2022
+512;603;509;Dietmar Hopp;5,30;81;2022
 513;424;509;Sumet Jiaravanon;5,30;87;2022
 514;385;509;Nathan Kirsh;5,30;90;2022
 515;591;509;Forrest Li;5,30;44;2022
@@ -528,15 +528,15 @@
 527;692;523;Koon Poh Keong;5,20;60;2022
 528;907;523;Li Liangbin;5,20;54;2022
 529;908;523;Liang Feng;5,20;53;2022
-530;469;523;Wolfgang Marguerre  ;5,20;80;2022
+530;469;523;Wolfgang Marguerre;5,20;80;2022
 531;472;523;Katharine Rayner;5,20;77;2022
 532;1951;523;Carlos Rodriguez-Pastor;5,20;62;2022
 533;476;523;Margaretta Taylor;5,20;79;2022
 534;2639;523;You Xiaoping;5,20;64;2022
-535;859;523;Eric Yuan  ;5,20;52;2022
+535;859;523;Eric Yuan;5,20;52;2022
 536;527;536;Robert Bass;5,10;74;2022
 537;504;536;Alexandre Behring;5,10;55;2022
-538;647;536;Chan Laiwa  ;5,10;81;2022
+538;647;536;Chan Laiwa;5,10;81;2022
 539;313;536;Jeff Greene;5,10;67;2022
 540;2640;536;Montri Jiaravanont;5,10;91;2022
 541;2641;536;Charles B. Johnson;5,10;89;2022
@@ -545,11 +545,11 @@
 544;850;536;Hiroshi Mikitani;5,10;57;2022
 545;699;536;Isaac Perlmutter;5,10;79;2022
 546;484;536;Michael Pieper;5,10;76;2022
-547;596;536;Issad Rebrab  ;5,10;78;2022
+547;596;536;Issad Rebrab;5,10;78;2022
 548;729;536;Tsai Hong-tu;5,10;69;2022
 549;640;536;Richard Tsai;5,10;64;2022
-550;642;536;Wang Junshi  ;5,10;73;2022
-551;772;536;Wang Yanqing  ;5,10;55;2022
+550;642;536;Wang Junshi;5,10;73;2022
+551;772;536;Wang Yanqing;5,10;55;2022
 552;645;552;Shari Arison;5,00;64;2022
 553;421;552;Alain Bouchard;5,00;73;2022
 554;3018;552;Austen Cargill II.;5,00;71;2022
@@ -572,7 +572,7 @@
 571;748;552;Tsai Cheng-ta;5,00;72;2022
 572;599;552;Maximilian Viessmann;5,00;64;2022
 573;524;552;Hansjoerg Wyss;5,00;87;2022
-574;830;552;Xiao Yongming  ;5,00;57;2022
+574;830;552;Xiao Yongming;5,00;57;2022
 575;557;552;Zhang Tao;5,00;49;2022
 576;445;552;Daniel Ziff;5,00;50;2022
 577;446;552;Dirk Ziff;5,00;58;2022
@@ -581,11 +581,11 @@
 580;481;579;Mat Ishbia;4,90;42;2022
 581;511;579;Robert Rich jr;4,90;81;2022
 582;443;579;Thomas Schmidheiny;4,90;76;2022
-583;538;579;Alexandra Schoerghuber  ;4,90;63;2022
+583;538;579;Alexandra Schoerghuber;4,90;63;2022
 584;997;579;Erik Selin;4,90;54;2022
 585;639;579;Daniel Tsai;4,90;65;2022
 586;528;586;Dona Bertarelli;4,80;54;2022
-587;185;586;Andrei Guryev  ;4,80;62;2022
+587;185;586;Andrei Guryev;4,80;62;2022
 588;903;586;Luciano Hang;4,80;59;2022
 589;905;586;Hu Baifan;4,80;59;2022
 590;549;586;Bidzina Ivanishvili;4,80;66;2022
@@ -594,20 +594,20 @@
 593;606;586;Theo Mueller;4,80;82;2022
 594;2645;586;Julian Robertson jr;4,80;89;2022
 595;609;586;Marc Rowan;4,80;59;2022
-596;552;586;Emanuele Saputo  ;4,80;85;2022
+596;552;586;Emanuele Saputo;4,80;85;2022
 597;660;586;Jeff Skoll;4,80;57;2022
 598;641;586;Frank Wang;4,80;41;2022
 599;798;586;Wang Junlin;4,80;59;2022
 600;832;586;Yang Shaopeng;4,80;64;2022
-601;571;601;Maria Fernanda Amorim  ;4,70;87;2022
+601;571;601;Maria Fernanda Amorim;4,70;87;2022
 602;775;601;Leonid Boguslavsky;4,70;70;2022
 603;841;601;Richard Branson;4,70;71;2022
 604;2646;601;Robert Brockman;4,70;80;2022
 605;461;601;Pierre Chen;4,70;65;2022
-606;2647;601;Chu Mang Yee  ;4,70;62;2022
+606;2647;601;Chu Mang Yee;4,70;62;2022
 607;670;601;Scott Cook;4,70;69;2022
 608;583;601;Mark Cuban;4,70;63;2022
-609;713;601;Guenther Fielmann  ;4,70;82;2022
+609;713;601;Guenther Fielmann;4,70;82;2022
 610;530;601;Martin Haefner;4,70;68;2022
 611;628;601;Johnelle Hunt;4,70;90;2022
 612;588;601;Andre Koo Sr.;4,70;54;2022
@@ -616,7 +616,7 @@
 615;620;601;Mangal Prabhat Lodha;4,70;66;2022
 616;343;601;Igor Olenicoff;4,70;79;2022
 617;553;601;Mark Shoen;4,70;71;2022
-618;269;601;Andrei Skoch  ;4,70;56;2022
+618;269;601;Andrei Skoch;4,70;56;2022
 619;597;601;Fred Smith;4,70;77;2022
 620;540;601;Murat Ulker;4,70;63;2022
 621;570;601;Yu Yong;4,70;61;2022
@@ -625,16 +625,16 @@
 624;378;622;Dan Cathy;4,60;69;2022
 625;379;622;Trudy Cathy White;4,60;66;2022
 626;573;622;Jason Chang;4,60;77;2022
-627;545;622;Dagmar Dolby  ;4,60;80;2022
+627;545;622;Dagmar Dolby;4,60;80;2022
 628;1097;622;Bruce Flatt;4,60;56;2022
 629;2648;622;Masatoshi Ito;4,60;97;2022
 630;151;622;Viatcheslav Kantor;4,60;68;2022
-631;652;622;Min Kao  ;4,60;73;2022
-632;988;622;Lin Xiucheng  ;4,60;66;2022
+631;652;622;Min Kao;4,60;73;2022
+632;988;622;Lin Xiucheng;4,60;66;2022
 633;519;622;Sami Mnaymneh;4,60;60;2022
 634;521;622;Tony Tamer;4,60;64;2022
 635;477;622;Richard White;4,60;67;2022
-636;2649;622;Baoguo Zhu  ;4,60;59;2022
+636;2649;622;Baoguo Zhu;4,60;59;2022
 637;558;637;Michael Ashley;4,50;57;2022
 638;526;637;Ron Baron;4,50;78;2022
 639;582;637;Bert Beveridge;4,50;60;2022
@@ -642,27 +642,27 @@
 641;383;637;David Bonderman;4,50;79;2022
 642;2650;637;Guo Guangchang;4,50;55;2022
 643;630;637;Daryl Katz;4,50;60;2022
-644;2651;637;Ted Lerner  ;4,50;96;2022
+644;2651;637;Ted Lerner;4,50;96;2022
 645;1176;637;Falguni Nayar;4,50;59;2022
 646;745;637;Trevor Rees-Jones;4,50;70;2022
-647;852;637;J. Joe Ricketts  ;4,50;80;2022
+647;852;637;J. Joe Ricketts;4,50;80;2022
 648;455;637;Robert Rowling;4,50;68;2022
 649;728;637;Mark Stevens;4,50;62;2022
 650;1136;637;Gustav Magnar Witzoe;4,50;28;2022
-651;2652;637;Xie Liangzhi  ;4,50;56;2022
+651;2652;637;Xie Liangzhi;4,50;56;2022
 652;1402;637;Yeung Kin-man;4,50;58;2022
 653;325;637;Zhang Hejun;4,50;64;2022
 654;665;654;Andrej Babis;4,40;67;2022
-655;712;654;Giuseppe De Longhi  ;4,40;82;2022
+655;712;654;Giuseppe De Longhi;4,40;82;2022
 656;736;654;Barry Diller;4,40;80;2022
 657;619;654;Christian Haub;4,40;57;2022
 658;756;654;Huang Li;4,40;58;2022
 659;629;654;Marian Ilitch;4,40;89;2022
-660;162;654;Suleiman Kerimov  ;4,40;56;2022
+660;162;654;Suleiman Kerimov;4,40;56;2022
 661;788;654;Edwin Leong;4,40;70;2022
 662;1221;654;Lu Yiwen;4,40;35;2022
 663;607;654;N.R. Narayana Murthy;4,40;75;2022
-664;1282;654;Yang Jianliang  ;4,40;52;2022
+664;1282;654;Yang Jianliang;4,40;52;2022
 665;646;665;Pyotr Aven;4,30;67;2022
 666;1144;665;Joesley Batista;4,30;50;2022
 667;1145;665;Wesley Batista;4,30;49;2022
@@ -671,12 +671,12 @@
 670;543;665;Jim Davis;4,30;62;2022
 671;813;665;Walter P.J. Droege;4,30;69;2022
 672;466;665;Dan Friedkin;4,30;57;2022
-673;507;665;Gao Dekang  ;4,30;70;2022
+673;507;665;Gao Dekang;4,30;70;2022
 674;672;665;Antti Herlin;4,30;65;2022
 675;714;665;W. Herbert Hunt;4,30;93;2022
 676;759;665;Jason Jiang;4,30;49;2022
 677;650;665;Rupert Johnson jr;4,30;81;2022
-678;451;665;Vikram Lal  ;4,30;80;2022
+678;451;665;Vikram Lal;4,30;80;2022
 679;1442;665;Lam Wai-ying;4,30;64;2022
 680;1365;665;Chris Larsen;4,30;61;2022
 681;770;665;Richard Schulze;4,30;81;2022
@@ -690,13 +690,13 @@
 689;560;687;Bernard Broermann;4,20;78;2022
 690;710;687;Mong-Koo Chung;4,20;84;2022
 691;806;687;Daniel DAniello;4,20;75;2022
-692;2654;687;Traudl Engelhorn  ;4,20;95;2022
+692;2654;687;Traudl Engelhorn;4,20;95;2022
 693;465;687;Piero Ferrari;4,20;76;2022
 694;576;687;Carlo Fidani;4,20;67;2022
 695;755;687;Yakir Gabay;4,20;55;2022
 696;780;687;Jaime Gilinski Bacal;4,20;64;2022
 697;942;687;Bertil Hult;4,20;81;2022
-698;741;687;Martha Ingram  ;4,20;86;2022
+698;741;687;Martha Ingram;4,20;86;2022
 699;2655;687;Lee Yin Yee;4,20;70;2022
 700;818;687;Daniel Loeb;4,20;60;2022
 701;536;687;Janice McNair;4,20;85;2022
@@ -707,7 +707,7 @@
 706;638;687;Jon Stryker;4,20;63;2022
 707;926;687;Vincent Viola;4,20;66;2022
 708;523;687;Romesh T. Wadhwani;4,20;74;2022
-709;602;709;Juan Domingo Beckmann Legorreta  ;4,10;54;2022
+709;602;709;Juan Domingo Beckmann Legorreta;4,10;54;2022
 710;617;709;Rafael Del Pino;4,10;63;2022
 711;1207;709;Sergey Dmitriev;4,10;56;2022
 712;902;709;Senapathy Gopalakrishnan;4,10;67;2022
@@ -717,20 +717,20 @@
 716;566;709;Thai Lee;4,10;63;2022
 717;654;709;Eric Lefkofsky;4,10;52;2022
 718;2656;709;Weiguo Li;4,10;57;2022
-719;2657;709;Ermirio Pereira de Moraes  ;4,10;89;2022
-720;2658;709;Maria Helena Moraes Scripilliti  ;4,10;91;2022
+719;2657;709;Ermirio Pereira de Moraes;4,10;89;2022
+720;2658;709;Maria Helena Moraes Scripilliti;4,10;91;2022
 721;2659;709;Augusto and Giorgio Perfetti;4,10;64;2022
 722;579;709;Thomas Secunda;4,10;67;2022
 723;700;709;Shaul Shani;4,10;67;2022
 724;659;709;E. Joe Shoen;4,10;72;2022
 725;749;709;Steven Udvar-Hazy;4,10;76;2022
 726;600;709;Russ Weiner;4,10;51;2022
-727;2660;709;Guanjiang Wu  ;4,10;53;2022
-728;2661;728;Anil Agarwal  ;4,00;68;2022
+727;2660;709;Guanjiang Wu;4,10;53;2022
+728;2661;728;Anil Agarwal;4,00;68;2022
 729;836;728;Somphote Ahunai;4,00;54;2022
 730;479;728;Patrizio Bertelli;4,00;76;2022
 731;739;728;Rakesh Gangwal;4,00;68;2022
-732;1257;728;Paul Gauselmann  ;4,00;87;2022
+732;1257;728;Paul Gauselmann;4,00;87;2022
 733;1356;728;Hao Hong;4,00;66;2022
 734;2015;728;He Xiaopeng;4,00;44;2022
 735;413;728;Michael Herz;4,00;78;2022
@@ -742,7 +742,7 @@
 741;1369;728;Max Lytvyn;4,00;42;2022
 742;990;728;Gilles Martin;4,00;58;2022
 743;267;728;Ramzi Musallam;4,00;53;2022
-744;1030;728;Georg Nemetschek  ;4,00;88;2022
+744;1030;728;Georg Nemetschek;4,00;88;2022
 745;874;728;Akio Nitori;4,00;78;2022
 746;765;728;Daniel Och;4,00;61;2022
 747;568;728;Pankaj Patel;4,00;69;2022
@@ -760,7 +760,7 @@
 759;644;728;Herbert Wertheim;4,00;82;2022
 760;2352;728;Cameron Winklevoss;4,00;40;2022
 761;2353;728;Tyler Winklevoss;4,00;40;2022
-762;525;728;Denise York  ;4,00;71;2022
+762;525;728;Denise York;4,00;71;2022
 763;1189;728;Zhao Lixin;4,00;56;2022
 764;667;764;Hubert Burda;3,90;82;2022
 765;735;764;Francesco Gaetano Caltagirone;3,90;79;2022
@@ -773,7 +773,7 @@
 772;2664;764;Neil Shen;3,90;54;2022
 773;444;764;Helmut Sohmen;3,90;82;2022
 774;681;764;Donald Sterling;3,90;87;2022
-775;337;764;Don Vultaggio  ;3,90;70;2022
+775;337;764;Don Vultaggio;3,90;70;2022
 776;2665;764;Yiling Wu;3,90;72;2022
 777;2666;764;Gongshan Zhu;3,90;64;2022
 778;572;778;Gayle Benson;3,80;75;2022
@@ -786,17 +786,17 @@
 785;982;778;Susan Carol Holland;3,80;65;2022
 786;3389;778;Timur Kulibayev;3,80;55;2022
 787;632;778;Dinara Kulibaeva;3,80;54;2022
-788;534;778;Michel Leclercq  ;3,80;82;2022
+788;534;778;Michel Leclercq;3,80;82;2022
 789;872;778;Pablo Legorreta;3,80;58;2022
-790;819;778;Margarita Louis-Dreyfus  ;3,80;59;2022
+790;819;778;Margarita Louis-Dreyfus;3,80;59;2022
 791;427;778;Michael Milken;3,80;75;2022
 792;1117;778;Denis O  Brien;3,80;63;2022
 793;954;778;Katharina Otto-Bernstein;3,80;58;2022
 794;2667;778;James Packer;3,80;54;2022
-795;475;778;Sergio Stevanato  ;3,80;79;2022
+795;475;778;Sergio Stevanato;3,80;79;2022
 796;854;778;Leena Tewari;3,80;64;2022
 797;771;778;Yitzhak Tshuva;3,80;73;2022
-798;1336;778;Paul-Heinz Wesjohann  ;3,80;78;2022
+798;1336;778;Paul-Heinz Wesjohann;3,80;78;2022
 799;800;778;Zeng Fangqin;3,80;56;2022
 800;930;778;Zhou Bajin;3,80;86;2022
 801;753;801;William Berkley;3,70;75;2022
@@ -809,18 +809,18 @@
 808;757;801;Brad Jacobs;3,70;65;2022
 809;985;801;Friedrich Knapp;3,70;70;2022
 810;848;801;William Lauder;3,70;61;2022
-811;761;801;Richard LeFrak  ;3,70;76;2022
+811;761;801;Richard LeFrak;3,70;76;2022
 812;1168;801;Li Guoqiang;3,70;58;2022
 813;56;801;Low Tuck Kwong;3,70;73;2022
-814;1064;801;Akira Mori  ;3,70;85;2022
+814;1064;801;Akira Mori;3,70;85;2022
 815;767;801;Anthony Pritzker;3,70;61;2022
 816;821;801;Ira Rennert;3,70;87;2022
 817;3027;801;Bernard Saul II.;3,70;89;2022
-818;2670;801;Shi Yonghong  ;3,70;53;2022
+818;2670;801;Shi Yonghong;3,70;53;2022
 819;2671;801;Song Chi-hyung;3,70;43;2022
 820;701;801;Steven Spielberg;3,70;75;2022
 821;1079;801;Wong Luen Hei;3,70;60;2022
-822;666;822;Danielle Bellon  ;3,60;82;2022
+822;666;822;Danielle Bellon;3,60;82;2022
 823;2672;822;Byju Raveendran and Divya Gokulnath;3,60;40;2022
 824;931;822;Cho Tak Wong;3,60;75;2022
 825;754;822;Charles Cohen;3,60;70;2022
@@ -840,7 +840,7 @@
 839;875;822;Julio Ponce Lerou;3,60;76;2022
 840;794;822;J.B. Pritzker;3,60;57;2022
 841;744;822;Chandru Raheja;3,60;81;2022
-842;876;822;Rodger Riney  ;3,60;76;2022
+842;876;822;Rodger Riney;3,60;76;2022
 843;2674;822;Shi Yuzhu;3,60;59;2022
 844;580;822;Zuowen Song;3,60;75;2022
 845;2675;822;Jerry Speyer;3,60;81;2022
@@ -851,13 +851,13 @@
 850;2676;822;Wenzhong Zhang;3,60;60;2022
 851;894;851;Chen Kaixuan;3,50;63;2022
 852;778;851;Beatriz Davila de Santo Domingo;3,50;83;2022
-853;896;851;Antonio Del Valle Ruiz  ;3,50;83;2022
+853;896;851;Antonio Del Valle Ruiz;3,50;83;2022
 854;1156;851;Carl Douglas;3,50;60;2022
 855;1157;851;Eric Douglas;3,50;53;2022
-856;2677;851;Jiangtao Du  ;3,50;52;2022
+856;2677;851;Jiangtao Du;3,50;52;2022
 857;625;851;Juan Carlos Escotet;3,50;62;2022
 858;1158;851;Fiona Geminder;3,50;57;2022
-859;2678;851;Yuhua Gu  ;3,50;72;2022
+859;2678;851;Yuhua Gu;3,50;72;2022
 860;715;851;James Irsay;3,50;62;2022
 861;944;851;Kuok Khoon Hong;3,50;72;2022
 862;945;851;Aerin Lauder;3,50;51;2022
@@ -870,7 +870,7 @@
 869;873;851;Arnon Milchan;3,50;77;2022
 870;791;851;Masahiro Noda;3,50;83;2022
 871;1069;851;Maren Otto;3,50;64;2022
-872;958;851;Renzo Rosso  ;3,50;66;2022
+872;958;851;Renzo Rosso;3,50;66;2022
 873;918;851;Lynn Schusterman;3,50;83;2022
 874;880;851;Gil Shwed;3,50;53;2022
 875;828;851;Thomas Siebel;3,50;69;2022
@@ -887,21 +887,21 @@
 886;1200;883;Cheng Yixiao;3,40;38;2022
 887;737;883;Wesley Edens;3,40;60;2022
 888;624;883;Behdad Eghbali;3,40;45;2022
-889;464;883;Archie Aldis Emmerson  ;3,40;92;2022
+889;464;883;Archie Aldis Emmerson;3,40;92;2022
 890;626;883;Jose E. Feliciano;3,40;48;2022
-891;868;883;Fu Liquan  ;3,40;54;2022
+891;868;883;Fu Liquan;3,40;54;2022
 892;2680;883;David Gottesman;3,40;95;2022
-893;844;883;Laurence Graff  ;3,40;83;2022
+893;844;883;Laurence Graff;3,40;83;2022
 894;940;883;Jeff T. Green;3,40;45;2022
 895;760;883;Jim Kavanaugh;3,40;59;2022
 896;847;883;Steven Klinsky;3,40;65;2022
 897;849;883;John Middleton;3,40;67;2022
 898;2681;883;Jerry Ng;3,40;56;2022
-899;1522;883;Tengyun Nie  ;3,40;46;2022
+899;1522;883;Tengyun Nie;3,40;46;2022
 900;1067;883;Nandan Nilekani;3,40;66;2022
 901;851;883;Bob Parsons;3,40;71;2022
 902;820;883;Prasert Prasarttong-Osoth;3,40;89;2022
-903;2682;883;Qiu Guanghe  ;3,40;70;2022
+903;2682;883;Qiu Guanghe;3,40;70;2022
 904;1324;883;Richard Sands;3,40;71;2022
 905;996;883;Robert Sands;3,40;63;2022
 906;1530;883;T. Denny Sanford;3,40;86;2022
@@ -910,7 +910,7 @@
 909;885;883;Todd Wanek;3,40;58;2022
 910;1078;883;Meg Whitman;3,40;65;2022
 911;831;883;Michael Xie;3,40;53;2022
-912;1080;883;Chenghai Ye  ;3,40;78;2022
+912;1080;883;Chenghai Ye;3,40;78;2022
 913;2683;913;An Kang;3,30;73;2022
 914;862;913;John Arnold;3,30;48;2022
 915;892;913;Arun Bharat Ram;3,30;81;2022
@@ -918,18 +918,18 @@
 917;1408;913;Travis Boersma;3,30;51;2022
 918;972;913;Chan Tan Ching-fen;3,30;64;2022
 919;2684;913;Dongsheng Chen;3,30;64;2022
-920;976;913;Jean Coutu  ;3,30;94;2022
+920;976;913;Jean Coutu;3,30;94;2022
 921;1419;913;Ralph Dommermuth;3,30;58;2022
 922;866;913;Walter Faria;3,30;67;2022
 923;779;913;Bob Gaglardi;3,30;81;2022
 924;869;913;John Gandel;3,30;87;2022
-925;1260;913;Xuande Hua  ;3,30;78;2022
+925;1260;913;Xuande Hua;3,30;78;2022
 926;508;913;Micky Jagtiani;3,30;70;2022
 927;562;913;H. Fisk Johnson;3,30;63;2022
 928;563;913;S. Curtis Johnson;3,30;66;2022
 929;564;913;Helen Johnson-Leipold;3,30;65;2022
 930;943;913;Miguel Krigsner;3,30;72;2022
-931;1024;913;Li Jianquan  ;3,30;65;2022
+931;1024;913;Li Jianquan;3,30;65;2022
 932;987;913;Lin Ming-hsiung;3,30;72;2022
 933;567;913;Winifred J. Marquart;3,30;62;2022
 934;1454;913;Kiran Mazumdar-Shaw;3,30;69;2022
@@ -939,23 +939,23 @@
 938;724;913;Julia Oetker;3,30;43;2022
 939;953;913;Or Wai Sheun;3,30;70;2022
 940;636;913;Jay Paul;3,30;74;2022
-941;766;913;Horst Paulmann  ;3,30;87;2022
+941;766;913;Horst Paulmann;3,30;87;2022
 942;957;913;Theodore Rachmat;3,30;78;2022
 943;768;913;John Sall;3,30;74;2022
 944;855;913;Stefan von Holtzbrinck;3,30;58;2022
 945;730;913;Nusli Wadia;3,30;78;2022
 946;928;913;Steve Wynn;3,30;80;2022
-947;1283;913;Yang Weidong  ;3,30;53;2022
+947;1283;913;Yang Weidong;3,30;53;2022
 948;834;913;Barry Zekelman;3,30;55;2022
-949;2685;913;Zhang Shilong  ;3,30;56;2022
-950;1774;913;Zhong Ruonong  ;3,30;59;2022
+949;2685;913;Zhang Shilong;3,30;56;2022
+950;1774;913;Zhong Ruonong;3,30;59;2022
 951;1619;951;Cameron Adams;3,20;42;2022
 952;2686;951;Dongchen Cai;3,20;69;2022
 953;708;951;Vanich Chaiyawan;3,20;90;2022
 954;1201;951;Andrew Cherng;3,20;64;2022
 955;1011;951;James Clark;3,20;78;2022
 956;1093;951;Jack Cowin;3,20;79;2022
-957;805;951;Giuseppe Crippa  ;3,20;86;2022
+957;805;951;Giuseppe Crippa;3,20;86;2022
 958;901;951;Sergei Galitsky;3,20;54;2022
 959;2687;951;Ernest Garcia  III;3,20;39;2022
 960;870;951;Peter Gilgan;3,20;71;2022
@@ -972,7 +972,7 @@
 971;696;951;Gail Miller;3,20;78;2022
 972;1032;951;Vikas Oberoi;3,20;51;2022
 973;743;951;H. Ross Perot jr;3,20;63;2022
-974;2689;951;Candido Pinheiro Koren de Lima  ;3,20;75;2022
+974;2689;951;Candido Pinheiro Koren de Lima;3,20;75;2022
 975;1525;951;Matthew Prince;3,20;47;2022
 976;956;951;Penny Pritzker;3,20;62;2022
 977;746;951;Yasumitsu Shigeta;3,20;57;2022
@@ -992,7 +992,7 @@
 991;1259;984;Peter Hargreaves;3,10;75;2022
 992;1304;984;Bom Kim;3,10;43;2022
 993;2693;984;Gaiteng Li;3,10;49;2022
-994;2694;984;Liufa Li  ;3,10;64;2022
+994;2694;984;Liufa Li;3,10;64;2022
 995;1171;984;Lu Weiding;3,10;51;2022
 996;989;984;Harsh Mariwala;3,10;70;2022
 997;909;984;Samir Mehta;3,10;58;2022
@@ -1012,13 +1012,13 @@
 1011;1541;984;Zhang Fan;3,10;56;2022
 1012;835;1012;William Ackman;3,00;55;2022
 1013;840;1012;Markus Blocher;3,00;51;2022
-1014;616;1012;Neal Blue  ;3,00;87;2022
+1014;616;1012;Neal Blue;3,00;87;2022
 1015;969;1012;Eva Maria Bucher-Haefner;3,00;65;2022
 1016;1891;1012;Chang Kuo-Hua;3,00;67;2022
 1017;973;1012;Todd Christopher;3,00;59;2022
 1018;1050;1012;Euisun Chung;3,00;51;2022
-1019;1014;1012;Bernard Ecclestone  ;3,00;91;2022
-1020;1015;1012;Michael Federmann  ;3,00;78;2022
+1019;1014;1012;Bernard Ecclestone;3,00;91;2022
+1020;1015;1012;Michael Federmann;3,00;78;2022
 1021;1019;1012;Gudrun Heine;3,00;67;2022
 1022;2696;1012;Heidi Horten;3,00;81;2022
 1023;2697;1012;Dawen Huang;3,00;61;2022
@@ -1041,34 +1041,34 @@
 1040;1277;1012;Tsai Ming-kai;3,00;71;2022
 1041;2698;1012;John Tyson;3,00;68;2022
 1042;704;1012;Rufino Vigil Gonzalez;3,00;73;2022
-1043;1855;1012;Ning Wang  ;3,00;35;2022
-1044;402;1012;Wang Yusuo  ;3,00;58;2022
-1045;2699;1012;Zhigang Wu  ;3,00;87;2022
-1046;1615;1012;Xie Juhua  ;3,00;71;2022
+1043;1855;1012;Ning Wang;3,00;35;2022
+1044;402;1012;Wang Yusuo;3,00;58;2022
+1045;2699;1012;Zhigang Wu;3,00;87;2022
+1046;1615;1012;Xie Juhua;3,00;71;2022
 1047;1404;1012;Oren Zeev;3,00;57;2022
 1048;860;1012;Charles Zegar;3,00;74;2022
 1049;2700;1012;Zhang Lei;3,00;49;2022
 1050;2096;1012;Zhang Xin;3,00;56;2022
-1051;542;1012;Zhu Yan  ;3,00;64;2022
+1051;542;1012;Zhu Yan;3,00;64;2022
 1052;1284;1012;Mortimer Zuckerman;3,00;84;2022
 1053;1083;1053;Juan Abello;2,90;80;2022
 1054;1285;1053;John Armitage;2,90;62;2022
 1055;1701;1053;Bang Si-hyuk;2,90;49;2022
 1056;1147;1053;Miriam Baumann-Blocher;2,90;47;2022
-1057;1195;1053;Riley Bechtel  ;2,90;70;2022
-1058;1494;1053;Wilhelm Beier  ;2,90;65;2022
+1057;1195;1053;Riley Bechtel;2,90;70;2022
+1058;1494;1053;Wilhelm Beier;2,90;65;2022
 1059;966;1053;Nicolas Berggruen;2,90;60;2022
 1060;2701;1053;Bui Thanh Nhon;2,90;64;2022
-1061;1009;1053;Cao Longxiang  ;2,90;64;2022
+1061;1009;1053;Cao Longxiang;2,90;64;2022
 1062;934;1053;Deng Wen;2,90;54;2022
 1063;1796;1053;Daniel Dines;2,90;50;2022
 1064;1208;1053;Joseph Edelman;2,90;66;2022
 1065;1095;1053;N. Murray Edwards;2,90;62;2022
 1066;1431;1053;Jane Goldman;2,90;66;2022
-1067;1572;1053;Guo Zhenyu  ;2,90;58;2022
-1068;1159;1053;Stewart Horejsi  ;2,90;84;2022
-1069;1161;1053;Zhenda Huang  ;2,90;74;2022
-1070;674;1053;Jeremy Jacobs Sr  ;2,90;82;2022
+1067;1572;1053;Guo Zhenyu;2,90;58;2022
+1068;1159;1053;Stewart Horejsi;2,90;84;2022
+1069;1161;1053;Zhenda Huang;2,90;74;2022
+1070;674;1053;Jeremy Jacobs Sr;2,90;82;2022
 1071;2702;1053;Hamilton James;2,90;70;2022
 1072;1647;1053;Valentin Kipyatkov;2,90;45;2022
 1073;1113;1053;Li Zhongchu;2,90;58;2022
@@ -1079,17 +1079,17 @@
 1078;1669;1053;Olivier Pomel;2,90;45;2022
 1079;473;1053;Jean Salata;2,90;56;2022
 1080;1273;1053;Arnout Schuijff;2,90;54;2022
-1081;2703;1053;Shen Hua  ;2,90;59;2022
+1081;2703;1053;Shen Hua;2,90;59;2022
 1082;999;1053;Martua Sitorus;2,90;62;2022
 1083;3043;1053;Zygmunt Solorz;2,90;65;2022
 1084;921;1053;Warren Stephens;2,90;65;2022
-1085;1392;1053;Tang Jinkui  ;2,90;66;2022
+1085;1392;1053;Tang Jinkui;2,90;66;2022
 1086;1682;1053;Alan Trefler;2,90;66;2022
-1087;1609;1053;Masateru Uno  ;2,90;75;2022
+1087;1609;1053;Masateru Uno;2,90;75;2022
 1088;962;1053;Frank VanderSloot;2,90;73;2022
 1089;1138;1053;Guangming Wu;2,90;60;2022
 1090;1400;1053;Kai Wu;2,90;54;2022
-1091;1869;1053;Ye Fan  ;2,90;51;2022
+1091;1869;1053;Ye Fan;2,90;51;2022
 1092;963;1053;Yoo Jung-hyun;2,90;52;2022
 1093;2704;1053;Fenggang Zhao;2,90;56;2022
 1094;1773;1053;Zheng Xiaodong;2,90;58;2022
@@ -1126,7 +1126,7 @@
 1125;871;1096;Kwek Leng Beng;2,80;81;2022
 1126;1107;1096;Geoffrey Kwok;2,80;36;2022
 1127;2707;1096;Lai Jianping;2,80;64;2022
-1128;1111;1096;Maritsa Lazari  ;2,80;77;2022
+1128;1111;1096;Maritsa Lazari;2,80;77;2022
 1129;1734;1096;Alexis Le-Quoc;2,80;47;2022
 1130;1112;1096;Angela Leong;2,80;61;2022
 1131;1220;1096;Lin Chen-hai;2,80;75;2022
@@ -1138,8 +1138,8 @@
 1137;1121;1096;Pan Dong;2,80;57;2022
 1138;1072;1096;Sean Parker;2,80;42;2022
 1139;1123;1096;Richard Peery;2,80;83;2022
-1140;1033;1096;Gregorio Perez Companc  ;2,80;86;2022
-1141;1034;1096;Sebastian Pinera  ;2,80;72;2022
+1140;1033;1096;Gregorio Perez Companc;2,80;86;2022
+1141;1034;1096;Sebastian Pinera;2,80;72;2022
 1142;1178;1096;Nicholas Pritzker;2,80;78;2022
 1143;1127;1096;Jeff Rothschild;2,80;67;2022
 1144;1180;1096;Steven Sarowitz;2,80;56;2022
@@ -1154,11 +1154,11 @@
 1153;1077;1096;Tung Chee Hwa;2,80;84;2022
 1154;1135;1096;Bulat Utemuratov;2,80;64;2022
 1155;1186;1096;Anna Katharina Viessmann;2,80;64;2022
-1156;1334;1096;Xicheng Wang  ;2,80;73;2022
+1156;1334;1096;Xicheng Wang;2,80;73;2022
 1157;1280;1096;Urs Wietlisbach;2,80;60;2022
 1158;1137;1096;Wong Man Li;2,80;57;2022
 1159;1243;1096;Xie Weitong;2,80;65;2022
-1160;2709;1096;Xu Chuanhua  ;2,80;87;2022
+1160;2709;1096;Xu Chuanhua;2,80;87;2022
 1161;1004;1096;Ye Xiaoping;2,80;59;2022
 1162;2710;1096;Weiguo Zhao;2,80;55;2022
 1163;1140;1163;Ben Ashkenazy;2,70;52;2022
@@ -1192,10 +1192,10 @@
 1191;1076;1163;Tseng Cheng;2,70;60;2022
 1192;1281;1163;Jerry Yang;2,70;53;2022
 1193;887;1163;Takao Yasuda;2,70;72;2022
-1194;1485;1163;Yu Qibing  ;2,70;56;2022
+1194;1485;1163;Yu Qibing;2,70;56;2022
 1195;2367;1163;Zhang Xuezheng;2,70;46;2022
-1196;964;1196;Abdulla bin Ahmad Al Ghurair  ;2,60;64;2022
-1197;1007;1196;Isak Andic  ;2,60;68;2022
+1196;964;1196;Abdulla bin Ahmad Al Ghurair;2,60;64;2022
+1197;1007;1196;Isak Andic;2,60;68;2022
 1198;1088;1196;Harindarpal Banga;2,60;71;2022
 1199;1090;1196;Anne Beaufour;2,60;58;2022
 1200;1091;1196;Henri Beaufour;2,60;56;2022
@@ -1215,7 +1215,7 @@
 1214;2011;1196;Rajinder Gupta;2,60;63;2022
 1215;675;1196;Igor Kesaev;2,60;55;2022
 1216;1920;1196;Raj Kumar;2,60;67;2022
-1217;1219;1196;Li Hongxin  ;2,60;69;2022
+1217;1219;1196;Li Hongxin;2,60;69;2022
 1218;2041;1196;Liu Fangyi;2,60;52;2022
 1219;1931;1196;Lu Zhongfang;2,60;79;2022
 1220;1455;1196;Nirmal Minda;2,60;64;2022
@@ -1231,12 +1231,12 @@
 1230;1385;1196;Kavitark Ram Shriram;2,60;65;2022
 1231;1274;1196;Hans Sy;2,60;66;2022
 1232;1275;1196;Herbert Sy;2,60;65;2022
-1233;663;1196;Tahir  ;2,60;70;2022
+1233;663;1196;Tahir;2,60;70;2022
 1234;1477;1196;Wang Linpeng;2,60;53;2022
 1235;1399;1196;David Wertheim;2,60;64;2022
 1236;1241;1196;Oprah Winfrey;2,60;68;2022
 1237;2714;1196;Xingming Zhu;2,60;55;2022
-1238;1246;1238;Abdulla Al Futtaim  ;2,50;64;2022
+1238;1246;1238;Abdulla Al Futtaim;2,50;64;2022
 1239;1084;1238;Suhail Bahwan;2,50;83;2022
 1240;1089;1238;Ulrike Baro;2,50;64;2022
 1241;1143;1238;David Baszucki;2,50;59;2022
@@ -1256,11 +1256,11 @@
 1255;1101;1238;Nadir Godrej;2,50;71;2022
 1256;1430;1238;Sanjiv Goenka;2,50;61;2022
 1257;1432;1238;Stein Erik Hagen;2,50;65;2022
-1258;1020;1238;Donald Horton  ;2,50;72;2022
+1258;1020;1238;Donald Horton;2,50;72;2022
 1259;1505;1238;Hu Yangzhong;2,50;57;2022
 1260;1215;1238;Baba Kalyani;2,50;73;2022
 1261;1307;1238;Stephen Lansdown;2,50;69;2022
-1262;1167;1238;Mark Leonard  ;2,50;65;2022
+1262;1167;1238;Mark Leonard;2,50;65;2022
 1263;2039;1238;William Li;2,50;47;2022
 1264;2042;1238;K.C. Liu;2,50;68;2022
 1265;1026;1238;Liu Xiaodong;2,50;54;2022
@@ -1274,7 +1274,7 @@
 1273;950;1238;Ravi Modi;2,50;45;2022
 1274;1372;1238;Charles Munger;2,50;98;2022
 1275;1065;1238;Rishad Naoroji;2,50;70;2022
-1276;2717;1238;Yongpei Ni  ;2,50;70;2022
+1276;2717;1238;Yongpei Ni;2,50;70;2022
 1277;1265;1238;Fatih Ozmen;2,50;64;2022
 1278;1229;1238;Qiu Minxiu;2,50;76;2022
 1279;1073;1238;Stewart Rahr;2,50;76;2022
@@ -1291,7 +1291,7 @@
 1290;1488;1238;Zhao Tao;2,50;56;2022
 1291;1190;1238;Hongyi Zhou;2,50;51;2022
 1292;2104;1292;Rajendra Agarwal;2,40;63;2022
-1293;1341;1292;George Argyros  ;2,40;85;2022
+1293;1341;1292;George Argyros;2,40;85;2022
 1294;1247;1292;Edward Bass;2,40;76;2022
 1295;2112;1292;Banwari Lal Bawri;2,40;69;2022
 1296;1995;1292;Girdhari Lal Bawri;2,40;74;2022
@@ -1304,24 +1304,24 @@
 1303;2719;1292;Chetan Dube;2,40;56;2022
 1304;1297;1292;Daniel Ek;2,40;39;2022
 1305;1298;1292;John Fisher;2,40;60;2022
-1306;1255;1292;Bernard Fraisse  ;2,40;65;2022
+1306;1255;1292;Bernard Fraisse;2,40;65;2022
 1307;1501;1292;William Franke;2,40;84;2022
 1308;1574;1292;Caroline Hagen Kjos;2,40;38;2022
 1309;1306;1292;Lam Kong;2,40;57;2022
 1310;1109;1292;Hans Langer;2,40;70;2022
 1311;1651;1292;Joe Lau;2,40;32;2022
 1312;1308;1292;Kevin David Lehmann;2,40;19;2022
-1313;1826;1292;Liang Qin  ;2,40;50;2022
+1313;1826;1292;Liang Qin;2,40;50;2022
 1314;1170;1292;Peter Lim;2,40;68;2022
 1315;1588;1292;Sarah MacMillan;2,40;68;2022
 1316;1263;1292;Kalanithi Maran;2,40;56;2022
 1317;1318;1292;Lirio Parisotto;2,40;68;2022
-1318;1271;1292;Rajan Raheja  ;2,40;67;2022
+1318;1271;1292;Rajan Raheja;2,40;67;2022
 1319;2720;1292;Alberto Roemmers;2,40;95;2022
 1320;1038;1292;Rodney Sacks;2,40;72;2022
 1321;1230;1292;Ferit Faik Sahenk;2,40;58;2022
 1322;916;1292;Hilton Schlosberg;2,40;69;2022
-1323;1326;1292;Alberto Siccardi  ;2,40;77;2022
+1323;1326;1292;Alberto Siccardi;2,40;77;2022
 1324;1130;1292;Salil Singhal;2,40;74;2022
 1325;1606;1292;Lucy Stitzer;2,40;62;2022
 1326;1534;1292;Otto Toto Sugiri;2,40;68;2022
@@ -1330,7 +1330,7 @@
 1329;1391;1292;Katsumi Tada;2,40;76;2022
 1330;1328;1292;Tang Yiu;2,40;88;2022
 1331;1971;1292;Jeff Tangney;2,40;49;2022
-1332;1394;1292;Lottie Tham  ;2,40;72;2022
+1332;1394;1292;Lottie Tham;2,40;72;2022
 1333;1330;1292;T.Y. Tsai;2,40;69;2022
 1334;961;1292;Timur Turlov;2,40;34;2022
 1335;1476;1292;Hamdi Ulukaya;2,40;49;2022
@@ -1342,7 +1342,7 @@
 1341;2721;1341;Houshan Bai;2,30;58;2022
 1342;1407;1341;Alex Beard;2,30;54;2022
 1343;1248;1341;Koos Bekker;2,30;69;2022
-1344;1411;1341;William Boyd  ;2,30;90;2022
+1344;1411;1341;William Boyd;2,30;90;2022
 1345;1289;1341;Timothy Boyle;2,30;72;2022
 1346;1412;1341;Anand Burman;2,30;69;2022
 1347;1149;1341;Richard Chandler;2,30;63;2022
@@ -1353,7 +1353,7 @@
 1352;1205;1341;Henry Davis;2,30;71;2022
 1353;1152;1341;Ray Davis;2,30;80;2022
 1354;738;1341;Stephen Feinberg;2,30;62;2022
-1355;1016;1341;Kenneth Feld  ;2,30;73;2022
+1355;1016;1341;Kenneth Feld;2,30;73;2022
 1356;1100;1341;Alexander Frolov;2,30;57;2022
 1357;1502;1341;Mario Germano Giuliani;2,30;50;2022
 1358;1210;1341;Serge Godin;2,30;72;2022
@@ -1378,15 +1378,15 @@
 1377;1029;1341;Erwin Franz Mueller;2,30;89;2022
 1378;1316;1341;David Murdock;2,30;98;2022
 1379;1942;1341;Rubens Ometto Silveira Mello;2,30;72;2022
-1380;2724;1341;Erik Paulsson  ;2,30;80;2022
+1380;2724;1341;Erik Paulsson;2,30;80;2022
 1381;1376;1341;Heloise Pratt;2,30;59;2022
-1382;1270;1341;Qiu Jianping  ;2,30;60;2022
-1383;822;1341;Dirk Rossmann  ;2,30;75;2022
+1382;1270;1341;Qiu Jianping;2,30;60;2022
+1383;822;1341;Dirk Rossmann;2,30;75;2022
 1384;1672;1341;Karin Schick;2,30;64;2022
 1385;1325;1341;Stephan Schmidheiny;2,30;74;2022
 1386;1231;1341;Wenrong Shen;2,30;76;2022
 1387;1000;1341;Guangxin Sun;2,30;59;2022
-1388;2725;1341;Mengquan Sun  ;2,30;72;2022
+1388;2725;1341;Mengquan Sun;2,30;72;2022
 1389;1134;1341;Thomas Tull;2,30;51;2022
 1390;1278;1341;Ted Turner;2,30;83;2022
 1391;1279;1341;David Walentas;2,30;83;2022
@@ -1400,7 +1400,7 @@
 1399;1346;1397;Brett Blundy;2,20;62;2022
 1400;2730;1397;Chris Britt;2,20;49;2022
 1401;1148;1397;Cen Junda;2,20;57;2022
-1402;1204;1397;Yadu Hari Dalmia  ;2,20;74;2022
+1402;1204;1397;Yadu Hari Dalmia;2,20;74;2022
 1403;2731;1397;Zhenggang Dou;2,20;68;2022
 1404;2132;1397;Weimin Du;2,20;58;2022
 1405;2732;1397;Devin Finzer;2,20;31;2022
@@ -1420,7 +1420,7 @@
 1419;1367;1397;Liang Xinjun;2,20;54;2022
 1420;1446;1397;Lin Chang Su-O;2,20;81;2022
 1421;1517;1397;Lin Fanlian;2,20;60;2022
-1422;1739;1397;Lin Lairong  ;2,20;53;2022
+1422;1739;1397;Lin Lairong;2,20;53;2022
 1423;1449;1397;Daniel Lubetzky;2,20;53;2022
 1424;1371;1397;Howard Marks;2,20;75;2022
 1425;1520;1397;Craig McCaw;2,20;72;2022
@@ -1440,10 +1440,10 @@
 1439;1684;1397;Pieter van der Does;2,20;52;2022
 1440;1333;1397;Lang Walker;2,20;76;2022
 1441;1538;1397;Hope Welker;2,20;36;2022
-1442;1337;1397;Xie Bingkun  ;2,20;55;2022
+1442;1337;1397;Xie Bingkun;2,20;55;2022
 1443;1539;1397;William Young;2,20;81;2022
 1444;1545;1397;Zhou Jian;2,20;45;2022
-1445;2734;1445;Bill and Jean Adderley  ;2,10;64;2022
+1445;2734;1445;Bill and Jean Adderley;2,10;64;2022
 1446;1490;1445;Mohamed Al Fayed;2,10;93;2022
 1447;1621;1445;Faisal Bin Qassim Al Thani;2,10;74;2022
 1448;1623;1445;Masaaki Arai;2,10;56;2022
@@ -1461,7 +1461,7 @@
 1460;2737;1445;Fred Ehrsam;2,10;33;2022
 1461;1709;1445;John Elkann;2,10;46;2022
 1462;1422;1445;Bob Ell;2,10;77;2022
-1463;2738;1445;Fang Xiaoliang  ;2,10;63;2022
+1463;2738;1445;Fang Xiaoliang;2,10;63;2022
 1464;900;1445;Lindsay Fox;2,10;84;2022
 1465;2260;1445;Gary Friedman;2,10;64;2022
 1466;1426;1445;Gordon Getty;2,10;88;2022
@@ -1480,8 +1480,8 @@
 1479;1733;1445;Lau Cho Kun;2,10;86;2022
 1480;2161;1445;Lee Hae-jin;2,10;54;2022
 1481;1368;1445;Harald Link;2,10;67;2022
-1482;1930;1445;Liu Xiucai  ;2,10;65;2022
-1483;2740;1445;Yangyong Luo  ;2,10;46;2022
+1482;1930;1445;Liu Xiucai;2,10;65;2022
+1483;2740;1445;Yangyong Luo;2,10;46;2022
 1484;1370;1445;Igor Makarov;2,10;60;2022
 1485;3307;1445;Alexander Mamut;2,10;62;2022
 1486;1659;1445;David Mindus;2,10;50;2022
@@ -1495,7 +1495,7 @@
 1494;1605;1445;Peter Sondakh;2,10;72;2022
 1495;2202;1445;Song Fei;2,10;55;2022
 1496;1469;1445;Timothy Springer;2,10;74;2022
-1497;2743;1445;Suyu Su  ;2,10;73;2022
+1497;2743;1445;Suyu Su;2,10;73;2022
 1498;1607;1445;Elizabeth Sy;2,10;69;2022
 1499;1001;1445;Sukanto Tanoto;2,10;72;2022
 1500;1331;1445;Jayshree Ullal;2,10;61;2022
@@ -1506,13 +1506,13 @@
 1505;1690;1445;Thomas Wu;2,10;72;2022
 1506;1862;1445;Wu Ying;2,10;57;2022
 1507;1692;1445;Amy Wyss;2,10;51;2022
-1508;1865;1445;Xiang Guangming  ;2,10;58;2022
+1508;1865;1445;Xiang Guangming;2,10;58;2022
 1509;1338;1445;Xu Shugen;2,10;56;2022
-1510;1868;1445;Steven Meng Yang  ;2,10;39;2022
+1510;1868;1445;Steven Meng Yang;2,10;39;2022
 1511;1405;1445;Clayton Zekelman;2,10;53;2022
 1512;1544;1445;Hongfei Zhao;2,10;47;2022
 1513;1191;1513;S. Daniel Abraham;2,00;97;2022
-1514;1877;1513;Aziz Akhannouch  ;2,00;61;2022
+1514;1877;1513;Aziz Akhannouch;2,00;61;2022
 1515;1491;1513;Andrey Andreev;2,00;48;2022
 1516;838;1513;Ramon Ang;2,00;68;2022
 1517;2744;1513;Guilherme Benchimol;2,00;45;2022
@@ -1522,7 +1522,7 @@
 1521;1199;1513;Herb Chambers;2,00;80;2022
 1522;1416;1513;Daniel Chiu;2,00;61;2022
 1523;1631;1513;Tim Cook;2,00;61;2022
-1524;895;1513;Brunello Cucinelli  ;2,00;68;2022
+1524;895;1513;Brunello Cucinelli;2,00;68;2022
 1525;1420;1513;Georgi Domuschiev;2,00;49;2022
 1526;1421;1513;Kiril Domuschiev;2,00;52;2022
 1527;1094;1513;Glenn Dubin;2,00;64;2022
@@ -1530,13 +1530,13 @@
 1529;1296;1513;Thomas Duff;2,00;65;2022
 1530;1636;1513;Robert Duggan;2,00;77;2022
 1531;1500;1513;Maria Franca Fissolo;2,00;87;2022
-1532;1899;1513;Fu Mingkang  ;2,00;59;2022
+1532;1899;1513;Fu Mingkang;2,00;59;2022
 1533;1719;1513;Jay Hennick;2,00;65;2022
 1534;2269;1513;Orion Hindawi;2,00;42;2022
 1535;758;1513;Ji Qi;2,00;55;2022
 1536;1726;1513;Kim Chang-soo;2,00;61;2022
 1537;785;1513;Vyacheslav Kim;2,00;52;2022
-1538;2745;1513;Kuan Kam Hon  ;2,00;74;2022
+1538;2745;1513;Kuan Kam Hon;2,00;74;2022
 1539;986;1513;Egor Kulkov;2,00;50;2022
 1540;786;1513;Josh Kushner;2,00;36;2022
 1541;1165;1513;Henry Laufer;2,00;76;2022
@@ -1555,12 +1555,12 @@
 1554;1526;1513;Linda Pritzker;2,00;68;2022
 1555;2188;1513;P.V. Ramprasad Reddy;2,00;64;2022
 1556;1753;1513;Joe Rogers jr;2,00;75;2022
-1557;1754;1513;Ruan Shuilong  ;2,00;86;2022
+1557;1754;1513;Ruan Shuilong;2,00;86;2022
 1558;877;1513;Phil Ruffin;2,00;87;2022
 1559;1671;1513;Vinod Saraf;2,00;69;2022
 1560;1181;1513;Maria-Elisabeth Schaeffler-Thumann;2,00;80;2022
 1561;1674;1513;Genhuo Shao;2,00;56;2022
-1562;1675;1513;Shen Xiqiang  ;2,00;74;2022
+1562;1675;1513;Shen Xiqiang;2,00;74;2022
 1563;1604;1513;Shi Wen-long;2,00;94;2022
 1564;1467;1513;Thaksin Shinawatra;2,00;72;2022
 1565;1131;1513;Alexander Skorobogatko;2,00;54;2022
@@ -1591,8 +1591,8 @@
 1590;2752;1579;Jose Luis Cutrale;1,90;75;2022
 1591;1634;1579;D. Leopoldo Del Pino;1,90;59;2022
 1592;1564;1579;James Dinan;1,90;62;2022
-1593;1710;1579;Francois Feuillet  ;1,90;73;2022
-1594;2753;1579;Guangming Fu  ;1,90;68;2022
+1593;1710;1579;Francois Feuillet;1,90;73;2022
+1594;2753;1579;Guangming Fu;1,90;68;2022
 1595;1712;1579;Mario Gabelli;1,90;80;2022
 1596;2007;1579;Reinold Geiger;1,90;74;2022
 1597;1908;1579;He Zhenggang;1,90;68;2022
@@ -1607,7 +1607,7 @@
 1606;1441;1579;Thomas Kwok;1,90;70;2022
 1607;1735;1579;Lei Jufang;1,90;69;2022
 1608;1586;1579;David Lichtenstein;1,90;60;2022
-1609;1587;1579;Lin Dingqiang  ;1,90;55;2022
+1609;1587;1579;Lin Dingqiang;1,90;55;2022
 1610;762;1579;Mikhail Lomtadze;1,90;46;2022
 1611;1450;1579;Melissa Ma;1,90;64;2022
 1612;1743;1579;Yusaku Maezawa;1,90;46;2022
@@ -1620,7 +1620,7 @@
 1619;1523;1579;Oei Hong Leong;1,90;74;2022
 1620;1665;1579;Nihat Ozdemir;1,90;72;2022
 1621;2758;1579;Gretel Packer;1,90;56;2022
-1622;1666;1579;Benjamin Zhengmin Pan  ;1,90;52;2022
+1622;1666;1579;Benjamin Zhengmin Pan;1,90;52;2022
 1623;1461;1579;Victor Pinchuk;1,90;61;2022
 1624;1177;1579;Alexander Ponomarenko;1,90;57;2022
 1625;2759;1579;Qi Jinxing;1,90;60;2022
@@ -1640,8 +1640,8 @@
 1639;1762;1579;Wang Chou-hsiong;1,90;81;2022
 1640;2349;1579;Wang Xiaoshen;1,90;53;2022
 1641;1480;1579;Wei Yin-Heng;1,90;63;2022
-1642;1866;1579;Xue Xiangdong  ;1,90;63;2022
-1643;1486;1579;Yuan Fugen  ;1,90;71;2022
+1642;1866;1579;Xue Xiangdong;1,90;63;2022
+1643;1486;1579;Yuan Fugen;1,90;71;2022
 1644;1771;1579;David Zalik;1,90;48;2022
 1645;1622;1645;Leslie Alexander;1,80;78;2022
 1646;837;1645;Igor Altushkin;1,80;51;2022
@@ -1690,7 +1690,7 @@
 1689;1923;1645;Regine Leibinger;1,80;59;2022
 1690;1924;1645;Nicola Leibinger-Kammueller;1,80;62;2022
 1691;1218;1645;Wolfgang Leitner;1,80;69;2022
-1692;2767;1645;Liu Zhongtian  ;1,80;58;2022
+1692;2767;1645;Liu Zhongtian;1,80;58;2022
 1693;1519;1645;Bill Malhotra;1,80;72;2022
 1694;2173;1645;Charlwin Mao;1,80;64;2022
 1695;2174;1645;George Marcus;1,80;80;2022
@@ -1710,7 +1710,7 @@
 1709;1597;1645;G. Rajendran;1,80;79;2022
 1710;1670;1645;Krit Ratanarak;1,80;75;2022
 1711;1380;1645;Jerry Reinsdorf;1,80;86;2022
-1712;2065;1645;Mochtar Riady  ;1,80;92;2022
+1712;2065;1645;Mochtar Riady;1,80;92;2022
 1713;1757;1645;Rajju Shroff;1,80;88;2022
 1714;1960;1645;Frank Slootman;1,80;63;2022
 1715;1388;1645;Henry Swieca;1,80;64;2022
@@ -1719,24 +1719,24 @@
 1718;703;1645;Torbjorn Tornqvist;1,80;68;2022
 1719;2770;1645;Zhenghua Wang;1,80;77;2022
 1720;1614;1645;Charlotte Colket Weber;1,80;79;2022
-1721;1767;1645;Wu Lanlan  ;1,80;48;2022
+1721;1767;1645;Wu Lanlan;1,80;48;2022
 1722;1863;1645;Wu Yulan;1,80;52;2022
 1723;1482;1645;Elaine Wynn;1,80;79;2022
-1724;2360;1645;Xu Shijun  ;1,80;59;2022
-1725;1483;1645;Xu Xudong  ;1,80;52;2022
+1724;2360;1645;Xu Shijun;1,80;59;2022
+1725;1483;1645;Xu Xudong;1,80;52;2022
 1726;1769;1645;Yang Xuegang;1,80;57;2022
-1727;2094;1645;Zhang Chuanwei  ;1,80;59;2022
-1728;2771;1645;Xuexin Zhang  ;1,80;74;2022
+1727;2094;1645;Zhang Chuanwei;1,80;59;2022
+1728;2771;1645;Xuexin Zhang;1,80;74;2022
 1729;1775;1729;Noubar Afeyan;1,70;59;2022
 1730;2373;1729;Farkhad Akhmedov;1,70;66;2022
 1731;1698;1729;Marc Andreessen;1,70;50;2022
 1732;1287;1729;John Bicket;1,70;42;2022
-1733;1886;1729;Zadik Bino  ;1,70;78;2022
+1733;1886;1729;Zadik Bino;1,70;78;2022
 1734;1782;1729;Alex Birkenstock;1,70;53;2022
 1735;1783;1729;Christian Birkenstock;1,70;49;2022
 1736;1288;1729;Sanjit Biswas;1,70;40;2022
 1737;1702;1729;David Booth;1,70;76;2022
-1738;1784;1729;Josef Boquoi  ;1,70;88;2022
+1738;1784;1729;Josef Boquoi;1,70;88;2022
 1739;1888;1729;Saket Burman;1,70;45;2022
 1740;2772;1729;Mingtong Cai;1,70;70;2022
 1741;1787;1729;Chen Yung-tai;1,70;86;2022
@@ -1748,14 +1748,14 @@
 1747;1794;1729;Norbert Dentressangle;1,70;67;2022
 1748;1206;1729;Oleg Deripaska;1,70;54;2022
 1749;897;1729;Dong Jinggui;1,70;52;2022
-1750;1708;1729;Keith Dunleavy  ;1,70;52;2022
+1750;1708;1729;Keith Dunleavy;1,70;52;2022
 1751;2774;1729;Donald Foss;1,70;77;2022
 1752;1713;1729;Rolf Gerling;1,70;67;2022
 1753;1902;1729;G. Gnanalingam;1,70;77;2022
 1754;1717;1729;He Zhaoxi;1,70;48;2022
 1755;1718;1729;William Heinecke;1,70;72;2022
 1756;2775;1729;Huh Jae-myung;1,70;50;2022
-1757;1811;1729;Tianjiang Jia  ;1,70;59;2022
+1757;1811;1729;Tianjiang Jia;1,70;59;2022
 1758;1509;1729;Michael Jordan;1,70;59;2022
 1759;1162;1729;Dmitry Kamenshchik;1,70;53;2022
 1760;2022;1729;Kim Taek-jin;1,70;55;2022
@@ -1774,7 +1774,7 @@
 1773;1934;1729;Bruce Mathieson;1,70;78;2022
 1774;2776;1729;Billy Joe (Red) McCombs;1,70;94;2022
 1775;2050;1729;Deepak Mehta;1,70;65;2022
-1776;1937;1729;Mario Moretti Polegato  ;1,70;69;2022
+1776;1937;1729;Mario Moretti Polegato;1,70;69;2022
 1777;1746;1729;Alberto Palatchi;1,70;72;2022
 1778;1945;1729;Nelson Peltz;1,70;79;2022
 1779;1749;1729;Jorge Perez;1,70;72;2022
@@ -1784,7 +1784,7 @@
 1783;2066;1729;Rihanna;1,70;34;2022
 1784;823;1729;Arkady Rotenberg;1,70;70;2022
 1785;1183;1729;Dieter Schnabel;1,70;76;2022
-1786;1841;1729;Shang Xiaobo  ;1,70;48;2022
+1786;1841;1729;Shang Xiaobo;1,70;48;2022
 1787;2777;1729;Shao Qinxiang;1,70;67;2022
 1788;2778;1729;Renate Sick-Glaser;1,70;64;2022
 1789;1959;1729;Basudeo Singh;1,70;81;2022
@@ -1796,10 +1796,10 @@
 1795;1396;1729;Radha Vembu;1,70;49;2022
 1796;2781;1729;Patrizio Vinciarelli;1,70;75;2022
 1797;2782;1729;Mingwang Wang;1,70;54;2022
-1798;772;1729;Wang Yanqing  ;1,70;75;2022
+1798;772;1729;Wang Yanqing;1,70;75;2022
 1799;2483;1729;Lars Wingefors;1,70;45;2022
 1800;1765;1729;Stephen Winn;1,70;75;2022
-1801;1766;1729;Ian Wood  ;1,70;79;2022
+1801;1766;1729;Ian Wood;1,70;79;2022
 1802;1981;1729;Gordon Wu;1,70;86;2022
 1803;2489;1729;Wu Xiangdong;1,70;53;2022
 1804;2091;1729;Yao Kuizhang;1,70;57;2022
@@ -1808,15 +1808,15 @@
 1807;1871;1729;Yu Lili;1,70;54;2022
 1808;1695;1729;Alan Zekelman;1,70;59;2022
 1809;2784;1729;Kaitian Zeng;1,70;47;2022
-1810;1340;1729;Zhang Jingzhang  ;1,70;86;2022
+1810;1340;1729;Zhang Jingzhang;1,70;86;2022
 1811;2785;1729;Zhang Yubai;1,70;57;2022
-1812;2786;1729;Zheng Hong  ;1,70;71;2022
+1812;2786;1729;Zheng Hong;1,70;71;2022
 1813;2787;1729;Zhong Peifeng;1,70;59;2022
-1814;1990;1729;Zhou Zongwen  ;1,70;65;2022
+1814;1990;1729;Zhou Zongwen;1,70;65;2022
 1815;2502;1729;Zhu Yiming;1,70;49;2022
 1816;2788;1729;Zhaojiang Zhu;1,70;48;2022
 1817;1618;1729;Anita Zucker;1,70;70;2022
-1818;1777;1818;Herbert Allen jr  ;1,60;82;2022
+1818;1777;1818;Herbert Allen jr;1,60;82;2022
 1819;1778;1818;Vasily Anisimov;1,60;70;2022
 1820;1883;1818;Mori Arkin;1,60;69;2022
 1821;965;1818;Semahat Sevim Arsel;1,60;93;2022
@@ -1833,7 +1833,7 @@
 1832;1795;1818;Jamie Dimon;1,60;66;2022
 1833;1798;1818;Gary Fegel;1,60;48;2022
 1834;2533;1818;Gao Yunfeng;1,60;55;2022
-1835;1901;1818;Philippe Ginestet  ;1,60;68;2022
+1835;1901;1818;Philippe Ginestet;1,60;68;2022
 1836;1055;1818;Sebastian Glaser;1,60;64;2022
 1837;981;1818;Sam Goi;1,60;75;2022
 1838;2009;1818;Lance Gokongwei;1,60;54;2022
@@ -1841,7 +1841,7 @@
 1840;1803;1818;Bill Gross;1,60;77;2022
 1841;1804;1818;Sue Gross;1,60;72;2022
 1842;1905;1818;Patrick Hanrahan;1,60;66;2022
-1843;2789;1818;Lutz Mario Helmig;1,60;75;2022
+1843;1359;1818;Lutz Mario Helmig;1,60;75;2022
 1844;1720;1818;Ilkka Herlin;1,60;63;2022
 1845;1721;1818;Asok Kumar Hiranandani;1,60;67;2022
 1846;2790;1818;Hu Kunhui;1,60;31;2022
@@ -1866,7 +1866,7 @@
 1865;1823;1818;Li Sze Lim;1,60;65;2022
 1866;2165;1818;Li Yongqing;1,60;57;2022
 1867;2792;1818;Lim Wee Chai;1,60;64;2022
-1868;2793;1818;Liu Aisen  ;1,60;49;2022
+1868;2793;1818;Liu Aisen;1,60;49;2022
 1869;2043;1818;Liu Ming Chung;1,60;59;2022
 1870;1827;1818;Vincent Lo;1,60;73;2022
 1871;2045;1818;Brandt Louie;1,60;78;2022
@@ -1882,9 +1882,9 @@
 1881;2182;1818;Kazuo Okada;1,60;79;2022
 1882;1226;1818;Tomas Olivo Lopez;1,60;48;2022
 1883;2794;1818;Jorge Pinheiro Koren de Lima;1,60;49;2022
-1884;2689;1818;Candido Pinheiro Koren de Lima  ;1,60;51;2022
+1884;2689;1818;Candido Pinheiro Koren de Lima;1,60;51;2022
 1885;2313;1818;Qian Ying;1,60;56;2022
-1886;2795;1818;Ren Jinsheng  ;1,60;59;2022
+1886;2795;1818;Ren Jinsheng;1,60;59;2022
 1887;1752;1818;Brian Roberts;1,60;62;2022
 1888;2796;1818;Austin Russell;1,60;27;2022
 1889;2577;1818;George Sakellaris;1,60;75;2022
@@ -1908,7 +1908,7 @@
 1907;884;1818;Carl Thoma;1,60;73;2022
 1908;1537;1818;Ion Tiriac;1,60;82;2022
 1909;2208;1818;Clemens Toennies;1,60;65;2022
-1910;1975;1818;Tran Ba Duong  ;1,60;62;2022
+1910;1975;1818;Tran Ba Duong;1,60;62;2022
 1911;1851;1818;Tseng Sing-ai;1,60;64;2022
 1912;2802;1818;Tung Ching Bor;1,60;59;2022
 1913;2478;1818;Tung Ching Sai;1,60;57;2022
@@ -1918,17 +1918,17 @@
 1917;1481;1818;Wei Ying-Chiao;1,60;67;2022
 1918;1764;1818;Tom Werner;1,60;71;2022
 1919;1689;1818;Kie Chie Wong;1,60;74;2022
-1920;2090;1818;Xu Guozhong  ;1,60;58;2022
+1920;2090;1818;Xu Guozhong;1,60;58;2022
 1921;2362;1818;Xu Yuejuan;1,60;60;2022
 1922;2803;1818;Yang Tingdong;1,60;61;2022
 1923;2092;1818;Yu Peidi;1,60;62;2022
 1924;2365;1818;Matei Zaharia;1,60;36;2022
 1925;801;1818;Zhang Jian;1,60;53;2022
 1926;2804;1818;Keqiang Zhang;1,60;61;2022
-1927;2098;1818;Zheng Jianjiang  ;1,60;61;2022
+1927;2098;1818;Zheng Jianjiang;1,60;61;2022
 1928;2099;1818;Zhong Sheng Jian;1,60;64;2022
 1929;1991;1929;Antti Aarnio-Wihuri;1,50;82;2022
-1930;1878;1929;Hamdi Akin  ;1,50;67;2022
+1930;1878;1929;Hamdi Akin;1,50;67;2022
 1931;2105;1929;Chirayu Amin;1,50;75;2022
 1932;2805;1929;Joachim Ante;1,50;39;2022
 1933;2108;1929;Ziv Aviram;1,50;63;2022
@@ -1949,7 +1949,7 @@
 1948;1890;1929;Safra Catz;1,50;60;2022
 1949;1629;1929;Binod Chaudhary;1,50;66;2022
 1950;2391;1929;Chen Baohua;1,50;60;2022
-1951;2807;1929;Xianbao Chen  ;1,50;62;2022
+1951;2807;1929;Xianbao Chen;1,50;62;2022
 1952;2245;1929;Chung Yong-jin;1,50;53;2022
 1953;2808;1929;Steve Conine;1,50;49;2022
 1954;2126;1929;Eduardo Costantini;1,50;75;2022
@@ -1968,7 +1968,7 @@
 1967;574;1929;Ali Erdemoglu;1,50;62;2022
 1968;1570;1929;Eduardo Eurnekian;1,50;89;2022
 1969;2005;1929;John Farber;1,50;96;2022
-1970;2810;1929;Clement Fayat  ;1,50;90;2022
+1970;2810;1929;Clement Fayat;1,50;90;2022
 1971;2403;1929;Daniel Feffer;1,50;62;2022
 1972;2257;1929;David Feffer;1,50;65;2022
 1973;2404;1929;Ruben Feffer;1,50;52;2022
@@ -1976,7 +1976,7 @@
 1975;2811;1929;Sergio Fogel;1,50;58;2022
 1976;2812;1929;Pedro Franceschi;1,50;25;2022
 1977;1424;1929;Stefano Gabbana;1,50;59;2022
-1978;2813;1929;Yi Gao  ;1,50;53;2022
+1978;2813;1929;Yi Gao;1,50;53;2022
 1979;2814;1929;Geng Jianming;1,50;59;2022
 1980;1900;1929;Alan Gerry;1,50;93;2022
 1981;2262;1929;Balkrishan Goenka;1,50;55;2022
@@ -1997,8 +1997,8 @@
 1996;2148;1929;Jin Xin;1,50;55;2022
 1997;2149;1929;Conni Jonsson;1,50;61;2022
 1998;2818;1929;Jenny Just;1,50;54;2022
-1999;1916;1929;Ke Xiping  ;1,50;61;2022
-2000;2021;1929;Ke Zunhong  ;1,50;67;2022
+1999;1916;1929;Ke Xiping;1,50;61;2022
+2000;2021;1929;Ke Zunhong;1,50;67;2022
 2001;1918;1929;Sidney Kimmel;1,50;94;2022
 2002;2155;1929;Seth Klarman;1,50;64;2022
 2003;1106;1929;Mustafa Rahmi Koc;1,50;91;2022
@@ -2012,17 +2012,17 @@
 2011;1732;1929;Lai Jianfa;1,50;52;2022
 2012;3057;1929;Manuel Lao Hernandez;1,50;77;2022
 2013;2819;1929;Lee Joon-ho;1,50;57;2022
-2014;2036;1929;Manfredi Lefebvre d  Ovidio  ;1,50;68;2022
+2014;2036;1929;Manfredi Lefebvre d  Ovidio;1,50;68;2022
 2015;2038;1929;Li Jinyang;1,50;64;2022
 2016;2820;1929;Li Ming;1,50;64;2022
 2017;2288;1929;Zhen Li;1,50;58;2022
 2018;2821;1929;Rongfu Lu;1,50;51;2022
 2019;1452;1929;Rafique Malik;1,50;71;2022
 2020;1933;1929;Youssef Mansour;1,50;76;2022
-2021;2048;1929;Mao Lixiang  ;1,50;81;2022
+2021;2048;1929;Mao Lixiang;1,50;81;2022
 2022;2049;1929;David McMurtry;1,50;81;2022
-2023;1745;1929;Meng Qingshan  ;1,50;73;2022
-2024;2301;1929;Alan Miller  ;1,50;84;2022
+2023;1745;1929;Meng Qingshan;1,50;73;2022
+2024;2301;1929;Alan Miller;1,50;84;2022
 2025;1936;1929;Greg Mondre;1,50;47;2022
 2026;1831;1929;Massimo Moratti;1,50;76;2022
 2027;1938;1929;Robert Mouawad;1,50;77;2022
@@ -2070,7 +2070,7 @@
 2069;2492;1929;Xue Jiping;1,50;71;2022
 2070;2827;1929;Yang Jian;1,50;50;2022
 2071;1987;1929;Justin Yuan;1,50;64;2022
-2072;2097;1929;Xinghai Zhang  ;1,50;59;2022
+2072;2097;1929;Xinghai Zhang;1,50;59;2022
 2073;2828;1929;Xuansong Zhang;1,50;50;2022
 2074;2368;1929;Zhang Yin;1,50;65;2022
 2075;2829;1929;Chengjian Zhou;1,50;56;2022
@@ -2086,7 +2086,7 @@
 2085;2116;2076;Stewart Butterfield;1,40;49;2022
 2086;2120;2076;Richard Chang;1,40;75;2022
 2087;2831;2076;Chen Tianqiao;1,40;48;2022
-2088;2001;2076;Chen Wenyuan  ;1,40;54;2022
+2088;2001;2076;Chen Wenyuan;1,40;54;2022
 2089;2522;2076;Cheng Antares;1,40;64;2022
 2090;2123;2076;Chin Jong Hwa;1,40;63;2022
 2091;2397;2076;Cho Jyh-jer;1,40;64;2022
@@ -2105,7 +2105,7 @@
 2104;2836;2076;Fan Minhua;1,40;60;2022
 2105;2837;2076;Hongbo Fang;1,40;55;2022
 2106;1799;2076;William Foley II.;1,40;77;2022
-2107;1639;2076;Jayme Garfinkel  ;1,40;76;2022
+2107;1639;2076;Jayme Garfinkel;1,40;76;2022
 2108;2839;2076;Radhe Shyam Goenka;1,40;76;2022
 2109;1102;2076;Maggie Hardy;1,40;56;2022
 2110;2013;2076;Ayman Hariri;1,40;43;2022
@@ -2113,9 +2113,9 @@
 2112;2017;2076;Daniel Hirschfeld;1,40;80;2022
 2113;2840;2076;William Hockey;1,40;32;2022
 2114;2271;2076;Huang Guanlin;1,40;57;2022
-2115;2423;2076;Huang Xiaofen  ;1,40;60;2022
+2115;2423;2076;Huang Xiaofen;1,40;60;2022
 2116;1214;2076;Jay-Z;1,40;52;2022
-2117;1644;2076;Yintai Jiang  ;1,40;71;2022
+2117;1644;2076;Yintai Jiang;1,40;71;2022
 2118;2548;2076;Johan Johannson;1,40;55;2022
 2119;1915;2076;Ramesh Juneja;1,40;66;2022
 2120;1580;2076;Scott Kapnick;1,40;63;2022
@@ -2138,9 +2138,9 @@
 2137;2446;2076;Jeffrey Lorberbaum;1,40;67;2022
 2138;2047;2076;Gary Magness;1,40;68;2022
 2139;2843;2076;Zhongwu Mao;1,40;59;2022
-2140;1744;2076;Ilson Mateus  ;1,40;59;2022
+2140;1744;2076;Ilson Mateus;1,40;59;2022
 2141;1315;2076;Vadim Moshkovich;1,40;54;2022
-2142;1939;2076;Jerry Moyes  ;1,40;78;2022
+2142;1939;2076;Jerry Moyes;1,40;78;2022
 2143;2844;2076;George Alexander Muthoot;1,40;66;2022
 2144;2845;2076;George Jacob Muthoot;1,40;69;2022
 2145;2846;2076;George Thomas Muthoot;1,40;71;2022
@@ -2169,16 +2169,16 @@
 2168;2850;2076;Tong Jinquan;1,40;67;2022
 2169;2851;2076;Luiza Helena Trajano;1,40;70;2022
 2170;2210;2076;John Van Lieshout;1,40;76;2022
-2171;1610;2076;Vardis Vardinoyannis  ;1,40;89;2022
+2171;1610;2076;Vardis Vardinoyannis;1,40;89;2022
 2172;1977;2076;Jens von Bahr;1,40;51;2022
 2173;2347;2076;Wang Fuji;1,40;64;2022
 2174;2854;2076;Wang Jian;1,40;68;2022
 2175;2084;2076;Werner O. Weber;1,40;83;2022
-2176;2215;2076;Wei Lidong  ;1,40;46;2022
+2176;2215;2076;Wei Lidong;1,40;46;2022
 2177;2351;2076;Drorit Wertheim;1,40;66;2022
 2178;2087;2076;Bo Wu;1,40;67;2022
 2179;2355;2076;Eugene Wu;1,40;76;2022
-2180;2218;2076;Wu Xushun  ;1,40;73;2022
+2180;2218;2076;Wu Xushun;1,40;73;2022
 2181;2358;2076;Wenbo Xiang;1,40;59;2022
 2182;2089;2076;Swift Xie;1,40;42;2022
 2183;1768;2076;Xu Bingzhong;1,40;48;2022
@@ -2197,7 +2197,7 @@
 2196;1994;2190;Binny Bansal;1,30;39;2022
 2197;2109;2190;Sachin Bansal;1,30;40;2022
 2198;1884;2190;Barbara Benetton;1,30;52;2022
-2199;2113;2190;Othman Benjelloun  ;1,30;89;2022
+2199;2113;2190;Othman Benjelloun;1,30;89;2022
 2200;1885;2190;Angela Bennett;1,30;78;2022
 2201;2381;2190;Oleg Boyko;1,30;57;2022
 2202;2508;2190;Anna Maria Braun;1,30;43;2022
@@ -2212,13 +2212,13 @@
 2211;2002;2190;Chua Thian Poh;1,30;73;2022
 2212;2125;2190;Alberto Cortina;1,30;76;2022
 2213;1893;2190;Sandor Csanyi;1,30;69;2022
-2214;2003;2190;Sasson Dayan  ;1,30;82;2022
+2214;2003;2190;Sasson Dayan;1,30;82;2022
 2215;2128;2190;Anand Deshpande;1,30;59;2022
 2216;2249;2190;Richard Desmond;1,30;70;2022
 2217;2401;2190;Shlomo Eliahu;1,30;86;2022
 2218;2254;2190;Jose Roberto Ermirio de Moraes;1,30;64;2022
 2219;2255;2190;Jose Ermirio de Moraes Neto;1,30;69;2022
-2220;2857;2190;David Fattal  ;1,30;64;2022
+2220;2857;2190;David Fattal;1,30;64;2022
 2221;2137;2190;Marvy Finger;1,30;86;2022
 2222;2858;2190;Adam Foroughi;1,30;41;2022
 2223;1800;2190;Richard Fortin;1,30;73;2022
@@ -2228,16 +2228,16 @@
 2227;2861;2190;Premchand Godha;1,30;75;2022
 2228;2862;2190;Mikhail Gutseriev;1,30;64;2022
 2229;2538;2190;Hang Hong;1,30;54;2022
-2230;2014;2190;Alfredo Harp Helu  ;1,30;78;2022
-2231;1907;2190;Jaroslav Hascak  ;1,30;52;2022
+2230;2014;2190;Alfredo Harp Helu;1,30;78;2022
+2231;1907;2190;Jaroslav Hascak;1,30;52;2022
 2232;2418;2190;He Zuxun;1,30;56;2022
 2233;1808;2190;David Hoffmann;1,30;69;2022
 2234;2863;2190;Francis Holder;1,30;81;2022
-2235;1577;2190;Hu Rongda  ;1,30;63;2022
+2235;1577;2190;Hu Rongda;1,30;63;2022
 2236;1643;2190;Wei Huang;1,30;62;2022
 2237;1021;2190;Zarakh Iliev;1,30;55;2022
 2238;2145;2190;Mitchell Jacobson;1,30;71;2022
-2239;2147;2190;Jiang Guiting  ;1,30;63;2022
+2239;2147;2190;Jiang Guiting;1,30;63;2022
 2240;1914;2190;Rajeev Juneja;1,30;56;2022
 2241;2864;2190;Peter Kelly;1,30;64;2022
 2242;2865;2190;Kim Nam-jung;1,30;49;2022
@@ -2247,15 +2247,15 @@
 2246;2033;2190;Raymond Kwok;1,30;68;2022
 2247;1512;2190;Heikki Kyostila;1,30;76;2022
 2248;2034;2190;Lee Ho-jin;1,30;59;2022
-2249;2037;2190;Bernard Lewis  ;1,30;96;2022
+2249;2037;2190;Bernard Lewis;1,30;96;2022
 2250;2164;2190;Fengluan Li;1,30;60;2022
 2251;1310;2190;Hua Li;1,30;44;2022
 2252;2287;2190;Li Ruiqiang;1,30;42;2022
 2253;2444;2190;Lin Zhijun;1,30;46;2022
-2254;2445;2190;Lin Zhixiong  ;1,30;48;2022
+2254;2445;2190;Lin Zhixiong;1,30;48;2022
 2255;2290;2190;Liu Ming Hui;1,30;59;2022
-2256;2868;2190;Xuejing Liu  ;1,30;71;2022
-2257;2566;2190;Lu Yonghua  ;1,30;58;2022
+2256;2868;2190;Xuejing Liu;1,30;71;2022
+2257;2566;2190;Lu Yonghua;1,30;58;2022
 2258;2869;2190;Zhaoxi Lu;1,30;53;2022
 2259;2291;2190;Frederic Luddy;1,30;67;2022
 2260;2052;2190;Miao Yongjun;1,30;54;2022
@@ -2298,12 +2298,12 @@
 2297;1850;2190;August Troendle;1,30;66;2022
 2298;2342;2190;Joop van den Ende;1,30;80;2022
 2299;1852;2190;Sekar Vembu;1,30;50;2022
-2300;2344;2190;Sandro Veronesi  ;1,30;62;2022
+2300;2344;2190;Sandro Veronesi;1,30;62;2022
 2301;2481;2190;Wan Long;1,30;81;2022
 2302;2874;2190;Han Wang;1,30;34;2022
 2303;2875;2190;Wang Jianyi;1,30;59;2022
 2304;2876;2190;Wang Qinghua;1,30;56;2022
-2305;2877;2190;Pengcheng Wen  ;1,30;59;2022
+2305;2877;2190;Pengcheng Wen;1,30;59;2022
 2306;2086;2190;Alfred West jr;1,30;79;2022
 2307;1857;2190;Dan Wilks;1,30;65;2022
 2308;1980;2190;Farris Wilks;1,30;70;2022
@@ -2314,13 +2314,13 @@
 2313;2881;2190;Patrick Zalupski;1,30;41;2022
 2314;2882;2190;Shengda Zan;1,30;59;2022
 2315;2222;2190;Zeng Chaoyi;1,30;53;2022
-2316;2604;2190;Zhang Guiping  ;1,30;70;2022
+2316;2604;2190;Zhang Guiping;1,30;70;2022
 2317;2223;2190;Peng Zhao;1,30;51;2022
 2318;2883;2190;Zheng Zhiguo;1,30;50;2022
 2319;2225;2190;Kostyantin Zhevago;1,30;48;2022
 2320;2884;2190;Zhou Mingjie;1,30;64;2022
 2321;2371;2190;Zhu Xingliang;1,30;62;2022
-2322;1546;2190;Zhu Yiwen  ;1,30;64;2022
+2322;1546;2190;Zhu Yiwen;1,30;64;2022
 2323;2226;2190;Zong Yanmin;1,30;64;2022
 2324;2227;2324;Sanjay Agarwal;1,20;51;2022
 2325;2228;2324;Hamad bin Jassim bin Jaber Al Thani;1,20;62;2022
@@ -2342,9 +2342,9 @@
 2341;2395;2324;Chen Xueling;1,20;54;2022
 2342;2396;2324;Cheng Lili;1,20;57;2022
 2343;2890;2324;Yvon Chouinard;1,20;83;2022
-2344;2891;2324;Luigi Cremonini  ;1,20;82;2022
+2344;2891;2324;Luigi Cremonini;1,20;82;2022
 2345;2892;2324;Tim Draper;1,20;63;2022
-2346;2893;2324;Fan Zhaoxia  ;1,20;54;2022
+2346;2893;2324;Fan Zhaoxia;1,20;54;2022
 2347;2405;2324;Gleb Fetisov;1,20;55;2022
 2348;2407;2324;Robert Fisher;1,20;68;2022
 2349;2532;2324;William Fisher;1,20;65;2022
@@ -2358,20 +2358,20 @@
 2357;2535;2324;Sven Hagstroemer;1,20;78;2022
 2358;2266;2324;Fahed Hariri;1,20;41;2022
 2359;2267;2324;Richard Hayne;1,20;74;2022
-2360;2539;2324;He Yamin  ;1,20;65;2022
+2360;2539;2324;He Yamin;1,20;65;2022
 2361;2268;2324;Michael Heine;1,20;72;2022
 2362;2141;2324;Heikki Herlin;1,20;35;2022
 2363;2541;2324;Hong Feng;1,20;45;2022
 2364;2896;2324;Hu Kun;1,20;52;2022
-2365;2897;2324;Huang Hongyun  ;1,20;55;2022
-2366;2898;2324;Shanbing Huang  ;1,20;65;2022
+2365;2897;2324;Huang Hongyun;1,20;55;2022
+2366;2898;2324;Shanbing Huang;1,20;65;2022
 2367;2899;2324;Huang Shih Tsai;1,20;70;2022
 2368;2900;2324;Huang Wenbiao;1,20;54;2022
 2369;2273;2324;Mohammed Ibrahim;1,20;75;2022
 2370;2545;2324;Hedda im Brahm-Droege;1,20;67;2022
 2371;2020;2324;Rameshchandra Jain;1,20;73;2022
 2372;2151;2324;Laurent Junique;1,20;56;2022
-2373;2152;2324;Zbigniew Juroszek  ;1,20;59;2022
+2373;2152;2324;Zbigniew Juroszek;1,20;59;2022
 2374;2426;2324;Chatchai Kaewbootta;1,20;70;2022
 2375;2274;2324;Shirley Kao;1,20;65;2022
 2376;1022;2324;Ipek Kirac;1,20;37;2022
@@ -2393,7 +2393,7 @@
 2392;2908;2324;Todd McKinnon;1,20;50;2022
 2393;2909;2324;Rubens Menin Teixeira de Souza;1,20;66;2022
 2394;2299;2324;Lorinc Meszaros;1,20;56;2022
-2395;2302;2324;Ulrich Mommert  ;1,20;81;2022
+2395;2302;2324;Ulrich Mommert;1,20;81;2022
 2396;2910;2324;Park Kwan-ho;1,20;50;2022
 2397;2911;2324;George Pedersen;1,20;86;2022
 2398;1946;2324;David Penaloza Alanis;1,20;48;2022
@@ -2401,7 +2401,7 @@
 2400;2311;2324;Murdaya Poo;1,20;81;2022
 2401;2912;2324;Michael Price;1,20;69;2022
 2402;1462;2324;Leonid Radvinsky;1,20;40;2022
-2403;2913;2324;Megdet Rahimkulov  ;1,20;76;2022
+2403;2913;2324;Megdet Rahimkulov;1,20;76;2022
 2404;2315;2324;Andrei Rappoport;1,20;58;2022
 2405;2914;2324;Dasari Uday Kumar Reddy;1,20;54;2022
 2406;2461;2324;Helena Revoredo;1,20;75;2022
@@ -2412,11 +2412,11 @@
 2411;2073;2324;Radik Shaimiev;1,20;57;2022
 2412;2915;2324;Vijay Shekhar Sharma;1,20;43;2022
 2413;2198;2324;Devi Shetty;1,20;69;2022
-2414;2916;2324;Shum Chiu Hung  ;1,20;52;2022
+2414;2916;2324;Shum Chiu Hung;1,20;52;2022
 2415;2333;2324;Michael Steinhardt;1,20;81;2022
-2416;2581;2324;Petter Stordalen  ;1,20;59;2022
+2416;2581;2324;Petter Stordalen;1,20;59;2022
 2417;2917;2324;Winarko Sulistyo;1,20;76;2022
-2418;1758;2324;Sun Huaiqing  ;1,20;52;2022
+2418;1758;2324;Sun Huaiqing;1,20;52;2022
 2419;2336;2324;Luc Tack;1,20;60;2022
 2420;1276;2324;Lucio Tan;1,20;87;2022
 2421;2918;2324;Yoshikazu Tanaka;1,20;45;2022
@@ -2429,17 +2429,17 @@
 2428;2922;2324;Maria Grace Uy;1,20;53;2022
 2429;829;2324;Wim van der Leegte;1,20;74;2022
 2430;2345;2324;Thongma Vijitpongpun;1,20;64;2022
-2431;2923;2324;Jianfeng Wang  ;1,20;52;2022
+2431;2923;2324;Jianfeng Wang;1,20;52;2022
 2432;2081;2324;Wang Jilei;1,20;57;2022
 2433;1978;2324;Wang Junmin;1,20;53;2022
 2434;2924;2324;Wang Kunxiao;1,20;52;2022
-2435;2925;2324;Wang Zhentao  ;1,20;56;2022
+2435;2925;2324;Wang Zhentao;1,20;56;2022
 2436;2350;2324;J. Wayne Weaver;1,20;86;2022
 2437;1979;2324;Weng Xianding;1,20;60;2022
 2438;2486;2324;Horst Wortmann;1,20;80;2022
 2439;2354;2324;Wu Chung-yi;1,20;66;2022
 2440;2488;2324;Wu Li-gann;1,20;81;2022
-2441;2926;2324;Wu Peifu  ;1,20;60;2022
+2441;2926;2324;Wu Peifu;1,20;60;2022
 2442;2490;2324;Xiu Laigui;1,20;67;2022
 2443;2496;2324;Yeh Kuo-I;1,20;80;2022
 2444;2927;2324;Faxiang Yu;1,20;50;2022
@@ -2482,7 +2482,7 @@
 2481;2945;2448;Huang Xu;1,10;54;2022
 2482;2946;2448;Subba Rao Jasti;1,10;95;2022
 2483;1302;2448;Long Jiang;1,10;48;2022
-2484;2947;2448;Jiang Xuefei  ;1,10;52;2022
+2484;2947;2448;Jiang Xuefei;1,10;52;2022
 2485;2428;2448;Jonas Kamprad;1,10;56;2022
 2486;2429;2448;Mathias Kamprad;1,10;52;2022
 2487;2430;2448;Peter Kamprad;1,10;58;2022
@@ -2506,12 +2506,12 @@
 2505;2443;2448;Randolph Lerner;1,10;60;2022
 2506;1928;2448;Li Shui-po;1,10;65;2022
 2507;2954;2448;Li Tan;1,10;57;2022
-2508;2955;2448;Li Wenmei  ;1,10;59;2022
+2508;2955;2448;Li Wenmei;1,10;59;2022
 2509;550;2448;Lim Hariyanto Wijaya Sarwono;1,10;93;2022
-2510;2956;2448;Lin Jie  ;1,10;53;2022
-2511;1447;2448;Liu Chengyu  ;1,10;59;2022
+2510;2956;2448;Lin Jie;1,10;53;2022
+2511;1447;2448;Liu Chengyu;1,10;59;2022
 2512;2957;2448;Lou Boliang;1,10;58;2022
-2513;2958;2448;Lun Ruixiang  ;1,10;54;2022
+2513;2958;2448;Lun Ruixiang;1,10;54;2022
 2514;2959;2448;Lv Yongxiang;1,10;72;2022
 2515;2567;2448;Ma Xiuhui;1,10;51;2022
 2516;2172;2448;Yasseen Mansour;1,10;60;2022
@@ -2519,17 +2519,17 @@
 2518;2960;2448;Michael McCain;1,10;64;2022
 2519;2569;2448;Gabriella Meister;1,10;64;2022
 2520;2570;2448;Ulrike Meister;1,10;55;2022
-2521;2300;2448;Jeffrey Michael  ;1,10;65;2022
+2521;2300;2448;Jeffrey Michael;1,10;65;2022
 2522;2449;2448;Soichiro Minami;1,10;45;2022
 2523;2961;2448;Bob Muglia;1,10;62;2022
 2524;2962;2448;Erik Must;1,10;79;2022
 2525;2963;2448;Kerr Neilson;1,10;72;2022
 2526;2183;2448;John Oyler;1,10;54;2022
 2527;2964;2448;Park Hyeon-joo;1,10;63;2022
-2528;2308;2448;Jose Isaac Peres  ;1,10;81;2022
+2528;2308;2448;Jose Isaac Peres;1,10;81;2022
 2529;2965;2448;Catherine Phillips;1,10;64;2022
 2530;2966;2448;John Phillips;1,10;71;2022
-2531;2459;2448;Pu Zhongjie  ;1,10;59;2022
+2531;2459;2448;Pu Zhongjie;1,10;59;2022
 2532;2967;2448;Qian Xiaojun;1,10;47;2022
 2533;2968;2448;Anton Rabie;1,10;50;2022
 2534;2069;2448;Igor Rybakov;1,10;49;2022
@@ -2563,11 +2563,11 @@
 2562;2984;2448;Wu Zhenxing;1,10;52;2022
 2563;2596;2448;Franziska Wuerbser;1,10;34;2022
 2564;2357;2448;Xia Xinde;1,10;57;2022
-2565;2985;2448;Xiong Jun  ;1,10;48;2022
-2566;2986;2448;Jane Yan  ;1,10;52;2022
+2565;2985;2448;Xiong Jun;1,10;48;2022
+2566;2986;2448;Jane Yan;1,10;52;2022
 2567;2987;2448;Yang Erzhu;1,10;71;2022
 2568;2988;2448;Vlad Yatsenko;1,10;38;2022
-2569;2600;2448;Yi Xianzhong  ;1,10;62;2022
+2569;2600;2448;Yi Xianzhong;1,10;62;2022
 2570;1694;2448;Yoshiaki Yoshida;1,10;81;2022
 2571;2601;2448;Yu Rong;1,10;50;2022
 2572;2989;2448;Igor Yusufov;1,10;65;2022
