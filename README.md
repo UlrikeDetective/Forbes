@@ -3,7 +3,7 @@
 ![head_picture](https://github.com/UlrikeDetective/Forbes/blob/main/Pictures/head.png)
 
 ## About the Project
-This project serves as a learning experience for web scraping, MySQL database management, and data analysis of the Forbes billionaires list. The dataset spans from 2021 to 2023 yearly and includes monthly data for the year 2024. 
+This project serves as a learning experience for web scraping, MySQL database management, and data analysis of the Forbes billionaires list. The dataset spans from 2021 to 2023 yearly and includes monthly data for the year 2024. Last update June 2024.
 
 It began with monthly data scraping from [Forbes](https://www.forbes.com/real-time-billionaires).
 
