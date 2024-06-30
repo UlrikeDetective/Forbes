@@ -258,7 +258,7 @@ SET Net_worth_in_BillionUSD_2024_06 = REPLACE(@Net_worth_in_BillionUSD_2024_06, 
 
 Select * from forbes_2024_06 Limit 5;
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/forbes_csv/forbes_data_with_coordinates.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/forbes_csv/forbes_data_with_coordinates2.csv'
 INTO TABLE forbes_location
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -267,3 +267,4 @@ LINES TERMINATED BY '\n'
 ;
 
 Select * from forbes_location Limit 15;
+Select * from forbes_location;
