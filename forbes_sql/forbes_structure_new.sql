@@ -142,6 +142,18 @@ CREATE TABLE forbes_2024_06 (
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
+CREATE TABLE forbes_2024_07 (
+    ID INT,
+    User_ID INT UNIQUE,
+    Table_rank_2024_07 INT NOT NULL,
+    Person VARCHAR(150) NOT NULL UNIQUE,
+    Net_worth_in_BillionUSD_2024_07 DECIMAL(5, 2),
+    Age_of_person_2024_07 INT,
+    Date_of_data Date,
+    PRIMARY KEY (ID),
+    FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
+);
+
 drop table forbes_location;
 
 CREATE TABLE forbes_location (
@@ -163,8 +175,8 @@ ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;  -- This skips the header row if it's present in the CSV
 
-select * from forbes_names;
-SELECT * FROM forbes_names WHERE Person = 'Larry Ellison';
+select * from forbes_names limit 10;
+SELECT * FROM forbes_names WHERE Person = 'Bruce Springsteen';
 Select Person From forbes_names;
 
 LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/forbes_csv/forbes_2021.csv'
@@ -257,6 +269,16 @@ LINES TERMINATED BY '\n'
 SET Net_worth_in_BillionUSD_2024_06 = REPLACE(@Net_worth_in_BillionUSD_2024_06, ',', '.'), Date_of_data = STR_TO_DATE(@Date_of_data, '%m/%d/%Y');
 
 Select * from forbes_2024_06 Limit 5;
+
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/forbes_csv/forbes_2024_07.csv'
+INTO TABLE forbes_2024_07
+FIELDS TERMINATED BY ';' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(ID, User_ID, Table_rank_2024_07, Person, @Net_worth_in_BillionUSD_2024_07, Age_of_person_2024_07, Date_of_data)
+SET Net_worth_in_BillionUSD_2024_07 = REPLACE(@Net_worth_in_BillionUSD_2024_07, ',', '.'), Date_of_data = STR_TO_DATE(@Date_of_data, '%m/%d/%Y');
+
+Select * from forbess_2024_07 Limit 5;
 
 LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/forbes_csv/forbes_data_with_coordinates2.csv'
 INTO TABLE forbes_location
