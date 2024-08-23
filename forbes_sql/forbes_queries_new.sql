@@ -509,3 +509,10 @@ FROM
     forbes_2024_04 ON forbes_names.ID = forbes_2024_04.USER_ID
 WHERE 
     forbes_names.Person LIKE 'Steve%';
+    
+SELECT 
+    forbes_2022.Person, forbes_2022.net_worth_in_BillionUSD_2022
+FROM
+    forbes_2022
+        JOIN
+    forbes_names ON forbes_2022.User_ID = forbes_names.ID;
