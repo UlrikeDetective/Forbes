@@ -8,7 +8,7 @@ SHOW VARIABLES LIKE "secure_file_priv";
 
 -- drop table forbes_names; 
 
-CREATE OR REPLACE TABLE forbes_names (
+CREATE TABLE forbes_names (
     Person VARCHAR(150) NOT NULL UNIQUE,
     ID INT UNIQUE,
     Business VARCHAR(100),
@@ -31,7 +31,7 @@ Show columns from forbes_names;
 
 -- drop table forbes_2021;
 
-CREATE OR REPLACE TABLE forbes_2021 (
+CREATE TABLE forbes_2021 (
     ID INT,
     User_ID INT UNIQUE,
     Table_rank_2021 INT NOT NULL,
@@ -44,7 +44,7 @@ CREATE OR REPLACE TABLE forbes_2021 (
 
 -- drop table forbes_2022;
 
-CREATE OR REPLACE TABLE forbes_2022 (
+CREATE TABLE forbes_2022 (
     ID INT,
     User_ID INT UNIQUE,
     Table_rank_2022 INT NOT NULL,
@@ -57,7 +57,7 @@ CREATE OR REPLACE TABLE forbes_2022 (
 
 -- drop table forbes_2023;
 
-CREATE OR REPLACE TABLE forbes_2023 (
+CREATE TABLE forbes_2023 (
     ID INT,
     User_ID INT UNIQUE,
     Table_rank_2023 INT NOT NULL,
@@ -70,7 +70,7 @@ CREATE OR REPLACE TABLE forbes_2023 (
 
 -- drop table forbes_2024_01;
 
-CREATE OR REPLACE TABLE forbes_2024_01 (
+CREATE TABLE forbes_2024_01 (
     ID INT,
     User_ID INT UNIQUE,
     Table_rank_2024_01 INT NOT NULL,
@@ -83,7 +83,7 @@ CREATE OR REPLACE TABLE forbes_2024_01 (
 
 -- drop table forbes_2024_02;
 
-CREATE OR REPLACE TABLE forbes_2024_02 (
+CREATE TABLE forbes_2024_02 (
     ID INT,
     User_ID INT UNIQUE,
     Table_rank_2024_02 INT NOT NULL,
@@ -96,7 +96,7 @@ CREATE OR REPLACE TABLE forbes_2024_02 (
 
 -- Drop table forbes_2024_03;
 
-CREATE OR REPLACE TABLE forbes_2024_03 (
+CREATE TABLE forbes_2024_03 (
     ID INT,
     User_ID INT UNIQUE,
     Table_rank_2024_03 INT NOT NULL,
@@ -110,7 +110,7 @@ CREATE OR REPLACE TABLE forbes_2024_03 (
 
 -- drop table forbes_2024_04;
 
-CREATE OR REPLACE TABLE forbes_2024_04 (
+CREATE TABLE forbes_2024_04 (
     ID INT,
     User_ID INT UNIQUE,
     Table_rank_2024_04 INT NOT NULL,
@@ -124,7 +124,7 @@ CREATE OR REPLACE TABLE forbes_2024_04 (
 
 -- drop table forbes_2024_05;
 
-CREATE OR REPLACE TABLE forbes_2024_05 (
+CREATE TABLE forbes_2024_05 (
     ID INT,
     User_ID INT UNIQUE,
     Table_rank_2024_05 INT NOT NULL,
@@ -138,7 +138,7 @@ CREATE OR REPLACE TABLE forbes_2024_05 (
 
 -- drop table forbes_2024_06;
 
-CREATE OR REPLACE TABLE forbes_2024_06 (
+CREATE TABLE forbes_2024_06 (
     ID INT,
     User_ID INT UNIQUE,
     Table_rank_2024_06 INT NOT NULL,
@@ -150,7 +150,7 @@ CREATE OR REPLACE TABLE forbes_2024_06 (
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
-CREATE OR REPLACE TABLE forbes_2024_07 (
+CREATE TABLE forbes_2024_07 (
     ID INT,
     User_ID INT UNIQUE,
     Table_rank_2024_07 INT NOT NULL,
@@ -164,7 +164,7 @@ CREATE OR REPLACE TABLE forbes_2024_07 (
 
 drop table forbes_location;
 
-CREATE OR REPLACE TABLE forbes_location (
+CREATE TABLE forbes_location (
 	ID_location int,
     City VARCHAR(100),
     US_State VARCHAR(100),
