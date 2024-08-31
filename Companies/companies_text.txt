@@ -1,0 +1,26 @@
+Data from https://companiesmarketcap.com/
+
+Dates of download: 2024/08/31
+
+Numbers of companies in Dataset: 9.432
+
+Tables:
+
+* Largest Companies by Market Cap
+
+* Companies ranked by earnings
+
+* Companies ranked by revenue
+
+* Companies ranked by number of employees
+
+* Companies ranked by P/E ratio - The Price/Earnings ratio measures the relationship between a company's stock price 
+  and its earnings per share. A low but positive P/E ratio stands for a company that is generating high earnings 
+compared to its current valuation and might be undervalued. A company with a high negative (near 0) P/E ratio stands 
+for a company that is generating heavy losses compared to its current valuation.
+
+* Companies ranked by Dividend Yield
+
+* Top public companies by total assets on balance sheet
+
+* Public companies with the highest total liabilities
