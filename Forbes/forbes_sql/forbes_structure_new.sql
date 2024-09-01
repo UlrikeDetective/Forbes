@@ -84,102 +84,96 @@ CREATE TABLE forbes_2024_01 (
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID) -- Ensure referenced ID type and attributes match
 );
 
-
 -- drop table forbes_2024_02;
 
 CREATE TABLE forbes_2024_02 (
-    ID INT,
+    ID INT PRIMARY KEY,
     User_ID INT UNIQUE,
     Table_rank_2024_02 INT NOT NULL,
     Person VARCHAR(150) NOT NULL UNIQUE,
-    Net_worth_in_BillionUSD_2024_02 DECIMAL(5, 2),
+    Net_worth_in_BillionUSD_2024_02 DECIMAL(8, 2),
     Age_of_person_2024_02 INT,
     Date_of_data Date,
-    PRIMARY KEY (ID),
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
 -- Drop table forbes_2024_03;
 
 CREATE TABLE forbes_2024_03 (
-    ID INT,
+    ID INT PRIMARY KEY,
     User_ID INT UNIQUE,
     Table_rank_2024_03 INT NOT NULL,
     Person VARCHAR(150) NOT NULL UNIQUE,
-    Net_worth_in_BillionUSD_2024_03 DECIMAL(5, 2),
+    Net_worth_in_BillionUSD_2024_03 DECIMAL(8, 2),
     Age_of_person_2024_03 INT,
     Date_of_data Date,
-    PRIMARY KEY (ID),
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
 -- drop table forbes_2024_04;
 
 CREATE TABLE forbes_2024_04 (
-    ID INT,
+    ID INT PRIMARY KEY,
     User_ID INT UNIQUE,
     Table_rank_2024_04 INT NOT NULL,
     Person VARCHAR(150) NOT NULL UNIQUE,
-    Net_worth_in_BillionUSD_2024_04 DECIMAL(5, 2),
+    Net_worth_in_BillionUSD_2024_04 DECIMAL(8, 2),
     Age_of_person_2024_04 INT,
     Date_of_data Date,
-    PRIMARY KEY (ID),
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
 -- drop table forbes_2024_05;
 
 CREATE TABLE forbes_2024_05 (
-    ID INT,
+    ID INT PRIMARY KEY,
     User_ID INT UNIQUE,
     Table_rank_2024_05 INT NOT NULL,
     Person VARCHAR(150) NOT NULL UNIQUE,
-    Net_worth_in_BillionUSD_2024_05 DECIMAL(5, 2),
+    Net_worth_in_BillionUSD_2024_05 DECIMAL(8, 2),
     Age_of_person_2024_05 INT,
     Date_of_data Date,
-    PRIMARY KEY (ID),
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
 -- drop table forbes_2024_06;
 
 CREATE TABLE forbes_2024_06 (
-    ID INT,
+    ID INT PRIMARY KEY,
     User_ID INT UNIQUE,
     Table_rank_2024_06 INT NOT NULL,
     Person VARCHAR(150) NOT NULL UNIQUE,
-    Net_worth_in_BillionUSD_2024_06 DECIMAL(5, 2),
+    Net_worth_in_BillionUSD_2024_06 DECIMAL(8, 2),
     Age_of_person_2024_06 INT,
     Date_of_data Date,
-    PRIMARY KEY (ID),
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
+-- drop table forbes_2024_07;
+
 CREATE TABLE forbes_2024_07 (
-    ID INT,
+    ID INT PRIMARY KEY,
     User_ID INT UNIQUE,
     Table_rank_2024_07 INT NOT NULL,
     Person VARCHAR(150) NOT NULL UNIQUE,
-    Net_worth_in_BillionUSD_2024_07 DECIMAL(5, 2),
+    Net_worth_in_BillionUSD_2024_07 DECIMAL(8, 2),
     Age_of_person_2024_07 INT,
     Date_of_data Date,
-    PRIMARY KEY (ID),
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
+-- drop table forbes_2024_08;
+
 CREATE TABLE forbes_2024_08 (
-    ID INT,
+    ID INT PRIMARY KEY,
     User_ID INT UNIQUE,
     Table_rank_2024_08 INT NOT NULL,
     Person VARCHAR(150) NOT NULL UNIQUE,
-    Net_worth_in_BillionUSD_2024_08 DECIMAL(5, 2),
+    Net_worth_in_BillionUSD_2024_08 DECIMAL(8, 2),
     Age_of_person_2024_08 INT,
     Date_of_data Date,
-    PRIMARY KEY (ID),
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
-
-drop table forbes_2024_08;
 
 drop table forbes_location;
 
@@ -248,76 +242,83 @@ SET Net_worth_in_BillionUSD_2024_01 = REPLACE(@Net_worth_in_BillionUSD_2024_01, 
 
 Select * from forbes_2024_01 Limit 5;
 
-LOAD DATA Local INFILE '/path_to_file/forbes_2024_02.csv'
+LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_02.csv'
 INTO TABLE forbes_2024_02
-FIELDS TERMINATED BY ';' 
+FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(ID, User_ID, Table_rank_2024_02, Person, @Net_worth_in_BillionUSD_2024_02, Age_of_person_2024_02)
-SET Net_worth_in_BillionUSD_2024_02 = REPLACE(@Net_worth_in_BillionUSD_2024_02, ',', '.');
+(ID, User_ID, Table_rank_2024_02, Person, @Net_worth_in_BillionUSD_2024_02, Age_of_person_2024_02, @Date_of_data)
+SET Net_worth_in_BillionUSD_2024_02 = REPLACE(@Net_worth_in_BillionUSD_2024_02, ',', '.'),
+    Date_of_data = STR_TO_DATE(@Date_of_data, '%Y-%m-%d');
 
 Select * from forbes_2024_02 Limit 5;
 
-LOAD DATA Local INFILE '/path_to_file/forbes_2024_03.csv'
+LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_03.csv'
 INTO TABLE forbes_2024_03
-FIELDS TERMINATED BY ';' 
+FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(ID, User_ID, Table_rank_2024_03, Person, @Net_worth_in_BillionUSD_2024_03, Age_of_person_2024_03, Date_of_data)
-SET Net_worth_in_BillionUSD_2024_03 = REPLACE(@Net_worth_in_BillionUSD_2024_03, ',', '.'), Date_of_data = STR_TO_DATE(@Date_of_data, '%m/%d/%Y');
+(ID, User_ID, Table_rank_2024_03, Person, @Net_worth_in_BillionUSD_2024_03, Age_of_person_2024_03, @Date_of_data)
+SET Net_worth_in_BillionUSD_2024_03 = REPLACE(@Net_worth_in_BillionUSD_2024_03, ',', '.'),
+    Date_of_data = STR_TO_DATE(@Date_of_data, '%Y-%m-%d');
 
 Select * from forbes_2024_03 Limit 5;
 
-LOAD DATA Local INFILE '/path_to_file/forbes_2024_04.csv'
+LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_04.csv'
 INTO TABLE forbes_2024_04
-FIELDS TERMINATED BY ';' 
+FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(ID, User_ID, Table_rank_2024_04, Person, @Net_worth_in_BillionUSD_2024_04, Age_of_person_2024_04, Date_of_data)
-SET Net_worth_in_BillionUSD_2024_04 = REPLACE(@Net_worth_in_BillionUSD_2024_04, ',', '.'), Date_of_data = STR_TO_DATE(@Date_of_data, '%m/%d/%Y');
+(ID, User_ID, Table_rank_2024_04, Person, @Net_worth_in_BillionUSD_2024_04, Age_of_person_2024_04, @Date_of_data)
+SET Net_worth_in_BillionUSD_2024_04 = REPLACE(@Net_worth_in_BillionUSD_2024_04, ',', '.'),
+    Date_of_data = STR_TO_DATE(@Date_of_data, '%Y-%m-%d');
 
 Select * from forbes_2024_04 Limit 5;
 
-LOAD DATA Local INFILE '/path_to_file/forbes_2024_05.csv'
+LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_05.csv'
 INTO TABLE forbes_2024_05
-FIELDS TERMINATED BY ';' 
+FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(ID, User_ID, Table_rank_2024_05, Person, @Net_worth_in_BillionUSD_2024_05, Age_of_person_2024_05, Date_of_data)
-SET Net_worth_in_BillionUSD_2024_05 = REPLACE(@Net_worth_in_BillionUSD_2024_05, ',', '.'), Date_of_data = STR_TO_DATE(@Date_of_data, '%m/%d/%Y');
+(ID, User_ID, Table_rank_2024_05, Person, @Net_worth_in_BillionUSD_2024_05, Age_of_person_2024_05, @Date_of_data)
+SET Net_worth_in_BillionUSD_2024_05 = REPLACE(@Net_worth_in_BillionUSD_2024_05, ',', '.'),
+    Date_of_data = STR_TO_DATE(@Date_of_data, '%Y-%m-%d');
 
 Select * from forbes_2024_05 Limit 5;
 
-LOAD DATA Local INFILE '/path_to_file/forbes_2024_06.csv'
+LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_06.csv'
 INTO TABLE forbes_2024_06
-FIELDS TERMINATED BY ';' 
+FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(ID, User_ID, Table_rank_2024_06, Person, @Net_worth_in_BillionUSD_2024_06, Age_of_person_2024_06, Date_of_data)
-SET Net_worth_in_BillionUSD_2024_06 = REPLACE(@Net_worth_in_BillionUSD_2024_06, ',', '.'), Date_of_data = STR_TO_DATE(@Date_of_data, '%m/%d/%Y');
+(ID, User_ID, Table_rank_2024_06, Person, @Net_worth_in_BillionUSD_2024_06, Age_of_person_2024_06, @Date_of_data)
+SET Net_worth_in_BillionUSD_2024_06 = REPLACE(@Net_worth_in_BillionUSD_2024_06, ',', '.'),
+    Date_of_data = STR_TO_DATE(@Date_of_data, '%Y-%m-%d');
 
 Select * from forbes_2024_06 Limit 5;
 
-LOAD DATA Local INFILE '/path_to_file/forbes_2024_07.csv'
+LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_07.csv'
 INTO TABLE forbes_2024_07
-FIELDS TERMINATED BY ';' 
+FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(ID, User_ID, Table_rank_2024_07, Person, @Net_worth_in_BillionUSD_2024_07, Age_of_person_2024_07, Date_of_data)
-SET Net_worth_in_BillionUSD_2024_07 = REPLACE(@Net_worth_in_BillionUSD_2024_07, ',', '.'), Date_of_data = STR_TO_DATE(@Date_of_data, '%m/%d/%Y');
+(ID, User_ID, Table_rank_2024_07, Person, @Net_worth_in_BillionUSD_2024_07, Age_of_person_2024_07, @Date_of_data)
+SET Net_worth_in_BillionUSD_2024_07 = REPLACE(@Net_worth_in_BillionUSD_2024_07, ',', '.'),
+    Date_of_data = STR_TO_DATE(@Date_of_data, '%Y-%m-%d');
 
 Select * from forbes_2024_07 Limit 5;
 
-
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_08.csv'
+LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_08.csv'
 INTO TABLE forbes_2024_08
-FIELDS TERMINATED BY ';' 
+FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(ID, User_ID, Table_rank_2024_08, Person, @Net_worth_in_BillionUSD_2024_08, Age_of_person_2024_08, Date_of_data)
-SET Net_worth_in_BillionUSD_2024_08 = REPLACE(@Net_worth_in_BillionUSD_2024_08, ',', '.'), Date_of_data = STR_TO_DATE(@Date_of_data, '%m/%d/%Y');
+(ID, User_ID, Table_rank_2024_08, Person, @Net_worth_in_BillionUSD_2024_08, Age_of_person_2024_08, @Date_of_data)
+SET Net_worth_in_BillionUSD_2024_08 = REPLACE(@Net_worth_in_BillionUSD_2024_08, ',', '.'),
+    Date_of_data = STR_TO_DATE(@Date_of_data, '%Y-%m-%d');
 
 Select * from forbes_2024_08 Limit 5;
+
 
 LOAD DATA Local INFILE '/path_to_file/forbes_data_with_coordinates2.csv'
 INTO TABLE forbes_location
