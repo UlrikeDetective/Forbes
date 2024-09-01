@@ -189,7 +189,7 @@ CREATE TABLE forbes_location (
     FOREIGN KEY (City) REFERENCES forbes_names (City)
 );
 
-LOAD DATA Local INFILE '/path_to_file/forbes_names.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_names.csv'
 INTO TABLE forbes_names
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -198,7 +198,6 @@ IGNORE 1 ROWS;  -- This skips the header row if it's present in the CSV
 
 select * from forbes_names limit 10;
 SELECT * FROM forbes_names WHERE Person = 'Bruce Springsteen';
-Select Person From forbes_names;
 
 LOAD DATA Local INFILE '//path_to_file/forbes_2021.csv'
 INTO TABLE forbes_2021
