@@ -186,7 +186,7 @@ CREATE TABLE forbes_location (
     FOREIGN KEY (City) REFERENCES forbes_names (City)
 );
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_names.csv'
+LOAD DATA Local INFILE '/path_to_file/forbes_names.csv'
 INTO TABLE forbes_names
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -196,7 +196,7 @@ IGNORE 1 ROWS;  -- This skips the header row if it's present in the CSV
 select * from forbes_names limit 10;
 SELECT * FROM forbes_names WHERE Person = 'Bruce Springsteen';
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2021.csv'
+LOAD DATA Local INFILE '/path_to_file/forbes_2021.csv'
 INTO TABLE forbes_2021
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -206,7 +206,7 @@ SET Net_worth_in_BillionUSD_2021 = REPLACE(@Net_worth_in_BillionUSD_2021, ',', '
 
 Select * from forbes_2021 Limit 15;
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2022.csv'
+LOAD DATA Local INFILE '/path_to_file/forbes_2022.csv'
 INTO TABLE forbes_2022
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -216,7 +216,7 @@ SET Net_worth_in_BillionUSD_2022 = REPLACE(@Net_worth_in_BillionUSD_2022, ',', '
 
 Select * from forbes_2022 Limit 15;
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2023.csv'
+LOAD DATA Local INFILE '/path_to_file/forbes_2023.csv'
 INTO TABLE forbes_2023
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -226,7 +226,7 @@ SET Net_worth_in_BillionUSD_2023 = REPLACE(@Net_worth_in_BillionUSD_2023, ',', '
 
 Select * from forbes_2023 Limit 15;
 
-LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_01.csv'
+LOAD DATA LOCAL INFILE '/path_to_file/forbes_2024_01.csv'
 INTO TABLE forbes_2024_01
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
@@ -238,7 +238,7 @@ SET Net_worth_in_BillionUSD_2024_01 = REPLACE(@Net_worth_in_BillionUSD_2024_01, 
 
 Select * from forbes_2024_01 Limit 5;
 
-LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_02.csv'
+LOAD DATA LOCAL INFILE '/path_to_file/forbes_2024_02.csv'
 INTO TABLE forbes_2024_02
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
@@ -249,7 +249,7 @@ SET Net_worth_in_BillionUSD_2024_02 = REPLACE(@Net_worth_in_BillionUSD_2024_02, 
 
 Select * from forbes_2024_02 Limit 5;
 
-LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_03.csv'
+LOAD DATA LOCAL INFILE '/path_to_file/forbes_2024_03.csv'
 INTO TABLE forbes_2024_03
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
@@ -260,7 +260,7 @@ SET Net_worth_in_BillionUSD_2024_03 = REPLACE(@Net_worth_in_BillionUSD_2024_03, 
 
 Select * from forbes_2024_03 Limit 5;
 
-LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_04.csv'
+LOAD DATA LOCAL INFILE '/path_to_file/forbes_2024_04.csv'
 INTO TABLE forbes_2024_04
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
@@ -271,7 +271,7 @@ SET Net_worth_in_BillionUSD_2024_04 = REPLACE(@Net_worth_in_BillionUSD_2024_04, 
 
 Select * from forbes_2024_04 Limit 5;
 
-LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_05.csv'
+LOAD DATA LOCAL INFILE '/path_to_file/forbes_2024_05.csv'
 INTO TABLE forbes_2024_05
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
@@ -282,7 +282,7 @@ SET Net_worth_in_BillionUSD_2024_05 = REPLACE(@Net_worth_in_BillionUSD_2024_05, 
 
 Select * from forbes_2024_05 Limit 5;
 
-LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_06.csv'
+LOAD DATA LOCAL INFILE '/path_to_file/forbes_2024_06.csv'
 INTO TABLE forbes_2024_06
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
@@ -293,7 +293,7 @@ SET Net_worth_in_BillionUSD_2024_06 = REPLACE(@Net_worth_in_BillionUSD_2024_06, 
 
 Select * from forbes_2024_06 Limit 5;
 
-LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_07.csv'
+LOAD DATA LOCAL INFILE '/path_to_file/forbes_2024_07.csv'
 INTO TABLE forbes_2024_07
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
@@ -304,7 +304,7 @@ SET Net_worth_in_BillionUSD_2024_07 = REPLACE(@Net_worth_in_BillionUSD_2024_07, 
 
 Select * from forbes_2024_07 Limit 5;
 
-LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_08.csv'
+LOAD DATA LOCAL INFILE '/path_to_file/forbes_2024_08.csv'
 INTO TABLE forbes_2024_08
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
