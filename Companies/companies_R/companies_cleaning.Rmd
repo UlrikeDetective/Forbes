@@ -53,3 +53,7 @@ str(data)
 head(data)
 ```
 
+```{r}
+write.csv(data, "/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Companies/companies_raw/01_CompaniesRankedByMarketCap_cleaned.csv", row.names = FALSE)
+```
+
