@@ -32,42 +32,39 @@ Show columns from forbes_names;
 -- drop table forbes_2021;
 
 CREATE TABLE forbes_2021 (
-    ID INT,
+    ID INT PRIMARY KEY,
     User_ID INT UNIQUE,
     Table_rank_2021 INT NOT NULL,
     Person VARCHAR(150) NOT NULL UNIQUE,
-    Net_worth_in_BillionUSD_2021 DECIMAL(5, 2),
+    Net_worth_in_BillionUSD_2021 DECIMAL(8, 2),
     Age_of_person_2021 INT,
-    year_of_data year,
-    PRIMARY KEY (ID),
+    date_of_year INT,
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
 -- drop table forbes_2022;
 
 CREATE TABLE forbes_2022 (
-    ID INT,
+    ID INT PRIMARY KEY,
     User_ID INT UNIQUE,
     Table_rank_2022 INT NOT NULL,
     Person VARCHAR(150) NOT NULL UNIQUE,
-    Net_worth_in_BillionUSD_2022 DECIMAL(5, 2),
+    Net_worth_in_BillionUSD_2022 DECIMAL(8, 2),
     Age_of_person_2022 INT,
-    year_of_data year,
-    PRIMARY KEY (ID),
+    date_of_year year,
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
 -- drop table forbes_2023;
 
 CREATE TABLE forbes_2023 (
-    ID INT,
+    ID INT PRIMARY KEY,
     User_ID INT UNIQUE,
     Table_rank_2023 INT NOT NULL,
     Person VARCHAR(150) NOT NULL UNIQUE,
-    Net_worth_in_BillionUSD_2023 DECIMAL(5, 2),
+    Net_worth_in_BillionUSD_2023 DECIMAL(8, 2),
     Age_of_person_2023 INT,
-    year_of_data year,
-    PRIMARY KEY (ID),
+    date_of_year year,
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
@@ -199,32 +196,32 @@ IGNORE 1 ROWS;  -- This skips the header row if it's present in the CSV
 select * from forbes_names limit 10;
 SELECT * FROM forbes_names WHERE Person = 'Bruce Springsteen';
 
-LOAD DATA Local INFILE '//path_to_file/forbes_2021.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2021.csv'
 INTO TABLE forbes_2021
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(ID, User_ID, Table_rank_2021, Person, @Net_worth_in_BillionUSD_2021, Age_of_person_2021)
+(ID, User_ID, Table_rank_2021, Person, @Net_worth_in_BillionUSD_2021, Age_of_person_2021, date_of_year)
 SET Net_worth_in_BillionUSD_2021 = REPLACE(@Net_worth_in_BillionUSD_2021, ',', '.');
 
 Select * from forbes_2021 Limit 15;
 
-LOAD DATA Local INFILE '/path_to_file/forbes_2022.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2022.csv'
 INTO TABLE forbes_2022
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(ID, User_ID, Table_rank_2022, Person, @Net_worth_in_BillionUSD_2022, Age_of_person_2022)
+(ID, User_ID, Table_rank_2022, Person, @Net_worth_in_BillionUSD_2022, Age_of_person_2022, date_of_year)
 SET Net_worth_in_BillionUSD_2022 = REPLACE(@Net_worth_in_BillionUSD_2022, ',', '.');
 
 Select * from forbes_2022 Limit 15;
 
-LOAD DATA Local INFILE '/path_to_file/forbes_2023.csv'
+LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2023.csv'
 INTO TABLE forbes_2023
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(ID, User_ID, Table_rank_2023, Person, @Net_worth_in_BillionUSD_2023, Age_of_person_2023)
+(ID, User_ID, Table_rank_2023, Person, @Net_worth_in_BillionUSD_2023, Age_of_person_2023, date_of_year)
 SET Net_worth_in_BillionUSD_2023 = REPLACE(@Net_worth_in_BillionUSD_2023, ',', '.');
 
 Select * from forbes_2023 Limit 15;
