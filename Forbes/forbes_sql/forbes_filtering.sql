@@ -12,3 +12,8 @@ SELECT Country_of_residence, COUNT(*) AS itemCount
 FROM forbes_names
 GROUP BY Country_of_residence
 HAVING  itemCount > 25;
+
+SELECT City COUNT(*) AS itemCount
+FROM forbes_names
+GROUP BY City
+HAVING  itemCount > 15;
