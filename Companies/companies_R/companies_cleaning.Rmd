@@ -16,7 +16,7 @@ library(readr)
 
 Sys.setlocale("LC_NUMERIC", "en_US.UTF-8")
 
-C01 <- read.csv("/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Companies/companies_raw/01_CompaniesRankedByMarketCap.csv", stringsAsFactors = FALSE)
+C01 <- read.csv("/path_to_file/01_CompaniesRankedByMarketCap.csv", stringsAsFactors = FALSE)
 
 str(C01)
 C01
@@ -54,14 +54,14 @@ head(data)
 ```
 
 ```{r}
-write.csv(data, "/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Companies/companies_raw/01_CompaniesRankedByMarketCap_cleaned.csv", row.names = FALSE)
+write.csv(data, "/path_to_file/01_CompaniesRankedByMarketCap_cleaned.csv", row.names = FALSE)
 ```
 
 
 ```{r}
 library(readxl)
 
-F01 <- read_xlsx("/Users/ulrike_imac_air/Downloads/forbes (1).xlsx")
+F01 <- read_xlsx("/path_to_file/forbes (1).xlsx")
 
 F01
 ```
@@ -113,6 +113,6 @@ print(F01)
 
 ```{r}
 options(scipen = 999)
-write.csv(F01, "/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Companies/companies_raw/Forbes_companies_2024_new.csv", row.names = FALSE)
+write.csv(F01, "/path_to_file/Forbes_companies_2024.csv", row.names = FALSE)
 ```
 
