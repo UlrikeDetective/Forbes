@@ -42,8 +42,6 @@ F01 <- subset(F01, select = -c(revenue, profits, assets, marketValue))
 # F01$marketValue <- NULL
 
 # View the updated dataframe
-print(F01)
-
 
 options(scipen = 999)
 write.csv(F01, "/path_to_file/Forbes_companies_2024.csv", row.names = FALSE)
