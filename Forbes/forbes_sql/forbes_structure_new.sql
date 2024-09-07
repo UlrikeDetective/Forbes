@@ -344,3 +344,9 @@ LINES TERMINATED BY '\n'
 ;
 
 Select * from forbes_employees Limit 15;
+
+DELETE FROM forbes_employees
+ORDER BY rang ASC
+LIMIT 1;
+
+Select * from forbes_employees Limit 15;
