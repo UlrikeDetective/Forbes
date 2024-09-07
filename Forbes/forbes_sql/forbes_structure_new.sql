@@ -186,6 +186,14 @@ CREATE TABLE forbes_location (
     FOREIGN KEY (City) REFERENCES forbes_names (City)
 );
 
+CREATE TABLE forbes_employees (
+	rang int Primary Key,
+    organizationName VARCHAR(100),
+    industry VARCHAR(255),
+    country varchar(100),
+    employees int
+);
+
 LOAD DATA Local INFILE '/path_to_file/forbes_names.csv'
 INTO TABLE forbes_names
 FIELDS TERMINATED BY ';' 
