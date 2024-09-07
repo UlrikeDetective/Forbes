@@ -1,0 +1,2002 @@
+"rank","organizationName","country","revenue_USD_in_mio","profits_USD_in_mio","assets_USD_in_mio","marketValue_USD_in_mio"
+1,"JPMorgan Chase","United States",252900,50000,4090700,588100
+2,"Berkshire Hathaway","United States",369000,73400,1070000,899100
+3,"Saudi Arabian Oil Company (Saudi Aramco)","Saudi Arabia",489100,116900,661500,1919300
+4,"ICBC","China",223800,50400,6586000,215200
+5,"Bank of America","United States",183300,25000,3273800,307300
+6,"Amazon","United States",590700,37700,531000,1922100
+7,"China Construction Bank","China",199800,47000,5403800,187500
+8,"Microsoft","United States",236600,86200,484300,3123100
+9,"Agricultural Bank of China","China",193500,37400,5832900,170900
+10,"Alphabet","United States",317900,82400,407400,2177700
+11,"Toyota Motor","Japan",311900,34200,595400,274900
+12,"Apple","United States",381600,100400,337400,2911500
+13,"Bank of China","China",173300,32100,4657100,145700
+14,"ExxonMobil","United States",331900,32800,377900,536700
+15,"HSBC Holdings","United Kingdom",144900,22200,3000500,166400
+16,"Wells Fargo","United States",120100,18800,1959200,212900
+17,"Shell","United Kingdom",289700,17900,402000,228500
+18,"PetroChina","China",399100,22700,388100,177600
+19,"UnitedHealth Group","United States",379500,15400,284200,482900
+20,"Walmart","United States",657300,18900,254100,521100
+21,"Samsung Electronics","South Korea",202400,14900,349800,388000
+22,"Chevron","United States",195000,20300,261700,299800
+23,"Goldman Sachs Group","United States",116700,9400,1698400,150800
+24,"Meta Platforms","United States",142700,45800,222800,1197000
+25,"TotalEnergies","France",212600,21500,283100,171200
+26,"Morgan Stanley","United States",99800,9500,1228500,162900
+27,"RBC","Canada",90100,11300,1477800,150400
+28,"Citigroup","United States",163900,7800,2432500,122200
+29,"Ping An Insurance Group","China",136100,11800,1654800,105500
+30,"China Mobile","Hong Kong",142700,18700,281000,204100
+31,"Allianz","Germany",148200,9700,1056800,113800
+32,"BNP Paribas","France",157600,11100,2862700,88900
+33,"Verizon Communications","United States",134000,11300,380200,168600
+34,"China Merchants Bank","China",70600,20300,1594000,127400
+35,"UBS","Switzerland",81300,28900,1607100,97400
+36,"Santander","Spain",142800,12300,1944000,82100
+37,"AT&T","United States",122300,13600,399400,124800
+38,"Tencent Holdings","China",86200,18300,227800,472300
+39,"Mitsubishi UFJ Financial","Japan",74000,10300,2667400,117200
+40,"Comcast","United States",121900,15400,263600,154100
+41,"Alibaba Group","China",131300,11200,244200,200800
+42,"Sinopec","China",414900,8500,289700,106800
+43,"Volkswagen Group","Germany",348600,16300,672000,65600
+44,"TD Bank Group","Canada",80200,8900,1430300,101500
+45,"Johnson & Johnson","United States",89700,17500,172000,372200
+45,"Taiwan Semiconductor","Taiwan",71500,27300,180900,672000
+47,"BP","United Kingdom",202800,9200,275400,104400
+48,"LVMH Moët Hennessy Louis Vuitton","France",93100,16400,158700,423900
+49,"Reliance Industries","India",108800,8400,210500,233100
+50,"Nestlé","Switzerland",103500,12500,150400,272100
+51,"AXA Group","France",109400,7600,684000,81600
+52,"Mercedes-Benz Group","Germany",164300,14400,288500,77100
+53,"American Express","United States",69500,8900,269300,174700
+54,"Petrobras","Brazil",99400,22300,213200,92600
+55,"State Bank of India","India",71800,8100,807400,87600
+56,"Bank of Communications","China",78800,13100,1982500,59200
+57,"Postal Savings Bank Of China (PSBC)","China",80300,11300,2259700,58100
+58,"Tesla","United States",94700,13700,109200,566000
+59,"Procter & Gamble","United States",84100,15100,119600,395700
+59,"Stellantis","Netherlands",204900,20100,223300,65000
+61,"BMW Group","Germany",168300,11600,274700,65800
+62,"Deutsche Telekom","Germany",121500,4800,318800,119100
+63,"Sumitomo Mitsui Financial","Japan",61300,6700,1950800,80900
+64,"CVS Health","United States",361300,7300,249700,72400
+65,"HDFC Bank","India",49300,7700,483200,133600
+66,"BBVA-Banco Bilbao Vizcaya","Spain",75200,9000,865800,63500
+67,"Sony","Japan",90000,6700,225400,101900
+68,"Siemens","Germany",84400,8000,156300,148200
+69,"Commonwealth Bank","Australia",39000,6500,870700,135400
+70,"Life Insurance Corp. of India","India",98000,4900,561400,73600
+71,"General Motors","United States",174900,10700,276600,52200
+71,"Nippon Telegraph & Tel","Japan",92500,8800,195600,82100
+73,"Credit Agricole","France",105500,6400,2418500,48300
+74,"Broadcom","United States",38900,11600,177900,646600
+75,"PepsiCo","United States",91900,9200,1e+05,250500
+76,"The Home Depot","United States",151800,14900,79200,341100
+77,"Oracle","United States",52500,10600,137100,339400
+78,"Mitsubishi","Japan",135300,6700,155000,88900
+79,"Roche Holding","Switzerland",65300,12800,107500,208400
+80,"Equinor","Norway",102800,9600,137200,82900
+81,"Elevance Health","United States",171700,6200,111900,127300
+82,"CNOOC","Hong Kong",57400,17500,141800,118100
+82,"Industrial Bank","China",58900,10600,1419200,50900
+84,"Intesa Sanpaolo Assicura","Italy",42200,9100,1006100,74800
+85,"IBM","United States",62100,8200,137200,155300
+86,"Chubb","Switzerland",51700,9300,212200,111400
+86,"Itaú Unibanco Holding","Brazil",67800,6600,525200,63700
+88,"Anheuser-Busch InBev","Belgium",59400,5300,221000,138100
+89,"AbbVie","United States",54400,6000,148900,293900
+90,"Cisco Systems","United States",55400,12100,101200,195100
+91,"Honda Motor","Japan",141300,7700,196700,53700
+92,"Bank of Nova Scotia","Canada",53600,5800,1042500,59200
+93,"Hyundai Motor","South Korea",125400,9000,219800,47300
+94,"Enel","Italy",96000,4700,209800,75100
+95,"Cigna","United States",204100,3600,148400,96200
+96,"Costco Wholesale","United States",248800,6800,66300,352900
+96,"Munich Re","Germany",70000,5000,298000,65100
+98,"Zurich Insurance Group","Switzerland",65400,4400,339400,74900
+99,"Novartis","Switzerland",48700,15200,94300,201400
+100,"Coca-Cola","United States",46100,10800,99400,271500
+101,"GE Aerospace","United States",69500,3500,163900,175000
+102,"Caterpillar","United States",67000,11200,83700,174200
+103,"John Deere","United States",58600,9500,105600,110500
+104,"Bank of Montreal","Canada",53900,4000,991600,69100
+105,"Mizuho Financial","Japan",55100,4700,1841300,51100
+106,"AIRBUS","France",72100,4200,132600,136700
+107,"Intel","United States",55200,4100,192700,135500
+108,"Mitsui","Japan",92100,7400,111700,76800
+109,"ConocoPhillips","United States",55100,10600,95300,142300
+110,"China State Construction Engineering","China",317400,7600,410400,33300
+110,"NVIDIA","United States",60900,29800,65700,2312000
+110,"Rio Tinto","United Kingdom",54000,10100,103500,119200
+113,"CITIC","Hong Kong",96100,8100,1597700,31900
+114,"RTX","United States",71000,3500,160200,138500
+115,"Glencore International","Switzerland",218000,4300,123900,76900
+116,"BHP Group","Australia",55300,7300,1e+05,152100
+116,"China Life Insurance","China",51600,6600,818100,47100
+118,"US Bancorp","United States",41200,5000,683600,64700
+119,"Hon Hai Precision","Taiwan",191700,4800,117900,73100
+120,"Iberdrola","Spain",50500,6600,164100,83600
+121,"AstraZeneca","United Kingdom",47600,6300,102300,238400
+122,"Sanofi","France",46600,5800,139700,121500
+122,"Unilever","United Kingdom",64500,7000,83100,216800
+124,"Ford Motor","United States",177500,3900,274300,49000
+125,"Capital One","United States",51000,5100,481700,54200
+125,"NAB - National Australia Bank","Australia",38700,4600,698700,71500
+127,"Apollo Global Management","United States",34700,5400,334100,89500
+128,"Visa","United States",34100,18100,92400,560500
+129,"UniCredit","Italy",26500,10800,875400,66400
+130,"Contemporary Amperex Technology","China",54300,6200,101200,123300
+131,"American International Group","United States",49000,4800,475600,53500
+132,"ANZ Group Holdings","Australia",40900,4600,710900,56500
+133,"VINCI","France",75300,5100,131000,71500
+134,"China Citic Bank","China",54100,9400,1255000,34700
+135,"Thermo Fisher Scientific","United States",42500,6000,97100,227200
+136,"Charles Schwab","United States",25600,4800,468800,140000
+137,"Progressive","United States",65000,5800,88900,122500
+138,"DBS","Singapore",26200,7500,560700,75300
+138,"Marathon Petroleum","United States",146500,7900,85500,63300
+140,"PNC Financial Services","United States",32400,5200,566200,63800
+141,"Generali Group","Italy",74700,4000,555300,42000
+142,"ICICI Bank","India",28500,5300,283500,95300
+143,"Itochu","Japan",97000,5500,95700,67200
+144,"Westpac Banking Group","Australia",35300,4300,686800,62100
+145,"United Parcel Service","United States",89600,5900,67600,127700
+146,"Deutsche Bank","Germany",68000,4900,1437300,33600
+147,"Canadian Imperial Bank","Canada",42900,4700,727300,46300
+148,"China Shenhua Energy","China",47900,8600,90800,91300
+149,"Tokio Marine Holdings","Japan",48000,4400,212300,61800
+150,"NextEra Energy","United States",24000,7500,179900,156300
+151,"Eni","Italy",97000,3900,158300,50400
+152,"BYD","China",83200,4200,93800,83000
+153,"ING Group","Netherlands",24500,7900,1112300,55900
+154,"Lloyds Banking Group","United Kingdom",33100,5800,1123800,44400
+155,"Walt Disney","United States",88900,1700,195100,189400
+156,"Phillips 66","United States",148900,5800,76400,62400
+157,"MetLife","United States",67600,2400,677600,52800
+158,"Salesforce","United States",34900,4100,102800,277100
+159,"Shanghai Pudong Development","China",49700,5300,1252600,33200
+160,"Banco do Brasil","Brazil",62100,6000,443400,30900
+161,"AIA Group","Hong Kong",27500,3800,278800,93700
+162,"Merck & Co.","United States",61100,2300,105800,332300
+163,"Abbott Laboratories","United States",40300,5600,72500,181100
+164,"China Telecom","China",71400,4300,117400,52300
+165,"Dell Technologies","United States",88500,3200,82100,106700
+166,"Barclays","United Kingdom",31500,5100,1992300,41200
+167,"Linde","United Kingdom",32800,6300,80300,207900
+168,"FedEx","United States",87500,4400,86100,63300
+169,"Hitachi","Japan",67300,4100,80800,86100
+170,"Accenture","Ireland",64600,7000,51300,190900
+171,"Lockheed Martin","United States",69600,6800,55000,111900
+172,"L'Oréal","France",44500,6700,57300,260300
+172,"Nordea Bank","Finland",28500,5600,653300,43500
+174,"Eli Lilly","United States",35900,6100,63900,731800
+175,"KKR","United States",22700,4100,339800,92900
+176,"Philip Morris International","United States",35700,7900,65300,155200
+177,"NatWest Group","United Kingdom",33700,5100,881100,35500
+177,"Valero Energy","United States",140100,7000,62600,54300
+179,"Enbridge","Canada",31500,4400,140900,78200
+180,"JD.com","China",153700,3500,83300,55700
+181,"Bank of New York Mellon","United States",36200,3400,434700,44500
+181,"Vale","Brazil",41800,7800,91500,55400
+183,"GSK","United Kingdom",38600,5600,73900,91900
+184,"Prudential Financial","United States",58900,2100,725800,43500
+185,"Lowe's","United States",86400,7700,43400,132200
+186,"Charter Communications","United States",54600,4600,148000,39300
+187,"Honeywell International","United States",36900,5700,65600,134100
+188,"McKesson","United States",309000,3000,67400,73400
+189,"Duke Energy","United States",29500,3300,178700,80200
+190,"Qualcomm","United States",36400,8400,53200,216300
+191,"HCA Healthcare","United States",66700,5500,57000,84600
+191,"Medtronic","Ireland",32300,4200,90800,114100
+193,"Amgen","United States",29400,3800,93000,167600
+194,"ENGIE","France",89300,2400,215000,41500
+194,"Southern Company","United States",25400,4200,140100,87000
+196,"CaixaBank","Spain",25200,5200,670700,39200
+197,"Manulife","Canada",26400,3400,630400,48200
+198,"Danaher","United States",26200,4400,83400,196900
+199,"Mondelez International","United States",36100,4300,77600,95500
+200,"Schneider Electric","France",38800,4300,65100,139100
+201,"Target","United States",107400,4100,55400,74100
+202,"Deutsche Post","Germany",87900,3800,74200,51300
+202,"KDDI","Japan",39800,4400,93500,58000
+204,"National Grid","United Kingdom",25400,9400,115000,53700
+205,"Midea Group","China",53200,4800,68900,65700
+205,"Novo Nordisk","Denmark",35500,13000,43300,581100
+207,"Oil & Natural Gas","India",77500,5100,80600,41900
+208,"América Móvil","Mexico",46800,3400,96300,61400
+209,"BlackRock","United States",19100,5900,124000,120700
+210,"PDD Holdings","Ireland",34700,8400,49100,194200
+211,"PICC","China",77300,3200,214000,30300
+212,"Netflix","United States",34900,6400,48800,267700
+213,"Brookfield Corporation","Canada",101900,1100,491900,73000
+214,"Qatar National Bank","Qatar",32000,4000,339600,35500
+215,"International Holding Company","United Arab Emirates",17300,8100,92200,239500
+215,"Travelers","United States",42900,3100,117800,50300
+217,"Volvo Group","Sweden",52100,4800,67300,54000
+218,"Union Pacific","United States",24100,6400,67300,149500
+219,"Oversea-Chinese Banking","Singapore",18600,5200,440800,48300
+220,"Swiss Re","Switzerland",49400,3200,173500,35300
+221,"China Pacific Insurance","China",46600,3800,332100,27200
+222,"McDonald's","United States",25800,8600,53500,196400
+223,"Banco Bradesco","Brazil",61200,2600,390800,27900
+224,"Centene","United States",155500,2700,82600,41700
+225,"PayPal","United States",30400,4300,83300,67400
+226,"Japan Post Holdings","Japan",81500,1900,1973600,27600
+227,"Standard Chartered","United Kingdom",40100,3300,812500,25300
+228,"China Everbright Bank","China",40500,5700,954400,19700
+228,"Suncor Energy","Canada",36700,5800,65900,51600
+230,"SAP","Germany",34500,2100,78800,224700
+231,"Mastercard","United States",25700,11800,42600,427900
+231,"The Saudi National Bank","Saudi Arabia",16300,5300,285900,56400
+233,"China Resources Land","Hong Kong",35200,4400,168000,30000
+234,"Delta Air Lines","United States",59000,5000,75000,34000
+234,"KIA","South Korea",77500,7200,62100,32600
+236,"ASML Holding","Netherlands",28300,7700,42200,365000
+237,"General Dynamics","United States",43100,3400,55200,82000
+238,"Daimler Truck Holding","Germany",60700,4200,79500,34400
+239,"Nike","United States",51600,5200,37400,139100
+240,"United Overseas Bank","Singapore",20200,4300,396900,37600
+241,"KBC Group","Belgium",29800,3200,388200,30000
+242,"First Abu Dhabi Bank","United Arab Emirates",20800,4300,336300,36600
+243,"PTT","Thailand",90000,3200,99800,26600
+244,"Canadian Natural Resources","Canada",26400,5500,56100,82600
+245,"Aflac","United States",19300,5300,124600,50200
+245,"Dai-ichi Life Insurance","Japan",66100,2200,446300,23100
+247,"Occidental Petroleum","United States",27400,4300,74300,56200
+248,"China Minsheng Bank","China",43900,4500,1069200,17200
+249,"Société Générale","France",84600,1900,1716700,20900
+250,"KB Financial Group","South Korea",36800,3000,543900,22600
+251,"Inditex","Spain",38900,5800,35600,146100
+252,"Al Rajhi Bank","Saudi Arabia",14000,4300,222900,85500
+253,"MS&AD Insurance","Japan",43000,2500,183300,28400
+254,"Air Liquide","France",29800,3300,53400,105600
+255,"Fiserv","United States",19400,3200,92700,89400
+256,"China Railway Group","China",178200,4500,257900,14500
+257,"Orange","France",47700,2400,125600,31200
+258,"Safran","France",25600,3700,55700,93800
+259,"Indian Oil","India",93800,5000,57800,27800
+260,"Emirates NBD","United Arab Emirates",20200,5700,234900,28600
+260,"EssilorLuxottica","France",27500,2500,66900,102600
+262,"Cencora","United States",276500,1900,63900,44300
+263,"SLB","United States",34100,4300,47900,69500
+264,"Saint-Gobain","France",51800,2900,63300,44400
+265,"Danske Bank","Denmark",26200,3200,537100,25100
+266,"Macquarie Group","Australia",19600,2200,264000,46600
+267,"Zijin Mining Group","China",40200,3100,49200,63200
+268,"TJX Cos","United States",54200,4500,29700,113600
+269,"Banorte","Mexico",27000,3100,144100,30300
+269,"Kweichow Moutai","China",18600,10900,39500,298200
+271,"Fubon Financial","Taiwan",27000,2100,361200,30100
+271,"SAIC Motor","China",102800,2000,132800,23100
+273,"Automatic Data Processing","United States",18900,3700,64200,103300
+273,"Kraft Heinz Company","United States",26600,2800,90300,43700
+275,"Holcim","Switzerland",30100,3400,62600,48600
+276,"ABB","Switzerland",32300,3600,41100,96700
+277,"EOG Resources","United States",23500,7400,44800,74700
+278,"Applied Materials","United States",26500,7300,31900,176200
+279,"E.ON","Germany",89800,1300,123100,36100
+280,"Denso","Japan",49400,2200,60100,49300
+280,"DNB Bank","Norway",18500,3500,359200,29400
+282,"Archer Daniels Midland","United States",91700,3000,54800,30500
+282,"Marsh & McLennan","United States",23300,3900,47600,103500
+284,"Tata Motors","India",52900,3800,44400,43800
+285,"Sumitomo","Japan",47800,2700,72900,32300
+286,"Paccar","United States",35400,5100,40400,55600
+287,"Fairfax Financial","Canada",37900,3900,81100,27000
+288,"PG&E","United States",24100,2400,127600,39800
+289,"SEB AB","Sweden",17600,3600,386200,29200
+290,"Allstate","United States",58600,1400,96500,44700
+291,"Kroger","United States",150000,2100,50500,39100
+292,"Erste Group Bank","Austria",26100,3300,370100,20600
+293,"Axis Bank","India",16700,3200,182000,42300
+294,"Humana","United States",109200,2000,50100,42900
+295,"Ameriprise Financial","United States",16600,3100,179800,43100
+296,"Marubeni","Japan",50100,3300,59000,32200
+297,"Bank Of Jiangsu","China",20600,4100,507800,21300
+298,"CRH","Ireland",34900,3100,46300,56600
+299,"China Unicom","Hong Kong",52700,2700,93200,24800
+299,"Sun Life Financial","Canada",23300,2400,247400,30200
+301,"American Electric","United States",19600,2800,97700,48800
+302,"Banco Btg Pactual","Brazil",17000,2100,113400,78800
+303,"Northrop Grumman","United States",40100,2200,47800,69600
+304,"Shinhan Financial Group","South Korea",28600,3100,527200,18500
+305,"Couche Tard","Canada",68000,2900,36200,53400
+306,"Xiaomi","China",38200,2500,45700,63800
+307,"CK Hutchison","Hong Kong",35200,3000,148400,20700
+308,"Bank Rakyat Indonesia (BRI)","Indonesia",14900,3900,125500,46500
+309,"Koç Holding","Turkey",67400,3000,96800,19300
+310,"Merck KGaA, Darmstadt, Germany and its affiliates","Germany",22600,3000,53500,79100
+311,"Commerzbank","Germany",25700,2600,596100,19900
+312,"Meituan","China",39000,2000,41900,1e+05
+313,"Seven & I Holdings","Japan",80100,1600,70800,33900
+314,"Diageo","United Kingdom",20400,4000,46800,79000
+315,"Eaton","Ireland",23700,3400,38500,132000
+316,"Cathay Financial","Taiwan",29000,1600,417000,25700
+316,"Ecopetrol","Colombia",32300,4200,74700,24900
+318,"Talanx","Germany",54000,1900,179700,20100
+319,"Starbucks","United States",36500,4200,29400,88200
+320,"Altria Group","United States",20500,8500,36500,79100
+321,"Exelon","United States",22200,2300,103200,38600
+322,"D.R. Horton","United States",37100,5000,34400,49900
+323,"National Bank of Canada","Canada",18200,2500,324800,28800
+324,"Discover Financial Services","United States",21600,2300,152700,31400
+325,"Nippon Steel","Japan",61300,3800,70800,19400
+326,"Royal Ahold Delhaize N.V.","Netherlands",96200,2000,55200,29800
+327,"Lennar","United States",35100,4000,39000,46100
+328,"Stryker","United States",21000,3400,39400,127500
+329,"Richemont","Switzerland",22400,2600,46100,94400
+330,"Huaxia Bank","China",25300,3700,606000,15300
+331,"Power Corp of Canada","Canada",31400,1900,560200,19000
+332,"Repsol","Spain",63700,3300,68200,19700
+333,"Bank of Ningbo","China",15800,3600,399600,23600
+334,"Gree Electric Appliances","China",28400,4100,52700,32200
+335,"Cenovus Energy","Canada",39500,3400,40600,37900
+336,"Texas Instruments","United States",16800,5900,34900,177600
+337,"RWE Group","Germany",28000,1900,111500,28100
+338,"Constellation Energy","United States",22000,2400,52000,67200
+339,"Møller-Maersk","Denmark",49200,1700,81600,26300
+340,"Renault","France",56600,2400,134700,15900
+341,"Nissan Motor","Japan",87700,3000,131200,12900
+342,"Panasonic","Japan",58800,3100,62200,19900
+343,"Advanced Micro Devices","United States",22800,1100,67900,265800
+343,"Hartford Financial Services","United States",25000,2700,70600,30500
+345,"Adobe","United States",19900,4800,28800,216600
+346,"Sompo","Japan",31700,2700,102300,20000
+346,"Uber","United States",38600,1400,39600,137200
+348,"Bank of Beijing","China",19400,3600,538900,17000
+349,"Vodafone","United Kingdom",39800,1200,155900,26500
+350,"China Railway Construction","China",158200,3700,236500,10200
+351,"Poly Developments & Holdings Group","China",48200,1600,197100,18500
+352,"Japan Tobacco","Japan",20200,3400,47300,50400
+353,"Freeport-McMoRan","United States",23800,1600,54200,77900
+354,"Fannie Mae","United States",143300,18000,4323800,1800
+355,"Nucor","United States",34100,4200,33900,41300
+356,"Booking Holdings","United States",22000,4800,27700,125800
+356,"Canadian National Railway","Canada",13500,4400,53500,81000
+358,"Corebridge Financial","United States",20800,2400,357900,19100
+359,"Tesco","United Kingdom",85300,1500,59500,27600
+359,"United Airlines Holdings","United States",54800,2700,71900,18100
+361,"BAE Systems","United Kingdom",28700,2300,40900,52300
+362,"HP","United States",53100,3400,35800,30500
+363,"S&P Global","United States",12800,2800,60500,138300
+364,"Cosco Shipping","China",24800,3400,65200,25900
+365,"Freddie Mac","United States",110500,11300,3287400,962
+366,"Sempra","United States",13600,2900,89600,49500
+367,"China Communications Construction","China",106600,3300,239200,10100
+368,"Kering","France",21200,3200,45700,44600
+369,"State Street","United States",18700,1900,338000,23500
+370,"Saudi Telecom","Saudi Arabia",19500,3600,42600,50500
+371,"China Yangtze Power","China",10700,3800,78700,87300
+372,"NTPC","India",21200,2400,54700,42500
+373,"Bank Mandiri","Indonesia",11600,3600,136500,38100
+374,"Aviva","United Kingdom",43200,1300,403400,16900
+375,"Swedbank","Sweden",13900,3300,288000,23000
+376,"Baidu","China",18800,2700,57400,40700
+376,"First Citizens Bank (NC)","United States",14700,2700,217800,25700
+378,"Svenska Handelsbanken","Sweden",17600,2700,351300,18300
+379,"Orix","Japan",19500,2400,107800,25200
+380,"Dow","United States",43500,1200,58800,41600
+381,"IntercontinentalExchange","United States",10000,2500,131400,79400
+381,"Power Construction Corporation of China","China",85600,1800,168100,12700
+383,"Toyota Tsusho","Japan",70500,2300,46600,21700
+384,"Takeda Pharmaceutical","Japan",29500,996.3,99800,41700
+385,"Poste Italiane","Italy",22200,2000,293200,17400
+386,"Mitsubishi Electric","Japan",36400,2000,40800,37900
+387,"Citic Securities","China",13400,2700,216900,26200
+387,"Haier Smart Home","China",36900,2400,35700,37800
+389,"Kinder Morgan","United States",15100,2400,70700,43700
+389,"Toyota Industries","Japan",26500,1600,73200,29600
+391,"Rolls-Royce Holdings","United Kingdom",20500,3000,40200,44700
+392,"Fortescue Metals Group","Australia",18600,5800,29900,55400
+393,"Waste Management","United States",20700,2500,32700,84400
+394,"Cheniere Energy","United States",17200,4900,42900,36700
+395,"TAQA","United Arab Emirates",14200,2000,58000,88800
+396,"CSX","United States",14600,3600,42700,65500
+397,"Johnson Controls International","Ireland",26800,1700,43500,46500
+398,"Larsen & Toubro","India",26700,1600,40700,56900
+399,"Femsa","Mexico",42000,1200,48000,42800
+400,"Dominion Energy","United States",14400,1700,102000,44800
+401,"LyondellBasell Industries","United Kingdom",40600,2100,36600,32900
+402,"Shin-Etsu Chemical","Japan",16700,3600,34000,75000
+403,"Investor AB","Sweden",7400,15200,84800,79100
+404,"M&T Bank","United States",13100,2600,215100,25700
+405,"ORLEN Spolka Akcyjna","Poland",85400,5800,71200,10500
+406,"Arch Capital Group","Bermuda",14100,4800,52500,37900
+407,"Synchrony Financial","United States",19400,2900,121200,17600
+408,"Fifth Third Bank","United States",13200,2300,214500,26400
+409,"Becton Dickinson","United States",19700,1300,54200,68300
+410,"ENEOS Holdings","Japan",95800,2000,67000,14400
+411,"Hana Financial Group","South Korea",21500,2400,452300,13300
+412,"Posco","South Korea",57400,1100,76700,22300
+412,"Tata Consultancy Services","India",29100,5500,17600,166500
+414,"Schweizerische Nationalbank","Switzerland",38700,32400,942200,442
+415,"Prologis","United States",8200,3200,93300,104100
+416,"Wanhua Chemical Group","China",24900,2400,38600,39100
+417,"Oneok","United States",17800,2200,44400,48200
+418,"Analog Devices","United States",11600,2800,48400,106200
+419,"Parker-Hannifin","United States",19800,2800,29600,70100
+420,"Baoshan Iron & Steel","China",48500,1700,53700,21200
+421,"ArcelorMittal","Luxembourg",68300,921.4,93900,21600
+422,"Nomura","Japan",28800,1100,364400,17500
+423,"Bank Of Shanghai","China",15000,3200,436500,15300
+424,"American Tower","United States",11200,2100,66700,90800
+425,"Hewlett Packard Enterprise","United States",28100,1900,58600,23200
+425,"Marriott International","United States",24100,2900,25800,67900
+427,"Regeneron Pharmaceuticals","United States",13100,3900,34400,108200
+428,"Intuit","United States",15100,2800,29700,185100
+429,"Sysco","United States",78000,2100,24700,37800
+430,"Daikin Industries","Japan",30400,1800,32200,47300
+431,"Veolia Environnement","France",49000,1000,80200,23800
+432,"Bridgestone","Japan",30000,2200,36900,30500
+433,"Cummins","United States",34000,1900,31800,39100
+434,"Michelin Group","France",30600,2100,38900,29000
+435,"Komatsu","Japan",26800,2700,37200,28000
+436,"Pfizer","United States",55100,-289,221100,162300
+437,"CSL","Australia",14100,2500,37300,90500
+438,"Keurig Dr Pepper","United States",14900,2200,52300,45800
+439,"Canadian Pacific Kansas City","Canada",10200,2900,60300,76600
+440,"Bank of Baroda","India",17100,2300,198400,16200
+441,"CTBC Financial Holding","Taiwan",13200,1800,270600,23200
+442,"Kotak Mahindra Bank","India",11400,2200,92000,40500
+443,"TC Energy","Canada",11400,2100,94600,40400
+444,"Carrier Global","United States",23000,1200,40800,58800
+445,"Aon","Ireland",13700,2600,40800,63600
+446,"Hermès International","France",14500,4700,22600,261400
+447,"Mitsubishi Heavy Industries","Japan",32200,1500,41300,29600
+448,"Infineon Technologies","Germany",16900,2800,31400,52200
+449,"Heineken","Netherlands",32800,1300,61900,23400
+450,"Boeing","United States",76400,-2200,134500,113500
+451,"Grupo Mexico","Mexico",14300,3200,35800,52600
+451,"London Stock Exchange","United Kingdom",10400,946,1026200,62800
+451,"Sherwin-Williams","United States",23000,2400,23400,79200
+454,"Dollar General","United States",38700,1700,33700,31200
+455,"Baker Hughes Company","United States",26200,1800,37100,33400
+455,"CRRC","China",32400,1700,65200,18100
+457,"Bank Central Asia","Indonesia",7500,3300,91100,75300
+458,"Boston Scientific","United States",14700,1800,36700,109700
+459,"Naturgy Energy Group","Spain",24500,2100,41900,26100
+460,"Saudi Electricity","Saudi Arabia",20700,1300,133500,19600
+461,"Softbank","Japan",46700,-1700,308700,80600
+462,"Wilmar International","Singapore",67200,1500,61800,14700
+463,"China Vanke","China",65100,1500,202500,10400
+463,"Maybank","Malaysia",11100,2000,223700,25500
+465,"Hyundai Mobis","South Korea",44300,2600,45200,15100
+466,"General Mills","United States",20200,2600,30900,40200
+467,"Canon","Japan",29000,1900,37900,27500
+467,"Consolidated Edison","United States",14500,1800,66700,33600
+469,"Kansai Electric Power","Japan",28100,3100,59700,14100
+470,"Danone","France",29900,943.8,49100,41800
+471,"BT Group","United Kingdom",25400,2300,65200,16600
+472,"Bharti Airtel","India",18100,901.9,53300,91500
+473,"Etisalat","United Arab Emirates",15000,2800,40200,38100
+474,"OMV Group","Austria",39800,1700,55400,16900
+475,"Fast Retailing","Japan",20200,2400,23400,80900
+476,"Carrefour","France",91800,1800,62000,12100
+477,"NetEase","China",14600,4200,26200,65000
+478,"Compass Group","United Kingdom",40100,1700,22400,48800
+479,"Principal Financial Group","United States",14900,1300,288400,20000
+480,"BCE","Canada",18300,1400,53600,31400
+481,"Prudential","United Kingdom",10900,1700,171600,28500
+481,"Suzuki Motor","Japan",37200,1900,35600,22200
+483,"FirstRand","South Africa",12400,2100,127700,21200
+483,"Sun Hung Kai Properties","Hong Kong",9200,3100,104500,29800
+485,"Recruit Holdings","Japan",23600,2400,20800,76500
+486,"Williams","United States",10200,2900,52700,50300
+487,"Xcel Energy","United States",13800,1800,65600,30800
+488,"Coal India","India",17200,3900,28500,34800
+488,"Kuwait Finance House","Kuwait",9300,1800,120400,40800
+490,"Raymond James Financial","United States",14000,1800,81200,26200
+491,"Reckitt Benckiser Group","United Kingdom",18200,2000,34600,41100
+492,"China Coal Energy","China",27300,2900,49200,14800
+493,"Samsung C&T","South Korea",32200,1700,51500,17500
+494,"Longfor Group Holdings","China",25400,1800,98800,13000
+495,"Blackstone","United States",10300,2200,39700,151900
+496,"Daiwa House Industry","Japan",36000,2100,43200,16900
+497,"Shaanxi Coal Industry","China",21700,2600,27900,32700
+498,"China Merchants Shekou Industrial Zone Holdings","China",28600,944.9,281700,14300
+499,"Mitsui Fudosan","Japan",16500,1600,62700,26200
+500,"Henkel","Germany",23300,1400,35000,38300
+501,"Imperial Brands","United Kingdom",22800,2600,36100,21500
+501,"Truist Financial","United States",33200,-1400,535000,53500
+503,"L3Harris Technologies","United States",20200,1200,41800,42400
+504,"Air Products & Chemicals","United States",12200,2500,35900,58400
+505,"Woodside Energy Group","Australia",14000,1600,55400,34900
+506,"Capgemini","France",24300,1800,27300,38600
+506,"NN Group","Netherlands",21600,1200,230000,13500
+508,"Legal & General Group","United Kingdom",55900,540.7,656300,19000
+509,"Republic Services","United States",15200,1800,31400,59300
+510,"Halliburton","United States",23100,2600,24700,33600
+511,"Bouygues","France",61100,1100,64900,14500
+512,"Pernod Ricard","France",12600,2200,42800,40800
+513,"Bristol Myers Squibb","United States",45500,-6100,99000,89300
+514,"Coca-Cola Europacific Partners","United Kingdom",19800,1800,32300,34200
+514,"Yankuang Energy Group","China",16800,2500,58400,17800
+516,"Markel","United States",16600,2500,44900,21600
+517,"Huntington Bank","United States",11100,1800,193500,20600
+517,"Tokyo Electric Power","Japan",47800,1900,96400,9800
+519,"CME Group","United States",5600,3200,132100,76700
+519,"STMicroelectronics","Switzerland",16500,3700,25000,37200
+521,"Swiss Life Holding","Switzerland",13200,1200,258300,19900
+522,"Edison International","United States",16400,959,83600,29400
+523,"GE HealthCare Technologies","United States",19500,1600,32200,37400
+524,"Thales","France",19900,1100,42800,37500
+525,"Canara Bank","India",16800,1800,184000,12400
+525,"Isbank","Turkey",17600,3000,1e+05,11500
+527,"Nutrien","Canada",28300,844.4,53600,28600
+528,"British American Tobacco","United Kingdom",33900,-17900,151300,69900
+529,"East Japan Railway","Japan",18900,1400,64600,20500
+530,"Central Japan Railway","Japan",11800,2700,65700,21900
+531,"Bank of Nanjing","China",11400,2500,331500,14000
+532,"TE Connectivity","Switzerland",15800,3400,22800,46200
+533,"Power Finance","India",11100,2400,124600,18500
+534,"Royal Caribbean Group","United States",14700,2100,35200,36500
+535,"HeidelbergCement","Germany",22900,2100,40200,19000
+536,"AirBnB","United States",10200,4900,24500,92500
+537,"Bharat Petroleum","India",54100,3200,24300,16400
+538,"LG Chem","South Korea",40000,758,61000,23000
+539,"Turkish Airlines","Turkey",21200,6800,35600,13800
+540,"Wuliangye Yibin","China",10300,4400,25000,84000
+541,"Subaru Corporation","Japan",32500,2700,31800,15600
+542,"Weichai Power","China",30100,1400,46900,17500
+543,"Luxshare Precision Industry","China",32600,1600,23600,31500
+544,"Atlas Copco","Sweden",16600,2700,18600,90000
+544,"United Rentals","United States",14500,2500,26700,45700
+546,"CNH Industrial","United Kingdom",24200,2300,45700,14400
+547,"Loews","United States",16300,1500,80900,17200
+548,"Entergy","United States",12000,2100,61600,24100
+548,"Quanta Computer","Taiwan",34300,1400,23100,34200
+550,"BASF","Germany",72100,33.6,88300,47500
+551,"NXP Semiconductors","Netherlands",13300,2800,23300,68500
+552,"Lam Research","United States",14200,3600,18300,119200
+553,"Vertex Pharmaceuticals","United States",10200,4000,23900,114900
+554,"Citizens Financial Group","United States",12500,1400,220400,16900
+555,"Xiamen C&D","China",101200,1800,123400,4500
+556,"S.F. Holding","China",36600,1200,31100,25400
+557,"Norfolk Southern","United States",12000,1400,42100,52300
+558,"Deutsche Boerse","Germany",6600,1900,262900,37200
+559,"Intact Financial","Canada",20300,1200,38100,30100
+560,"Fujifilm Holdings","Japan",20500,1700,31600,26400
+561,"Everest Re Group","Bermuda",15400,2900,47900,17100
+562,"OTP Bank","Hungary",11800,2900,113700,13600
+563,"Trane Technologies","Ireland",18200,2200,19300,74400
+564,"Inpex","Japan",15100,2400,48200,19100
+564,"Wesfarmers","Australia",28900,1700,18600,51900
+566,"Colgate-Palmolive","United States",19800,2600,16600,77200
+567,"Samsung Life Insurance","South Korea",17500,1400,233500,11800
+568,"Haleon","United Kingdom",14000,1300,43400,38200
+569,"Infosys","India",18600,3200,16500,71900
+570,"Devon Energy","United States",15100,3300,25000,31400
+571,"Punjab National Bank","India",14800,1100,191700,16500
+572,"Publicis Groupe","France",16000,1400,40600,28800
+573,"MediaTek","Taiwan",15000,2900,20200,57500
+574,"SK Hynix","South Korea",30400,-3500,76700,96500
+575,"Gilead Sciences","United States",27400,484,56300,84400
+575,"Union Bank of India","India",14300,1700,168100,12700
+577,"Abu Dhabi Commercial Bank","United Arab Emirates",9900,2200,161900,16700
+578,"Gallagher","United States",10500,1100,61000,56300
+579,"International Airlines","United Kingdom",31800,2900,41600,11100
+580,"Fujitsu","Japan",26000,1800,23200,27900
+581,"Public Service Enterprise Group","United States",9700,1800,52400,37100
+582,"Aptiv","Ireland",20100,3000,23600,22300
+583,"Bayer","Germany",51000,-3400,129500,30500
+584,"China Zheshang Bank","China",18200,2100,437500,8300
+585,"George Weston","Canada",45000,1000,36000,18800
+586,"Cardinal Health","United States",220600,552,45900,24100
+587,"Kubota","Japan",20800,1700,38000,17900
+587,"Regions Financial","United States",9200,1800,154900,18500
+589,"Bunge","United States",57600,1900,25800,14600
+590,"Equitable Holdings","United States",13300,1200,276400,13200
+591,"China National Nuclear Power","China",10300,1500,78300,24000
+592,"Bajaj Finserv","India",13000,984.1,64500,30300
+593,"Mahindra & Mahindra","India",16800,1400,28300,37500
+594,"Nintendo","Japan",11600,3400,20800,63700
+595,"Kenvue","United States",15500,1500,27300,39200
+596,"National Bank of Kuwait","Kuwait",7800,1800,124600,23700
+597,"Barrick Gold","Canada",11500,1400,45800,31400
+598,"Coinbase","United States",4700,1300,348000,51000
+599,"Ecolab","United States",15500,1600,21300,66700
+600,"AutoZone","United States",17800,2600,16700,50500
+601,"Illinois Tool Works","United States",16100,3100,15700,74800
+602,"DSV","Denmark",21600,1700,22000,31400
+603,"Standard Bank Group","South Africa",7800,2500,167600,17300
+604,"Associated British Foods","United Kingdom",24900,1500,23700,25900
+605,"Lenovo Group","Hong Kong",55700,876,39500,16300
+606,"Northern Trust","United States",12800,976.6,156100,17500
+607,"Reinsurance Group of America","United States",20700,860,100700,14000
+608,"Nokia","Finland",22800,888,42900,21600
+609,"PKO Bank Polski","Poland",9700,1500,124600,18200
+610,"Ferguson","United Kingdom",29400,1800,15700,42700
+611,"Grupa PZU","Poland",14600,1400,118100,12200
+612,"IQVIA","United States",15100,1400,26600,42100
+613,"Woori Financial Group","South Korea",19100,1700,374900,8000
+614,"Edp-energias De Portugal","Portugal",17000,1100,60200,17400
+615,"Hess","United States",11600,2000,24700,48700
+616,"Naspers","South Africa",6100,4100,60500,38300
+617,"Swire Pacific","Hong Kong",12100,3700,57300,12500
+618,"Kimberly-Clark","United States",20400,1800,17100,45200
+619,"China Tower Corp.","China",13300,1400,46000,21700
+619,"SingTel","Singapore",10600,2400,34500,29700
+621,"Chubu Electric Power","Japan",25000,2800,47000,9500
+621,"CMOC Group","China",25700,1400,24600,21900
+623,"Hengli Petrochemical","China",31800,1100,37700,15300
+624,"QBE Insurance Group","Australia",21700,1400,34900,17600
+625,"Riyad Bank","Saudi Arabia",7100,2200,107900,21300
+626,"Sinopharm Group","China",84300,1300,54100,8800
+627,"Telefónica","Spain",44200,-712.3,112700,25000
+627,"Telstra","Australia",15100,1300,31100,28400
+629,"Cognizant","United States",19300,2100,18400,34200
+630,"3M","United States",32700,-7000,55200,58200
+631,"Industrial Bank of Korea","South Korea",15600,2000,336800,8200
+632,"NRG Energy","United States",28500,1600,25400,17200
+633,"CBRE Group","United States",32500,995.1,23000,28000
+634,"Tokyo Electron","Japan",12700,2500,16200,107500
+635,"Metallurgical Corp of China","China",89100,1100,97300,4700
+636,"Bank Of Hangzhou","China",9900,2100,265300,11400
+637,"CEZ Group","Czech Republic",15300,1400,35200,21600
+638,"Micron Technology","United States",18300,-3800,65700,138700
+639,"China Energy Engineering","China",57700,1200,112800,4900
+640,"AerCap Holdings","Ireland",7400,3300,71100,19200
+641,"CGN Power","China",11500,1500,58000,18700
+642,"Swisscom","Switzerland",12400,1900,28400,28700
+643,"Diamondback Energy","United States",8700,3200,29700,35300
+644,"New China Life Insurance","China",18900,2100,178900,7300
+645,"JSW Steel","India",21100,1100,27400,26600
+646,"RELX","United Kingdom",11400,2200,19000,82000
+647,"Raiffeisen Bank International","Austria",16200,2500,219700,6300
+648,"Asahi Group Holdings","Japan",19600,1200,35700,19300
+648,"Bank Leumi","Israel",9900,1900,203100,11900
+650,"DTE Energy","United States",12000,1300,45900,24100
+651,"Centrica","United Kingdom",32900,4900,27200,9700
+652,"Nu Holdings","Cayman Islands",8100,1300,43800,55600
+653,"Albertsons","United States",79200,1300,28800,11900
+654,"Ally Financial","United States",16200,858,192900,12200
+654,"Anglo American","United Kingdom",30700,300.9,66500,41200
+656,"GD Power Development","China",25000,896.5,64800,12800
+657,"FirstEnergy","United States",12900,1100,51300,23000
+658,"PPG","United States",18200,1400,21900,31500
+659,"Bank Hapoalim","Israel",9400,2000,190700,11900
+660,"Tenet Healthcare","United States",20900,2600,28900,12500
+661,"Ross Stores","United States",20400,1900,15300,44400
+662,"Global Payments","United States",9800,1300,51800,27900
+663,"MercadoLibre","Uruguay",15800,1100,19100,88700
+664,"Anhui Conch Cement","China",19900,1500,34700,14600
+665,"Deutsche Lufthansa","Germany",38800,1500,51100,8700
+666,"Akbank","Turkey",14700,2600,64100,10200
+667,"Inner Mongolia Yili","China",17400,1800,22300,24800
+668,"Teck Resources","Canada",11300,1200,43100,27900
+669,"Amphenol","United States",12800,2000,16700,79200
+670,"Magna International","Canada",43100,1000,32700,13600
+671,"Great Wall Motor","China",25100,1400,27100,16400
+672,"Jardine Matheson","Bermuda",36000,686,89200,11400
+673,"Warner Bros. Discovery","United States",40600,-3000,119800,19700
+674,"CIMB Group Holdings","Malaysia",8000,1500,159600,15500
+674,"O'Reilly Automotive","United States",16100,2400,14200,59600
+676,"Asr Nederland","Netherlands",13700,1100,166000,11100
+677,"Daiichi Sankyo","Japan",11100,1400,22900,68200
+678,"Tenaris","Luxembourg",14200,3500,21500,20200
+679,"Constellation Brands","United States",10000,1700,25700,46700
+680,"GE Vernova","United States",33200,-438,47900,44600
+681,"Continental","Germany",44300,781.9,40800,13600
+682,"Samsung SDI","South Korea",17000,1400,26300,21300
+683,"Huaneng Power International","China",35700,783.6,78200,10300
+684,"Hindalco Industries","India",26100,1100,27100,17700
+685,"Banco de Sabadell","Spain",11100,1300,259800,11100
+686,"Bank of Ireland","Ireland",9700,1600,172000,11700
+687,"Aeon","Japan",66700,312,86500,18200
+688,"Sumitomo Mitsui Trust","Japan",15100,547.7,501400,16500
+689,"Walgreens Boots Alliance","United States",144600,-6000,84200,15700
+690,"NEC","Japan",24000,1000,27900,18800
+691,"Idemitsu Kosan","Japan",60300,1600,33100,8900
+691,"Vistra Energy","United States",14600,759,38200,32700
+693,"W. R. Berkley","United States",12500,1500,33600,20300
+694,"Corteva","United States",16800,559,43600,39300
+695,"Lincoln National","United States",16800,1400,353900,5100
+696,"WEC Energy Group","United States",8700,1400,43900,27000
+697,"Singapore Airlines","Singapore",14100,2000,33400,15000
+698,"Hikvision","China",12600,2000,18300,43500
+699,"Mitsubishi Estate","Japan",10400,1200,50100,22300
+700,"Coupang","United States",25700,1300,14900,41100
+701,"Li Auto","China",17400,1600,20200,24400
+702,"ServiceNow","United States",9500,1900,17500,156800
+703,"Samsung Fire & Marine","South Korea",13900,1400,62000,11600
+704,"China Hongqiao Group","China",18900,1600,28200,14500
+705,"Cincinnati Financial","United States",10700,2400,33000,18800
+706,"KeyCorp","United States",10600,874,187500,14500
+707,"Block","United States",22900,498.6,35600,44600
+708,"PulteGroup","United States",16400,2700,16500,25000
+708,"Saudi British Bank","Saudi Arabia",6000,1900,98500,22200
+710,"JFE Holdings","Japan",35800,1400,38000,9400
+711,"Korea Electric Power","South Korea",68100,519.3,177500,9400
+712,"Banco BPM","Italy",9600,1400,223300,11000
+712,"Omnicom Group","United States",14900,1500,27300,18800
+714,"EnBW Energie Baden-Wurttemberg","Germany",41900,56.1,71600,19700
+715,"ACS Actividades de Construccion y Servicios","Spain",38600,843.4,40900,11300
+716,"WW Grainger","United States",16600,1800,8400,46400
+717,"BOE Technology Group","China",25300,457.9,57700,23000
+718,"Equinix","United States",8300,941.4,31900,75900
+719,"Nippon Yusen","Japan",16500,1600,28100,14600
+720,"Emaar Properties","United Arab Emirates",7800,3100,38900,18200
+721,"Kuehne & Nagel International","Switzerland",25500,1400,13400,32300
+722,"KLA","United States",9600,2600,15000,100700
+723,"Porsche Automobil Holding","Germany",5700,5500,68900,16500
+724,"Crown Castle International","United States",6800,1400,38200,44700
+725,"Eiffage","France",24200,1100,41800,10700
+726,"Sekisui House","Japan",21900,1400,22900,14800
+727,"Las Vegas Sands","United States",11200,1600,21200,35000
+728,"Alcon","Switzerland",9600,1000,29600,43600
+729,"VICI Properties","United States",3700,2600,44200,31700
+730,"Simon Property Group","United States",5800,2600,33700,48500
+731,"Genuine Parts","United States",23100,1300,18300,21300
+731,"Renesas Electronics","Japan",10100,2200,21400,31200
+733,"Verbund","Austria",10000,2400,21900,27300
+734,"China Resources Power","Hong Kong",13200,1400,41300,13300
+735,"Fidelity National Financial","United States",12600,824,74400,14300
+736,"eBay","United States",10100,2600,21400,26000
+736,"Volvo Car","Sweden",37500,1200,34600,9300
+738,"LG Electronics","South Korea",64300,542.8,45600,13000
+739,"Emerson Electric","United States",16500,129,46400,64600
+740,"Palo Alto Networks","United States",7500,2300,18300,102700
+741,"Assa Abloy","Sweden",13500,1400,19600,32100
+742,"Keyence","Japan",6700,2600,19600,113700
+743,"Sumitomo Electric","Japan",30400,1000,28800,11900
+744,"Siemens Energy","Germany",34600,-2400,54200,21500
+745,"Steel Dynamics","United States",18600,2400,15000,21000
+746,"Grasim Industries","India",15300,680.9,47000,19800
+747,"Aluminum Corp of China","China",31900,941,29900,12000
+748,"Ashtead Group","United Kingdom",10700,1600,21800,31900
+749,"Sika","Switzerland",12500,1200,18100,49800
+750,"Huatai Securities","China",7500,1700,127700,11500
+751,"AIB Group","Ireland",6100,2200,150600,13500
+752,"Meritz Financial Group","South Korea",10000,1600,75900,11000
+753,"Hong Kong Exchanges","Hong Kong",2600,1500,43400,47800
+754,"Fortis (Canada)","Canada",8400,1200,49900,20100
+754,"Targa Resources","United States",15900,1100,20800,26100
+756,"Ryanair Holdings","Ireland",14200,2200,17100,22700
+757,"3i Group","United Kingdom",707,4800,27300,36200
+758,"Roper Technologies","United States",6400,1500,30000,58000
+759,"VakifBank","Turkey",16300,1300,96800,6600
+760,"Chongqing Changan Auto","China",20800,769.1,26400,19500
+761,"MGM Resorts","United States",16700,893.1,42100,12900
+762,"RenaissanceRe Holdings","Bermuda",9500,2300,44700,12100
+763,"Huishang Bank","China",10200,2000,254800,4300
+764,"HCLTech","India",13300,1900,12000,43400
+765,"Molina Healthcare","United States",35900,1100,15500,20400
+766,"Neste","Finland",24300,1500,17700,15800
+767,"Thomson Reuters","Canada",6900,2400,18800,77200
+768,"Aegon","Netherlands",25800,253,314800,12000
+769,"Bancolombia","Colombia",11300,1500,87200,9100
+770,"ASE Technology Holding","Taiwan",18600,1000,21300,20300
+770,"Rongsheng Petrochemical","China",43300,443.2,52700,14600
+772,"Resona Holdings","Japan",6200,1100,503200,15200
+773,"Jabil Circuit","United States",32100,1500,17100,13900
+774,"Grupo Inbursa","Mexico",7500,1700,45400,18000
+775,"Biogen","United States",9300,1200,26600,33600
+775,"Daqin Railway","China",11000,1600,29100,17300
+777,"The Estée Lauder Companies","United States",15300,641,22700,48300
+777,"Suncorp Group","Australia",11800,776.6,73100,13900
+779,"SSE","United Kingdom",14300,708.8,31900,25300
+780,"Murata Manufacturing","Japan",11300,1300,20100,34800
+781,"Celanese","United States",10700,2000,26000,17200
+782,"TransDigm Group","United States",7300,1400,21600,72300
+783,"Beijing-Shanghai High-Speed Railway","China",5800,1700,40600,35700
+784,"Newmont","United States",13100,-2700,55300,50400
+785,"Tyson Foods","United States",52900,-615,37500,21000
+786,"Ageas","Belgium",12200,1000,106100,9400
+786,"Nidec","Japan",16200,867.2,21000,27100
+786,"Zoetis","United States",8700,2400,14300,79400
+789,"CK Asset Holdings","Hong Kong",6200,2200,65200,16100
+790,"H&M - Hennes & Mauritz","Sweden",22100,887.8,16800,27300
+791,"Public Bank","Malaysia",5100,1500,111100,17400
+792,"TELUS","Canada",14800,556.8,42600,24400
+793,"Sampo","Finland",10000,1500,24800,22100
+794,"Best Buy","United States",43500,1200,15000,15900
+795,"Galp Energia","Portugal",22300,1400,17800,16200
+796,"Shanghai Rural Commercial Bank","China",7000,1700,199500,10300
+797,"WTW","United Kingdom",9600,1000,30200,26300
+798,"Intuitive Surgical","United States",7300,2000,15800,141500
+799,"Otsuka Holding","Japan",14500,951.3,22800,22700
+800,"Unum Group","United States",12600,1300,53600,10100
+801,"Universal Music Group","Netherlands",12000,1400,14600,57200
+802,"The Hershey Company","United States",11400,2100,12400,41900
+803,"Otis Worldwide","United States",14300,1400,9800,39100
+804,"Digital Realty Trust","United States",5500,1200,42600,46400
+805,"Quanta Services","United States",21500,768,15500,38700
+806,"SM Investments","Philippines",10300,1400,28400,18600
+807,"CDW","United States",21100,1100,13200,30100
+808,"Grupo Bimbo","Mexico",22800,794.5,21900,18700
+809,"Realty Income","United States",4400,779.6,68300,48000
+810,"ITC","India",8500,2500,10500,65400
+811,"ZTE","China",17400,1300,28800,11100
+812,"T&D Holdings","Japan",19300,683.1,113700,8600
+813,"Essity","Sweden",15000,1700,17400,18300
+814,"Fox","United States",13900,1600,21700,15300
+815,"Alinma Bank","Saudi Arabia",4700,1400,65300,21100
+815,"Joint Stock Commercial Bank for Foreign Trade of Vietnam","Vietnam",5200,1400,71500,20200
+817,"Mega Financial Holding","Taiwan",5200,1100,143200,18300
+818,"HF Sinclair","United States",31400,1500,17900,11200
+819,"American Airlines Group","United States",53200,500,64400,9700
+820,"Carnival Corporation","United States",22600,405,49800,19000
+820,"MTR","Hong Kong",7300,994.3,44400,23200
+820,"Trip.com Group","China",6300,1400,30900,36200
+823,"Unipol Gruppo","Italy",14100,1200,86600,7200
+824,"BPER Banca","Italy",8100,1800,151300,8100
+825,"Hilton Worldwide Holdings","United States",10500,1200,15900,51100
+826,"Chipotle Mexican Grill","United States",10200,1300,8400,88300
+827,"Power Grid of India","India",5600,1900,29600,35000
+828,"Mapfre","Spain",34900,748,54100,7800
+829,"Fresenius","Germany",29600,-717.8,47800,17100
+830,"CLP Holdings","Hong Kong",11100,850.1,29300,21500
+831,"JBS","Brazil",74200,413,40800,12700
+832,"Mitsubishi UFJ Lease","Japan",13500,856.4,73700,9500
+833,"Geely Automobile Holdings","Hong Kong",25200,722.6,27200,13200
+834,"Kasikornbank","Thailand",9100,1300,118400,8800
+834,"Tata Steel","India",28300,-404.9,32700,25100
+836,"Leonardo","Italy",16500,711.4,33900,14600
+837,"Ameren","United States",7300,1100,41300,19900
+838,"CenterPoint Energy","United States",8500,942,40200,19200
+839,"Cintas","United States",9400,1500,9000,70200
+840,"Daiwa Securities","Japan",8900,840.6,211600,10200
+841,"Rogers Communications","Canada",15100,440.4,51300,21200
+842,"China Taiping Insurance","Hong Kong",17400,686.4,191900,4300
+842,"Microchip Technology","United States",7600,1900,15900,51000
+842,"Motorola Solutions","United States",10200,1400,13300,61300
+845,"TD SYNNEX","United States",56400,626.9,27800,11000
+846,"Builders FirstSource","United States",17100,1500,11200,20400
+847,"Tohoku Electric Power","Japan",19500,1600,35600,4100
+848,"Corning","United States",12400,614,27600,30300
+849,"Credicorp","Peru",7000,1300,64800,13000
+850,"Eletrobrás","Brazil",7400,889.4,52800,18600
+851,"SK","South Korea",99600,-1400,160500,6300
+852,"Kuaishou Technology","China",16000,882.3,15000,32400
+853,"Mitsui OSK Lines","Japan",11300,1800,27200,11800
+854,"Mazda Motor","Japan",33400,1400,25100,6400
+855,"Sandvik","Sweden",11700,1200,16900,26800
+856,"Super Micro Computer","United States",11800,1000,8900,52000
+856,"Tractor Supply","United States",14700,1100,9600,30800
+858,"TDK","Japan",14500,862.3,22600,17700
+859,"Flex","United States",28100,1000,18300,12300
+860,"Woolworths","Australia",43600,-5.3,22600,25800
+861,"Southwest Airlines","United States",26700,426,36000,16700
+862,"Jiangxi Copper","China",73500,953.3,23700,7900
+863,"HAL Trust","Netherlands",13700,1100,29100,11800
+864,"Philips","Netherlands",19600,-503.8,32800,26400
+865,"PPL","United States",8200,762,39600,21800
+866,"Workday","United States",7200,1400,16500,68500
+867,"Tenaga Nasional","Malaysia",11600,607.3,50700,15600
+868,"Public Storage","United States",4600,2100,19600,50700
+869,"Mitsubishi Chemical","Japan",30300,827.1,40300,7500
+870,"Mediobanca","Italy",5400,1200,104800,13900
+871,"Lululemon Athletica","Canada",9600,1600,7100,42200
+872,"Interactive Brokers Group","United States",8300,627,132200,13300
+872,"Longi Green Energy Technology","China",16500,664.3,23300,19500
+874,"Kyocera","Japan",13900,699,29500,16900
+875,"CP All","Thailand",25900,573.9,25300,14600
+876,"Absa Group","South Africa",11100,1100,102500,7000
+876,"Jackson Financial","United States",3600,3200,315700,5900
+878,"Sabanci Holding","Turkey",23100,647.6,74200,6600
+879,"Henderson Land","Hong Kong",3500,1200,69500,16400
+880,"BDO Unibank","Philippines",6100,1300,81400,12700
+880,"Chongqing Rural Bank","China",7600,1500,206300,5500
+882,"TCL","China",24300,418.9,54200,12100
+883,"NASDAQ","United States",6200,992,30300,36200
+884,"Isuzu Motors","Japan",23400,1200,21600,9400
+885,"Phoenix Group Holdings","United Kingdom",33200,-171.5,375300,6500
+886,"SDIC Power Holdings","China",7900,993.8,39000,16400
+887,"Sumitomo Realty","Japan",6700,1200,44100,15700
+888,"Quinenco","Chile",12400,1000,79400,5800
+889,"Mizrahi Tefahot Bank","Israel",6800,1300,124500,9300
+890,"Evergreen Marine Corp. (Taiwan)","Taiwan",9500,1500,24400,14000
+891,"Greenland Holdings Group","China",45500,-1600,165600,4200
+892,"Adidas","Germany",23400,145.3,19900,44500
+893,"Banca MPS","Italy",6700,2200,135500,7300
+893,"Ford Otosan","Turkey",17300,2100,7300,13100
+893,"Sichuan Road & Bridge","China",14800,1100,32800,9200
+896,"East Money Information","China",1800,1100,35600,28400
+897,"Aisin Seiki","Japan",34000,628,30700,9700
+897,"Guotai Junan Securities","China",6300,1200,130500,10300
+899,"Commercial Bank For Investment & Development Of Vietnam","Vietnam",7300,909.2,93900,11100
+900,"Dubai Islamic Bank","United Arab Emirates",5400,1700,85600,10900
+901,"Arista Networks","United States",6100,2300,10600,100200
+901,"IndusInd Bank","India",6700,1100,61800,13200
+903,"Westinghouse Air Brake Technologies","United States",10000,918,18700,29700
+904,"Monster Beverage","United States",7300,1700,10100,56400
+905,"Jeronimo Martins","Portugal",34600,773,15800,14000
+906,"Dollar Tree","United States",30600,-998.4,22000,25600
+907,"ON Semiconductor Corp.","United States",8200,2200,13500,31500
+908,"Ovintiv","United States",10600,1900,19800,13300
+909,"Hanwha","South Korea",38800,-55,158900,1500
+909,"Naver","South Korea",7500,1100,26600,20900
+911,"Suzano","Brazil",7700,1800,28600,12900
+912,"Expedia Group","United States",13100,807,24800,15100
+912,"Telkom Indonesia","Indonesia",9800,1600,18200,18600
+914,"Tokyo Gas","Japan",18400,1200,25700,8700
+915,"China National Building","China",29800,542.2,68900,3900
+916,"Fidelity National Information (FIS)","United States",11200,-6800,35900,43600
+917,"Saudi Arabian Mining","Saudi Arabia",7600,570.4,30100,49100
+918,"CMS Energy","United States",7400,970,33900,18900
+919,"Martin Marietta Materials","United States",6700,2100,16200,35800
+920,"AES","United States",12500,523,47000,15100
+921,"Bank Of Chengdu","China",6100,1700,163100,8500
+922,"Indian Railway Finance","India",3200,731.1,58600,26500
+923,"Legend Holding","China",61500,-530.3,93900,1900
+924,"Muyuan Foodstuff","China",15700,-759.2,27200,34600
+925,"DuPont De Nemours","United States",12000,355,37700,33400
+926,"Wipro","India",10800,1300,13800,28900
+927,"Delta Electronics","Taiwan",12700,1000,14800,26000
+927,"Mashreq Bank","United Arab Emirates",5200,2300,65300,10300
+929,"Molson Coors Brewing","United States",12000,1100,26100,12000
+930,"GAIL India","India",16100,1200,15000,16100
+931,"Moody's","United States",6200,1700,15000,75600
+932,"Restaurant Brands International","Canada",7200,1200,23100,22400
+933,"Eversource Energy","United States",11400,-411.6,57300,21500
+934,"Bank Pekao","Poland",5500,1600,79600,10800
+935,"Teva Pharmaceutical","Israel",16000,-428.8,42800,18500
+936,"Db Insurance","South Korea",12300,1400,43600,4800
+936,"Legrand","France",9000,1200,16500,28700
+936,"Rakuten","Japan",14600,-2100,157600,11000
+939,"Conagra Brands","United States",12100,952,21900,14700
+940,"Kellanova","United States",14400,920,15300,21000
+941,"Schindler Holding","Switzerland",12800,963.7,13400,28300
+942,"Air France-KLM","France",32900,686.3,37500,3000
+942,"TBEA","China",13200,1100,27600,10200
+944,"Bank Negara Indonesia","Indonesia",5400,1400,67300,12100
+945,"Welltower","United States",6900,441.6,44600,60600
+946,"Ericsson","Sweden",24000,-2400,28000,19100
+947,"Indian Bank","India",7800,1000,95400,8700
+948,"DSM-Firmenich","Switzerland",11500,-704.9,38100,31000
+949,"Waste Connections","Canada",8200,794.1,19100,43200
+950,"Techtronic Industries","Hong Kong",13700,976.3,12400,25100
+951,"Raizen","Brazil",44400,802.3,25800,6000
+952,"Anta Sports Products","China",8800,1400,13000,32100
+953,"Kyushu Electric Power","Japan",14800,1200,37800,5000
+954,"Kone","Finland",11900,1000,9000,28400
+955,"Semiconductor Manufacturing International","China",6300,903,47800,17200
+956,"Itaúsa","Brazil",1500,2700,21700,20700
+957,"Halkbank","Turkey",15800,657.6,78000,3900
+957,"MOL Hungarian Oil","Hungary",25300,1300,22100,5500
+959,"China Reinsurance Group","China",14400,793,61300,3400
+960,"Formosa Petrochemical","Taiwan",22200,715.3,13100,20700
+961,"Vedanta Limited","India",17400,512,22900,19700
+962,"Ferrari","Italy",6600,1400,9300,76000
+963,"Shanghai International Port","China",5300,1900,28500,18000
+964,"Reliance Steel","United States",14500,1300,10700,17100
+965,"Yuanta Financial Holding","Taiwan",4800,852.3,107500,12900
+966,"NVR","United States",9500,1600,6500,24000
+967,"Penske Automotive","United States",29600,970.1,16100,10400
+967,"St. James's Place","United Kingdom",23600,-12.6,219600,3300
+969,"China Bohai Bank","China",9700,727.6,244600,2500
+970,"China Three Gorges Renewables (Group)","China",3800,999.7,45000,18400
+971,"Tongwei","China",17400,583.7,24900,13600
+972,"SCB X Public Company","Thailand",6100,1200,93400,9900
+973,"Vestas Wind Systems","Denmark",16500,-6.4,24400,28200
+974,"KE Holdings","China",11000,840.8,17000,25400
+975,"Dassault Systemes","France",6500,1200,16200,54000
+976,"DiDi Global","China",27200,70,20300,23000
+977,"SK Innovation","South Korea",58300,238.5,64200,7700
+978,"CGI","Canada",10700,1200,11600,24100
+979,"American Water Works","United States",4300,959,31100,26100
+980,"Textron","United States",13800,931,16400,17000
+981,"Pembina Pipeline","Canada",6200,1400,24600,20300
+982,"Banque Saudi Fransi","Saudi Arabia",4300,1100,71600,11800
+982,"Fosun International","China",28000,199.1,114000,5400
+982,"Zimmer Biomet","United States",7500,963.9,21500,24700
+985,"Bangkok Bank","Thailand",7200,1200,124900,7300
+986,"China National Chemical","China",25200,771.4,30400,6600
+986,"Yum! Brands","United States",7000,1600,6200,39900
+988,"Lithia Motors","United States",32600,934.8,22200,7400
+989,"Aena","Spain",5400,1800,19400,29200
+990,"Lonza Group","Switzerland",7500,727.8,20300,42100
+990,"Synopsys","United States",6100,1400,10600,86500
+992,"United Microelectronics","Taiwan",7100,1800,17700,20500
+993,"Uni-President","Taiwan",19400,600.4,21100,14000
+994,"China Cinda Asset Management","China",7900,829.5,224800,4000
+995,"Nongfu Spring","China",6000,1700,6900,66900
+996,"Scor","France",21400,754.6,35000,5900
+997,"E.Sun Financial","Taiwan",4000,697.9,116700,14100
+998,"Rockwell Automation","United States",9000,1200,11400,30800
+999,"Santos","Australia",6000,1400,31100,16400
+1,"Kirin Holdings","Japan",15100,919.8,19900,11700
+1.001,"Snam","Italy",4600,1200,37100,16500
+1.002,"Abu Dhabi Islamic Bank","United Arab Emirates",3900,1400,53000,11800
+1.003,"KT","South Korea",20100,812.4,31700,6800
+1.004,"Sungrow Power Supply","China",10000,1400,11700,20900
+1.005,"Air Canada","Canada",16400,1600,22000,4800
+1.006,"CarMax","United States",26500,479.2,27500,11500
+1.007,"Dover","United States",8500,1500,12000,25300
+1.007,"Zhejiang Zheneng Electric Power","China",13700,1000,20400,11300
+1.009,"Sunac China Holdings","China",22100,-1200,137900,2000
+1.01,"Ferrovial","Spain",9200,497.3,29100,29700
+1.011,"PBF Energy","United States",37700,1900,13800,6100
+1.012,"Sanlam","South Africa",11200,784.1,53300,8300
+1.012,"Ulta Beauty","United States",11200,1300,6300,19200
+1.014,"Yamaha Motor","Japan",16900,1200,18500,9300
+1.015,"All Nippon Airways","Japan",14200,1100,23600,9100
+1.016,"Viatris","United States",15300,-56.1,47300,13100
+1.017,"Chunghwa Telecom","Taiwan",7100,1200,16500,30300
+1.017,"Live Nation Entertainment","United States",23400,252.1,20000,22200
+1.019,"Arab National Bank","Saudi Arabia",4200,1100,61900,11500
+1.019,"Coles Group","Australia",27900,704.9,13300,14600
+1.021,"XCMG Construction Machinery","China",12900,753.5,22800,12700
+1.022,"GS Holdings","South Korea",19300,958.3,26000,3100
+1.023,"Franklin Resources","United States",8100,860.4,32900,12800
+1.024,"Ametek","United States",6700,1300,14900,38600
+1.025,"Extra Space Storage","United States",2900,818.7,27500,32200
+1.026,"East West Bancorp","United States",4100,1100,70900,10800
+1.026,"Flutter Entertainment","Ireland",11800,-1200,24400,36600
+1.028,"First Financial Holding","Taiwan",4700,720.6,144300,11900
+1.029,"Electronic Arts","United States",7500,1300,13400,34200
+1.03,"Experian","Ireland",7100,1200,11700,42800
+1.031,"Beiersdorf","Germany",10200,795.7,14100,35200
+1.031,"Nippon Paint","Japan",10300,853.5,19100,17600
+1.033,"Avis Budget Group","United States",12000,1200,33500,4200
+1.034,"Edwards Lifesciences","United States",6100,1400,9700,53700
+1.035,"Agilent Technologies","United States",6700,1200,10900,45200
+1.035,"Shenzhen Mindray Bio-Medical Electronics","China",5000,1700,7000,51700
+1.037,"Brookfield Reinsurance","Bermuda",8200,1200,59700,4500
+1.037,"Givaudan","Switzerland",7700,993.7,13200,42500
+1.039,"Fastenal","United States",7400,1200,4500,38000
+1.04,"Vienna Insurance Group","Austria",13400,596.2,51900,8700
+1.041,"Brookfield Renewable","United States",4000,1400,44200,11600
+1.042,"Qatar Islamic Bank","Qatar",2000,1200,52700,11400
+1.043,"Globalfoundries","United States",7100,899,18500,30000
+1.044,"Jinko Solar","China",16500,970.3,18100,10300
+1.045,"China Resources Pharmaceutical Group","Hong Kong",34500,544,34800,5000
+1.046,"HD HYUNDAI","South Korea",48100,307.2,51800,3600
+1.046,"International Flavors & Fragrances","United States",11400,-2500,30600,25500
+1.048,"Adani Power Limited","India",6100,2500,11100,29400
+1.049,"Eurobank Ergasias","Greece",6100,1300,85700,8400
+1.05,"Shaanxi Construction Engineering Group","China",24000,515.5,46200,2100
+1.05,"Voya Financial","United States",7600,793,149800,7500
+1.052,"Sany Heavy Industry","China",10200,640.9,21400,20000
+1.053,"Bank of India","India",8100,792.9,110800,6700
+1.054,"Dick's Sporting Goods","United States",13000,1000,10200,15900
+1.055,"Bank of Changsha","China",6500,1100,146800,4800
+1.056,"Luzhou Lao Jiao","China",3800,2000,9500,38500
+1.057,"Israel Discount Bank","Israel",6500,1100,109900,6200
+1.058,"China Development Financial","Taiwan",10300,607.7,118900,7500
+1.059,"Adani Enterprises","India",12700,391.4,19300,41900
+1.059,"T Rowe Price","United States",6700,1900,12900,26100
+1.061,"Paychex","United States",5200,1700,13000,45200
+1.062,"Shanghai Construction","China",43500,222,48500,3000
+1.063,"Greentown China Holdings","China",18600,442.9,75500,3000
+1.064,"Orsted","Denmark",8400,-3100,42000,25700
+1.065,"Shanxi Xinghuacun Fen Wine Factory","China",4000,1700,7000,44500
+1.066,"Paramount","United States",30100,-481,52000,8000
+1.067,"Arca Continental","Mexico",12000,986.7,14100,17300
+1.068,"Wuchan Zhongda Group","China",81500,484.8,28200,3500
+1.069,"Baxter International","United States",14900,-233,27800,18000
+1.07,"Copart","United States",4200,1400,8000,52400
+1.071,"Shanghai Pharmaceuticals","China",36800,530.1,30100,5900
+1.072,"China CSSC Holdings","China",11300,462.3,24500,22200
+1.072,"Darden Restaurants","United States",11200,1000,11400,18400
+1.074,"LPL Financial Holdings","United States",10500,1000,11000,20000
+1.075,"Jacobs Solutions","United States",16900,657.4,14900,17100
+1.076,"Guosen Securities","China",2900,821,65800,11900
+1.077,"Vonovia","Germany",5300,-4300,101600,26300
+1.078,"National Bank of Greece","Greece",3900,1300,78200,8400
+1.079,"GF Securities","China",4900,1100,93400,8500
+1.08,"Hua Nan Financial","Taiwan",4800,693.5,126100,11000
+1.081,"WestRock","United States",19500,304.9,26900,13700
+1.082,"Coterra Energy","United States",5300,1300,21000,21000
+1.083,"EXOR","Netherlands",2800,2500,14800,23900
+1.084,"SBI Holdings","Japan",8400,603.3,179800,7600
+1.085,"Hormel Foods","United States",12100,794.7,13500,19900
+1.085,"Nedbank","South Africa",8200,837.9,71700,6100
+1.087,"M&G","United Kingdom",13800,369.2,240300,6200
+1.088,"Vulcan Materials","United States",7700,915.3,13900,34300
+1.089,"WPP","United Kingdom",18500,137.2,34300,11600
+1.09,"Cadence Design","United States",4100,1000,5700,78600
+1.091,"AvalonBay Communities","United States",2800,953.6,20600,28300
+1.091,"Ternium","Luxembourg",18500,662.6,24800,8600
+1.093,"Antofagasta","United Kingdom",6300,833.7,19600,29600
+1.094,"China Merchants Securities","China",4300,1200,98100,8000
+1.095,"Spotify Technology","Luxembourg",15000,-119.4,9800,59100
+1.096,"Grupo Carso","Mexico",11300,737.7,14900,20400
+1.097,"Osaka Gas","Japan",14400,917.5,19700,9300
+1.098,"Interpublic Group","United States",10900,1100,17300,12000
+1.098,"Kaspi.kz JSC","Kazakhstan",4500,1900,15400,23200
+1.1,"APA","United States",8200,2700,15000,11500
+1.1,"WH Group","Hong Kong",26200,629.3,19200,9300
+1.102,"Agnico Eagle Mines","Canada",6900,465.5,28800,35000
+1.103,"J Sainsbury","United Kingdom",40900,171.4,31700,8400
+1.103,"Julius Baer Group","Switzerland",6500,505.2,115000,12300
+1.105,"Ingersoll Rand","United States",6900,819.8,15500,37400
+1.106,"WEG","Brazil",6700,1200,6400,32500
+1.107,"Euronext","Netherlands",1600,603.7,238500,10300
+1.108,"US Steel","United States",17800,867,20400,8100
+1.109,"Taiwan Cooperative Financial","Taiwan",4200,544.3,156500,12100
+1.109,"Toll Brothers","United States",10200,1400,12500,13600
+1.111,"Arrow Electronics","United States",31300,713.4,20300,7000
+1.111,"Western Digital","United States",11900,-1600,23800,23500
+1.113,"The Mosaic Company","United States",12800,775.3,22900,9800
+1.114,"Fortinet","United States",5400,1200,7700,46900
+1.115,"ENN Natural Gas","China",20000,936.4,18900,7800
+1.116,"Kajima","Japan",18400,795.5,20700,8300
+1.117,"ENN Energy Holdings","China",16100,962.1,14500,11100
+1.118,"Acciona","Spain",18400,584.9,35000,7300
+1.119,"UPM-Kymmene","Finland",11200,524.8,20000,20400
+1.12,"Guangzhou Automobile Group","China",18300,630.3,30800,4600
+1.121,"DaVita","United States",12300,815.6,17400,12300
+1.122,"CNPC Capital","China",5900,622.6,141000,10600
+1.123,"Constellation Software","Canada",8800,575.5,11900,57600
+1.124,"Hoya","Japan",5300,1300,8000,42700
+1.125,"Banca Mediolanum","Italy",3100,936.9,85400,8800
+1.126,"Amcor","United Kingdom",13800,653,16700,14800
+1.127,"Xylem","United States",7900,663,15900,34700
+1.128,"Marathon Oil","United States",6400,1400,19700,14800
+1.129,"International Paper","United States",18500,186,23000,14100
+1.13,"El Puerto de Liverpool","Mexico",11500,1200,15300,11500
+1.13,"EMCOR Group","United States",13100,718.7,6700,17800
+1.132,"Old Dominion Freight Line","United States",5900,1200,5700,39800
+1.133,"Vibra Energia","Brazil",33100,1100,8800,5000
+1.134,"ICON (Ireland)","Ireland",8200,683.1,17000,26000
+1.135,"US Foods","United States",36000,506,13400,13600
+1.136,"Hexagon","Sweden",5900,920,18400,29700
+1.137,"Top Frontier Investment Holdings","Philippines",26000,-47.9,47100,586
+1.137,"Weyerhaeuser","United States",7600,802,16800,22700
+1.139,"Atmos Energy","United States",4100,999.1,24000,17900
+1.14,"Terna","Italy",3400,957.2,25900,17100
+1.141,"Assurant","United States",11400,765.3,26600,9100
+1.141,"Cathay Pacific Airways","Hong Kong",12100,1300,22300,7200
+1.141,"Korea Gas","South Korea",29900,-375,42400,1800
+1.144,"LKQ","United States",14200,831,15300,11900
+1.145,"XP","Brazil",3000,782.9,51300,11900
+1.146,"Asustek Computer","Taiwan",15700,733.7,15700,11900
+1.147,"Telecom Italia","Italy",17600,-1600,68700,5700
+1.148,"Industrivarden","Sweden",1000,3000,16400,14700
+1.149,"Echostar","United States",20600,-1800,55600,4800
+1.149,"Krung Thai Bank","Thailand",5800,1100,101900,6600
+1.151,"Vivendi","France",11400,437.9,42300,11300
+1.152,"Cemex","Mexico",17500,203.8,28600,11700
+1.153,"NARI Technology Development","China",7400,1000,11500,25500
+1.154,"China Tourism Group Duty Free","China",8900,937.3,11100,19800
+1.155,"Equity Residential","United States",2900,919.2,19900,25400
+1.156,"Prysmian","Italy",16300,576.8,14600,16800
+1.157,"Garmin","Switzerland",5500,1400,8600,32800
+1.158,"MSCI","United States",2600,1200,5500,40000
+1.159,"Japan Exchange Group","Japan",1100,420.6,533100,12200
+1.16,"Owens Corning","United States",9600,1100,11300,15300
+1.161,"Sun Pharma Industries","India",5700,1100,9600,44100
+1.162,"Amadeus IT Group","Spain",6100,1200,12100,31400
+1.162,"Wolters Kluwer","Netherlands",6000,1100,10300,38300
+1.164,"Bankinter","Spain",5000,913.3,124800,7500
+1.165,"American Financial Group","United States",7900,882,24400,11200
+1.165,"SK Telecom","South Korea",13400,861.9,22500,8100
+1.167,"Investec","United Kingdom",6200,1100,69900,5700
+1.168,"Chow Tai Fook Jewellery","Hong Kong",12500,842.8,10900,13900
+1.169,"Fortive","United States",6100,899.6,17500,27200
+1.169,"Sunshine Insurance Group","China",11000,534.5,71800,4700
+1.171,"First Horizon","United States",4900,838,81800,8800
+1.171,"Rexel","France",20700,837.5,15100,8900
+1.173,"Ball","United States",13300,-480,19900,21800
+1.173,"Caesars Entertainment","United States",11400,764,33100,7700
+1.175,"Howmet Aerospace","United States",6900,860,10400,33900
+1.176,"SMC","Japan",5400,1200,13800,33800
+1.177,"ThyssenKrupp Group","Germany",38700,-2500,33300,3400
+1.178,"Banco Comercial Portugues","Portugal",5800,950.9,105600,5800
+1.179,"Attijariwafa Bank","Morocco",4200,741,66800,10300
+1.18,"YPF","Argentina",18000,-2400,26600,11500
+1.181,"Stanley Black & Decker","United States",15700,-74.9,23900,13900
+1.182,"SQM","Chile",7400,2000,11700,13500
+1.183,"Mitsubishi Motors","Japan",19300,1100,16200,4200
+1.184,"CJ Corporation","South Korea",31800,192.9,36100,3500
+1.185,"China Galaxy Securities","China",4200,989.9,93500,6700
+1.185,"West Japan Railway","Japan",11300,683,25000,9900
+1.187,"Chugoku Electric Power","Japan",11300,923.2,27300,2400
+1.188,"Telenor","Norway",7600,699.1,21500,16600
+1.189,"Universal Health Services","United States",14700,816.3,14000,11900
+1.19,"Metro","Canada",15700,727.1,10300,12500
+1.191,"Partners Group Holding","Switzerland",2400,1100,5700,36000
+1.192,"Hydro One","Canada",5900,812.6,25200,17700
+1.193,"China Southern Airlines","China",22500,-589.9,43700,7300
+1.194,"Bayan Resources","Indonesia",3300,1000,2900,39600
+1.194,"Vietin Bank","Vietnam",6400,836.5,83800,7000
+1.196,"Olympus","Japan",6500,1700,10100,18400
+1.197,"StoneX Group","United States",73400,233.9,25700,2400
+1.198,"Yum China Holdings","China",11000,825,11300,15300
+1.199,"Korean Air","South Korea",12700,909.4,23200,5900
+1.2,"Autodesk","United States",5400,906,9900,47700
+1.201,"Towngas","Hong Kong",7300,775.3,20700,15300
+1.202,"WESCO International","United States",22200,684.3,15500,9400
+1.203,"Westlake Chemical","United States",12200,257,21000,20300
+1.204,"Shenzhen Transsion Holding","China",9800,925.8,6600,15300
+1.205,"Williams-Sonoma","United States",7800,949.8,5300,19900
+1.206,"J.B. Hunt Transport Services","United States",12500,658,8400,17000
+1.207,"Smurfit Kappa Group","Ireland",12200,821.1,14600,12400
+1.208,"Jyske Bank","Denmark",4500,831.3,111500,5100
+1.209,"Cellnex Telecom","Spain",4300,-267,47400,27100
+1.21,"Seazen Group","China",16800,-41.4,53600,1600
+1.211,"Forvia","France",29500,247,33700,3400
+1.212,"InterGlobe Aviation","India",7900,871.3,8800,20200
+1.213,"AutoNation","United States",27000,922.5,12000,6900
+1.213,"IDEXX Laboratories","United States",3700,866.6,3400,44900
+1.215,"Sodexo","France",24500,303.2,16900,13700
+1.216,"Dassault Aviation","France",5200,749.6,25900,17600
+1.217,"Grupo De Inversiones Suramericana","Colombia",9700,1400,21900,6100
+1.218,"Oriental Land","Japan",4300,831.4,9000,48200
+1.219,"Adani Ports & Special Economic Zone","India",3200,979.6,14300,34600
+1.22,"Piraeus Financial Holdings","Greece",3700,910.7,83400,5200
+1.221,"Performance Food Group","United States",58000,419.5,13100,11500
+1.221,"Webster Financial","United States",4100,855,76200,8000
+1.223,"iA Financial Corporation","Canada",8900,556.1,70200,6600
+1.224,"Gerdau (Cosigua)","Brazil",13400,1300,15400,8000
+1.225,"Brenntag","Germany",17700,694.3,11500,10900
+1.226,"Hunan Valin Steel","China",22500,666.8,19300,5000
+1.227,"Kobe Steel","Japan",17600,757.6,19300,4900
+1.228,"Quest Diagnostics","United States",9300,842,14000,16000
+1.229,"Bunzl","United Kingdom",14700,654.1,11400,13000
+1.229,"GoDaddy","United States",4300,1700,8000,19100
+1.231,"Compagnie de l'Odet","France",14800,133,57100,7000
+1.232,"Pan Pacific International Holdings","Japan",14200,600,9600,14700
+1.233,"AntarChile","Chile",29600,235.8,29700,3900
+1.233,"Astellas Pharma","Japan",11100,89.2,23600,17200
+1.235,"Huadian Power International","China",16300,511.4,31900,6000
+1.235,"Swatch Group","Switzerland",8800,967,16900,11400
+1.237,"Randstad N.V.","Netherlands",26900,605,11700,9800
+1.238,"Origin Energy","Australia",10400,1100,13000,11400
+1.239,"Jiangsu Eastern Shenghong","China",19700,26.5,27900,9000
+1.24,"ResMed","United States",4600,958.4,6800,32100
+1.241,"BCI-Banco Credito","Chile",5200,822.6,88000,6700
+1.242,"Jiangsu Yanghe Brewery","China",4000,1400,10000,20400
+1.243,"Bank Of Guiyang","China",4300,767.4,100200,2900
+1.243,"Norsk Hydro","Norway",18100,306.3,19600,12600
+1.245,"Zhongyuan Bank","China",7900,450.8,189800,1700
+1.246,"Vipshop Holdings","China",15900,1100,10200,8000
+1.247,"SinoPac Financial","Taiwan",3500,634.1,90300,8900
+1.248,"Industries Qatar","Qatar",3100,1400,10800,20000
+1.249,"Grupo Galicia","Argentina",19500,1000,12700,6500
+1.25,"Csc Financial","China",4500,862.8,73700,6900
+1.251,"Datang International Power","China",17100,-21.9,42900,3800
+1.251,"Pegatron","Taiwan",37800,507.9,16200,8600
+1.253,"Evolution Gaming Group AB","Sweden",2000,1200,5400,23300
+1.254,"Keppel","Singapore",5200,3000,20300,8900
+1.254,"Olam Group","Singapore",35900,207.5,25600,3300
+1.256,"S-Oil","South Korea",27200,643.8,16600,5900
+1.257,"A2A","Italy",13800,845.7,19400,6900
+1.258,"China International Capital","China",5000,779.2,88000,7000
+1.259,"IDBI Bank","India",3700,699.1,43700,10900
+1.26,"Dongguan Rural Commercial Bank","China",3700,735.4,1e+05,6000
+1.261,"NiSource","United States",5200,745.6,29300,13100
+1.262,"Helvetia Holding","Switzerland",11700,315.1,71900,7500
+1.263,"Yuexiu Property","Hong Kong",11300,453.6,56600,3300
+1.264,"Bajaj Auto","India",5400,931,4700,29400
+1.264,"Grupo Aval","Colombia",11300,103.9,79400,2900
+1.266,"BAIC Motor","China",28000,436.6,23800,2400
+1.267,"Alstom","France",19100,-335,35900,7600
+1.268,"Bâloise Group","Switzerland",10600,266.6,92000,7500
+1.269,"Masco","United States",7900,918,5300,15500
+1.27,"Gartner","United States",6000,797.2,7700,35000
+1.271,"Keysight Technologies","United States",5300,969,9100,27500
+1.272,"Evergy","United States",5500,711.4,31300,12700
+1.273,"Adyen","Netherlands",2000,755,10600,41900
+1.274,"Bank of Chongqing","China",4300,697,108000,2400
+1.275,"Ajinomoto","Japan",10000,602.5,11700,19800
+1.276,"Alpha Bank","Greece",4700,770.8,80300,4400
+1.277,"Solventum","United States",8200,1300,14700,10800
+1.278,"Brown & Brown","United States",4400,914.6,14800,25600
+1.278,"Sojitz","Japan",16700,696.8,19100,6000
+1.28,"Halyk Bank","Kazakhstan",5200,1500,35500,5000
+1.281,"Fanuc","Japan",5500,920.9,12700,28000
+1.281,"Shriram Transport Finance Co.","India",4400,889.7,29800,10700
+1.283,"Hyundai Marine & Fire","South Korea",11100,624,31900,1900
+1.284,"Asahi Kasei","Japan",19300,302.9,24200,9300
+1.285,"Jefferies Financial","United States",8400,304.7,60900,10000
+1.286,"Labcorp","United States",12300,433.1,16500,17800
+1.286,"Old Mutual","South Africa",11900,382.6,62800,2700
+1.286,"Xiamen International Trade Group","China",61500,165.5,20500,2400
+1.289,"EQT","United States",4500,620.2,25400,18200
+1.29,"AGCO","United States",14000,1100,13500,8200
+1.29,"NetApp","United States",6200,940,9400,22800
+1.29,"Voestalpine","Austria",18400,676.6,18300,4900
+1.293,"Verisk Analytics","United States",2700,777.9,4500,35900
+1.294,"Corpay","United States",3800,997,15800,19600
+1.295,"Marfrig Global Foods","Brazil",27200,-166.5,26200,2100
+1.296,"Eastman","United States",9100,925,14700,11800
+1.297,"Western Alliance Bancorp.","United States",4600,757.6,77000,7200
+1.298,"Bank Albilad","Saudi Arabia",2600,653.8,38300,11700
+1.298,"Leidos","United States",15700,321,12800,20100
+1.3,"PGE Polska Grupa Energetyczna","Poland",22800,-1200,28800,4300
+1.301,"China Eastern Airlines","China",16000,-1200,40100,5500
+1.301,"Tourmaline Oil","Canada",3900,1300,14800,17400
+1.303,"Kerry Group","Ireland",8700,787.4,12900,14900
+1.304,"Kingspan Group PLC","Ireland",8700,692.2,8800,17700
+1.305,"Zhongsheng Group Holdings","China",25300,711.9,14600,4900
+1.306,"Dongfeng Motor Group","China",14000,-543.2,46600,3100
+1.307,"DexCom","United States",3800,639.3,6500,52200
+1.308,"Mettler-Toledo International","United States",3800,777.9,3300,32500
+1.309,"HBIS","China",16700,137.8,36100,3200
+1.31,"AGNC Investment","United States",2900,749,71900,7300
+1.31,"ZTO Express (Cayman)","China",5500,1200,12400,19300
+1.312,"Shanghai Electric Group","China",15800,-5.9,38600,3400
+1.313,"DoorDash","United States",9100,-420,11400,48000
+1.313,"Tianshan Material","China",13800,177.5,41600,7900
+1.315,"Campbell Soup","United States",9300,766,12100,13800
+1.316,"Marvell Technology","United States",5500,-933.4,21200,62200
+1.317,"Bank of Greece","Greece",7500,107,250200,309
+1.317,"Expeditors International","United States",8900,696,4500,16700
+1.319,"Hyundai Glovis","South Korea",19700,821.4,11500,5300
+1.32,"Storebrand","Norway",9700,301.1,89000,4600
+1.321,"Brown-Forman","United States",4200,965,8200,22900
+1.322,"Foshan Haitian Flavouring and Food","China",3500,813,5100,29200
+1.323,"Carvana","United States",11200,638,7000,13700
+1.323,"Wistron","Taiwan",28500,471.6,14400,10000
+1.325,"Alexandria Real Estate Equities","United States",3000,184.1,37700,21700
+1.326,"Beijing Enterprises","Hong Kong",10500,702.3,26200,4500
+1.327,"Coca-Cola HBC","Switzerland",11000,689.2,11000,12900
+1.328,"Rheinmetall","Germany",8000,574.6,12500,24200
+1.329,"Gemdale","China",12500,14.6,50900,2900
+1.33,"First Solar","United States",3600,1000,10800,21100
+1.331,"Evonik Industries","Germany",16300,-386,22100,10200
+1.332,"Terumo","Japan",6400,735.6,12100,26000
+1.333,"Robinhood Markets","United States",2100,127,46100,17700
+1.334,"BJ's Wholesale Club","United States",20000,523.7,6700,10600
+1.335,"Borouge","United Arab Emirates",5700,1100,9200,20000
+1.336,"Bank of Suzhou","China",3300,663.8,89700,4000
+1.337,"Solvay","Belgium",9900,2100,7500,3900
+1.338,"Comerica","United States",5200,691,79400,7300
+1.339,"Wuxi Apptec","China",5500,1500,10400,15100
+1.34,"Far East Horizon","Hong Kong",5500,874.4,49600,3500
+1.341,"Xiamen Xiangyu","China",60500,200.1,18500,2200
+1.342,"Ares Management","United States",3900,435.4,24400,28300
+1.343,"TUI","Germany",23500,550.8,17500,3600
+1.344,"Epiroc","Sweden",5700,862.6,7300,24600
+1.345,"Metropolitan Bank & Trust","Philippines",3400,782.4,56700,5500
+1.345,"Shopify","Canada",7400,-200,11100,75300
+1.347,"Next","United Kingdom",6800,1000,6000,14500
+1.348,"Church & Dwight","United States",5900,780.1,8600,26000
+1.348,"E-mart","South Korea",22400,-66.1,25200,1300
+1.35,"Akzo Nobel","Netherlands",11500,573.6,15500,12000
+1.35,"Rede D'Oro Luiz","Brazil",9700,518.3,18200,13700
+1.352,"Obayashi","Japan",16100,519.1,19900,8300
+1.352,"STRABAG","Austria",19100,681.7,15600,4500
+1.354,"Grupo Elektra","Mexico",10800,418.7,26900,10500
+1.354,"Valeo","France",23800,238.9,24000,3400
+1.356,"Galaxy Entertainment","Hong Kong",2900,872.1,11200,22400
+1.357,"Qantas Airways","Australia",13700,1100,13200,6400
+1.358,"Bawag Group","Austria",3300,738,61300,5100
+1.359,"ACWA Power","Saudi Arabia",1700,449.5,15300,89700
+1.36,"Aristocrat Leisure","Australia",4300,994.4,6800,19600
+1.36,"Packaging Corp of America","United States",7800,716.3,8900,16400
+1.362,"Zions Bancorp","United States",4800,624,87100,6600
+1.363,"FinecoBank","Italy",1900,658.5,36800,10400
+1.364,"China Mengniu Dairy","Hong Kong",13900,683.2,16200,8500
+1.365,"Broadridge Financial","United States",6400,699,8200,24000
+1.366,"Aramark","United States",18300,625.9,12600,8800
+1.367,"Lindt & Sprungli","Switzerland",5800,747.1,9500,27300
+1.368,"Veralto","United States",5000,798,5700,24300
+1.369,"Qilu Bank","China",3200,613,86500,3500
+1.37,"Jiangsu Hengrui Medicine","China",3200,618.1,6400,39300
+1.371,"Hyundai Steel","South Korea",19300,200.2,26100,3100
+1.372,"Teledyne Technologies","United States",5600,885.5,14600,19300
+1.372,"Tokyo Century","Japan",9300,498.9,42700,4800
+1.374,"BBMG","China",13500,-129.2,37800,1000
+1.375,"China Jinmao","Hong Kong",10200,-948.9,57400,1600
+1.375,"Coloplast","Denmark",3700,722.2,7000,27900
+1.375,"Shin Kong Financial","Taiwan",7100,-237.7,161400,4300
+1.378,"Roivant Sciences","United Kingdom",123,4500,7300,9100
+1.379,"Carlsberg","Denmark",10700,-5900,16600,18900
+1.38,"McCormick","United States",6700,707.5,12900,19900
+1.381,"China Steel","Taiwan",11600,97,21600,11900
+1.381,"Shimao Property Holdings","Hong Kong",8500,-3000,76600,641
+1.383,"Banque Cantonale Vaudoise","Switzerland",1800,522.1,69900,8900
+1.384,"Ag Anadolu Grubu Holding Anonim Sirketi","Turkey",15800,824.4,13300,2800
+1.384,"Asian Paints","India",4300,659.5,3600,32300
+1.384,"Wens Foodstuff Group","China",12800,-680,13100,19500
+1.387,"Credito Emiliano","Italy",3500,637.8,71000,3700
+1.388,"China Merchants Expressway Network & Technology Holdings","China",1500,935.8,21800,10700
+1.389,"Annaly Capital Management","United States",6000,-336,91500,10200
+1.39,"Latam Airlines","Chile",12200,724.5,14900,9000
+1.391,"Dollarama","Canada",4300,748.7,4400,25400
+1.391,"Hong Leong Financial","Malaysia",2500,638.4,69700,4200
+1.393,"Chongqing Zhifei Biological Products","China",7400,1000,7400,11500
+1.394,"China Nuclear Engineering Corporation","China",15200,294.5,30300,3300
+1.395,"Murphy USA","United States",21300,516.5,4300,9200
+1.396,"Bank of Tianjin","China",5200,524.2,118500,1400
+1.397,"HPB","Croatia",2500,706.8,55000,493
+1.398,"Trina Solar","China",15300,596.7,18400,6000
+1.399,"Hotai Motor","Taiwan",8900,753.4,15500,10800
+1.399,"Korea Shipbuilding & Offshore Engineering","South Korea",17300,417.1,24100,7000
+1.401,"Aeroports de Paris","France",5900,682.2,21700,13600
+1.402,"China Resources Gas Group","Hong Kong",12900,667.2,17700,8000
+1.403,"Motor Oil","Greece",14400,871.1,8400,3300
+1.404,"Lumen Technologies","United States",14100,-10800,33200,1300
+1.405,"CF Industries Holdings","United States",6100,1200,13900,13900
+1.405,"RHB Bank","Malaysia",3000,615.2,71500,5100
+1.407,"CJ Cheiljedang","South Korea",22100,357,22500,3900
+1.408,"DISCO Corp.","Japan",2100,582.3,3700,39100
+1.409,"Avery Dennison","United States",8500,554.2,8300,18200
+1.41,"China Shipbuilding Industry","China",6900,-99.4,27400,16300
+1.411,"BNK Financial Group","South Korea",6400,460.7,110700,2000
+1.411,"Casey's General Stores","United States",14600,471,6200,12400
+1.411,"Huntington Ingalls Industries","United States",11600,705,11200,10100
+1.414,"Sandoz Group","Switzerland",9900,77,19400,15200
+1.415,"Guangdong Haid Group","China",16100,445.4,6200,12000
+1.415,"Lamb Weston Holdings","United States",6600,1100,7200,12500
+1.417,"LG Display","South Korea",16800,-1700,26800,3800
+1.418,"New World Development","Hong Kong",9300,73.4,60200,3200
+1.418,"Zhuhai Huafa Properties","China",9000,229.7,63600,3100
+1.42,"JDE Peet's","Netherlands",8900,396.8,25900,11800
+1.42,"Rithm Capital","United States",4000,815,42100,5500
+1.422,"Unibail-Rodamco-Westfield","France",3300,-1800,59200,12000
+1.423,"Shenwan Hongyuan Group","China",3300,559.3,86900,5200
+1.424,"Invitation Homes","United States",2600,540.9,19200,21700
+1.424,"Sumitomo Chemical","Japan",16900,-2200,26000,3400
+1.426,"Toray Industries","Japan",17000,151.4,22900,8100
+1.427,"Alliant Energy","United States",4000,698,21200,13300
+1.427,"Transurban Group","Australia",2800,150.7,24800,25700
+1.429,"China Communications Services","China",21000,507.8,17200,3400
+1.43,"Sinotruk Hong Kong","China",12100,749.2,17200,7100
+1.431,"Commercial Bank of Qatar","Qatar",3400,751.5,45700,4600
+1.431,"Hubei Biocause Pharmaceutical","China",11800,-80.9,39000,1700
+1.433,"China International Marine","China",18600,44.2,23800,4600
+1.434,"Secom","Japan",8000,705,13700,13500
+1.435,"ASM International","Netherlands",2800,590.7,4900,34800
+1.436,"Lundbergs","Sweden",2200,683.4,21400,13200
+1.437,"Avnet","United States",24700,571.3,12300,4800
+1.437,"Kao","Japan",10700,384,11700,20800
+1.439,"Concordia Financial Group","Japan",2500,462.9,161100,6700
+1.439,"Globe Life","United States",5500,1000,28600,7900
+1.439,"Siam Cement","Thailand",14100,335.3,25700,8300
+1.442,"Deckers Outdoor","United States",4100,723.8,3300,22800
+1.443,"Suntory Beverage & Food","Japan",11200,611.4,13100,11300
+1.443,"WSP","Canada",10800,418.4,11700,19000
+1.445,"Wharf Real Estate Investment","Hong Kong",1700,608.8,31400,10600
+1.446,"BIM Birlesik Magazalar","Turkey",13800,648.2,5000,9000
+1.447,"Lear","United States",23600,538.5,14900,7400
+1.448,"SSAB","United States",10800,1100,10600,5700
+1.449,"Korea Investment Holdings","South Korea",4100,565.8,72300,3000
+1.45,"Hyundai Engineering","South Korea",24400,424.7,18100,2800
+1.451,"Charoen Pokphand Foods","Thailand",16500,-59.5,24800,4900
+1.452,"Goodyear","United States",19700,-645,22000,3700
+1.452,"Military Commercial Joint Stock Bank","Vietnam",3500,838.2,36300,4800
+1.454,"Wintrust Financial","United States",3800,629.7,57600,6300
+1.455,"Jones Lang LaSalle","United States",21200,300.7,15500,9800
+1.456,"Carlisle Cos","United States",5000,773.3,6600,19900
+1.457,"Snap-on","United States",5100,1000,7700,14700
+1.458,"Fukuoka Financial Group","Japan",2800,423.1,215700,5200
+1.459,"CBOE Global Markets","United States",3700,793.2,8200,19300
+1.459,"Genmab","Denmark",2600,792.9,5300,19400
+1.461,"Booz Allen Hamilton Holding","United States",10300,405.9,6500,19800
+1.462,"Advanced Info Service","Thailand",5500,873.7,12500,17100
+1.462,"BorgWarner","United States",15300,614,14100,8500
+1.464,"New York Community Bancorp","United States",6700,-2400,112900,3000
+1.464,"Old Republic International","United States",7500,715.4,21100,8800
+1.466,"Hubbell","United States",5500,724,6900,21100
+1.467,"Lotte Chemical","South Korea",15200,-192.7,26100,3700
+1.468,"Moderna","United States",5100,-6000,16700,50900
+1.469,"Colruyt","Belgium",10800,1100,7100,5600
+1.47,"China Longyuan Power","China",5200,885.3,32800,7400
+1.47,"Hyatt Hotels","United States",7200,684,11700,15100
+1.472,"Bank of Qingdao","China",3600,521.2,86200,2000
+1.472,"SGS","Switzerland",7400,615.4,8000,16800
+1.474,"Cleveland-Cliffs","United States",21900,389,17200,8300
+1.475,"Bath & Body Works","United States",7400,878,5500,11200
+1.475,"Empire","Canada",22800,562.5,12400,6300
+1.477,"Ultrapar Participacoes","Brazil",25500,528.7,7400,5300
+1.478,"Vietnam Technological & Commercial Joint Stock Bank","Vietnam",3000,819.2,35700,6900
+1.479,"Guangzhou Rural Commercial Bank","China",6100,377.1,185400,2600
+1.48,"LG","South Korea",5000,873.5,22700,9300
+1.481,"Check Point Software","Israel",2400,840.1,5500,17100
+1.481,"CIFI Holdings Group","China",10100,-1300,42500,721
+1.483,"Bank of Guizhou","China",3500,518.4,81300,2800
+1.484,"VeriSign","United States",1500,833,1700,17000
+1.484,"Vertiv Holdings","United States",7000,404,7600,36200
+1.486,"Ningxia Baofeng Energy Group","China",4200,820.8,10200,17200
+1.487,"Stora Enso","Finland",9600,-499.8,21900,11800
+1.488,"KPN","Netherlands",5900,913.5,13500,15000
+1.489,"Shenzhen Inovance Technology","China",4500,670.2,7000,22500
+1.49,"Chiba Bank","Japan",2000,431.8,140900,6100
+1.49,"China Development Bank Financial Leasing","China",3700,585.4,57800,3600
+1.492,"First Pacific","Hong Kong",10500,501.4,27400,2000
+1.492,"Prada","Italy",5100,725.4,8400,19800
+1.494,"Albemarle","United States",8400,337.3,19000,15400
+1.495,"Cosmo Energy Holdings","Japan",18900,567.5,14600,4100
+1.496,"Equifax","United States",5400,557.8,12300,30700
+1.497,"AppLovin","United States",3600,594.1,5300,27100
+1.498,"Knorr-Bremse","Germany",8700,597.3,9500,13000
+1.499,"Grupo Bolivar","Colombia",8400,-8.9,52000,1400
+1.5,"Brighthouse Financial","United States",2900,-1100,238800,2800
+1.501,"Bank of East Asia","Hong Kong",5700,449.9,110200,3600
+1.502,"Schaeffler","Germany",17600,446.7,18700,4600
+1.503,"Japan Airlines","Japan",11400,660.7,17500,7600
+1.504,"AECOM","United States",15300,-13.8,11500,12200
+1.505,"Shionogi","Japan",3000,1100,9400,12500
+1.505,"Unicharm","Japan",6600,604.2,7700,19200
+1.507,"Taishin Financial Holdings","Taiwan",3600,462.5,100100,7300
+1.508,"Bandai Namco Holdings","Japan",7300,701.9,6400,13200
+1.509,"Geberit","Switzerland",3400,686.6,4200,20600
+1.51,"Veeva Systems","United States",2400,525.7,5900,34000
+1.511,"Hangzhou Binjiang Real Estate Group Co., Ltd.","China",10100,366.6,39200,4400
+1.512,"CrowdStrike","United States",3100,89.3,6600,84100
+1.513,"Sumitomo Forestry Co.,","Japan",12500,762.8,12700,7800
+1.514,"Anhui Gujing Distillery","China",2600,709.1,5600,19500
+1.514,"News Corp","United States",9900,208,16500,15000
+1.516,"Banca Popolare di Sondrio","Italy",2900,555.1,61300,4000
+1.516,"SS&C Technologies","United States",5600,638.7,17400,15800
+1.518,"Ventas","United States",4600,-72.8,24700,19800
+1.519,"Wheaton Precious Metals","Canada",1100,590.7,7200,25900
+1.52,"CPFL Energia","Brazil",8100,1100,15100,7700
+1.521,"MTN Group","South Africa",12000,221.6,23800,8600
+1.521,"Skyworks Solutions","United States",4500,855.2,8300,15000
+1.523,"Sime Darby","Malaysia",11900,819.7,12200,4200
+1.524,"Group 1 Automotive","United States",18200,577,8500,4300
+1.525,"Dr. Sulaiman Al-Habib Medical Services Group","Saudi Arabia",2600,561.9,4500,27700
+1.526,"Nan Ya Plastics","Taiwan",8000,212.7,20400,13900
+1.527,"PTT Global Chemical","Thailand",17900,8.8,20400,4700
+1.528,"Sasol","South Africa",14900,206.1,23400,4700
+1.529,"Genworth Financial","United States",7000,93,70900,2900
+1.529,"Macy's","United States",23900,105,17400,5400
+1.531,"Falabella","Chile",13100,198.1,24800,7800
+1.532,"Fuyao Glass Industry Group","China",4700,795.1,8000,15800
+1.532,"U-Haul Holding","United States",5700,637.3,19000,13500
+1.534,"Tata Power Company","India",7400,446.5,16700,16700
+1.535,"West Pharmaceutical Services","United States",2900,568.7,3600,25900
+1.536,"World Fuel Services","United States",46200,57.6,7200,1500
+1.537,"Goodman Group","Australia",1300,161.2,15700,43600
+1.538,"United Therapeutics","United States",2500,1100,6500,12200
+1.539,"Banca Transilvania","Romania",2900,685.8,38200,5200
+1.539,"Qinghai Salt Lake Industry","China",2600,923.5,6500,13200
+1.539,"Shengjing Bank","China",5700,105.8,152300,936
+1.542,"Cadence Bank","United States",2500,582.7,48300,5400
+1.542,"NAURA Technology GroupLtd","China",3300,618.3,7800,21400
+1.544,"Wynn Resorts","United States",7000,861.9,13500,10800
+1.545,"Brambles","Australia",6400,763.8,8800,13300
+1.546,"Chesapeake Energy","United States",4700,1100,14000,12000
+1.547,"Iveco Group","Italy",17500,248.3,19900,3400
+1.548,"Mebuki Financial Group","Japan",1900,299.9,143900,3900
+1.549,"Royalty Pharma","United States",2200,799.5,16100,12300
+1.55,"Sonova Holding","Switzerland",4100,678.3,6400,19100
+1.551,"Chailease Holding","Taiwan",3200,762.3,30100,7600
+1.552,"Shanghai Commercial & Savings Bank","Taiwan",3000,468.8,75800,6900
+1.553,"Bank OZK","United States",2400,696.4,36000,5600
+1.553,"China Huarong Asset Management","China",5300,211.9,136500,3900
+1.553,"Popular","United States",4000,485.6,70900,6600
+1.556,"Fair Isaac","United States",1600,481,1700,34900
+1.557,"Chang Hwa Bank","Taiwan",2800,425.1,94700,6200
+1.558,"Zoom Video Communications","United States",4500,637.5,9900,19900
+1.559,"InterContinental Hotels","United Kingdom",4600,751.4,4800,16100
+1.56,"HMM","South Korea",6600,818.6,20400,8200
+1.561,"Migdal Insurance","Israel",7500,114.3,53000,1300
+1.562,"Shizuoka Financial Group","Japan",2300,399.4,106700,5600
+1.562,"Titan (India)","India",6200,421.8,3800,35800
+1.564,"Waters","United States",2900,603.5,4500,21100
+1.565,"Moncler SpA","Italy",3200,661.6,5500,18800
+1.566,"Shenzhen Overseas","China",7600,-912.2,50400,3400
+1.567,"Old National Bank","United States",2600,555.7,49500,5600
+1.568,"Rajesh Exports","India",36900,88.8,2300,1100
+1.569,"Snowflake","United States",2800,-836.1,8200,54100
+1.57,"TMBThanachart Bank","Thailand",2800,553.6,49500,4700
+1.57,"Whirlpool","United States",19300,400,17400,5000
+1.572,"Watsco","United States",7300,476.9,4400,19200
+1.573,"Hellenic Petroleum","Greece",14100,640.2,9000,2800
+1.574,"Cullen/Frost Bankers","United States",2700,549.9,49500,6800
+1.575,"Harbin Bank","China",4700,105.9,114800,465
+1.576,"Alfa Laval","Sweden",6100,613.7,8000,18700
+1.576,"FCC","Spain",9800,638.9,18500,6600
+1.578,"Doosan","South Korea",14600,-261.1,21800,2100
+1.578,"Emera","Canada",5000,513.8,29600,10500
+1.58,"China Resources Beer (Holdings)","Hong Kong",5500,741.1,10100,15400
+1.581,"Commercial Bank Dubai","United Arab Emirates",2200,685.5,35100,5300
+1.581,"JM Smucker","United States",8200,-101.2,20200,12200
+1.583,"RPM International","United States",7300,556.7,6400,14600
+1.584,"Pinnacle Financial Partners","United States",2800,548.8,48900,6400
+1.585,"AviChina Industry & Technology","China",11900,347.6,26100,4000
+1.586,"Virgin Money UK","United Kingdom",5000,235.3,112000,3500
+1.587,"C.H. Robinson","United States",17400,303.1,5500,9800
+1.588,"Hokuhoku Financial Group","Japan",1100,159.4,108200,1700
+1.589,"NOV","United States",8800,986,11300,7500
+1.589,"Unicaja Banco","Spain",3300,288.3,107300,3800
+1.591,"Chandra Asri Petrochemical","Indonesia",2100,-75.7,5400,49300
+1.591,"Stifel Financial","United States",5300,528.6,38300,8500
+1.593,"Haitong Securities","China",5600,163.9,106400,6900
+1.594,"Gen Digital","United States",3800,616,15800,15700
+1.595,"Covestro","Germany",15300,-224.4,14800,9900
+1.595,"Metro Group","Germany",33100,-43.4,12400,2000
+1.597,"Inner Mongolia Baotou Steel","China",9700,40.2,21100,10100
+1.597,"Palantir Technologies","United States",2300,298.6,4800,48500
+1.599,"Asbury Automotive Group","United States",15400,568.2,10100,4900
+1.6,"Fortum","Finland",7000,-2300,20500,14300
+1.601,"Mirae Asset Financial Group","South Korea",5100,193.2,101400,3400
+1.602,"Ayala Corp","Philippines",5400,732.3,29200,6700
+1.603,"Atlassian","United States",4200,-162.6,5100,46800
+1.604,"Jio Financial Services","India",224,193.8,17400,27200
+1.605,"PT Amman Mineral Internasional","Indonesia",2000,252.1,9900,46600
+1.606,"SLM","United States",3100,752.8,28300,4600
+1.607,"Trade Desk","United States",2100,201.3,4700,46400
+1.608,"Hachijuni Bank","Japan",1400,256.4,98000,3200
+1.608,"New Hope Liuhe","China",18300,0.1,17500,6100
+1.61,"SBA Communications","United States",2700,555.1,10000,21400
+1.611,"Electric Power Development","Japan",8700,537.9,23000,3000
+1.612,"Autoliv","Sweden",10600,540,8300,10200
+1.613,"United Natural Foods","United States",30300,-115,7700,666
+1.614,"Midea Real Estate Holding","China",10500,131.1,28400,1000
+1.615,"Anhui Construction Engineering Group","China",12300,211.4,23200,1200
+1.615,"Compal Electronics","Taiwan",29800,259.8,13800,5000
+1.617,"Avenue Supermarts","India",6100,306.3,2500,36600
+1.618,"Beijing Shougang","China",15900,97.3,19000,3500
+1.619,"BAC Holding International","Colombia",3800,610.8,36300,2900
+1.619,"Synovus","United States",3500,466.1,59800,5900
+1.621,"DCC","Ireland",24900,409.9,12000,7400
+1.622,"Link REIT","Hong Kong",1700,-244.7,32400,11900
+1.623,"Japan Securities","Japan",346,55.5,90800,907
+1.624,"Iron Mountain","United States",5600,193.7,17800,24000
+1.624,"SKF Group","Sweden",9600,585.5,11200,9900
+1.626,"D'Ieteren","Belgium",8600,545.6,8000,11400
+1.627,"Thai Beverage","Thailand",7900,751.9,13600,9200
+1.627,"Zheshang Development Group","China",28500,96.2,6500,782
+1.629,"Altice USA","United States",9200,6.1,31900,1000
+1.629,"Kyushu Financial Group","Japan",1500,182.5,89300,2700
+1.631,"Nishi-nippon Financial Holdings","Japan",1200,163,89100,1800
+1.632,"Rakuten Bank","Japan",948,238.1,89100,3300
+1.632,"Starwood Property Trust","United States",2200,433.6,66200,6600
+1.632,"Tapestry","United States",6700,880.8,13700,9700
+1.632,"UCB","Belgium",5700,370.8,17200,25700
+1.636,"Monolithic Power Systems","United States",1800,410.1,2600,35500
+1.637,"Bank of Zhengzhou","China",3800,229.8,87600,1000
+1.637,"Sinotrans Ltd.","China",14400,567.5,11000,4000
+1.639,"Insurance Australia Group","Australia",8400,511.8,17000,10100
+1.639,"North Pacific Bank","Japan",884,89.3,87500,1400
+1.641,"Huaibei Mining Holdings","China",9900,795.3,12100,7000
+1.641,"Lennox International","United States",5000,616.4,3000,17500
+1.643,"Airports of Thailand","Thailand",1800,480.7,5400,26400
+1.644,"Cencosud","Chile",19700,157.1,16000,5700
+1.645,"Valley National Bancorp","United States",3500,448.2,61000,4000
+1.646,"Formosa Chemicals","Taiwan",10600,345.1,17800,10300
+1.647,"Hirogin Holdings","Japan",1300,191.5,84500,2300
+1.648,"Gold Fields","South Africa",4500,700.6,8200,14500
+1.648,"Zhejiang Expressway Co. Ltd.","China",2400,706.7,28300,4000
+1.65,"Columbia Bank","United States",3000,486.8,52200,4300
+1.65,"Datadog","United States",2300,115.3,4100,40200
+1.652,"Companhia Energetica de Minas Gerais","Brazil",7400,1200,11300,5800
+1.653,"Liberty Global","United Kingdom",7600,-2800,40600,6800
+1.653,"W. P. Carey","United States",1700,573.2,17600,13200
+1.655,"Yamaguchi Financial","Japan",1200,174.4,82900,2400
+1.656,"Jiangsu Zhongnan Construction Group","China",9200,-729,30600,297
+1.657,"Thai Oil","Thailand",13400,589,11700,2900
+1.658,"B3","Brazil",1800,809,9800,12200
+1.658,"Gap","United States",14900,502,11000,8100
+1.658,"Novonesis A/S","Denmark",2600,438.8,4200,29500
+1.661,"Power Assets Holdings","Hong Kong",165,766.8,12300,12800
+1.662,"Sumitomo Metal Mining","Japan",10000,405.3,20000,9000
+1.663,"Commercial International Bank","Egypt",4700,966.7,20600,4800
+1.664,"ARC Resources","Canada",3900,894.9,9100,11300
+1.665,"Asia Commercial Bank","Vietnam",2700,673.1,29600,4300
+1.665,"Shenzhou International Group Holdings","China",3500,642.6,6900,15600
+1.667,"AGC","Japan",14000,157.5,19800,7500
+1.668,"Adecco Group","Switzerland",25800,331.6,13300,6700
+1.668,"Avolta","Switzerland",14200,97.1,19600,6200
+1.668,"Graphic Packaging","United States",9200,681,11300,8600
+1.671,"BayWa","Germany",24800,-106.1,14300,932
+1.672,"Daou Data","South Korea",7500,51.4,40300,340
+1.673,"Brookfield Business","United States",9700,512.5,20900,2100
+1.674,"Dai Nippon Printing","Japan",9900,767.1,12900,7400
+1.675,"Skechers USA","United States",8300,592,7600,10400
+1.676,"EQT AB","Sweden",2200,142,10200,37800
+1.677,"Jiangxi Bank","China",3100,100.9,77900,618
+1.678,"Jiangsu Changshu Rural Commercial Bank","China",2300,479.5,50500,3400
+1.679,"Heico","United States",3200,425.3,7300,29800
+1.68,"Ansys","United States",2200,434.6,7200,28600
+1.68,"Kyoto Financial Group","Japan",918,218.3,76500,1200
+1.682,"Skanska","Sweden",15800,461,15000,7500
+1.683,"Arab Bank","Jordan",2900,536,40400,3900
+1.683,"Segro","United Kingdom",931,-314.5,22100,15900
+1.685,"Incyte","United States",3800,745.4,7100,12800
+1.686,"Crown Holdings","United States",11800,415,14700,10300
+1.686,"Seres Group","China",7800,-223.8,8700,18400
+1.688,"Ampol","Australia",24900,364.5,9100,5600
+1.689,"Medipal Holdings","Japan",24600,286.8,11900,3000
+1.69,"Wuestenrot & Wuerttembergische","Germany",5800,276.9,73800,1300
+1.691,"Daishi Hokuetsu Financial Group","Japan",1200,146.6,73600,1400
+1.692,"CoStar Group","United States",2500,294.2,9000,35700
+1.693,"Jindal Steel & Power","India",6000,717.3,9400,12400
+1.694,"Host Hotels & Resorts","United States",5400,721,12500,13000
+1.695,"Ceconomy","Germany",24100,120.3,10800,1500
+1.696,"Eurazeo","France",2400,2000,10800,6100
+1.697,"Hengyi Petrochemical","China",19400,113.6,15200,3600
+1.697,"LIC Housing Finance","India",3300,574.8,34900,4300
+1.699,"Adani Green Energy","India",1100,132.9,10600,34800
+1.699,"DGB Financial Group","South Korea",3800,233,71500,1000
+1.699,"Lasertec","Japan",1600,463.1,1700,25100
+1.702,"China Grand Automotive Services","China",18700,-9.3,15500,1700
+1.702,"Gunma Bank","Japan",1400,215.2,71500,2600
+1.704,"Bajaj Holdings & Investment","India",207,877.8,7800,11000
+1.704,"Celltrion","South Korea",1800,297.6,15000,29100
+1.704,"Chugin Financial Group,Inc.","Japan",1200,147.9,71100,1800
+1.707,"Bank of Jiujiang","Hong Kong",3100,59.4,71000,2300
+1.708,"KION Group","Germany",12500,373.8,20600,6400
+1.709,"Rite Aid","United States",23500,-1600,7100,7
+1.71,"Orpea","France",5600,1500,15400,2300
+1.711,"Focus Media Information Technology","China",1600,686.9,3500,13600
+1.712,"CTP","Netherlands",786,1000,17000,8200
+1.713,"Umicore","Belgium",19700,416.3,11200,5100
+1.713,"Warner Music Group","United States",6400,522,8700,16600
+1.715,"SBI Sumishin Net Bank","Japan",819,171.8,70500,2600
+1.715,"Toppan Printing","Japan",11600,514.5,16100,7800
+1.717,"Everbright Securities","China",1900,549.8,36600,3500
+1.717,"Parkland","Canada",23200,288.4,10300,5100
+1.719,"Shanghai Tunnel Engineering Co. Ltd.","China",10700,409.2,22200,3100
+1.72,"Taiwan Business Bank","Taiwan",2000,316.3,69500,4400
+1.72,"Telia","Sweden",8500,28,20500,9900
+1.722,"77 Bank","Japan",905,206.1,69400,2300
+1.723,"Kawasaki Kisen Kaisha","Japan",6700,724.6,13900,10500
+1.724,"IDEX","United States",3200,577.7,5900,16800
+1.724,"Indorama Ventures","Thailand",15300,-324.7,17200,3900
+1.726,"Kingfisher","United Kingdom",16200,430.2,15200,6200
+1.727,"Braskem","Brazil",14000,-1200,18700,3000
+1.727,"Lotte Shopping","South Korea",11000,139.6,22900,1400
+1.729,"Gaming And Leisure Properties","United States",1500,725,11800,12500
+1.729,"Quilter","United Kingdom",5800,52.2,68000,1900
+1.731,"Bendigo & Adelaide Bank","Australia",3000,352,67900,4100
+1.731,"Daou Technology","South Korea",7100,152.7,39900,620
+1.733,"BOK Financial","United States",3300,448.4,50200,6200
+1.734,"Marks & Spencer","United Kingdom",15400,496.7,10700,7200
+1.735,"Berry Global Group","United States",12200,504,16000,6900
+1.735,"WPG Holdings","Taiwan",22600,298.3,10600,4600
+1.737,"Shandong Gold Mining","China",8400,253.1,19000,10600
+1.738,"China Merchants Port Holdings","Hong Kong",1500,796.1,22100,6300
+1.738,"PT Adaro Energy Indonesia","Indonesia",6100,1600,10500,5600
+1.74,"Advantest","Japan",3400,430.8,4400,26300
+1.74,"Ooredoo Q.P.S.C","Qatar",6400,815.4,15600,8700
+1.742,"Pandora","Denmark",4200,700.5,3500,12800
+1.743,"Bank of Queensland","Australia",3100,178.4,65900,2600
+1.743,"Jinke Property Group","China",8300,-1300,29900,1200
+1.745,"Air Lease","United States",2500,593.8,30900,5500
+1.745,"Latour Ab Investment","Sweden",2400,551.6,5900,17600
+1.747,"Haidilao International Holding","China",5800,635.4,3500,14200
+1.748,"Oshkosh","United States",9900,688.9,9500,7600
+1.749,"Luzerner Kantonalbank","Switzerland",1400,314.9,65600,3800
+1.75,"Akamai Technologies","United States",3900,625.9,9900,14500
+1.75,"Qingdao Rural Commercial Bank","China",2700,351.9,65600,2200
+1.75,"South State","United States",2300,469.4,45100,6200
+1.753,"HubSpot","United States",2300,-132.1,3200,31400
+1.754,"Domino's Pizza","United States",4500,540.2,1700,17900
+1.755,"Nitto Denko","Japan",6300,710.1,8300,11100
+1.756,"Carlyle Group","United States",3100,-643.5,20900,15500
+1.756,"WT Microelectronics","Taiwan",21200,146.6,9200,4200
+1.758,"Zenith Bank","Nigeria",2800,981.4,18600,690
+1.759,"CP Axtra","Thailand",14000,254.2,14700,8900
+1.76,"General Insurance Corporation Of India","India",5700,827.5,20900,7200
+1.761,"EMS-Chemie Holding","Switzerland",2400,509.2,2600,19700
+1.761,"F.N.B.","United States",2400,459.7,45900,5100
+1.763,"Nitori Holdings","Japan",6200,598.4,8200,13400
+1.764,"Bank of Lanzhou","China",2800,260.6,64000,2100
+1.764,"LG Innotek Co.,","South Korea",15600,470,8100,4200
+1.766,"Drax Group plc","United Kingdom",9700,698.8,7700,2800
+1.767,"AVIC Capital","China",2700,-32.1,62800,3700
+1.767,"Jointown Pharmaceutical Group","China",20700,299.9,13500,4300
+1.769,"Yes Bank","India",4000,155.2,48700,8300
+1.769,"Yunnan Copper Co. Ltd.","China",20600,216.4,6700,4000
+1.771,"Basler Kantonalbank","Switzerland",1600,188.5,62600,370
+1.772,"Axis Capital Holdings","Bermuda",5700,591.6,29700,6100
+1.773,"Bausch Health Companies","Canada",9000,-453.4,26900,2500
+1.773,"Nova Ljubljanska Banka","Slovenia",1600,618.7,28100,2500
+1.775,"Zhongliang Holdings","China",9400,-585.7,25500,131
+1.776,"Pentair","United Kingdom",4100,626.3,6700,13900
+1.777,"CapitaMall Trust","Singapore",1200,642.2,18800,9900
+1.778,"Samsung SDS","South Korea",9900,531.8,9300,9000
+1.779,"FIBI Holdings","Israel",3000,283.9,61500,1500
+1.78,"Mondi","United Kingdom",7900,652.7,11000,8900
+1.781,"RiseSun Real Estate Development","China",8700,150.3,27400,1200
+1.782,"Iyogin Holdings,Inc.","Japan",1300,272.9,61200,2600
+1.783,"Bank of Xi'an","China",2300,346.8,61000,2300
+1.784,"JB Financial Group","South Korea",3000,434.5,47800,1900
+1.785,"Mid-america Apartment Communities","United States",2200,560.4,11500,16100
+1.786,"Burlington Stores","United States",9700,339.6,7700,12300
+1.787,"Alfresa Holdings","Japan",19800,204.4,9600,2500
+1.787,"Pinterest","United States",3200,148.2,3700,29000
+1.789,"Rollins","United States",3200,441.1,2700,22300
+1.79,"Goneo GroupClass A","China",2200,566.6,2900,15500
+1.79,"Südzucker","Germany",11100,602,11400,3100
+1.792,"Adris grupa d.d. Pref.","Croatia",8300,445.8,23600,1000
+1.792,"Mobileye Global","Israel",1900,-166,15300,23000
+1.794,"E-L Financial","Canada",3000,871.5,19300,2800
+1.794,"Logitech International","Switzerland",4300,610.8,3600,14000
+1.794,"Navient","United States",5000,190,59000,1700
+1.797,"Grupo Comercial Chedraui SAB de CV Class B","Mexico",15200,462.5,8700,7200
+1.798,"NH Investment & Securities","South Korea",1900,453,43600,3300
+1.799,"Liberty Media Corporation Series A Liberty Formula One","United States",3400,371,10600,28300
+1.8,"Hertz Global Holdings","United States",9400,234,24300,786
+1.8,"MicroStrategy","United States",490,-85.2,6400,28100
+1.802,"Fibra Uno","Mexico",1500,803.9,20400,5900
+1.802,"Novatek Microelectronics Corp.","Taiwan",3500,746.4,3400,11400
+1.804,"Redeia Corporacion","Spain",2200,745.6,16000,9800
+1.805,"Samvardhana Motherson International","India",11400,241.9,9400,10500
+1.806,"Nomura Research Institute","Japan",5100,550.8,6100,15900
+1.807,"Align Technology","United States",3900,462.3,6200,20400
+1.808,"Bureau Veritas","France",6300,544.6,7300,13600
+1.808,"Essex Property Trust","United States",1700,525,12900,17100
+1.808,"JA Solar Technology","China",10700,554.3,15200,6500
+1.811,"Bluescope Steel","Australia",11500,563.9,10400,6300
+1.811,"Henry Schein","United States",12500,388,10100,9600
+1.813,"Deutsche Pfandbriefbank","Germany",3100,73.5,56200,837
+1.813,"Hera","Italy",13600,423,16000,5400
+1.815,"Harel Insurance Investments & Financial Services","Israel",6700,131.5,38700,1900
+1.816,"KakaoBank","South Korea",2000,276,44900,8300
+1.817,"Pinnacle West","United States",4700,521.7,24800,8900
+1.818,"Founder Securities","China",1300,332,31900,9900
+1.819,"Tongling Nonferrous Metals","China",18900,351.1,11400,7200
+1.819,"Weihai City Commercial Bank","China",2500,244,55300,2100
+1.821,"Bharat Electronics Limited","India",2200,432.2,4400,21800
+1.821,"Ricoh","Japan",16200,305.5,15100,4900
+1.823,"Xiamen Bank","China",1900,375.8,54400,2100
+1.824,"MongoDB","United States",1700,-176.6,2900,27000
+1.824,"Phoenix Holdings","Israel",6400,210.8,43300,2500
+1.826,"Bank Of Gansu","China",2100,91.6,54800,676
+1.827,"Cosan","Brazil",7900,219.1,28800,5200
+1.827,"Zscaler","United States",1900,-138.7,3900,26800
+1.829,"Bank Muscat","Oman",2200,499.5,36400,5100
+1.829,"Manpower","United States",18600,50.7,8500,3700
+1.831,"Diebold Nixdorf","Germany",3800,1500,3900,3600
+1.832,"Clorox","United States",7200,240,5800,16800
+1.832,"Metalurgica Gerdau","Brazil",13400,435.9,15400,2300
+1.834,"Snap","United States",4800,-1300,7200,26500
+1.834,"TopBuild","United States",5200,630.8,5300,12900
+1.836,"Dentsu","Japan",9200,-117.8,23900,7000
+1.836,"Orient Securities","China",2600,355.2,54100,3900
+1.838,"CSPC Pharmaceutical Group","China",4400,829.7,6500,10100
+1.838,"LS Corp","South Korea",18400,301.2,13600,3400
+1.84,"Central Bank of India","India",4300,322.2,53700,6400
+1.841,"Yara International","Norway",14600,-34.9,15700,7700
+1.842,"Bank of Maharashtra","India",2800,491.8,36800,5500
+1.843,"Shimizu","Japan",13900,118.7,16800,4000
+1.844,"Healthpeak Properties","United States",2300,193.1,20500,14000
+1.844,"Kawasaki Heavy Industries","Japan",12800,175.5,17700,5900
+1.846,"Tradeweb Markets","United States",1400,402.7,7400,24000
+1.847,"Hyakugo Bank","Japan",799,98.8,53500,1000
+1.848,"Indus Towers","India",3500,729.1,6700,11100
+1.848,"Kesko","Finland",12700,512,8800,7400
+1.85,"China Power International Development","Hong Kong",6200,378,43100,5500
+1.851,"Kakao","South Korea",5900,-770.1,19100,15000
+1.852,"Trelleborg Group","Sweden",3200,913.9,5600,9300
+1.853,"Steel Authority of India","India",12900,375.3,15600,8300
+1.854,"CAPITEC","South Africa",2900,565.4,10800,14500
+1.854,"First Quantum Minerals","Canada",5900,-1200,23500,11800
+1.856,"Almarai","Saudi Arabia",5300,561.6,9300,14600
+1.856,"Aurubis","Germany",17900,127.8,8300,3700
+1.856,"Banque Centrale Populaire","Morocco",2900,343,52700,6000
+1.856,"Nexi S.p.A.","Italy",6400,-1100,29100,9000
+1.86,"Enstar Group","Bermuda",1000,813,19400,4700
+1.861,"Shiga Bank","Japan",805,110.2,52700,1200
+1.862,"Tryg","Denmark",6000,541.5,15700,12400
+1.863,"Erie Indemnity","United States",3400,484.4,2600,18500
+1.863,"Ramsay Health Care","Australia",10600,572.3,14100,7600
+1.863,"Var Energi ASA","Norway",6700,506.6,22100,8300
+1.863,"Viva Energy Group","Australia",17800,2.5,6600,3600
+1.867,"United Bank for Africa","Nigeria",2800,806.9,19400,501
+1.868,"Zall Smart Commerce Group","China",17600,7.2,9000,598
+1.869,"Federal Bank","India",3200,468.7,38100,4800
+1.87,"Cloudflare","United States",1400,-181.4,2800,25600
+1.871,"MBH Bank Plc.","Hungary",3900,519,32100,6800
+1.871,"PVH","United States",9200,663.6,11200,6600
+1.873,"Aareal Bank","Germany",3100,45.4,51700,2200
+1.874,"Kohl's","United States",17500,317,14000,2900
+1.875,"Samsung Securities","South Korea",2500,415.1,44700,2500
+1.876,"Momentum Metropolitan Holdings","South Africa",6800,223.7,35600,1600
+1.877,"Jinshang Bank","China",1900,283.1,51000,1000
+1.878,"Take-Two Interactive Software","United States",5300,-3700,12200,25200
+1.879,"DLF","India",776,329.4,7200,25200
+1.88,"Johnson Matthey","United Kingdom",17300,216.9,7900,4300
+1.881,"Aozora Bank","Japan",1500,-345.1,50200,1800
+1.881,"Guangzhou Baiyunshan Pharmaceutical Holdings","China",10700,572.8,10900,4900
+1.881,"Teradyne","United States",2600,429.4,3400,20600
+1.884,"Mercuries & Associates","Taiwan",3900,-26,50000,549
+1.884,"Rentokil Initial","United Kingdom",6700,473.6,14200,13500
+1.886,"Juroku  Financial Group","Japan",870,133.6,49800,1100
+1.887,"Franco-Nevada","Canada",1200,-489.8,6100,24700
+1.888,"Daito Trust Construction","Japan",12000,516.5,7100,6900
+1.888,"nVent Electric","United Kingdom",3400,578.4,6200,13300
+1.89,"Banco Davivienda","Colombia",6000,-223.8,45600,2800
+1.89,"Digital China Group","China",17000,167,6200,2800
+1.892,"Informa plc","United Kingdom",4000,520.8,14700,14600
+1.892,"Jiangxi Zhengbang Technology","China",857,1300,2500,3700
+1.894,"Seagate Technology","Ireland",6300,-270,7100,20000
+1.895,"Dr. Reddy's Laboratories","India",3400,672.6,4600,11600
+1.896,"Avantor","United States",6900,260,12800,17000
+1.896,"St. Galler Kantonalbank","Switzerland",1100,230.6,49100,3000
+1.898,"Essential Utilities","United States",1900,572.6,17100,10900
+1.899,"Hanwa","Japan",16800,265.7,7700,1700
+1.899,"Yunnan Baiyao Group","China",5500,596.5,7900,12900
+1.901,"Bank of Cyprus Holdings","Cyprus",1500,569.5,26900,2100
+1.902,"San-In Godo Bank","Japan",777,116.2,48600,1400
+1.903,"China Fortune Land Development","China",4100,-1200,48300,775
+1.904,"Teleperformance","France",9000,650.8,13000,7000
+1.905,"Inventec","Taiwan",16700,201.7,7900,6000
+1.906,"OneMain Holdings","United States",5400,617,23900,6000
+1.906,"Organon","United States",6300,1000,11900,5600
+1.908,"FactSet Research Systems","United States",2200,489.2,4000,17100
+1.908,"Varun Beverages","India",2000,261.4,1800,23600
+1.91,"Steris","Ireland",5400,378.2,11100,23000
+1.911,"NIO","China",7800,-3000,16600,11100
+1.912,"Open House","Japan",8400,688.1,8700,3500
+1.913,"TFI International","Canada",7500,485.8,6900,11300
+1.914,"BEKB-BCBE","Switzerland",818,194.6,47600,2600
+1.915,"Sabesp","Brazil",5400,729.4,13300,10500
+1.915,"Scentre Group","Australia",1700,116.1,24300,11100
+1.917,"IHH Healthcare","Malaysia",4600,647.1,11200,11800
+1.917,"Tokyo Kiraboshi Financial Group","Japan",840,177.4,47500,848
+1.919,"Shanxi Xishan Coal & Electricity Power Co. Ltd.","China",6800,732.4,12800,8500
+1.92,"Wharf (Holdings)","Hong Kong",2400,120.7,26200,10500
+1.921,"Cameco","Canada",1900,174.1,7000,23000
+1.921,"CVR Energy","United States",8800,656,4100,3000
+1.921,"Guangzhou R&F","China",5000,-2800,47200,640
+1.924,"Suzuken","Japan",16500,200.7,8100,2300
+1.925,"Logan Property Holdings","China",6700,-1200,35000,588
+1.925,"Schibsted ASA","Norway",1500,1300,5400,7400
+1.925,"Taylor Morrison Home","United States",7500,768.1,8900,6400
+1.928,"Barry Callebaut","Switzerland",9200,480.9,9700,9500
+1.928,"NIPPON EXPRESS HOLDINGS","Japan",15800,169.8,14400,4200
+1.93,"FMC","United States",4100,1100,12000,8000
+1.931,"Ralph Lauren","United States",6600,587.9,7000,10700
+1.932,"ALFA","Mexico",16400,-629.2,12800,3600
+1.932,"Commercial Metals","United States",8400,680.3,6700,6700
+1.932,"Taisei","Japan",12200,278.5,17100,6600
+1.935,"Hologic","United States",4000,466.5,8700,17500
+1.936,"Signet Jewelers","Bermuda",7200,810.4,6800,4400
+1.937,"Inner Mongolia Yitai Coal","China",6800,879.9,12300,6200
+1.937,"Masraf Al Rayan","Qatar",1600,391.9,43800,6200
+1.939,"Saputo","Canada",12800,246,10600,8700
+1.94,"Samsara","United States",937,-286.7,1700,22500
+1.941,"China Gas Holdings","Hong Kong",10900,365.7,19100,5500
+1.942,"Delek US Holdings","United States",16200,-77.1,7200,1800
+1.943,"EFG International","Switzerland",2700,337.4,45800,3900
+1.944,"Zhangzhou Pientzehuang Pharmaceutical","China",1500,418.6,2500,19800
+1.945,"Sumec Corporation","China",16100,145.4,7800,1500
+1.946,"Ipsen","France",3400,696.7,7000,10900
+1.946,"Manila Electric","Philippines",7900,707.2,10800,7300
+1.946,"Public Power","Greece",8800,413.6,21200,4800
+1.949,"Cholamandalam Investment and Finance","India",2300,413.1,18800,13000
+1.95,"Yunnan Yuntianhua","China",9200,614.9,7500,5400
+1.951,"PTC","United States",2200,287.8,6200,22100
+1.951,"UMB Financial","United States",2500,367.8,45300,4200
+1.953,"arGEN-X","Netherlands",1200,-295,4500,22000
+1.953,"Sharp","Japan",16100,-1000,10500,3400
+1.955,"Kyndryl Holdings","United States",16100,-340,11000,6400
+1.955,"Lotte","South Korea",11700,-68,17500,1400
+1.957,"Aichi Financial Group","Japan",587,57.4,45100,838
+1.957,"A.O. Smith","United States",3900,577.3,3200,12600
+1.957,"NMDC","India",2500,779,3900,9700
+1.96,"AltaGas","Canada",9300,470.1,17700,6700
+1.96,"Cogent Communications","United States",1100,1200,3100,2900
+1.962,"Axon Enterprise","United States",1700,262.3,3600,21800
+1.963,"Nanto Bank","Japan",571,83.2,44800,685
+1.964,"Aier Eye Hospital Group","China",2900,484.9,4300,16500
+1.965,"XPO","United States",7900,242,7600,12800
+1.966,"Toho Bank","Japan",399,36.3,44700,602
+1.967,"Wisetech Global","Australia",623,147,1900,21700
+1.968,"Celsius Holdings","United States",1400,263.4,1600,21700
+1.969,"Clal Insurance Enterprises","Israel",5400,59.7,44400,1300
+1.97,"Buzzi Unicem","Italy",4700,1000,8400,8100
+1.97,"Canadian Tire Corporation","Canada",12200,209.3,16600,5900
+1.972,"Ingredion","United States",7900,668,7300,7900
+1.973,"Ogaki Kyoritsu Bank","Japan",601,65.5,43900,569
+1.974,"Euronav","Belgium",1100,1200,3700,4000
+1.975,"Saudi Investment Bank","Saudi Arabia",2300,434.7,36400,4400
+1.976,"Nordson","United States",2700,492.8,5200,15500
+1.977,"H World Group","China",3200,523.6,8500,14000
+1.977,"Straumann Holding","Switzerland",2700,273.8,4000,21300
+1.979,"Ningbo Jintian Copper (Group)","China",15500,76.9,3600,1300
+1.98,"Abb India","India",1300,175.9,1300,21300
+1.98,"China Merchants Energy Shipping","China",3700,709.9,8800,10300
+1.982,"Fluor","United States",15500,304,6700,6600
+1.983,"AmBank Group","Malaysia",1800,387.7,42200,3000
+1.984,"Equatorial Energia","Brazil",8200,444.1,20100,7000
+1.984,"Uniqa","Austria",6700,327.2,31600,2800
+1.986,"Delivery Hero","Germany",10700,-2500,11900,9800
+1.986,"Kimco Realty","United States",1900,350.7,19500,13000
+1.986,"Puig Brands","Spain",4700,503,8500,14800
+1.986,"Zhejiang Construction Investment Group","China",12500,36,16100,1400
+1.99,"Keiyo Bank","Japan",474,75.2,43300,634
+1.991,"Sun Communities","United States",3300,153.1,17100,15200
+1.992,"Roblox","United States",2900,-1200,6300,21100
+1.993,"China Merchants Port Group","China",2200,524.1,27500,6700
+1.993,"DraftKings","United States",4100,-547.6,3800,21100
+1.995,"Guangdong Construction Engineering Group","China",10900,208.8,18100,2300
+1.996,"Angang Steel","China",15200,-665.1,13600,1800
+1.997,"Sichuan Chuantou Energy","China",201,632.7,8600,11300
+1.997,"Vietnam Prosperity Joint-sock Commercial Bank","Vietnam",3900,460.2,33200,6000
+1.999,"Adient","United States",15200,158,9300,2600
+1.999,"CapitaLand Investment","Singapore",2200,134.8,25900,10000
+1.999,"Shanxi Lu'an Environmental","China",5100,812.8,11600,9000
