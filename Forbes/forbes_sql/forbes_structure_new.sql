@@ -334,3 +334,13 @@ LINES TERMINATED BY '\n'
 
 Select * from forbes_location Limit 15;
 Select * from forbes_location;
+
+LOAD DATA Local INFILE '/forbes_employees_2024.csv'
+INTO TABLE forbes_employees
+FIELDS TERMINATED BY ';' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(rang, organizationName, industry, country, employees)
+;
+
+Select * from forbes_employees Limit 15;
