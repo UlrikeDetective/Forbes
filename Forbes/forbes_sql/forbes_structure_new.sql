@@ -199,10 +199,10 @@ CREATE TABLE forbes_companies (
 	rang int Primary Key,
     organizationName VARCHAR(200),
     country varchar(100),
-    revenue_USD Bigint,
-    profits_USD Bigint,
-    assets_USD Bigint,
-    marketValue_USD Bigint
+    revenue_USD_in_mio Bigint,
+    profits_USD_in_mio Bigint,
+    assets_USD_in_mio Bigint,
+    marketValue_USD_in_mio Bigint
 );
 
 
@@ -365,13 +365,11 @@ LIMIT 1;
 
 Select * from forbes_employees Limit 15;
 
-LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Companies/companies_raw/Forbes_companies_24.csv'
+LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Companies/companies_raw/Forbes_companies_mio_2024.csv'
 INTO TABLE forbes_companies
-FIELDS TERMINATED BY ';'  -- Use comma as the delimiter
+FIELDS TERMINATED BY ','  -- Use comma as the delimiter
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(rang, organizationName, country, revenue_USD, profits_USD, assets_USD, marketValue_USD);
-
-
+(rang, organizationName, country, revenue_USD_in_mio, profits_USD_in_mio, assets_USD_in_mio, marketValue_USD_in_mio);
 
 Select * from forbes_companies Limit 15;
