@@ -194,15 +194,19 @@ CREATE TABLE forbes_employees (
     employees int
 );
 
+drop table forbes_companies;
 CREATE TABLE forbes_companies (
 	rang int Primary Key,
-    organizationName VARCHAR(100),
+    organizationName VARCHAR(200),
     country varchar(100),
-    revenue_USD int,
-    profits_USD int,
-    assets_USD int,
-    marketValue_USD int
+    revenue_USD Bigint,
+    profits_USD Bigint,
+    assets_USD Bigint,
+    marketValue_USD Bigint
 );
+
+
+
 
 LOAD DATA Local INFILE '/path_to_file/forbes_names.csv'
 INTO TABLE forbes_names
@@ -360,3 +364,14 @@ ORDER BY rang ASC
 LIMIT 1;
 
 Select * from forbes_employees Limit 15;
+
+LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Companies/companies_raw/Forbes_companies_24.csv'
+INTO TABLE forbes_companies
+FIELDS TERMINATED BY ';'  -- Use comma as the delimiter
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(rang, organizationName, country, revenue_USD, profits_USD, assets_USD, marketValue_USD);
+
+
+
+Select * from forbes_companies Limit 15;
