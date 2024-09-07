@@ -194,6 +194,16 @@ CREATE TABLE forbes_employees (
     employees int
 );
 
+CREATE TABLE forbes_companies (
+	rang int Primary Key,
+    organizationName VARCHAR(100),
+    country varchar(100),
+    revenue_USD int,
+    profits_USD int,
+    assets_USD int,
+    marketValue_USD int
+);
+
 LOAD DATA Local INFILE '/path_to_file/forbes_names.csv'
 INTO TABLE forbes_names
 FIELDS TERMINATED BY ';' 
