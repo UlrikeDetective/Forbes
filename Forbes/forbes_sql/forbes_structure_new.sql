@@ -362,7 +362,7 @@ LIMIT 1;
 
 Select * from forbes_employees Limit 15;
 
-LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Companies/companies_raw/Forbes_companies_mio_2024.csv'
+LOAD DATA LOCAL INFILE 'Forbes_companies_mio_2024.csv'
 INTO TABLE forbes_companies
 FIELDS TERMINATED BY ';'  -- Use comma as the delimiter
 ENCLOSED BY '"'
