@@ -199,14 +199,11 @@ CREATE TABLE forbes_companies (
 	rang int Primary Key,
     organizationName VARCHAR(200),
     country varchar(100),
-    revenue_USD_in_mio Bigint,
-    profits_USD_in_mio Bigint,
-    assets_USD_in_mio Bigint,
-    marketValue_USD_in_mio Bigint
+    revenue_USD_in_mio real,
+    profits_USD_in_mio real,
+    assets_USD_in_mio real,
+    marketValue_USD_in_mio real
 );
-
-
-
 
 LOAD DATA Local INFILE '/path_to_file/forbes_names.csv'
 INTO TABLE forbes_names
@@ -367,9 +364,10 @@ Select * from forbes_employees Limit 15;
 
 LOAD DATA LOCAL INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Companies/companies_raw/Forbes_companies_mio_2024.csv'
 INTO TABLE forbes_companies
-FIELDS TERMINATED BY ','  -- Use comma as the delimiter
+FIELDS TERMINATED BY ';'  -- Use comma as the delimiter
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-(rang, organizationName, country, revenue_USD_in_mio, profits_USD_in_mio, assets_USD_in_mio, marketValue_USD_in_mio);
+IGNORE 1 ROWS;  -- This skips the header row if it's present in the CSV
+-- (rang, organizationName, country, revenue_USD_in_mio, profits_USD_in_mio, assets_USD_in_mio, marketValue_USD_in_mio);
 
 Select * from forbes_companies Limit 15;
