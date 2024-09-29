@@ -3,7 +3,7 @@ Forbes Billionaire data
 Forbes Billionaire list 2022 is from Kaggle.
 Forbes Billionaire list 2023 - web scraping from Forbes.com
 Month data Forbes billionaire list starting from January 2024 is from web scraping from Forbes.com. 
-The web scraping takes place on the last working day of each month.
+The web scraping takes place on the last working day of each month. Exapt 2024-09-28 for september 2024.
 
 Data cleaning and structure
 ID (User_ID) is assigned to each person (VLookup). 
