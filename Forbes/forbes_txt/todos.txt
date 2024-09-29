@@ -14,7 +14,7 @@ Working with SQL queries
 
 Done
 
-- Data from Jan - Jun 2024
+- Data from Jan - Sep 2024
 - Data cleaning 2021
 * adding GPS data of residence - done with python code
 
