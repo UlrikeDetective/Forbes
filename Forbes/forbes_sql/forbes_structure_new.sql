@@ -172,6 +172,17 @@ CREATE TABLE forbes_2024_08 (
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
+CREATE TABLE forbes_2024_09 (
+    ID INT PRIMARY KEY,
+    User_ID INT UNIQUE,
+    Table_rank_2024_09 INT NOT NULL,
+    Person VARCHAR(150) NOT NULL UNIQUE,
+    Net_worth_in_BillionUSD_2024_09 DECIMAL(8, 2),
+    Age_of_person_2024_09 INT,
+    Date_of_data Date,
+    FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
+);
+
 drop table forbes_location;
 
 CREATE TABLE forbes_location (
@@ -333,6 +344,17 @@ SET Net_worth_in_BillionUSD_2024_08 = REPLACE(@Net_worth_in_BillionUSD_2024_08, 
     Date_of_data = STR_TO_DATE(@Date_of_data, '%Y-%m-%d');
 
 Select * from forbes_2024_08 Limit 5;
+
+LOAD DATA LOCAL INFILE '/path to file/forbes_2024_09.csv'
+INTO TABLE forbes_2024_09
+FIELDS TERMINATED BY ';'
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(ID, User_ID, Table_rank_2024_09, Person, @Net_worth_in_BillionUSD_2024_09, Age_of_person_2024_09, @Date_of_data)
+SET Net_worth_in_BillionUSD_2024_09 = REPLACE(@Net_worth_in_BillionUSD_2024_09, ',', '.'),
+    Date_of_data = STR_TO_DATE(@Date_of_data, '%Y-%m-%d');
+
+Select * from forbes_2024_09 Limit 5;
 
 
 LOAD DATA Local INFILE '/path_to_file/forbes_data_with_coordinates2.csv'
