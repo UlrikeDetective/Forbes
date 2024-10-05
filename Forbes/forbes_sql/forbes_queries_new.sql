@@ -174,7 +174,7 @@ SELECT
     SUM(forbes_2024_06.net_worth_in_BillionUSD_2024_06) AS 2024_06_total,
     SUM(forbes_2024_07.net_worth_in_BillionUSD_2024_07) AS 2024_07_total,
     SUM(forbes_2024_08.net_worth_in_BillionUSD_2024_08) AS 2024_08_total,
-    SUM(forbes_2024_08.net_worth_in_BillionUSD_2024_08) AS 2024_09_total
+    SUM(forbes_2024_09.net_worth_in_BillionUSD_2024_09) AS 2024_09_total
 FROM 
     forbes_names
 LEFT JOIN 
@@ -280,7 +280,11 @@ SELECT
     SUM(forbes_2024_02.net_worth_in_BillionUSD_2024_02) AS 2024_02_total,
     SUM(forbes_2024_03.net_worth_in_BillionUSD_2024_03) AS 2024_03_total,
     SUM(forbes_2024_04.net_worth_in_BillionUSD_2024_04) AS 2024_04_total,
-    SUM(forbes_2024_05.net_worth_in_BillionUSD_2024_05) AS 2024_05_total
+    SUM(forbes_2024_05.net_worth_in_BillionUSD_2024_05) AS 2024_05_total,
+    SUM(forbes_2024_06.net_worth_in_BillionUSD_2024_06) AS 2024_06_total,
+    SUM(forbes_2024_07.net_worth_in_BillionUSD_2024_07) AS 2024_07_total,
+    SUM(forbes_2024_08.net_worth_in_BillionUSD_2024_08) AS 2024_08_total,
+    SUM(forbes_2024_09.net_worth_in_BillionUSD_2024_09) AS 2024_09_total
 FROM 
     forbes_names
 LEFT JOIN 
@@ -293,6 +297,14 @@ LEFT JOIN
     forbes_2024_04 ON forbes_names.ID = forbes_2024_04.USER_ID
 LEFT JOIN 
     forbes_2024_05 ON forbes_names.ID = forbes_2024_05.USER_ID
+LEFT JOIN 
+    forbes_2024_06 ON forbes_names.ID = forbes_2024_06.USER_ID
+LEFT JOIN 
+    forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
+LEFT JOIN 
+    forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+LEFT JOIN 
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
 GROUP BY 
     forbes_names.Continent, forbes_names.Country_of_residence
 ORDER BY 
@@ -323,9 +335,10 @@ SELECT
     SUM(forbes_2024_03.net_worth_in_BillionUSD_2024_03) AS 2024_03_total,
     SUM(forbes_2024_04.net_worth_in_BillionUSD_2024_04) AS 2024_04_total,
     SUM(forbes_2024_05.net_worth_in_BillionUSD_2024_05) AS 2024_05_total,
-	SUM(forbes_2024_06.net_worth_in_BillionUSD_2024_06) AS 2024_06_total,
+    SUM(forbes_2024_06.net_worth_in_BillionUSD_2024_06) AS 2024_06_total,
     SUM(forbes_2024_07.net_worth_in_BillionUSD_2024_07) AS 2024_07_total,
-    SUM(forbes_2024_08.net_worth_in_BillionUSD_2024_08) AS 2024_08_total
+    SUM(forbes_2024_08.net_worth_in_BillionUSD_2024_08) AS 2024_08_total,
+    SUM(forbes_2024_09.net_worth_in_BillionUSD_2024_09) AS 2024_09_total
 FROM 
     forbes_names
 LEFT JOIN 
@@ -344,6 +357,8 @@ LEFT JOIN
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
 LEFT JOIN 
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+LEFT JOIN 
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
 GROUP BY 
     forbes_names.City
 ORDER BY 
@@ -378,9 +393,10 @@ SELECT
     SUM(forbes_2024_03.net_worth_in_BillionUSD_2024_03) AS 2024_03_total,
     SUM(forbes_2024_04.net_worth_in_BillionUSD_2024_04) AS 2024_04_total,
     SUM(forbes_2024_05.net_worth_in_BillionUSD_2024_05) AS 2024_05_total,
-	SUM(forbes_2024_06.net_worth_in_BillionUSD_2024_06) AS 2024_06_total,
+    SUM(forbes_2024_06.net_worth_in_BillionUSD_2024_06) AS 2024_06_total,
     SUM(forbes_2024_07.net_worth_in_BillionUSD_2024_07) AS 2024_07_total,
-    SUM(forbes_2024_08.net_worth_in_BillionUSD_2024_08) AS 2024_08_total
+    SUM(forbes_2024_08.net_worth_in_BillionUSD_2024_08) AS 2024_08_total,
+    SUM(forbes_2024_09.net_worth_in_BillionUSD_2024_09) AS 2024_09_total
 FROM 
     forbes_names
 LEFT JOIN 
@@ -399,6 +415,8 @@ LEFT JOIN
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
 LEFT JOIN 
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+LEFT JOIN 
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
 GROUP BY 
     forbes_names.Continent, forbes_names.Country_of_residence, forbes_names.City
 ORDER BY 
@@ -406,7 +424,7 @@ ORDER BY
 
 SELECT 
     forbes_names.Gender,
-	SUM(forbes_2021.net_worth_in_BillionUSD_2021) AS 2021_total,
+    SUM(forbes_2021.net_worth_in_BillionUSD_2021) AS 2021_total,
     SUM(forbes_2022.net_worth_in_BillionUSD_2022) AS 2022_total,
     SUM(forbes_2023.net_worth_in_BillionUSD_2023) AS 2023_total
 FROM 
@@ -429,9 +447,10 @@ SELECT
     SUM(forbes_2024_03.net_worth_in_BillionUSD_2024_03) AS 2024_03_total,
     SUM(forbes_2024_04.net_worth_in_BillionUSD_2024_04) AS 2024_04_total,
     SUM(forbes_2024_05.net_worth_in_BillionUSD_2024_05) AS 2024_05_total,
-	SUM(forbes_2024_06.net_worth_in_BillionUSD_2024_06) AS 2024_06_total,
+    SUM(forbes_2024_06.net_worth_in_BillionUSD_2024_06) AS 2024_06_total,
     SUM(forbes_2024_07.net_worth_in_BillionUSD_2024_07) AS 2024_07_total,
-    SUM(forbes_2024_08.net_worth_in_BillionUSD_2024_08) AS 2024_08_total
+    SUM(forbes_2024_08.net_worth_in_BillionUSD_2024_08) AS 2024_08_total,
+    SUM(forbes_2024_09.net_worth_in_BillionUSD_2024_09) AS 2024_09_total
 FROM 
     forbes_names
 LEFT JOIN 
@@ -450,6 +469,8 @@ LEFT JOIN
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
 LEFT JOIN 
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+LEFT JOIN 
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
 GROUP BY 
     forbes_names.Gender
 ORDER BY 
@@ -457,7 +478,7 @@ ORDER BY
 
 SELECT 
     forbes_names.Self_made,
-	SUM(forbes_2021.net_worth_in_BillionUSD_2021) AS 2021_total,
+    SUM(forbes_2021.net_worth_in_BillionUSD_2021) AS 2021_total,
     SUM(forbes_2022.net_worth_in_BillionUSD_2022) AS 2022_total,
     SUM(forbes_2023.net_worth_in_BillionUSD_2023) AS 2023_total
 FROM 
@@ -513,7 +534,7 @@ SELECT
     forbes_names.Person,
     forbes_names.ID,
     forbes_names.Country_of_residence,
-	SUM(forbes_2021.net_worth_in_BillionUSD_2021) AS 2021_total,
+    SUM(forbes_2021.net_worth_in_BillionUSD_2021) AS 2021_total,
     SUM(forbes_2022.net_worth_in_BillionUSD_2022) AS 2022_total,
     SUM(forbes_2023.net_worth_in_BillionUSD_2023) AS 2023_total
 FROM 
