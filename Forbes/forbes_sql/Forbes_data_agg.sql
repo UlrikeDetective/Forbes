@@ -1,17 +1,17 @@
 Use Forbes;
 
-SELECT SUM(Net_worth_in_BillionUSD_2024_03) AS total_net_worth_2024_03
-FROM forbes_2024_03;
+SELECT SUM(Net_worth_in_BillionUSD_2024_08) AS total_net_worth_2024_03
+FROM forbes_2024_08;
 
 SELECT SUM(Net_worth_in_BillionUSD_2024_03) AS total_net_worth_2024_03
 FROM forbes_2024_03
 Where Age_of_person_2024_03 = 60;
 
-SELECT AVG(Net_worth_in_BillionUSD_2024_03) AS AVG_net_worth_2024_03
-FROM forbes_2024_03;
+SELECT AVG(Net_worth_in_BillionUSD_2024_09) AS AVG_net_worth_2024_09
+FROM forbes_2024_09;
 
-SELECT COUNT(Net_worth_in_BillionUSD_2024_03) AS Count_net_worth_2024_03
-FROM forbes_2024_03;
+SELECT COUNT(Net_worth_in_BillionUSD_2024_09) AS Count_net_worth_2024_09
+FROM forbes_2024_09;
 
 SELECT Max(Net_worth_in_BillionUSD_2024_03) AS max_net_worth_2024_03
 FROM forbes_2024_03;
@@ -24,8 +24,8 @@ FROM forbes_2024_03;
 
 SELECT
 COUNT(User_ID) AS number_of_UserID,
-SUM(Net_worth_in_BillionUSD_2024_03) AS total_sum
-FROM forbes_2024_03;
+SUM(Net_worth_in_BillionUSD_2024_09) AS total_sum
+FROM forbes_2024_09;
 
 SELECT Count(city) as number_of_cities
 FROM forbes_names;
