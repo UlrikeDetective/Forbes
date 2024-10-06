@@ -145,6 +145,18 @@ GROUP BY
     forbes_names.Country_of_residence
 ORDER BY 
     total_net_worth DESC;
+
+SELECT 
+    forbes_names.Citzenship,
+    SUM(forbes_2022.net_worth_in_BillionUSD_2022) AS total_net_worth
+FROM 
+    forbes_names
+LEFT JOIN 
+    forbes_2022 ON forbes_names.ID = forbes_2022.USER_ID
+GROUP BY 
+    forbes_names.Citzenship
+ORDER BY 
+    total_net_worth DESC;
     
 SELECT 
     forbes_names.Country_of_residence,
@@ -363,6 +375,11 @@ GROUP BY
     forbes_names.City
 ORDER BY 
     2024_01_total DESC;
+
+Select
+forbes_names.Person
+From forbes_names
+where City ='Austin';
 
 SELECT 
     forbes_names.Continent,
