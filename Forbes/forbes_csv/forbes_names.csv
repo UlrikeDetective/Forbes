@@ -3723,12 +3723,28 @@ Ravi Puravankara;3721;Real estate;Real Estate;male;;;India;Asia;India;
 Lee Thiam Wah;3722;Retail;Fashion and Retail;male;Petaling Jaya;;Malaysia;Asia;Malaysia;TRUE
 Lennart Blecher;3723;finance;Finance and Investments;male;Zurich;;Switzerland;Europe;Sweden;TRUE
 Per Franzen;3724;Private equity;Finance and Investments;male;Stockholm;;Sweden;Europe;Sweden;TRUE
-Marilyn Simons;3725;Hedge funds;Finance and Investments;female;;;USA;North America;USA;
-Zong Fuli;3726;beverages;Food and Beverage;male;;;China;Asia;China;
-Mike Brown;3727;Cincinnati Bengals;Media and Entertainment;male;;;USA;North America;USA;
-Rolly van Rappard;3728;private equity;Finance and Investments;male;London;;UK;Europe;Netherlands;TRUE
-Donald Mackenzie;3729;private equity;Finance and Investments;male;;;Switzerland;Europe;UK;TRUE
-Ioannis Papalekas;3730;Real estate;Real Estate;male;Nikosia;;Cyprus;Europe;Greece;TRUE
-Steve Koltes;3731;private equity;Finance and Investments;male;Küsnacht;;Switzerland;Europe;USA;TRUE
-Nimesh Kampani;3732;investment banking;Finance and Investments;male;Bombay;;India;Asia;India;TRUE
-Charles Bernard;3733;Dassault Systemes;Technology;male;;;France;Europe;France;
+Marilyn Simons;3725;Hedge funds;Finance and Investments;female;East Setauket;New York;USA;North America;USA;FALSE
+Zong Fuli;3726;beverages;Food and Beverage;male;Hangzhou;;China;Asia;China;FALSE
+Smita Crishna Godrej;3727;consumer goods;Fashion and Retail;female;Mumbai;;India;Asia;India;FALSE
+Mike Brown;3728;Cincinnati Bengals;Media and Entertainment;male;Cincinnati;Ohio;USA;North America;USA;TRUE
+Harish Ahuja;3729;appearl;Fashion and Retail;male;Delhi;;India;Asia;India;
+Surender Saluja;3730;solar energy;Energy;male;Hyderabad;;India;Asia;India;TRUE
+Chen Qingzhou;3731;communication equipment;Telecom;male;Shenzhen;;China;Asia;China;TRUE
+Huang Shanbing;3732;semiconductors;Technology;male;Qidong;;China;Asia;China;TRUE
+Rolly van Rappard;3733;private equity;Finance and Investments;male;London;;UK;Europe;Netherlands;TRUE
+Ioannis Papalekas;3734;Real estate;Real Estate;male;Nicosia;;Cyprus;Europe;Greece;TRUE
+Yang Qiumei;3735;software;Technology;female;Hong Kong;;China;Asia;China;
+Donald Mackenzie;3736;private equity;Finance and Investments;male;;;Switzerland;Europe;UK;TRUE
+Lauren Leichtman;3737;private equity;Finance and Investments;female;Miami;Florida;USA;North America;USA;TRUE
+Arthur Levine;3738;private equity;Finance and Investments;male;Miami;Florida;USA;North America;USA;TRUE
+Chang Kuo-Wei;3739;airline;transportation;male;;;Taiwan;Asia;Taiwan;
+Luis von Ahn;3740;Duolingo;Media and Entertainment;male;Pittsburgh;Pennsylvania;USA;North America;USA;TRUE
+Theresia Gouw;3741;venture capital investing;Finance and Investments;female;Palo Alto;California;USA;North America;USA;TRUE
+Severin Hacker;3742;Duolingo;Media and Entertainment;male;New York City;New York;USA;North America;Switzerland;TRUE
+Chen Yuantai;3743;Batteries;Energy;male;Ningde;;China;Asia;China;TRUE
+Yu Kai;3744;autonomous driving;transportation;male;Beijing;;China;Asia;China;TRUE
+Liu Ruopeng;3745;technology;Technology;male;Shenzhen;;China;Asia;China;TRUE
+Nimesh Kampani;3746;Investments;Finance and Investments;male;Mumbai;;India;Asia;India;TRUE
+Jiang Long;3747;Manufacturing;Fashion and Retail;male;Weifang;;China;Asia;China;TRUE
+Don Ahern;3748;Equipment rental;Service;male;Las Vegas;Nevada;USA;North America;USA;
+Steve Koltes;3749;private equity;Finance and Investments;male;Küsnacht;;Switzerland;Europe;USA;TRUE
