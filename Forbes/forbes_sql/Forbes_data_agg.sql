@@ -27,5 +27,10 @@ COUNT(User_ID) AS number_of_UserID,
 SUM(Net_worth_in_BillionUSD_2024_09) AS total_sum
 FROM forbes_2024_09;
 
+SELECT
+COUNT(User_ID) AS number_of_UserID,
+SUM(Net_worth_in_BillionUSD_2024_10) AS total_sum
+FROM forbes_2024_10;
+
 SELECT Count(city) as number_of_cities
 FROM forbes_names;
