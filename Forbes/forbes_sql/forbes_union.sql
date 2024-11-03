@@ -11,3 +11,5 @@ SELECT Person, Net_worth_in_BillionUSD_2024_08 FROM forbes_2024_08;
 SELECT Person, Net_worth_in_BillionUSD_2024_08 FROM forbes_2024_08
 UNION
 SELECT Person, Net_worth_in_BillionUSD_2024_09 FROM forbes_2024_09;
+UNION
+SELECT Person, Net_worth_in_BillionUSD_2024_10 FROM forbes_2024_10;
