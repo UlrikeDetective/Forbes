@@ -60,8 +60,10 @@ SELECT
     forbes_2024_04.net_worth_in_BillionUSD_2024_04,
     forbes_2024_05.net_worth_in_BillionUSD_2024_05,
     forbes_2024_06.net_worth_in_BillionUSD_2024_06,
-	forbes_2024_07.net_worth_in_BillionUSD_2024_07,
-    forbes_2024_08.net_worth_in_BillionUSD_2024_08
+    forbes_2024_07.net_worth_in_BillionUSD_2024_07,
+    forbes_2024_08.net_worth_in_BillionUSD_2024_08,
+    forbes_2024_09.net_worth_in_BillionUSD_2024_09,
+    forbes_2024_10.net_worth_in_BillionUSD_2024_10
 FROM
     forbes_names
 		LEFT JOIN
@@ -86,6 +88,10 @@ FROM
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
     LEFT JOIN
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+	LEFT JOIN
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
+    LEFT JOIN
+    forbes_2024_10 ON forbes_names.ID = forbes_2024_10.USER_ID
 Where forbes_names.Person LIKE 'Bill%'
 ORDER BY forbes_2022.net_worth_in_BillionUSD_2022 DESC;
 
@@ -102,8 +108,10 @@ SELECT
     forbes_2024_04.net_worth_in_BillionUSD_2024_04,
     forbes_2024_05.net_worth_in_BillionUSD_2024_05,
     forbes_2024_06.net_worth_in_BillionUSD_2024_06,
-	forbes_2024_07.net_worth_in_BillionUSD_2024_07,
-    forbes_2024_08.net_worth_in_BillionUSD_2024_08
+    forbes_2024_07.net_worth_in_BillionUSD_2024_07,
+    forbes_2024_08.net_worth_in_BillionUSD_2024_08,
+    forbes_2024_09.net_worth_in_BillionUSD_2024_09,
+    forbes_2024_10.net_worth_in_BillionUSD_2024_10
 FROM
     forbes_names
 		LEFT JOIN
@@ -128,6 +136,10 @@ FROM
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
     LEFT JOIN
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+	LEFT JOIN
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
+    LEFT JOIN
+    forbes_2024_10 ON forbes_names.ID = forbes_2024_10.USER_ID
 WHERE 
     forbes_names.Person LIKE 'Steve%'
 ORDER BY forbes_2022.net_worth_in_BillionUSD_2022 DESC;
@@ -145,8 +157,10 @@ SELECT
     forbes_2024_04.net_worth_in_BillionUSD_2024_04,
     forbes_2024_05.net_worth_in_BillionUSD_2024_05,
     forbes_2024_06.net_worth_in_BillionUSD_2024_06,
-	forbes_2024_07.net_worth_in_BillionUSD_2024_07,
-    forbes_2024_08.net_worth_in_BillionUSD_2024_08
+    forbes_2024_07.net_worth_in_BillionUSD_2024_07,
+    forbes_2024_08.net_worth_in_BillionUSD_2024_08,
+    forbes_2024_09.net_worth_in_BillionUSD_2024_09,
+    forbes_2024_10.net_worth_in_BillionUSD_2024_10
 FROM
     forbes_names
 		LEFT JOIN
@@ -171,6 +185,10 @@ FROM
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
     LEFT JOIN
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+	LEFT JOIN
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
+    LEFT JOIN
+    forbes_2024_10 ON forbes_names.ID = forbes_2024_10.USER_ID
 Where forbes_names.Person LIKE 'Ulrike%';
 
 SELECT 
@@ -186,8 +204,10 @@ SELECT
     forbes_2024_04.net_worth_in_BillionUSD_2024_04,
     forbes_2024_05.net_worth_in_BillionUSD_2024_05,
     forbes_2024_06.net_worth_in_BillionUSD_2024_06,
-	forbes_2024_07.net_worth_in_BillionUSD_2024_07,
-    forbes_2024_08.net_worth_in_BillionUSD_2024_08
+    forbes_2024_07.net_worth_in_BillionUSD_2024_07,
+    forbes_2024_08.net_worth_in_BillionUSD_2024_08,
+    forbes_2024_09.net_worth_in_BillionUSD_2024_09,
+    forbes_2024_10.net_worth_in_BillionUSD_2024_10
 FROM
     forbes_names
 		LEFT JOIN
@@ -212,6 +232,10 @@ FROM
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
     LEFT JOIN
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+	LEFT JOIN
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
+    LEFT JOIN
+    forbes_2024_10 ON forbes_names.ID = forbes_2024_10.USER_ID
 WHERE 
     forbes_names.City LIKE 'Paris'
 ORDER BY forbes_2022.net_worth_in_BillionUSD_2022 DESC;
@@ -230,8 +254,10 @@ SELECT
     forbes_2024_04.net_worth_in_BillionUSD_2024_04,
     forbes_2024_05.net_worth_in_BillionUSD_2024_05,
     forbes_2024_06.net_worth_in_BillionUSD_2024_06,
-	forbes_2024_07.net_worth_in_BillionUSD_2024_07,
-    forbes_2024_08.net_worth_in_BillionUSD_2024_08
+    forbes_2024_07.net_worth_in_BillionUSD_2024_07,
+    forbes_2024_08.net_worth_in_BillionUSD_2024_08,
+    forbes_2024_09.net_worth_in_BillionUSD_2024_09,
+    forbes_2024_10.net_worth_in_BillionUSD_2024_10
 FROM
     forbes_names
 		LEFT JOIN
@@ -256,6 +282,10 @@ FROM
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
     LEFT JOIN
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+	LEFT JOIN
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
+    LEFT JOIN
+    forbes_2024_10 ON forbes_names.ID = forbes_2024_10.USER_ID
 WHERE 
     forbes_names.City LIKE 'Leipzig'
 ORDER BY forbes_2022.net_worth_in_BillionUSD_2022 DESC;
@@ -273,8 +303,10 @@ SELECT
     forbes_2024_04.net_worth_in_BillionUSD_2024_04,
     forbes_2024_05.net_worth_in_BillionUSD_2024_05,
     forbes_2024_06.net_worth_in_BillionUSD_2024_06,
-	forbes_2024_07.net_worth_in_BillionUSD_2024_07,
-    forbes_2024_08.net_worth_in_BillionUSD_2024_08
+    forbes_2024_07.net_worth_in_BillionUSD_2024_07,
+    forbes_2024_08.net_worth_in_BillionUSD_2024_08,
+    forbes_2024_09.net_worth_in_BillionUSD_2024_09,
+    forbes_2024_10.net_worth_in_BillionUSD_2024_10
 FROM
     forbes_names
         LEFT JOIN
@@ -297,6 +329,10 @@ FROM
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
     LEFT JOIN
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+	LEFT JOIN
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
+    LEFT JOIN
+    forbes_2024_10 ON forbes_names.ID = forbes_2024_10.USER_ID
 WHERE 
     forbes_names.Person LIKE '%Steve%' OR
     forbes_names.Person LIKE '%Bill%'
@@ -314,8 +350,10 @@ SELECT
     forbes_2024_04.net_worth_in_BillionUSD_2024_04,
     forbes_2024_05.net_worth_in_BillionUSD_2024_05,
     forbes_2024_06.net_worth_in_BillionUSD_2024_06,
-	forbes_2024_07.net_worth_in_BillionUSD_2024_07,
-    forbes_2024_08.net_worth_in_BillionUSD_2024_08
+    forbes_2024_07.net_worth_in_BillionUSD_2024_07,
+    forbes_2024_08.net_worth_in_BillionUSD_2024_08,
+    forbes_2024_09.net_worth_in_BillionUSD_2024_09,
+    forbes_2024_10.net_worth_in_BillionUSD_2024_10
 FROM
     forbes_names
         LEFT JOIN
@@ -338,6 +376,10 @@ FROM
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
     LEFT JOIN
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+	LEFT JOIN
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
+    LEFT JOIN
+    forbes_2024_10 ON forbes_names.ID = forbes_2024_10.USER_ID
 Where forbes_names.State = 'California'
 ORDER BY forbes_2024_06.net_worth_in_BillionUSD_2024_06 DESC;
 
@@ -353,8 +395,10 @@ SELECT
     forbes_2024_04.net_worth_in_BillionUSD_2024_04,
     forbes_2024_05.net_worth_in_BillionUSD_2024_05,
     forbes_2024_06.net_worth_in_BillionUSD_2024_06,
-	forbes_2024_07.net_worth_in_BillionUSD_2024_07,
-    forbes_2024_08.net_worth_in_BillionUSD_2024_08
+    forbes_2024_07.net_worth_in_BillionUSD_2024_07,
+    forbes_2024_08.net_worth_in_BillionUSD_2024_08,
+    forbes_2024_09.net_worth_in_BillionUSD_2024_09,
+    forbes_2024_10.net_worth_in_BillionUSD_2024_10
 FROM
     forbes_names
         LEFT JOIN
@@ -377,6 +421,10 @@ FROM
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
     LEFT JOIN
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+	LEFT JOIN
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
+    LEFT JOIN
+    forbes_2024_10 ON forbes_names.ID = forbes_2024_10.USER_ID
 Where forbes_names.Country_of_residence = 'Germany'
 ORDER BY forbes_2024_06.net_worth_in_BillionUSD_2024_06 DESC;
 
@@ -392,8 +440,10 @@ SELECT
     forbes_2024_04.net_worth_in_BillionUSD_2024_04,
     forbes_2024_05.net_worth_in_BillionUSD_2024_05,
     forbes_2024_06.net_worth_in_BillionUSD_2024_06,
-	forbes_2024_07.net_worth_in_BillionUSD_2024_07,
-    forbes_2024_08.net_worth_in_BillionUSD_2024_08
+    forbes_2024_07.net_worth_in_BillionUSD_2024_07,
+    forbes_2024_08.net_worth_in_BillionUSD_2024_08,
+    forbes_2024_09.net_worth_in_BillionUSD_2024_09,
+    forbes_2024_10.net_worth_in_BillionUSD_2024_10
 FROM
     forbes_names
         LEFT JOIN
@@ -416,6 +466,10 @@ FROM
     forbes_2024_07 ON forbes_names.ID = forbes_2024_07.USER_ID
     LEFT JOIN
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
+	LEFT JOIN
+    forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
+    LEFT JOIN
+    forbes_2024_10 ON forbes_names.ID = forbes_2024_10.USER_ID
 WHERE 
     forbes_names.Person LIKE '%William%' AND
     forbes_names.State = 'California';
