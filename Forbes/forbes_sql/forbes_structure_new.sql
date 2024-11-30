@@ -194,6 +194,17 @@ CREATE TABLE forbes_2024_10 (
     FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
 );
 
+CREATE TABLE forbes_2024_11 (
+    ID INT PRIMARY KEY,
+    User_ID INT UNIQUE,
+    Table_rank_2024_11 INT NOT NULL,
+    Person VARCHAR(150) NOT NULL UNIQUE,
+    Net_worth_in_BillionUSD_2024_11 DECIMAL(8, 2),
+    Age_of_person_2024_11 INT,
+    Date_of_data Date,
+    FOREIGN KEY (User_ID) REFERENCES forbes_names (ID)
+);
+
 drop table forbes_location;
 
 CREATE TABLE forbes_location (
@@ -228,7 +239,7 @@ CREATE TABLE forbes_companies (
     marketValue_USD_in_mio real
 );
 
-LOAD DATA Local INFILE '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_names.csv'
+LOAD DATA Local INFILE '/path_to_file/forbes_names.csv'
 INTO TABLE forbes_names
 FIELDS TERMINATED BY ';' 
 ENCLOSED BY '"'
@@ -237,7 +248,7 @@ IGNORE 1 ROWS;  -- This skips the header row if it's present in the CSV
 
 select * from forbes_names limit 10;
 select * from forbes_names;
-SELECT * FROM forbes_names WHERE Person = 'Taylor Swift';
+SELECT * FROM forbes_names WHERE Person = 'Dariusz Milek';
 
 LOAD DATA Local INFILE '/path_to_file/forbes_2021.csv'
 INTO TABLE forbes_2021
@@ -379,6 +390,17 @@ SET Net_worth_in_BillionUSD_2024_10 = REPLACE(@Net_worth_in_BillionUSD_2024_10, 
     Date_of_data = STR_TO_DATE(@Date_of_data, '%Y-%m-%d');
 
 Select * from forbes_2024_10 Limit 5;
+
+LOAD DATA LOCAL INFILE '/path_to_file/forbes_2024_11.csv'
+INTO TABLE forbes_2024_11
+FIELDS TERMINATED BY ';'
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(ID, User_ID, Table_rank_2024_11, Person, @Net_worth_in_BillionUSD_2024_11, Age_of_person_2024_11, @Date_of_data)
+SET Net_worth_in_BillionUSD_2024_11 = REPLACE(@Net_worth_in_BillionUSD_2024_11, ',', '.'),
+    Date_of_data = STR_TO_DATE(@Date_of_data, '%Y-%m-%d');
+
+Select * from forbes_2024_11 Limit 5;
 
 
 LOAD DATA Local INFILE '/path_to_file/forbes_data_with_coordinates2.csv'

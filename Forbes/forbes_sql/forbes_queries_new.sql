@@ -20,6 +20,7 @@ SELECT
     forbes_2024_07.net_worth_in_BillionUSD_2024_07,
     forbes_2024_08.net_worth_in_BillionUSD_2024_08,
     forbes_2024_09.net_worth_in_BillionUSD_2024_09,
+    forbes_2024_10.net_worth_in_BillionUSD_2024_10,
     forbes_2024_10.net_worth_in_BillionUSD_2024_10
 FROM
     forbes_names
@@ -47,6 +48,8 @@ FROM
     forbes_2024_08 ON forbes_names.ID = forbes_2024_08.USER_ID
 	LEFT JOIN
     forbes_2024_09 ON forbes_names.ID = forbes_2024_09.USER_ID
+    LEFT JOIN
+    forbes_2024_10 ON forbes_names.ID = forbes_2024_10.USER_ID
     LEFT JOIN
     forbes_2024_10 ON forbes_names.ID = forbes_2024_10.USER_ID
 ORDER BY forbes_2023.net_worth_in_BillionUSD_2023 DESC
