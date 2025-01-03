@@ -1,4 +1,4 @@
-﻿ID;User_ID;Table_rank_2024_04;Person;net_worth_in_BillionUSD_2024_04;Age_of_person_2024_04;Date_of_data
+﻿ID;User_ID;Table_rank_2024_04;Person;net_worth_in_BillionUSD_2024_04;Age_of_person_2024_04;Date
 1;1;1;Bernard Arnault;209,4;75;2024-04-30
 2;2;2;Elon Musk;199,6;52;2024-04-30
 3;3;3;Jeff Bezos;193,3;60;2024-04-30
@@ -919,7 +919,7 @@
 918;3112;918;Kwak Dong Shin;3,6;49;2024-04-30
 919;803;919;Maurizio Billi;3,5;66;2024-04-30
 920;665;920;Andrej Babis;3,5;69;2024-04-30
-921;1012;921;Jacques D  Amours;3,5;67;2024-04-30
+921;1012;921;Jacques D Amours;3,5;67;2024-04-30
 922;622;922;Mikhail Shelkov;3,5;55;2024-04-30
 923;1097;923;Bruce Flatt;3,5;58;2024-04-30
 924;1470;924;Venu Srinivasan;3,5;71;2024-04-30
@@ -1235,7 +1235,7 @@
 1234;1385;1234;Kavitark Ram Shriram;2,7;67;2024-04-30
 1235;1115;1235;Vincent McMahon;2,7;78;2024-04-30
 1236;1361;1236;Thomas James;2,7;81;2024-04-30
-1237;1117;1237;Denis O  Brien;2,7;66;2024-04-30
+1237;1117;1237;Denis O Brien;2,7;66;2024-04-30
 1238;342;1238;Liu Jincheng;2,7;59;2024-04-30
 1239;1318;1239;Lirio Parisotto;2,7;70;2024-04-30
 1240;1175;1240;Hans Georg Naeder;2,7;62;2024-04-30
@@ -1411,7 +1411,7 @@
 1410;1143;1410;David Baszucki;2,4;61;2024-04-30
 1411;1366;1411;Solomon Lew;2,4;79;2024-04-30
 1412;772;1412;Wang Yanqing;2,4;58;2024-04-30
-1413;2687;1413;Ernest Garcia  III;2,4;42;2024-04-30
+1413;2687;1413;Ernest Garcia III;2,4;42;2024-04-30
 1414;1834;1414;Andreas Pohl;2,4;59;2024-04-30
 1415;1375;1415;Ni Yongpei;2,4;72;2024-04-30
 1416;1367;1416;Liang Xinjun;2,4;55;2024-04-30
@@ -1809,7 +1809,7 @@
 1808;1677;1808;Suh Kyung-bae;1,8;61;2024-04-30
 1809;1664;1809;Maike Oberwelland-Height;1,8;;2024-04-30
 1810;1534;1810;Otto Toto Sugiri;1,8;70;2024-04-30
-1811;2036;1811;Manfredi Lefebvre d  Ovidio;1,8;71;2024-04-30
+1811;2036;1811;Manfredi Lefebvre d Ovidio;1,8;71;2024-04-30
 1812;1719;1812;Jay Hennick;1,8;67;2024-04-30
 1813;1742;1813;Duncan MacMillan;1,8;86;2024-04-30
 1814;1886;1814;Zadik Bino;1,8;80;2024-04-30

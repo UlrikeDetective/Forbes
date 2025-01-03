@@ -1,4 +1,4 @@
-﻿ID;User_ID;Table_rank_2022;Person;net_worth_in_BillionUSD_2022;Age_of_person_2022;date_of_year
+﻿ID;User_ID;Table_rank_2022;Person;net_worth_in_BillionUSD_2022;Age_of_person_2022;year
 1;2;1;Elon Musk;219,00;50;2022
 2;3;2;Jeff Bezos;171,00;58;2022
 3;1;3;Bernard Arnault;158,00;73;2022
@@ -428,7 +428,7 @@
 427;442;424;Fredrik Lundberg;6,00;70;2022
 428;241;424;John Morris;6,00;74;2022
 429;284;424;Ivar Tollefsen;6,00;60;2022
-430;2629;424;John  Alan and Bruce Wilson;6,00;64;2022
+430;2629;424;John Alan and Bruce Wilson;6,00;64;2022
 431;391;431;Stephen Bisciotti;5,90;61;2022
 432;480;431;Mahendra Choksi;5,90;80;2022
 433;393;431;Jian Jun;5,90;58;2022
@@ -466,7 +466,7 @@
 465;621;460;Joe Mansueto;5,70;65;2022
 466;608;460;Odd Reitan;5,70;70;2022
 467;433;460;Antony Ressler;5,70;60;2022
-468;1393;460;Tang Xiao  ou;5,70;54;2022
+468;1393;460;Tang Xiao ou;5,70;54;2022
 469;522;460;Tse Ping;5,70;70;2022
 470;683;460;Ken Xie;5,70;59;2022
 471;253;471;Tilman Fertitta;5,60;64;2022
@@ -790,7 +790,7 @@
 789;872;778;Pablo Legorreta;3,80;58;2022
 790;819;778;Margarita Louis-Dreyfus;3,80;59;2022
 791;427;778;Michael Milken;3,80;75;2022
-792;1117;778;Denis O  Brien;3,80;63;2022
+792;1117;778;Denis O Brien;3,80;63;2022
 793;954;778;Katharina Otto-Bernstein;3,80;58;2022
 794;2667;778;James Packer;3,80;54;2022
 795;475;778;Sergio Stevanato;3,80;79;2022
@@ -957,7 +957,7 @@
 956;1093;951;Jack Cowin;3,20;79;2022
 957;805;951;Giuseppe Crippa;3,20;86;2022
 958;901;951;Sergei Galitsky;3,20;54;2022
-959;2687;951;Ernest Garcia  III;3,20;39;2022
+959;2687;951;Ernest Garcia III;3,20;39;2022
 960;870;951;Peter Gilgan;3,20;71;2022
 961;740;951;Joseph Grendys;3,20;60;2022
 962;649;951;Thomas Hagen;3,20;86;2022
@@ -1247,7 +1247,7 @@
 1246;2715;1238;Chuchat Petaumpai and Daonapa Petampai;2,50;69;2022
 1247;1203;1238;Leon G. Cooperman;2,50;78;2022
 1248;1051;1238;Smita Crishna-Godrej;2,50;71;2022
-1249;1012;1238;Jacques D  Amours;2,50;65;2022
+1249;1012;1238;Jacques D Amours;2,50;65;2022
 1250;1153;1238;Maria Del Pino;2,50;66;2022
 1251;2135;1238;Yoichi Erikawa;2,50;64;2022
 1252;1254;1238;Gerald Ford;2,50;77;2022
@@ -2012,7 +2012,7 @@
 2011;1732;1929;Lai Jianfa;1,50;52;2022
 2012;3057;1929;Manuel Lao Hernandez;1,50;77;2022
 2013;2819;1929;Lee Joon-ho;1,50;57;2022
-2014;2036;1929;Manfredi Lefebvre d  Ovidio;1,50;68;2022
+2014;2036;1929;Manfredi Lefebvre d Ovidio;1,50;68;2022
 2015;2038;1929;Li Jinyang;1,50;64;2022
 2016;2820;1929;Li Ming;1,50;64;2022
 2017;2288;1929;Zhen Li;1,50;58;2022

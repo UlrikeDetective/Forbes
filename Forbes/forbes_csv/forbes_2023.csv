@@ -1,4 +1,4 @@
-﻿ID;User_ID;Table_rank_2023;Person;net_worth_in_BillionUSD_2023;Age_of_person_2023;date_of_year
+﻿ID;User_ID;Table_rank_2023;Person;net_worth_in_BillionUSD_2023;Age_of_person_2023;year
 1;1;1;Bernard Arnault;211,00;74;2023
 2;2;2;Elon Musk;180,00;51;2023
 3;3;3;Jeff Bezos;114,00;59;2023
@@ -1031,7 +1031,7 @@
 1030;3028;1027;Roy Carroll II;2,90;60;2023
 1031;1010;1027;John Caudwell;2,90;70;2023
 1032;1011;1027;James Clark;2,90;79;2023
-1033;1012;1027;Jacques D  Amours;2,90;66;2023
+1033;1012;1027;Jacques D Amours;2,90;66;2023
 1034;1013;1027;John Paul DeJoria;2,90;78;2023
 1035;1014;1027;Bernard Ecclestone;2,90;92;2023
 1036;1015;1027;Michael Federmann;2,90;79;2023
@@ -1139,7 +1139,7 @@
 1138;1114;1104;Liang Yunchao;2,70;54;2023
 1139;1115;1104;Vincent McMahon;2,70;77;2023
 1140;1116;1104;Patrice Motsepe;2,70;61;2023
-1141;1117;1104;Denis O  Brien;2,70;64;2023
+1141;1117;1104;Denis O Brien;2,70;64;2023
 1142;1118;1104;Timm Oberwelland;2,70;N/A;2023
 1143;1119;1104;Dan Olsson;2,70;76;2023
 1144;1120;1104;Yuji Otsuka;2,70;69;2023
@@ -1418,7 +1418,7 @@
 1417;1390;1368;Teresita Sy-Coson;2,20;72;2023
 1418;1391;1368;Katsumi Tada;2,20;77;2023
 1419;1392;1368;Tang Jinkui;2,20;67;2023
-1420;1393;1368;Tang Xiao  ou;2,20;55;2023
+1420;1393;1368;Tang Xiao ou;2,20;55;2023
 1421;1394;1368;Lottie Tham;2,20;73;2023
 1422;1395;1368;Shamsheer Vayalil;2,20;46;2023
 1423;1396;1368;Radha Vembu;2,20;50;2023
@@ -2063,7 +2063,7 @@
 2062;2033;2020;Raymond Kwok;1,40;69;2023
 2063;2034;2020;Lee Ho-jin;1,40;60;2023
 2064;2035;2020;Michael Lee-Chin;1,40;72;2023
-2065;2036;2020;Manfredi Lefebvre d  Ovidio;1,40;69;2023
+2065;2036;2020;Manfredi Lefebvre d Ovidio;1,40;69;2023
 2066;2037;2020;Bernard Lewis;1,40;97;2023
 2067;2038;2020;Li Jinyang;1,40;N/A;2023
 2068;2039;2020;William Li;1,40;48;2023

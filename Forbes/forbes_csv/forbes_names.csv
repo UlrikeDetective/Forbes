@@ -117,7 +117,7 @@ Charoen Sirivadhanabhakdi;115;Alcohol;Food and Beverage;male;Bangkok;;Thailand;A
 Charlene de Carvalho-Heineken;116;Heineken;Food and Beverage;female;London;;UK;Europe;Netherlands;FALSE
 Xu Hang;117;Medical devices;Healthcare;male;Shenzhen;;China;Asia;China;TRUE
 Wei Jianjun;118;Automobiles;Automotive;male;Baoding;;China;Asia;China;TRUE
-Alisher Usmanov;119;Steel  telecom;Metals and Mining;male;Moscow;;Russia;Europe;Russia;TRUE
+Alisher Usmanov;119;Steel telecom;Metals and Mining;male;Moscow;;Russia;Europe;Russia;TRUE
 Goh Cheng Liang;120;Paint;Manufacturing;male;Singapore;;Singapore;Asia;Singapore;TRUE
 Kumar Birla;121;Commodities;Diversified;male;Mumbai;;India;Asia;India;FALSE
 Aliko Dangote;122;Cement;Manufacturing;male;Lagos;;Nigeria;Africa;Nigeria;TRUE
@@ -305,7 +305,7 @@ Steven Rales;303;Manufacturing;Manufacturing;male;Santa Barbara;California;USA;N
 Nassef Sawiris;304;Construction;Construction and Engineering;male;Cairo;;Egypt;Africa;Egypt;FALSE
 Harry Stine;305;Agriculture;Food and Beverage;male;Adel;Iowa;USA;North America;USA;TRUE
 Benu Gopal Bangur;306;Cement;Manufacturing;male;Kolkata;;India;Asia;India;FALSE
-Iskander Makhmudov;307;Mining  metals;Metals and Mining;male;Moscow;;Russia;Europe;Russia;TRUE
+Iskander Makhmudov;307;Mining metals;Metals and Mining;male;Moscow;;Russia;Europe;Russia;TRUE
 Anders Holch Povlsen;308;Fashion retail;Fashion and Retail;male;Aarhus;;Denmark;Europe;Denmark;FALSE
 Enrique Razon jr;309;Ports;Logistics;male;Manila;;Philippines;Asia;Philippines;FALSE
 Wang Laichun;310;Electronics components;Technology;female;Shenzhen;;China;Asia;China;TRUE
@@ -392,7 +392,7 @@ Carl Bennet;390;Investments;Finance and Investments;male;Gothenburg;;Sweden;Euro
 Stephen Bisciotti;391;Staffing;Sports;male;Millersville;Maryland;USA;North America;USA;TRUE
 Stanley Druckenmiller;392;Hedge funds;Finance and Investments;male;New York City;New York;USA;North America;USA;TRUE
 Jian Jun;393;Biomedical products;Healthcare;male;Beijing;;China;Asia;China;TRUE
-Alexei Kuzmichev;394;Oil  banking;Energy;male;London;;UK;Europe;Russia;TRUE
+Alexei Kuzmichev;394;Oil banking;Energy;male;London;;UK;Europe;Russia;TRUE
 Dmitry Rybolovlev;395;Fertilizer;Manufacturing;male;Monte Carlo;;Monaco;Europe;Russia;TRUE
 Luis Carlos Sarmiento;396;Banking;Finance and Investments;male;Bogota;;Colombia;South America;Colombia;TRUE
 Dennis Washington;397;Construction;Logistics;male;Missoula;Montana;USA;North America;USA;TRUE
@@ -821,7 +821,7 @@ Margarita Louis-Dreyfus;819;Commodities;Food and Beverage;female;Davos;;Switzerl
 Prasert Prasarttong-Osoth;820;Hospitals;Healthcare;male;Bangkok;;Thailand;Asia;Thailand;TRUE
 Ira Rennert;821;Investments;Finance and Investments;male;New York City;New York;USA;North America;USA;TRUE
 Dirk Rossmann;822;Drugstores;Fashion and Retail;male;;;Germany;Europe;Germany;TRUE
-Arkady Rotenberg;823;Construction  pipes;Construction and Engineering;male;Moscow;;Russia;Europe;Russia;TRUE
+Arkady Rotenberg;823;Construction pipes;Construction and Engineering;male;Moscow;;Russia;Europe;Russia;TRUE
 Remo Ruffini;824;Winter jackets;Fashion and Retail;male;Como;;Italy;Europe;Italy;TRUE
 Karin Sartorius-Herbst;825;Biopharmaceuticals;Healthcare;female;;;Germany;Europe;Germany;FALSE
 Vivek Chaand Sehgal;826;Auto parts;Automotive;male;Delhi;;India;Asia;Australia;TRUE
@@ -921,7 +921,7 @@ Isabella Seragnoli;919;Packaging;Manufacturing;female;;;Italy;Europe;;
 Shen Guojun;920;Retail;Fashion and Retail;male;Beijing;;China;Asia;China;TRUE
 Warren Stephens;921;Investment banking;Finance and Investments;male;Little Rock;Arkansas;USA;North America;USA;FALSE
 Pat Stryker;922;Medical equipment;Healthcare;female;Fort Collins;Colorado;USA;North America;USA;FALSE
-Roman Trotsenko;923;Transport  engineering;Logistics;male;Moscow;;Russia;Europe;Russia;TRUE
+Roman Trotsenko;923;Transport engineering;Logistics;male;Moscow;;Russia;Europe;Russia;TRUE
 Harald Tschira;924;Software;Technology;male;;;Germany;Europe;;
 Udo Tschira;925;Software;Technology;male;;;Germany;Europe;;
 Vincent Viola;926;Electronic trading;Finance and Investments;male;New York City;New York;USA;North America;USA;TRUE
@@ -1010,7 +1010,7 @@ Alberto Bombassei;1008;Automotive brakes;Automotive;male;Bergamo;;Italy;Europe;I
 Cao Longxiang;1009;Pharmaceuticals;Healthcare;male;Taixing;;China;Asia;China;TRUE
 John Caudwell;1010;Mobile phones;Telecom;male;Stoke-on-Trent;;UK;Europe;UK;TRUE
 James Clark;1011;Netscape;Technology;male;Palm Beach;Florida;USA;North America;USA;TRUE
-Jacques D  Amours;1012;Convenience stores;Fashion and Retail;male;Montreal;;Canada;North America;Canada;TRUE
+Jacques D Amours;1012;Convenience stores;Fashion and Retail;male;Montreal;;Canada;North America;Canada;TRUE
 John Paul DeJoria;1013;Hair products;Fashion and Retail;male;Austin;Texas;USA;North America;USA;TRUE
 Bernard Ecclestone;1014;Formula One;Sports;male;London;;UK;Europe;UK;TRUE
 Michael Federmann;1015;Defense;Technology;male;Tel Aviv;;Israel;Asia;Israel;TRUE
@@ -1115,7 +1115,7 @@ Li Zhongchu;1113;Software;Technology;male;Beijing;;China;Asia;China;TRUE
 Liang Yunchao;1114;Nutritional supplements;Food and Beverage;male;Guangzhou;;China;Asia;China;TRUE
 Vincent McMahon;1115;Entertainment;Sports;male;Greenwich;Connecticut;USA;North America;USA;TRUE
 Patrice Motsepe;1116;Mining;Metals and Mining;male;Johannesburg;;South Africa;Africa;South Africa;TRUE
-Denis O  Brien;1117;Telecom;Telecom;male;Dublin;;Ireland;Europe;Ireland;TRUE
+Denis O Brien;1117;Telecom;Telecom;male;Dublin;;Ireland;Europe;Ireland;TRUE
 Timm Oberwelland;1118;Candy;Food and Beverage;male;;;Germany;Europe;;
 Dan Olsson;1119;Diversified;Diversified;male;Gothenburg;;Sweden;Europe;Sweden;FALSE
 Yuji Otsuka;1120;Copy machines;Technology;male;Tokyo;;Japan;Asia;Japan;FALSE
@@ -1391,7 +1391,7 @@ Harley Sy;1389;Diversified;Diversified;male;Manila;;Philippines;Asia;Philippines
 Teresita Sy-Coson;1390;Diversified;Diversified;female;Manila;;Philippines;Asia;Philippines;FALSE
 Katsumi Tada;1391;Real estate;Real Estate;male;Tokyo;;Japan;Asia;Japan;TRUE
 Tang Jinkui;1392;Textiles;Fashion and Retail;male;Suzhou;;China;Asia;China;TRUE
-Tang Xiao  ou;1393;Software;Technology;male;;;China;Asia;China;
+Tang Xiao ou;1393;Software;Technology;male;;;China;Asia;China;
 Lottie Tham;1394;HandM;Fashion and Retail;female;Stockholm;;Sweden;Europe;Sweden;FALSE
 Shamsheer Vayalil;1395;Healthcare;Healthcare;male;;;India;Asia;;
 Radha Vembu;1396;Business software;Technology;female;Chennai;;India;Asia;India;FALSE
@@ -1456,7 +1456,7 @@ Kiran Mazumdar-Shaw;1454;Biopharmaceuticals;Healthcare;female;Bangalore;;India;A
 Nirmal Minda;1455;Auto parts;Automotive;male;Gurgaon;;India;Asia;India;FALSE
 Mu Rongjun;1456;E-commerce;Technology;male;Beijing;;China;Asia;China;TRUE
 Eugene Murtagh;1457;Building materials;Manufacturing;male;Kingscourt;;Ireland;Europe;Ireland;TRUE
-Alexander Nesis;1458;Metals  banking;Finance and Investments;male;Moscow;;Russia;Europe;Russia;TRUE
+Alexander Nesis;1458;Metals banking;Finance and Investments;male;Moscow;;Russia;Europe;Russia;TRUE
 Ni Zugen;1459;Appliances;Manufacturing;male;Suzhou;;China;Asia;China;TRUE
 Florentino Perez;1460;Construction;Construction and Engineering;male;Madrid;;Spain;Europe;Spain;TRUE
 Victor Pinchuk;1461;Steel pipes;Metals and Mining;male;Kiev;;Ukraine;Europe;Ukraine;TRUE
@@ -2034,7 +2034,7 @@ Kwek Leng Peck;2032;Diversified;Diversified;male;Singapore;;Singapore;Asia;Singa
 Raymond Kwok;2033;Real estate;Real Estate;male;Hong Kong;;China;Asia;China;FALSE
 Lee Ho-jin;2034;Diversified;Diversified;male;Seoul;;South Korea;Asia;South Korea;FALSE
 Michael Lee-Chin;2035;Mutual funds;Finance and Investments;male;Burlington;;Canada;North America;Canada;TRUE
-Manfredi Lefebvre d  Ovidio;2036;Cruises;Service;male;;;Italy;Europe;;
+Manfredi Lefebvre d Ovidio;2036;Cruises;Service;male;;;Italy;Europe;;
 Bernard Lewis;2037;Fashion retailer;Fashion and Retail;male;London;;UK;Europe;UK;TRUE
 Li Jinyang;2038;Mining;Metals and Mining;female;;;China;Asia;;
 William Li;2039;Electric vehicles;Automotive;male;Beijing;;China;Asia;China;TRUE
@@ -2627,7 +2627,7 @@ Vicky Safra;2625;banking;Finance and Investments;female;Crans Montana;;Switzerla
 Zhou Qunfei;2626;smartphone screens;Technology;male;Hong Kong;;China;Asia;China;TRUE
 Axel Oberwelland;2627;candy;Food and Beverage;male;;;Germany;Europe;;
 Edward Johnson IV.;2628;money management;Finance and Investments;male;;;USA;North America;;
-John  Alan and Bruce Wilson;2629;retailing;Fashion and Retail;male;;;Australia;Australia;;
+John Alan and Bruce Wilson;2629;retailing;Fashion and Retail;male;;;Australia;Australia;;
 Teh Hong Piow;2630;banking;Finance and Investments;male;Kuala Lumpur;;Malaysia;Asia;Malaysia;TRUE
 Gary Wang;2631;Cryptocurrency;Finance and Investments;male;;;USA;North America;;
 Joshua Harris;2632;private equity;Finance and Investments;male;New York City;New York;USA;North America;USA;TRUE
@@ -2685,7 +2685,7 @@ An Kang;2683;pharmaceuticals;Healthcare;male;Xinxiang;;China;Asia;China;TRUE
 Dongsheng Chen;2684;insurance;Finance and Investments;male;;;China;Asia;;
 Zhang Shilong;2685;semiconductor;Technology;male;Beijing;;China;Asia;China;TRUE
 Dongchen Cai;2686;pharmaceuticals;Healthcare;male;;;China;Asia;;
-Ernest Garcia  III;2687;used cars;Automotive;male;;;USA;North America;;
+Ernest Garcia III;2687;used cars;Automotive;male;;;USA;North America;;
 Rudy Ma;2688;finance;Finance and Investments;male;Tawau;;Malaysia;Asia;Taiwan;TRUE
 Candido Pinheiro Koren de Lima;2689;hospitals;Healthcare;male;Fortaleza;;Brazil;South America;Brazil;TRUE
 Sebastian Siemiatkowski;2690;fintech;Finance and Investments;male;Stockholm;;Sweden;Europe;Sweden;TRUE
@@ -3089,7 +3089,7 @@ Lalit Khaitan;3087;Alcohol;Food and Beverage;male;;;India;Asia;;
 Benny Suherman;3088;Cinemas;Media and Entertainment;male;;;Indonesia;Asia;;
 Pradeep Rathod;3089;Plastic products;Manufacturing;male;;;India;Asia;;
 Takanori Nakamura;3090;Cloud computing;Technology;male;Tokyo;;Japan;Asia;Japan;TRUE
-Taavet Hinrikus;3091;payments  banking;Finance and Investments;male;;;Estonia;Europe;;
+Taavet Hinrikus;3091;payments banking;Finance and Investments;male;;;Estonia;Europe;;
 Weijian Shan;3092;private equity;Finance and Investments;male;;;China;Asia;China;
 John Lim;3093;real estate;Real Estate;male;;;Singapore;Asia;;
 Jeff Sprecher;3094;Stock exchange;Finance and Investments;male;;;USA;North America;;
@@ -3758,3 +3758,11 @@ Liu Yiqian;3756;Investments;Finance and Investments;male;Shanghai;;China;Asia;Ch
 Rajat Agrawal;3757;recycling;Service;male;Jaipur;;India;Asia;India;TRUE
 Vivek Ramaswamy;3758;Investments;Finance and Investments;male;New York City;New York;USA;North America;USA;TRUE
 Dariusz Milek;3759;Shoes;Fashion and Retail;male;Chrostnik;;Poland;Europe;Poland;TRUE
+Mitchell Morgan;3760;Real estate;Real Estate;male;Bryn Mawr;Pennsylvania;USA;North America;USA;TRUE
+Mao Geping;3761;cosmetics;Fashion and Retail;male;Hangzhou;;China;Asia;China;TRUE
+John Morgan;3762;personal injury law;Service;male;Lake Mary;Florida;USA;North America;USA;TRUE
+Herald Chen;3763;mobile games;Media and Entertainment;male;;;USA;North America;USA;
+Venkateswarlu Jasti;3764;Pharmaceuticals;Healthcare;male;;;India;Asia;India;
+Brian Hill;3765;;;male;;;Canada;North America;Canada;
+Akshay Arora;3766;Pharmaceuticals;Healthcare;male;Mumbai;;India;Asia;India;
+Martine Rothblatt;3767;Pharmaceuticals;Healthcare;female;Satellite Beach;Florida;USA;North America;USA;TRUE

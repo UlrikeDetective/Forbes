@@ -1,4 +1,4 @@
-﻿ID;User_ID;Table_rank_2024_05;Person;net_worth_inBillionUSD_2024_05;Age_of_person_2024_05;Date_of_data
+﻿ID;User_ID;Table_rank_2024_05;Person;net_worth_inBillionUSD_2024_05;Age_of_person_2024_05;Date
 1;2;1;Elon Musk;210,3;52;2024-05-31
 2;1;2;Bernard Arnault;201,6;75;2024-05-31
 3;3;3;Jeff Bezos;194,7;60;2024-05-31
@@ -884,7 +884,7 @@
 883;824;883;Remo Ruffini;3,7;62;2024-05-31
 884;938;884;Charles Edelstenne;3,7;86;2024-05-31
 885;764;885;Shigenobu Nagamori;3,7;79;2024-05-31
-886;1012;886;Jacques D  Amours;3,7;67;2024-05-31
+886;1012;886;Jacques D Amours;3,7;67;2024-05-31
 887;636;887;Jay Paul;3,7;76;2024-05-31
 888;752;888;Hayes Barnard;3,7;52;2024-05-31
 889;1186;889;Anna Katharina Viessmann;3,7;;2024-05-31
@@ -1169,7 +1169,7 @@
 1168;991;1168;Maja Oeri;2,9;69;2024-05-31
 1169;1054;1169;Lorenzo Fertitta;2,9;55;2024-05-31
 1170;1171;1170;Lu Weiding;2,9;53;2024-05-31
-1171;2687;1171;Ernest Garcia  III;2,9;42;2024-05-31
+1171;2687;1171;Ernest Garcia III;2,9;42;2024-05-31
 1172;1116;1172;Patrice Motsepe;2,9;62;2024-05-31
 1173;1041;1173;Daniel Sundheim;2,9;47;2024-05-31
 1174;936;1174;Kuldip Singh Dhingra;2,9;76;2024-05-31
@@ -1235,7 +1235,7 @@
 1234;1017;1234;Gu Yuhua;2,7;74;2024-05-31
 1235;990;1235;Gilles Martin;2,7;60;2024-05-31
 1236;3041;1236;Qian Dongqi;2,7;66;2024-05-31
-1237;1117;1237;Denis O  Brien;2,7;66;2024-05-31
+1237;1117;1237;Denis O Brien;2,7;66;2024-05-31
 1238;1206;1238;Oleg Deripaska;2,7;56;2024-05-31
 1239;817;1239;Leng Youbin;2,7;55;2024-05-31
 1240;1200;1240;Cheng Yixiao;2,7;40;2024-05-31
@@ -1788,7 +1788,7 @@
 1787;3030;1787;Huang Zhenda;1,8;76;2024-05-31
 1788;1584;1788;Somsri Lamsam;1,8;68;2024-05-31
 1789;2016;1789;Christoph Henkel;1,8;66;2024-05-31
-1790;2036;1790;Manfredi Lefebvre d  Ovidio;1,8;71;2024-05-31
+1790;2036;1790;Manfredi Lefebvre d Ovidio;1,8;71;2024-05-31
 1791;1344;1791;Sezai Bacaksiz;1,8;74;2024-05-31
 1792;2149;1792;Conni Jonsson;1,8;63;2024-05-31
 1793;1398;1793;Wang Zhenghua;1,8;80;2024-05-31
