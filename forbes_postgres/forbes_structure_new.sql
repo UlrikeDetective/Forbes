@@ -1,6 +1,3 @@
-CREATE DATABASE forbes;
-\c forbes;
-
 -- Drop database forbes_new;
 
 -- Enable loading data from files
@@ -181,6 +178,16 @@ CREATE TABLE forbes_2024_11 (
     Date_of_data DATE
 );
 
+CREATE TABLE forbes_2024_12 (
+    ID SERIAL PRIMARY KEY,
+    User_ID INT UNIQUE REFERENCES forbes_names(ID),
+    Table_rank_2024_12 INT NOT NULL,
+    Person VARCHAR(150) NOT NULL UNIQUE,
+    Net_worth_in_BillionUSD_2024_12 DECIMAL(8, 2),
+    Age_of_person_2024_12 INT,
+    Date_of_data DATE
+);
+
 DROP TABLE IF EXISTS forbes_location CASCADE;
 
 CREATE TABLE forbes_location (
@@ -220,7 +227,7 @@ COPY forbes_names(Person, ID, Business, Industry, Gender, City, State, Country_o
 FROM '/path_to_file/forbes_names.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2021(ID, User_ID, Table_rank_2021, Person, Net_worth_in_BillionUSD_2021, Age_of_person_2021, date_of_year)
-FROM '/path_to_file/forbes_2021.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2021n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2022(ID, User_ID, Table_rank_2022, Person, Net_worth_in_BillionUSD_2022, Age_of_person_2022, date_of_year)
 FROM '/path_to_file/forbes_2022.csv' DELIMITER ';' CSV HEADER;
