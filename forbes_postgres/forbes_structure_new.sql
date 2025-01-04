@@ -224,19 +224,19 @@ CREATE TABLE forbes_companies (
 -- Load data from CSV files
 -- Adjust the file paths as necessary
 COPY forbes_names(Person, ID, Business, Industry, Gender, City, State, Country_of_residence, Continent, Citizenship, Self_made)
-FROM '/path_to_file/forbes_names.csv' DELIMITER ';' CSV HEADER;
+FROM '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_names.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2021(ID, User_ID, Table_rank_2021, Person, Net_worth_in_BillionUSD_2021, Age_of_person_2021, date_of_year)
 FROM '/path_to_file/forbes_2021n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2022(ID, User_ID, Table_rank_2022, Person, Net_worth_in_BillionUSD_2022, Age_of_person_2022, date_of_year)
-FROM '/path_to_file/forbes_2022.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2022n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2023(ID, User_ID, Table_rank_2023, Person, Net_worth_in_BillionUSD_2023, Age_of_person_2023, date_of_year)
-FROM '/path_to_file/forbes_2023.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2023n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_01(ID, User_ID, Table_rank_2024_01, Person, Net_worth_in_BillionUSD_2024_01, Age_of_person_2024_01, Date_of_data)
-FROM '/path_to_file/forbes_2024_01.csv' DELIMITER ';' CSV HEADER;
+FROM '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_01.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_02(ID, User_ID, Table_rank_2024_02, Person, Net_worth_in_BillionUSD_2024_02, Age_of_person_2024_02, Date_of_data)
 FROM '/path_to_file/forbes_2024_02.csv' DELIMITER ';' CSV HEADER;
