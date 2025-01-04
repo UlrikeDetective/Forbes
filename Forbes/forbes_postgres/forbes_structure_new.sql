@@ -19,6 +19,7 @@ DROP TABLE IF EXISTS forbes_2024_08 CASCADE;
 DROP TABLE IF EXISTS forbes_2024_09 CASCADE;
 DROP TABLE IF EXISTS forbes_2024_10 CASCADE;
 DROP TABLE IF EXISTS forbes_2024_11 CASCADE;
+DROP TABLE IF EXISTS forbes_2024_12 CASCADE;
 DROP TABLE IF EXISTS forbes_location CASCADE;
 DROP TABLE IF EXISTS forbes_employees CASCADE;
 DROP TABLE IF EXISTS forbes_companies CASCADE;
@@ -224,7 +225,7 @@ CREATE TABLE forbes_companies (
 -- Load data from CSV files
 -- Adjust the file paths as necessary
 COPY forbes_names(Person, ID, Business, Industry, Gender, City, State, Country_of_residence, Continent, Citizenship, Self_made)
-FROM '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_names.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_names.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2021(ID, User_ID, Table_rank_2021, Person, Net_worth_in_BillionUSD_2021, Age_of_person_2021, date_of_year)
 FROM '/path_to_file/forbes_2021n.csv' DELIMITER ';' CSV HEADER;
@@ -245,28 +246,31 @@ COPY forbes_2024_03(ID, User_ID, Table_rank_2024_03, Person, Net_worth_in_Billio
 FROM '/path_to_file/forbes_2024_03n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_04(ID, User_ID, Table_rank_2024_04, Person, Net_worth_in_BillionUSD_2024_04, Age_of_person_2024_04, Date_of_data)
-FROM '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_04.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2024_04n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_05(ID, User_ID, Table_rank_2024_05, Person, Net_worth_in_BillionUSD_2024_05, Age_of_person_2024_05, Date_of_data)
-FROM '/path_to_file/forbes_2024_05.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2024_05n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_06(ID, User_ID, Table_rank_2024_06, Person, Net_worth_in_BillionUSD_2024_06, Age_of_person_2024_06, Date_of_data)
-FROM '/path_to_file/forbes_2024_06.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2024_06n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_07(ID, User_ID, Table_rank_2024_07, Person, Net_worth_in_BillionUSD_2024_07, Age_of_person_2024_07, Date_of_data)
-FROM '/path_to_file/forbes_2024_07.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2024_07n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_08(ID, User_ID, Table_rank_2024_08, Person, Net_worth_in_BillionUSD_2024_08, Age_of_person_2024_08, Date_of_data)
-FROM '/path_to_file/forbes_2024_08.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2024_08n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_09(ID, User_ID, Table_rank_2024_09, Person, Net_worth_in_BillionUSD_2024_09, Age_of_person_2024_09, Date_of_data)
-FROM '/path_to_file/forbes_2024_09.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2024_09n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_10(ID, User_ID, Table_rank_2024_10, Person, Net_worth_in_BillionUSD_2024_10, Age_of_person_2024_10, Date_of_data)
-FROM '/path_to_file/forbes_2024_10.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2024_10n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_11(ID, User_ID, Table_rank_2024_11, Person, Net_worth_in_BillionUSD_2024_11, Age_of_person_2024_11, Date_of_data)
-FROM '/path_to_file/forbes_2024_11.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2024_11n.csv' DELIMITER ';' CSV HEADER;
+
+COPY forbes_2024_12(ID, User_ID, Table_rank_2024_12, Person, Net_worth_in_BillionUSD_2024_12, Age_of_person_2024_12, Date_of_data)
+FROM '/path_to_file/forbes_2024_12n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_location(ID_location, City, US_State, Country, Continent, latitude, longitude)
 FROM '/path_to_file/forbes_data_with_coordinates2.csv' DELIMITER ';' CSV HEADER;

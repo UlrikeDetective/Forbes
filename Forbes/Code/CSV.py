@@ -1,8 +1,8 @@
 import csv
 
 # Input and output CSV files
-input_file = 'Forbes/forbes_csv/forbes_2024_12.csv'
-output_file = 'Forbes/forbes_csv/forbes_2024_12n.csv'
+input_file = 'Forbes/forbes_csv/forbes_2023.csv'
+output_file = 'Forbes/forbes_csv/forbes_2023n.csv'
 
 with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', encoding='utf-8', newline='') as outfile:
     reader = csv.reader(infile, delimiter=';')
