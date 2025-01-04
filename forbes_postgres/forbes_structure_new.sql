@@ -236,16 +236,16 @@ COPY forbes_2023(ID, User_ID, Table_rank_2023, Person, Net_worth_in_BillionUSD_2
 FROM '/path_to_file/forbes_2023n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_01(ID, User_ID, Table_rank_2024_01, Person, Net_worth_in_BillionUSD_2024_01, Age_of_person_2024_01, Date_of_data)
-FROM '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_01.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2024_01n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_02(ID, User_ID, Table_rank_2024_02, Person, Net_worth_in_BillionUSD_2024_02, Age_of_person_2024_02, Date_of_data)
-FROM '/path_to_file/forbes_2024_02.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2024_02n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_03(ID, User_ID, Table_rank_2024_03, Person, Net_worth_in_BillionUSD_2024_03, Age_of_person_2024_03, Date_of_data)
-FROM '/path_to_file/forbes_2024_03.csv' DELIMITER ';' CSV HEADER;
+FROM '/path_to_file/forbes_2024_03n.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_04(ID, User_ID, Table_rank_2024_04, Person, Net_worth_in_BillionUSD_2024_04, Age_of_person_2024_04, Date_of_data)
-FROM '/path_to_file/forbes_2024_04.csv' DELIMITER ';' CSV HEADER;
+FROM '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2024_04.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2024_05(ID, User_ID, Table_rank_2024_05, Person, Net_worth_in_BillionUSD_2024_05, Age_of_person_2024_05, Date_of_data)
 FROM '/path_to_file/forbes_2024_05.csv' DELIMITER ';' CSV HEADER;
