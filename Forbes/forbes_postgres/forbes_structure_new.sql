@@ -189,6 +189,16 @@ CREATE TABLE forbes_2024_12 (
     Date_of_data DATE
 );
 
+CREATE TABLE forbes_2025_01 (
+    ID SERIAL PRIMARY KEY,
+    User_ID INT UNIQUE REFERENCES forbes_names(ID),
+    Table_rank_2025_01 INT NOT NULL,
+    Person VARCHAR(150) NOT NULL UNIQUE,
+    Net_worth_in_BillionUSD_2025_01 DECIMAL(8, 2),
+    Age_of_person_2025_01 INT,
+    Date_of_data DATE
+);
+
 DROP TABLE IF EXISTS forbes_location CASCADE;
 
 CREATE TABLE forbes_location (
@@ -225,7 +235,7 @@ CREATE TABLE forbes_companies (
 -- Load data from CSV files
 -- Adjust the file paths as necessary
 COPY forbes_names(Person, ID, Business, Industry, Gender, City, State, Country_of_residence, Continent, Citizenship, Self_made)
-FROM '/path_to_file/forbes_names.csv' DELIMITER ';' CSV HEADER;
+FROM '//Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_names.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_2021(ID, User_ID, Table_rank_2021, Person, Net_worth_in_BillionUSD_2021, Age_of_person_2021, date_of_year)
 FROM '/path_to_file/forbes_2021n.csv' DELIMITER ';' CSV HEADER;
@@ -272,6 +282,9 @@ FROM '/path_to_file/forbes_2024_11n.csv' DELIMITER ';' CSV HEADER;
 COPY forbes_2024_12(ID, User_ID, Table_rank_2024_12, Person, Net_worth_in_BillionUSD_2024_12, Age_of_person_2024_12, Date_of_data)
 FROM '/path_to_file/forbes_2024_12n.csv' DELIMITER ';' CSV HEADER;
 
+COPY forbes_2025_01(ID, User_ID, Table_rank_2025_01, Person, Net_worth_in_BillionUSD_2025_01, Age_of_person_2025_01, Date_of_data)
+FROM '/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Forbes/forbes_csv/forbes_2025_01n.csv' DELIMITER ';' CSV HEADER;
+
 COPY forbes_location(ID_location, City, US_State, Country, Continent, latitude, longitude)
 FROM '/path_to_file/forbes_data_with_coordinates2.csv' DELIMITER ';' CSV HEADER;
 
@@ -280,3 +293,5 @@ FROM '/path_to_file/forbes_employees_2024.csv' DELIMITER ';' CSV HEADER;
 
 COPY forbes_companies(rang, organizationName, country, revenue_USD_in_mio, profits_USD_in_mio, assets_USD_in_mio, marketValue_USD_in_mio)
 FROM '/path_to_file/Forbes_companies_mio_2024.csv' DELIMITER ';' CSV HEADER;
+
+select * from forbes_2025_01 limit 10;
