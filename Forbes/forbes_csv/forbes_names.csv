@@ -557,7 +557,7 @@ Chairul Tanjung;555;Diversified;Diversified;male;Jakarta;;Indonesia;Asia;Indones
 Kelcy Warren;556;Pipelines;Energy;male;Dallas;Texas;USA;North America;USA;TRUE
 Zhang Tao;557;E-commerce;Fashion and Retail;male;Beijing;;China;Asia;China;TRUE
 Michael Ashley;558;Sports retailing;Fashion and Retail;male;Hertfordshire;;UK;Europe;UK;TRUE
-Tomasz Biernacki;559;Supermarkets;Fashion and Retail;male;Krotoszyn;;Poland;Europe;Poland;TRUE
+Tomasz Biernacki;559;Supermarkets;Fashion and Retail;male;Krotoszyn,;;Poland;Europe;Poland;TRUE
 Bernard Broermann;560;Hospitals;Healthcare;male;Koenigstein;;Germany;Europe;Germany;TRUE
 Jimmy Haslam;561;Gas stations;Fashion and Retail;male;Knoxville;Tennessee;USA;North America;USA;FALSE
 H. Fisk Johnson;562;Cleaning products;Manufacturing;male;Racine;Wisconsin;USA;North America;USA;FALSE
@@ -3613,7 +3613,7 @@ Gennady Kozovoy;3611;coal mining;Metals and Mining;male;Mezhdurechensk;;Russia;E
 Lai Baosheng;3612;technology;Technology;male;Shenzhen;;China;Asia;China;TRUE
 Lai Guogui;3613;Machinery;Manufacturing;male;Hangzhou;;China;Asia;China;TRUE
 Lam Lung On;3614;Real estate;Real Estate;male;Xiamen;;China;Asia;China;TRUE
-Liu Shenghui;3615;infant formula;Food and Beverage;male;Tianjin;;China;Asia;China;TRUE
+Liu Shenghui;3615;infant formula,;Food and Beverage;male;Tianjin;;China;Asia;China;TRUE
 John Martin;3616;Pharmaceuticals;Healthcare;male;;;USA;North America;USA;TRUE
 John McConnell;3617;steel;Metals and Mining;male;Delaware;Ohio;USA;North America;USA;TRUE
 Madeleine Olsson Ericksson;3618;Diversified;Diversified;female;Gothenburg;;Sweden;Europe;Sweden;FALSE
@@ -3632,7 +3632,7 @@ Shin Dong-guk;3630;Pharmaceuticals;Healthcare;male;Seoul;;South Korea;Asia;South
 Edgar Sia II;3631;fast food;Food and Beverage;male;Manila;;Phillipines;Asia;Phillipines;TRUE
 Su Rubo;3632;Real estate;Real Estate;male;Foshan;;China;Asia;China;TRUE
 Sun Xishuang;3633;Real estate;Real Estate;male;Beijing;;China;Asia;China;TRUE
-Tan Eng Kee;3634;Factory automation equipment;Manufacturing;male;Penang;;Malaysia;Asia;Malaysia;TRUE
+Tan Eng Kee;3634;Factory automation equipment,;Manufacturing;male;Penang;;Malaysia;Asia;Malaysia;TRUE
 Tan Yu Wei;3635;retail;Fashion and Retail;male;Selangor;;Malaysia;Asia;Malaysia;TRUE
 Shirou Terashita;3636;investor relations consulting;Finance and Investments;male;Tokyo;;Japan;Asia;Japan;TRUE
 Wang Jianliang;3637;consumer technology;Technology;male;Shenzhen;;China;Asia;China;TRUE
@@ -3763,3 +3763,10 @@ Venkateswarlu Jasti;3761;Pharmaceuticals;Healthcare;male;;;India;Asia;India;
 Brian Hill;3762;;;male;;;Canada;North America;Canada;
 Akshay Arora;3763;Pharmaceuticals;Healthcare;male;Mumbai;;India;Asia;India;
 Martine Rothblatt;3764;Pharmaceuticals;Healthcare;female;Satellite Beach;Florida;USA;North America;USA;TRUE
+Tatyana Kim;3765;E-commerce;Fashion and Retail;female;;;Russia;Europe;Russia;TRUE
+Fernando De Leon;3766;Leon Capital Group;Diversified;male;Dallas;Texas;USA;North America;USA;TRUE
+Zhu Weisong;3767;online games;Media and Entertainment;male;Shanghai;;China;Asia;China;TRUE
+Walter Kortschak;3768;venture capital investing;Finance and Investments;male;;;USA;North America;USA;
+Chris Pavlovski;3769;video platform;Media and Entertainment;male;;;Canada;North America;Canada;TRUE
+Oran Holtzman;3770;Beauty and Technology;Diversified;male;;;USA;North America;USA;
+Anas Sefrioui;3771;Real estate;Real Estate;male;Casablanca;;Morocco;Africa;Morocco;TRUE
