@@ -1,0 +1,731 @@
+City,2021_total,2022_total,2023_total
+,913.20,1492.70,1732.80
+"New York City",543.60,599.80,576.60
+Beijing,428.50,215.10,200.70
+Moscow,416.40,215.70,353.40
+Shenzhen,410.20,244.70,214.50
+"Hong Kong",406.90,334.90,288.50
+Paris,316.40,324.80,383.80
+London,305.90,295.80,291.90
+Hangzhou,264.80,202.30,145.50
+"Palo Alto",254.90,237.30,194.10
+Mumbai,250.80,279.30,235.40
+Seattle,250.00,227.70,149.70
+Shanghai,239.30,128.80,101.40
+Austin,221.20,299.00,258.30
+"San Francisco",182.30,151.10,117.40
+Tokyo,164.30,97.40,99.40
+Singapore,144.10,92.50,96.50
+Medina,129.00,134.80,109.20
+Foshan,124.80,82.00,54.70
+"Mexico City",119.90,146.10,152.40
+Bentonville,119.70,131.20,116.40
+"Los Altos",107.70,130.80,95.60
+Seoul,105.40,97.60,73.70
+Bangkok,102.00,91.90,88.20
+"Los Angeles",100.20,92.90,90.00
+Guangzhou,99.10,56.90,49.60
+Omaha,97.10,120.30,108.50
+Stockholm,93.20,84.50,72.20
+Lanai,93.00,106.00,107.00
+Delhi,89.10,98.10,82.80
+"La Coruna",84.30,65.40,84.20
+Taipei,79.50,156.70,96.40
+"Fort Worth",79.30,84.00,78.60
+Ahmedabad,75.80,114.00,73.20
+Milan,75.40,73.20,53.70
+"Hunts Point",70.70,93.60,82.70
+Ningbo,70.70,74.30,57.90
+"Sao Paulo",68.80,56.30,46.80
+"Palm Beach",64.90,63.50,69.70
+Toronto,64.50,74.20,73.40
+Chengdu,62.30,54.75,43.90
+Atlanta,60.70,57.70,61.20
+Houston,59.80,68.20,69.90
+Sydney,59.70,60.50,49.00
+Dallas,59.20,70.50,74.30
+Franklin,59.20,29.70,25.90
+Atherton,59.00,62.60,57.70
+Chicago,58.60,69.70,80.85
+Changsha,56.30,32.00,32.00
+Ningde,54.50,77.60,61.40
+Jackson,54.10,56.10,69.70
+Greenwich,53.30,57.00,54.10
+"Las Vegas",50.20,39.90,48.95
+Hillsboro,49.90,47.30,45.10
+Perth,49.70,53.50,52.20
+Istanbul,44.20,32.30,45.80
+Woodside,44.20,42.60,32.40
+"Monte Carlo",41.60,43.20,46.60
+Hamburg,41.40,36.90,39.00
+Kudus,40.20,45.50,47.30
+Geneva,39.20,46.80,94.70
+Santiago,39.00,35.70,36.40
+Boston,38.80,25.00,21.20
+Zurich,38.00,38.00,37.50
+"Beverly Hills",37.90,39.40,40.90
+"Tel Aviv",37.80,42.70,40.30
+Lianyungang,37.70,23.70,16.10
+Neckarsulm,36.90,47.10,42.90
+Manila,36.80,34.70,36.70
+"Kuala Lumpur",36.50,33.30,21.90
+Brussels,35.10,36.20,38.90
+"Rio de Janeiro",34.90,29.50,25.40
+Billund,34.80,32.80,26.80
+Chongqing,34.30,18.90,15.60
+Quanzhou,34.30,27.40,27.80
+Melbourne,34.10,32.50,29.70
+Jakarta,33.40,40.90,55.70
+Dubai,32.80,32.10,34.00
+Laval,32.50,39.90,37.40
+Vienna,31.80,33.60,29.00
+Bangalore,31.40,36.20,30.10
+"The Plains",31.30,31.70,38.30
+Osaka,29.30,26.00,22.60
+Vancouver,29.20,30.80,28.50
+Wujiang,28.80,24.70,13.30
+"Oklahoma City",27.80,34.20,33.40
+"Bad Homburg",27.70,24.30,27.40
+"Fuschl am See",26.90,27.40,NULL
+Schindellegi,26.30,37.30,39.10
+Madrid,26.10,21.40,25.00
+"Newport Beach",26.00,25.90,27.30
+Changzhou,24.60,23.90,21.00
+"East Setauket",24.60,28.60,28.10
+"Frankfurt am Main",24.40,20.70,24.60
+Denver,24.10,23.80,17.20
+Suzhou,24.10,22.20,18.80
+Montreal,23.80,24.60,25.10
+Naples,22.70,24.40,28.80
+Lagos,22.50,28.20,28.50
+Xiamen,22.10,11.00,13.30
+Tegernsee,22.00,23.80,23.00
+Honolulu,21.40,11.30,8.80
+Prague,21.20,27.60,30.60
+Milton,20.90,21.20,21.60
+"Miami Beach",20.40,22.60,24.20
+Tianjin,20.20,8.40,4.30
+Bielefeld,19.60,9.90,11.70
+"St. Louis",19.50,23.60,21.50
+Wenzhou,19.40,17.00,6.10
+Almaty,18.80,18.90,23.60
+Pune,18.80,31.50,29.80
+Herzogenaurach,18.60,10.10,12.80
+Hefei,18.50,12.30,13.90
+"San Jose",18.30,14.60,15.50
+Lucerne,17.80,18.10,12.80
+Monaco,17.70,16.00,14.50
+Gloucestershire,17.60,14.90,15.60
+Gstaad,17.40,16.70,17.80
+Heidelberg,17.40,13.10,14.10
+Miami,17.30,17.90,16.50
+"Saint Petersburg",16.90,12.30,16.50
+Baoding,16.80,15.50,14.50
+Kuenzelsau,16.80,19.00,29.70
+Hyderabad,16.70,15.70,12.10
+Cairo,16.60,16.20,17.10
+Electra,16.60,19.70,21.40
+Munich,16.20,14.90,13.70
+Phoenix,16.10,16.90,17.40
+Zug,16.10,18.20,16.20
+Gothenburg,16.00,15.90,12.10
+Tempe,15.90,8.60,3.00
+"Indian Creek",15.80,16.50,17.50
+Wuxi,15.50,10.80,10.00
+Irvine,15.30,8.00,9.90
+Amsterdam,15.20,13.40,12.10
+Berlin,15.20,10.70,8.40
+Nanjing,14.90,5.90,2.90
+"Santa Clara",14.90,5.20,3.40
+Cary,14.40,17.40,15.80
+Yinchuan,14.40,14.80,12.20
+Fuzhou,14.20,10.40,5.40
+Tonghua,14.10,3.80,2.60
+Newmarket,13.90,9.80,8.90
+Surrey,13.90,9.80,8.90
+Dongguan,13.50,8.70,3.90
+"Incline Village",13.50,12.90,10.20
+Melsungen,13.40,11.50,10.00
+Reno,13.40,16.50,10.90
+Aarhus,13.20,13.60,7.30
+Xi'an,13.00,15.40,10.60
+Jiaxing,12.90,15.40,7.50
+Brookline,12.80,12.30,13.50
+Kolkata,12.80,12.00,9.40
+"Grand Rapids",12.60,16.50,13.80
+Stoke-on-Trent,12.60,10.80,12.80
+Ottawa,12.40,8.40,7.60
+"Crans Montana",12.20,13.20,23.20
+Haverford,12.00,12.00,28.50
+Oslo,11.90,13.70,14.80
+Venice,11.90,6.30,2.50
+Zermatt,11.80,6.60,4.30
+Zhengzhou,11.50,5.30,5.20
+Bruchsal,11.40,12.10,3.90
+Lyon,11.30,10.60,10.00
+Magnitogorsk,11.20,6.60,10.20
+Hanoi,11.10,11.70,7.60
+Philadelphia,11.10,10.70,12.50
+Bogota,11.00,9.90,6.40
+"Bloomfield Hills",10.90,6.60,7.20
+Johannesburg,10.90,12.00,11.10
+Wuhan,10.90,6.40,6.50
+"Boca Raton",10.70,11.90,13.20
+Racine,10.70,9.90,14.40
+Kyoto,10.40,5.40,3.70
+Basel,10.30,12.00,9.50
+Newton,10.20,7.00,6.40
+"Cape Town",10.10,11.20,13.50
+Treviso,10.10,8.50,8.90
+Walldorf,10.10,5.30,4.50
+Helsinki,10.00,8.30,9.90
+Lima,10.00,7.80,2.50
+Shaoxing,10.00,8.00,8.30
+Bloomington,9.90,11.10,10.20
+Auckland,9.80,10.50,8.60
+Kohler,9.80,8.80,NULL
+Haiger,9.70,8.90,9.70
+Hisar,9.70,17.70,17.50
+Kiev,9.60,4.50,5.80
+"Wilen bei Wollerau",9.60,10.60,10.00
+Chennai,9.50,10.80,10.30
+"New South Wales",9.40,7.80,8.40
+Ulm,9.40,8.10,8.40
+Yekaterinburg,9.40,1.80,5.10
+Tulsa,9.20,13.40,16.50
+"Delray Beach",9.10,11.90,11.60
+Fiesole,9.10,5.40,6.70
+"Rolling Hills",9.10,5.60,6.70
+Ankara,9.00,6.10,6.30
+Dublin,9.00,8.40,7.30
+Yantai,9.00,3.30,4.50
+"Santa Barbara",8.90,8.40,7.40
+Langfang,8.80,4.50,6.30
+Potomac,8.80,9.80,10.40
+Taizhou,8.80,1.10,NULL
+Huizhou,8.70,8.40,6.90
+"St. Gallen",8.70,8.50,8.60
+Binzhou,8.60,9.40,8.40
+Katonah,8.60,8.60,6.70
+Valencia,8.50,7.70,7.00
+Missoula,8.40,8.90,8.40
+"Bal Harbour",8.30,9.00,8.60
+Humlebaek,8.20,7.20,5.80
+"Chevy Chase",8.10,8.20,4.00
+Afton,8.00,10.70,13.70
+Wilson,8.00,7.10,6.90
+Alexandria,7.80,7.90,9.60
+Elizabeth,7.80,7.40,9.20
+Lausanne,7.70,7.70,7.10
+Donetsk,7.60,4.20,5.70
+Nanchang,7.60,NULL,NULL
+Springfield,7.60,9.60,11.90
+Henderson,7.50,8.10,7.90
+Lexington,7.50,10.20,8.70
+"Oyster Bay",7.50,7.00,6.20
+"San Anselmo",7.40,6.10,5.00
+Shantou,7.30,1.20,2.60
+"Hobe Sound",7.20,8.90,8.90
+"Saddle River",7.20,6.10,7.80
+Feldmeilen,7.10,7.60,6.70
+"Grand Cayman",7.10,7.20,7.00
+Lille,7.10,5.10,5.00
+Brisbane,7.00,5.70,5.30
+"Bryn Mawr",6.90,11.40,14.80
+"Highland Park",6.90,7.10,7.00
+Aurich,6.80,5.80,NULL
+Rome,6.80,7.30,7.20
+Visbek,6.80,5.60,5.30
+Yuxi,6.80,14.90,2.90
+Warsaw,6.60,4.70,3.90
+Kirkkonummi,6.50,4.30,4.10
+Millburn,6.50,6.50,6.80
+Modena,6.50,5.40,5.50
+Pleasanton,6.50,4.90,5.00
+Portage,6.50,6.80,6.90
+Windermere,6.50,6.50,6.80
+Zhongshan,6.40,4.60,2.50
+Darien,6.30,6.60,5.90
+"Verkhniaya Pyshma",6.30,1.90,4.30
+"East Hampton",6.20,5.20,5.50
+Palisades,6.20,5.20,5.50
+Southampton,6.20,5.20,5.50
+Weifang,6.20,6.90,4.50
+"New Albany",6.10,5.80,6.00
+"Saint John",6.10,8.10,11.20
+Trondheim,6.10,5.70,4.50
+Madison,6.00,7.00,7.10
+Shangyu,6.00,6.50,7.20
+"Buenos Aires",5.90,6.70,4.80
+McLean,5.90,6.50,5.70
+"Paradise Valley",5.90,5.60,5.10
+Fushun,5.80,5.40,4.60
+Martigny,5.70,6.60,9.80
+"Ho Chi Minh City",5.60,6.60,2.80
+Nantes,5.60,5.80,4.30
+Redlands,5.60,6.40,7.00
+Bristol,5.50,4.40,2.40
+Camas,5.50,5.30,6.70
+Fortaleza,5.50,4.80,NULL
+Hsinchu,5.50,5.70,4.70
+"Laguna Beach",5.50,5.60,6.10
+Ruschlikon,5.50,9.10,9.00
+Vaduz,5.50,2.30,2.30
+Verbier,5.50,7.70,8.10
+Vettre,5.50,5.40,5.10
+Adel,5.40,6.90,7.40
+Curitiba,5.40,2.60,2.50
+"Newport Coast",5.40,6.50,6.60
+Qingdao,5.40,6.30,4.90
+Xinxiang,5.40,3.30,NULL
+Hokkaido,5.20,4.00,3.30
+Bethesda,5.10,5.60,5.30
+Dusseldorf,5.10,5.50,4.50
+Kazan,5.10,5.00,5.40
+"Santa Cruz",5.10,3.70,3.10
+Torino,5.10,3.70,3.20
+Beirut,5.00,6.40,5.60
+Bermuda,5.00,3.50,4.60
+Koenigstein,5.00,4.20,4.80
+"North Palm Beach",5.00,5.00,5.70
+Tawau,5.00,5.30,1.70
+Albany,4.90,5.40,6.00
+Branford,4.90,5.80,5.60
+"Isle of Man",4.90,5.30,5.20
+Knoxville,4.90,6.10,7.30
+Lugano,4.90,5.20,4.90
+Millersville,4.90,5.90,6.40
+Taichung,4.90,2.40,2.60
+"Abu Dhabi",4.80,5.40,5.30
+Algiers,4.80,5.10,4.60
+Jona,4.80,4.90,5.70
+"Necker Island",4.80,4.70,3.40
+Tbilisi,4.80,4.80,4.90
+Zhaoyuan,4.80,NULL,NULL
+"Bonita Springs",4.70,4.30,3.70
+Ezulwini,4.70,5.30,6.50
+Grijo,4.70,4.70,4.70
+Putian,4.70,2.80,4.10
+"San Antonio",4.70,5.20,3.50
+"Sands Point",4.70,5.80,5.60
+Islamorada,4.60,4.90,5.20
+"Phnom Penh",4.60,2.60,2.80
+Rechterfeld,4.60,3.80,2.30
+Binningen,4.50,5.30,4.90
+Brunswick,4.50,3.70,3.00
+Jinjiang,4.50,3.70,3.40
+Leawood,4.50,4.60,4.20
+"Lighthouse Point",4.50,4.70,6.90
+Nashville,4.50,4.20,3.80
+"San Diego",4.50,4.30,5.60
+Tongxiang,4.50,3.40,2.30
+Cleveland,4.40,4.60,4.50
+Kverva,4.40,4.50,2.70
+Plantation,4.40,3.40,4.10
+"Portola Valley",4.40,8.50,6.30
+Rye,4.40,6.60,NULL
+Erie,4.30,3.20,4.20
+Glencoe,4.30,4.10,4.20
+Montabaur,4.30,3.30,2.10
+Barcelona,4.20,4.70,2.90
+Changchun,4.20,2.70,1.80
+Clearwater,4.20,5.00,4.80
+"Menlo Park",4.20,4.20,3.70
+Fuqing,4.10,3.60,3.10
+Rosslyn,4.10,NULL,NULL
+Kielce,4.00,6.20,6.20
+Mainz,4.00,5.30,5.00
+"Petaling Jaya",4.00,5.20,4.00
+"Rancho Santa Fe",4.00,5.50,4.30
+Ruzhou,4.00,NULL,NULL
+Urumqi,4.00,NULL,2.30
+Espelkamp,3.90,4.00,2.40
+Fayetteville,3.90,4.70,4.30
+Shenyang,3.90,NULL,2.50
+Ventura,3.90,3.50,2.30
+Xingtai,3.90,11.30,9.60
+Changshu,3.80,4.30,5.20
+Duderstadt,3.80,2.60,2.60
+Passau,3.80,5.80,5.40
+"Port Washington",3.80,3.90,7.00
+Zhuji,3.80,NULL,3.00
+Bergamo,3.70,3.50,4.00
+"Bingham Farms",3.70,4.40,4.30
+"Chestnut Hill",3.70,3.60,3.40
+Coatesville,3.70,3.50,4.10
+"Coral Gables",3.70,4.00,4.30
+"Little Jackson Hole",3.70,4.50,3.40
+Oakville,3.70,3.20,3.30
+"Pacific Palisades",3.70,3.70,4.00
+"Steamboat Springs",3.70,4.50,3.90
+Windsor,3.70,5.40,5.70
+Xinyu,3.70,5.20,3.20
+Birchwood,3.60,5.00,3.90
+Bozeman,3.60,5.00,3.90
+Edmonton,3.60,4.50,4.30
+Glendora,3.60,4.20,4.20
+Konstancin,3.60,4.00,4.00
+Livingston,3.60,5.00,3.90
+"Oak Brook",3.60,4.30,5.20
+"Short Hills",3.60,3.60,3.60
+Suqian,3.60,3.30,NULL
+"Virginia Beach",3.60,3.30,4.80
+Yanzhou,3.60,2.60,2.50
+Croton-on-Hudson,3.50,4.10,4.70
+Daye,3.50,3.60,3.20
+Franca,3.50,NULL,NULL
+Jiangyin,3.50,2.90,2.90
+Krasnodar,3.50,3.20,3.20
+Youngstown,3.50,4.00,5.10
+Astana,3.40,2.80,2.70
+Como,3.40,3.00,3.50
+Davos,3.40,3.80,3.50
+"Idaho Falls",3.40,2.90,3.10
+Montpellier,3.40,3.40,3.30
+"New Orleans",3.40,3.80,4.70
+Shunde,3.40,NULL,1.20
+Winnetka,3.40,8.00,8.00
+"Bassano del Grappa",3.30,3.50,3.10
+Manantiales,3.30,1.90,1.80
+Rheda-Wiedenbruck,3.30,3.40,2.60
+"A Coruña",3.20,3.50,4.30
+Bastad,3.20,2.30,NULL
+Casablanca,3.20,3.30,2.80
+"Krotoszyn,",3.20,3.30,4.80
+Malibu,3.20,5.50,7.20
+"Ponzano Veneto",3.20,2.70,3.20
+Redding,3.20,3.40,5.50
+Indianapolis,3.10,3.50,3.40
+Wilen,3.10,3.60,3.10
+Carmel,3.00,3.50,3.90
+"Fort Collins",3.00,3.10,3.20
+"Indian Hills",3.00,3.60,1.90
+Jiaozuo,3.00,1.50,2.40
+Leipzig,3.00,3.00,2.90
+Liestal,3.00,5.30,4.40
+Longkou,3.00,NULL,NULL
+"Marina Del Rey",3.00,3.40,4.30
+Merseyside,3.00,2.80,3.70
+Ohningen,3.00,3.00,2.90
+Rhinebeck,3.00,2.80,2.00
+Wynnewood,3.00,3.50,4.40
+Aspen,2.90,2.60,2.50
+"Belle Vernon",2.90,1.40,2.70
+Cheshire,2.90,NULL,NULL
+Doha,2.90,3.30,3.00
+Edmond,2.90,2.50,2.20
+Hengshui,2.90,3.10,1.40
+Mankato,2.90,2.50,2.70
+Nanping,2.90,NULL,2.20
+"Sag Harbor",2.90,3.80,3.30
+Selangor,2.90,1.60,1.10
+Belvedere,2.80,2.10,1.20
+Copenhagen,2.80,2.60,NULL
+Fukuoka,2.80,2.90,1.90
+Hattiesburg,2.80,4.00,4.60
+Karlstad,2.80,1.70,1.10
+"Little Rock",2.80,2.90,3.20
+Mantua,2.80,NULL,NULL
+Provo,2.80,3.00,3.00
+"Sioux Falls",2.80,3.40,2.00
+Stuttgart,2.80,3.30,3.40
+Vorden,2.80,2.80,2.60
+Zhuzhou,2.80,3.30,1.70
+Brusque,2.70,4.80,3.20
+Chaozhou,2.70,2.30,2.00
+Linhai,2.70,2.60,1.10
+Montecito,2.70,2.60,2.50
+Netanya,2.70,3.80,3.70
+"North York",2.70,3.10,2.40
+Portland,2.70,2.30,2.30
+Rheinfelden,2.70,2.90,2.60
+"San Juan Islands",2.70,2.80,2.20
+Yingkou,2.70,2.80,2.80
+Danyang,2.60,NULL,NULL
+Eindhoven,2.60,1.20,3.50
+"Fisher Island",2.60,1.50,2.50
+Luancheng,2.60,NULL,3.00
+"Marin County",2.60,2.60,2.40
+"St. Peter Port",2.60,2.50,2.30
+Wollerau,2.60,2.40,1.90
+"Coconut Grove",2.50,3.70,3.70
+Cologne,2.50,1.10,NULL
+"East Aurora",2.50,2.90,4.10
+Herzliya,2.50,3.10,2.70
+Krefeld,2.50,2.20,2.10
+Monaca,2.50,NULL,NULL
+"Neustadt an der Waldnaab",2.50,2.40,2.50
+"Park City",2.50,3.20,2.00
+Qinhuangdao,2.50,1.20,NULL
+"Santo Andre",2.50,1.40,1.40
+Weinheim,2.50,2.30,2.20
+Cisco,2.40,2.60,3.10
+"El Cerrito",2.40,2.10,2.20
+Haining,2.40,NULL,NULL
+Hertfordshire,2.40,4.50,4.80
+Panzhihua,2.40,NULL,1.80
+"Salt Lake City",2.40,3.20,4.00
+Springdale,2.40,3.00,2.60
+Weihai,2.40,1.80,2.20
+Brookville,2.30,2.30,2.30
+Easton,2.30,1.60,2.10
+Hurden,2.30,2.30,2.30
+Jacksonville,2.30,2.50,1.20
+"Kanton Schwyz",2.30,3.60,3.10
+Kingscourt,2.30,2.80,2.10
+Leicester,2.30,2.10,NULL
+Muscat,2.30,2.50,2.70
+"New Delhi",2.30,2.30,2.10
+Scarborough,2.30,2.80,2.50
+"Surfers Paradise",2.30,2.10,2.10
+Taixing,2.30,2.90,2.90
+Tampa,2.30,2.70,3.00
+Weston,2.30,2.80,2.50
+"Belo Horizonte",2.20,1.20,NULL
+Brownsville,2.20,2.70,3.30
+Gallatin,2.20,NULL,1.10
+Haridwar,2.20,1.90,3.40
+Irkutsk,2.20,1.50,1.90
+Linyi,2.20,2.20,2.00
+Manalapan,2.20,1.60,1.60
+Nantong,2.20,NULL,1.20
+Nanyang,2.20,1.60,1.20
+"Sao Jose dos Pinhais",2.20,3.30,3.10
+Scottsdale,2.20,3.40,3.40
+Shijiazhuang,2.20,NULL,3.90
+"Sugar Land",2.20,6.00,5.40
+Taoyuan,2.20,1.40,1.30
+Weiningen,2.20,4.20,4.10
+Westmount,2.20,2.30,2.50
+Wotton-under-Edge,2.20,1.50,1.40
+Birmingham,2.10,2.90,3.20
+"Lake Worth",2.10,2.00,2.60
+Larchmont,2.10,2.20,3.30
+Liaoyang,2.10,1.80,NULL
+Pujols,2.10,1.60,1.50
+"The Woodlands",2.10,2.70,3.00
+"Turks and Caicos Islands",2.10,2.20,2.00
+Yunlin,2.10,1.90,1.70
+Berkeley,2.00,2.50,2.40
+Blaricum,2.00,1.80,1.80
+Chattanooga,2.00,1.40,1.10
+Darmstadt,2.00,2.00,2.00
+Detmold,2.00,1.20,1.10
+Durham,2.00,2.10,2.10
+Küsnacht,2.00,3.10,3.30
+Lutherville-Timonium,2.00,1.50,1.10
+"Monte Vista",2.00,1.10,NULL
+Norwich,2.00,2.40,2.10
+"Ormond Beach",2.00,2.60,2.20
+"Paradise Island",2.00,2.20,2.20
+Providence,2.00,2.20,3.10
+Sarasota,2.00,2.30,2.90
+Schwieberdingen,2.00,1.80,1.50
+Turin,2.00,2.10,1.70
+Yixing,2.00,2.00,1.80
+Ypsilanti,2.00,2.20,2.00
+Alpine,1.90,1.90,1.90
+Burgdorf,1.90,2.50,2.50
+Charleston,1.90,1.70,1.90
+Chiba,1.90,1.90,1.70
+Luohe,1.90,1.30,1.10
+"North Salem",1.90,1.90,1.90
+"San Carlos",1.90,1.40,1.00
+"San Mateo",1.90,1.40,NULL
+"St. Paul",1.90,1.80,1.60
+Straelen,1.90,1.70,1.60
+Aberdyfi,1.80,1.90,1.40
+Allendorf,1.80,1.90,1.80
+Blaine,1.80,NULL,NULL
+"Daytona Beach",1.80,1.80,1.80
+Gorinchem,1.80,2.30,1.70
+Graz,1.80,1.80,2.50
+Lanzhou,1.80,1.90,1.70
+Liaocheng,1.80,NULL,1.60
+Spilamberto,1.80,1.90,1.50
+Surgut,1.80,NULL,1.40
+Tainan,1.80,2.00,1.90
+Tarrytown,1.80,1.20,2.60
+Wuhu,1.80,1.40,1.30
+Aurangabad,1.70,1.60,1.30
+Baroda,1.70,1.50,1.30
+Bat-Yam,1.70,NULL,NULL
+Bratislava,1.70,1.70,1.60
+Bucharest,1.70,1.60,2.00
+Cardiff,1.70,1.50,1.10
+Dnipro,1.70,1.10,1.10
+"El Paso",1.70,1.80,2.10
+"Key Largo",1.70,1.70,1.70
+Kitzbuhel,1.70,1.70,1.60
+Monsey,1.70,1.90,1.90
+Montagnola,1.70,1.80,1.60
+Nicasio,1.70,2.80,2.60
+"Old Lyme",1.70,2.40,1.90
+Rostov-on-Don,1.70,1.60,1.70
+Rottendorf,1.70,1.20,1.10
+Solomeo,1.70,2.00,3.20
+Whistler,1.70,2.20,2.00
+Xianyang,1.70,2.10,1.60
+Aberdeen,1.60,1.70,1.70
+Audubon,1.60,1.80,1.40
+Bedford,1.60,1.70,1.50
+Burlington,1.60,2.00,1.40
+"Crocetta del Montello",1.60,1.70,1.50
+"Dar es Salaam",1.60,1.50,1.50
+Esporles,1.60,3.60,2.70
+"Farmington Hills",1.60,1.70,NULL
+"Fort Lauderdale",1.60,1.60,2.40
+Helsingborg,1.60,1.40,1.40
+Hohhot,1.60,1.30,NULL
+Jupiter,1.60,1.70,2.00
+Marbella,1.60,1.60,2.50
+Matadepera,1.60,1.50,1.10
+Meishan,1.60,NULL,1.40
+"Porto Alegre",1.60,1.80,1.70
+Campodoro,1.50,1.30,1.50
+Cincinnati,1.50,1.30,1.60
+Dalian,1.50,NULL,NULL
+Deinze,1.50,1.20,1.20
+Felcsut,1.50,1.20,1.20
+Liberty,1.50,1.50,1.50
+Manaus,1.50,2.40,2.30
+Nottinghamshire,1.50,1.70,1.60
+Princeton,1.50,1.60,1.70
+"Redwood City",1.50,1.50,1.50
+Rizhao,1.50,NULL,NULL
+Surabaya,1.50,2.10,1.90
+Yongzhou,1.50,1.20,1.10
+Annapolis,1.40,1.70,1.70
+Athens,1.40,1.40,1.90
+"Bnei Atarot",1.40,1.40,1.20
+Gurgaon,1.40,2.60,2.10
+Kathmandu,1.40,1.50,1.80
+Kearney,1.40,1.40,1.40
+"Kfar Shmaryahu",1.40,1.50,1.50
+Kunshan,1.40,NULL,NULL
+Laizhou,1.40,1.60,1.30
+Makati,1.40,NULL,1.00
+Manama,1.40,1.50,1.50
+Marburg,1.40,1.50,1.60
+"Mevaseret Zion",1.40,1.50,1.30
+Qiqihaer,1.40,NULL,NULL
+Saitama,1.40,1.30,1.40
+Saratoga,1.40,2.10,2.30
+Sewickley,1.40,1.70,2.10
+Urumchi,1.40,1.90,1.20
+Yangzhou,1.40,2.40,1.60
+Baarn,1.30,1.30,1.20
+Bellingham,1.30,NULL,NULL
+Canberra,1.30,1.30,1.50
+Cesena,1.30,1.40,1.50
+Cieszyn,1.30,1.20,1.30
+Cupertino,1.30,2.00,1.80
+Ernakulam,1.30,1.40,NULL
+Gaomi,1.30,NULL,1.00
+Haikou,1.30,1.40,NULL
+Hillsborough,1.30,1.50,1.50
+Jaipur,1.30,1.20,1.20
+Kottayam,1.30,1.40,NULL
+Landsberg,1.30,1.10,1.00
+Lipperswil,1.30,1.30,1.10
+Liupanshui,1.30,NULL,NULL
+Maanshan,1.30,NULL,NULL
+"Mercer Island",1.30,1.10,NULL
+Ningguo,1.30,NULL,NULL
+Trivandrum,1.30,1.40,NULL
+Vadodara,1.30,1.70,1.40
+Wels,1.30,1.20,1.60
+Anyang,1.20,1.90,NULL
+Augsburg,1.20,1.10,NULL
+"Bnei Brak",1.20,1.20,1.20
+Budapest,1.20,1.30,1.50
+Dezhou,1.20,NULL,NULL
+Dongying,1.20,NULL,NULL
+Duluth,1.20,1.00,NULL
+"Far Hills",1.20,1.20,NULL
+Guiyang,1.20,NULL,NULL
+Kaliningrad,1.20,NULL,NULL
+Kaohsiung,1.20,1.20,1.10
+Kashiwa,1.20,NULL,NULL
+Kauai,1.20,NULL,NULL
+"Mount Kisco",1.20,1.20,1.20
+"Palma de Majorca",1.20,1.10,1.10
+Pittsburgh,1.20,2.30,2.70
+Quzhou,1.20,NULL,1.10
+Saint-Emilion,1.20,1.50,NULL
+"Sant Elpidio A Mare",1.20,1.40,1.20
+"St. Brelade",1.20,1.40,1.90
+Tervuren,1.20,1.10,1.10
+Truckee,1.20,NULL,NULL
+Zhangjiagang,1.20,NULL,NULL
+Albuquerque,1.10,NULL,NULL
+Boucherville,1.10,1.30,1.60
+"Chang Hwa County",1.10,1.20,1.20
+Cogliate,1.10,NULL,NULL
+Delaware,1.10,NULL,NULL
+Englewood,1.10,1.60,1.20
+"Gold Coast",1.10,1.70,1.50
+Huzhou,1.10,NULL,NULL
+Jinhua,1.10,1.30,1.90
+Joinville,1.10,1.10,1.40
+Kunming,1.10,NULL,NULL
+"Lake Bluff",1.10,NULL,NULL
+"Locust Valley",1.10,1.30,1.30
+Mezhdurechensk,1.10,NULL,NULL
+Orono,1.10,1.60,1.20
+Penang,1.10,NULL,NULL
+Plymouth,1.10,1.60,1.20
+"Santa Monica",1.10,1.60,1.90
+"St. Wendel",1.10,1.40,1.10
+Stellenbosch,1.10,1.80,1.00
+"Yorktown Heights",1.10,1.40,1.60
+Yunfu,1.10,NULL,1.00
+Badalona,1.00,NULL,NULL
+Balsas,1.00,NULL,NULL
+"Beit Yanay",1.00,NULL,1.00
+"Chapel Hill",1.00,NULL,NULL
+Holzminden,1.00,1.00,NULL
+"Huaibei city",1.00,1.30,1.20
+Jilin,1.00,NULL,NULL
+Murmansk,1.00,NULL,1.20
+Sagaponack,1.00,NULL,1.50
+Sonoma,1.00,NULL,NULL
+Thrissur,1.00,NULL,NULL
+Yuyao,1.00,NULL,NULL
+Baar,NULL,NULL,NULL
+"Baton Rouge",NULL,NULL,NULL
+Bellawongarah,NULL,NULL,NULL
+"Big Sky",NULL,NULL,NULL
+Bikaner,NULL,NULL,NULL
+Bovenden,NULL,NULL,NULL
+Brescia,NULL,NULL,NULL
+"Buones Aires",NULL,NULL,NULL
+Busan,NULL,NULL,NULL
+"Campos do Jordao",NULL,NULL,NULL
+Cataguazes,NULL,NULL,NULL
+Charlotte,NULL,NULL,NULL
+Cheongju,NULL,NULL,NULL
+Concord,NULL,NULL,NULL
+"Cut Off",NULL,NULL,NULL
+Eusebio,NULL,NULL,NULL
+Faridabad,NULL,NULL,NULL
+Florianopolis,NULL,NULL,NULL
+Gladstone,NULL,NULL,NULL
+Heshan,NULL,NULL,NULL
+Kent,NULL,NULL,NULL
+"Key West",NULL,NULL,NULL
+"La Jolla",NULL,2.30,1.70
+Lakeland,NULL,NULL,NULL
+Limassol,NULL,NULL,NULL
+"Los Gatos",NULL,NULL,NULL
+Ludhiana,NULL,NULL,NULL
+Miamisburg,NULL,NULL,NULL
+Oviedo,NULL,NULL,NULL
+Rajkot,NULL,NULL,NULL
+Raleigh,NULL,NULL,NULL
+Rennes,NULL,NULL,NULL
+Rochester,NULL,NULL,NULL
+Rumson,NULL,NULL,NULL
+Shelburne,NULL,NULL,NULL
+Vladivostok,NULL,NULL,NULL
+Wellington,NULL,NULL,NULL

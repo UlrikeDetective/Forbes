@@ -1,0 +1,34 @@
+Forbes Billionaire data
+
+Forbes Billionaire list 2022 is from Kaggle.
+Forbes Billionaire list 2023 - web scraping from Forbes.com
+Month data Forbes billionaire list starting from January 2024 is from web scraping from Forbes.com. 
+The web scraping takes place on the last working day of each month. Exapt 2024-09-28 for september 2024.
+
+Data cleaning and structure
+ID (User_ID) is assigned to each person (VLookup). 
+Continent and Gender is added. 
+Sources are separated. 
+Net_worth in Billion USD is cleaned up to only numbers.
+
+Data cleaning of persons Names - deleted all special characters 
+
+Data is stored in a MySQL Database called Forbes_new (Forbes is the old one until 2024_03). 
+Table names: 
+forbes_names - Information on Names of Billionaires, 
+ID for each Billionaire, plus Country and Continent of residence, 
+Source of wealth, 
+Industry of wealth and 
+Gender of person. 
+If the Name include "& Family" than the gender is the gender of the named person. 
+Primary key is ID
+
+Years and Month tables: 
+contain User_ID, 
+Rank as of ..., 
+Name, 
+net_worth_in BillionUSD_..., 
+Age_of_person_... 
+Foreign Key is User_ID.
+
+

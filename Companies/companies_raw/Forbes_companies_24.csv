@@ -1,0 +1,2002 @@
+﻿rank;organizationName;country;revenue_USD_in_Mio;profits_USD_in_Mio;assets_USD_in_Mio;marketValue_USD_in_Millions
+1;JPMorgan Chase;United States;252.900;50.000;4.090.700;588.100
+2;Berkshire Hathaway;United States;369.000;73.400;1.070.000;899.100
+3;Saudi Arabian Oil Company (Saudi Aramco);Saudi Arabia;489.100;116.900;661.500;1.919.300
+4;ICBC;China;223.800;50.400;6.586.000;215.200
+5;Bank of America;United States;183.300;25.000;3.273.800;307.300
+6;Amazon;United States;590.700;37.700;531.000;1.922.100
+7;China Construction Bank;China;199.800;47.000;5.403.800;187.500
+8;Microsoft;United States;236.600;86.200;484.300;3.123.100
+9;Agricultural Bank of China;China;193.500;37.400;5.832.900;170.900
+10;Alphabet;United States;317.900;82.400;407.400;2.177.700
+11;Toyota Motor;Japan;311.900;34.200;595.400;274.900
+12;Apple;United States;381.600;100.400;337.400;2.911.500
+13;Bank of China;China;173.300;32.100;4.657.100;145.700
+14;ExxonMobil;United States;331.900;32.800;377.900;536.700
+15;HSBC Holdings;United Kingdom;144.900;22.200;3.000.500;166.400
+16;Wells Fargo;United States;120.100;18.800;1.959.200;212.900
+17;Shell;United Kingdom;289.700;17.900;402.000;228.500
+18;PetroChina;China;399.100;22.700;388.100;177.600
+19;UnitedHealth Group;United States;379.500;15.400;284.200;482.900
+20;Walmart;United States;657.300;18.900;254.100;521.100
+21;Samsung Electronics;South Korea;202.400;14.900;349.800;388.000
+22;Chevron;United States;195.000;20.300;261.700;299.800
+23;Goldman Sachs Group;United States;116.700;9.400;1.698.400;150.800
+24;Meta Platforms;United States;142.700;45.800;222.800;1.197.000
+25;TotalEnergies;France;212.600;21.500;283.100;171.200
+26;Morgan Stanley;United States;99.800;9.500;1.228.500;162.900
+27;RBC;Canada;90.100;11.300;1.477.800;150.400
+28;Citigroup;United States;163.900;7.800;2.432.500;122.200
+29;Ping An Insurance Group;China;136.100;11.800;1.654.800;105.500
+30;China Mobile;Hong Kong;142.700;18.700;281.000;204.100
+31;Allianz;Germany;148.200;9.700;1.056.800;113.800
+32;BNP Paribas;France;157.600;11.100;2.862.700;88.900
+33;Verizon Communications;United States;134.000;11.300;380.200;168.600
+34;China Merchants Bank;China;70.600;20.300;1.594.000;127.400
+35;UBS;Switzerland;81.300;28.900;1.607.100;97.400
+36;Santander;Spain;142.800;12.300;1.944.000;82.100
+37;AT&T;United States;122.300;13.600;399.400;124.800
+38;Tencent Holdings;China;86.200;18.300;227.800;472.300
+39;Mitsubishi UFJ Financial;Japan;74.000;10.300;2.667.400;117.200
+40;Comcast;United States;121.900;15.400;263.600;154.100
+41;Alibaba Group;China;131.300;11.200;244.200;200.800
+42;Sinopec;China;414.900;8.500;289.700;106.800
+43;Volkswagen Group;Germany;348.600;16.300;672.000;65.600
+44;TD Bank Group;Canada;80.200;8.900;1.430.300;101.500
+45;Johnson & Johnson;United States;89.700;17.500;172.000;372.200
+45;Taiwan Semiconductor;Taiwan;71.500;27.300;180.900;672.000
+47;BP;United Kingdom;202.800;9.200;275.400;104.400
+48;LVMH Moët Hennessy Louis Vuitton;France;93.100;16.400;158.700;423.900
+49;Reliance Industries;India;108.800;8.400;210.500;233.100
+50;Nestlé;Switzerland;103.500;12.500;150.400;272.100
+51;AXA Group;France;109.400;7.600;684.000;81.600
+52;Mercedes-Benz Group;Germany;164.300;14.400;288.500;77.100
+53;American Express;United States;69.500;8.900;269.300;174.700
+54;Petrobras;Brazil;99.400;22.300;213.200;92.600
+55;State Bank of India;India;71.800;8.100;807.400;87.600
+56;Bank of Communications;China;78.800;13.100;1.982.500;59.200
+57;Postal Savings Bank Of China (PSBC);China;80.300;11.300;2.259.700;58.100
+58;Tesla;United States;94.700;13.700;109.200;566.000
+59;Procter & Gamble;United States;84.100;15.100;119.600;395.700
+59;Stellantis;Netherlands;204.900;20.100;223.300;65.000
+61;BMW Group;Germany;168.300;11.600;274.700;65.800
+62;Deutsche Telekom;Germany;121.500;4.800;318.800;119.100
+63;Sumitomo Mitsui Financial;Japan;61.300;6.700;1.950.800;80.900
+64;CVS Health;United States;361.300;7.300;249.700;72.400
+65;HDFC Bank;India;49.300;7.700;483.200;133.600
+66;BBVA-Banco Bilbao Vizcaya;Spain;75.200;9.000;865.800;63.500
+67;Sony;Japan;90.000;6.700;225.400;101.900
+68;Siemens;Germany;84.400;8.000;156.300;148.200
+69;Commonwealth Bank;Australia;39.000;6.500;870.700;135.400
+70;Life Insurance Corp. of India;India;98.000;4.900;561.400;73.600
+71;General Motors;United States;174.900;10.700;276.600;52.200
+71;Nippon Telegraph & Tel;Japan;92.500;8.800;195.600;82.100
+73;Credit Agricole;France;105.500;6.400;2.418.500;48.300
+74;Broadcom;United States;38.900;11.600;177.900;646.600
+75;PepsiCo;United States;91.900;9.200;100.000;250.500
+76;The Home Depot;United States;151.800;14.900;79.200;341.100
+77;Oracle;United States;52.500;10.600;137.100;339.400
+78;Mitsubishi;Japan;135.300;6.700;155.000;88.900
+79;Roche Holding;Switzerland;65.300;12.800;107.500;208.400
+80;Equinor;Norway;102.800;9.600;137.200;82.900
+81;Elevance Health;United States;171.700;6.200;111.900;127.300
+82;CNOOC;Hong Kong;57.400;17.500;141.800;118.100
+82;Industrial Bank;China;58.900;10.600;1.419.200;50.900
+84;Intesa Sanpaolo Assicura;Italy;42.200;9.100;1.006.100;74.800
+85;IBM;United States;62.100;8.200;137.200;155.300
+86;Chubb;Switzerland;51.700;9.300;212.200;111.400
+86;Itaú Unibanco Holding;Brazil;67.800;6.600;525.200;63.700
+88;Anheuser-Busch InBev;Belgium;59.400;5.300;221.000;138.100
+89;AbbVie;United States;54.400;6.000;148.900;293.900
+90;Cisco Systems;United States;55.400;12.100;101.200;195.100
+91;Honda Motor;Japan;141.300;7.700;196.700;53.700
+92;Bank of Nova Scotia;Canada;53.600;5.800;1.042.500;59.200
+93;Hyundai Motor;South Korea;125.400;9.000;219.800;47.300
+94;Enel;Italy;96.000;4.700;209.800;75.100
+95;Cigna;United States;204.100;3.600;148.400;96.200
+96;Costco Wholesale;United States;248.800;6.800;66.300;352.900
+96;Munich Re;Germany;70.000;5.000;298.000;65.100
+98;Zurich Insurance Group;Switzerland;65.400;4.400;339.400;74.900
+99;Novartis;Switzerland;48.700;15.200;94.300;201.400
+100;Coca-Cola;United States;46.100;10.800;99.400;271.500
+101;GE Aerospace;United States;69.500;3.500;163.900;175.000
+102;Caterpillar;United States;67.000;11.200;83.700;174.200
+103;John Deere;United States;58.600;9.500;105.600;110.500
+104;Bank of Montreal;Canada;53.900;4.000;991.600;69.100
+105;Mizuho Financial;Japan;55.100;4.700;1.841.300;51.100
+106;AIRBUS;France;72.100;4.200;132.600;136.700
+107;Intel;United States;55.200;4.100;192.700;135.500
+108;Mitsui;Japan;92.100;7.400;111.700;76.800
+109;ConocoPhillips;United States;55.100;10.600;95.300;142.300
+110;China State Construction Engineering;China;317.400;7.600;410.400;33.300
+110;NVIDIA;United States;60.900;29.800;65.700;2.312.000
+110;Rio Tinto;United Kingdom;54.000;10.100;103.500;119.200
+113;CITIC;Hong Kong;96.100;8.100;1.597.700;31.900
+114;RTX;United States;71.000;3.500;160.200;138.500
+115;Glencore International;Switzerland;218.000;4.300;123.900;76.900
+116;BHP Group;Australia;55.300;7.300;100.000;152.100
+116;China Life Insurance;China;51.600;6.600;818.100;47.100
+118;US Bancorp;United States;41.200;5.000;683.600;64.700
+119;Hon Hai Precision;Taiwan;191.700;4.800;117.900;73.100
+120;Iberdrola;Spain;50.500;6.600;164.100;83.600
+121;AstraZeneca;United Kingdom;47.600;6.300;102.300;238.400
+122;Sanofi;France;46.600;5.800;139.700;121.500
+122;Unilever;United Kingdom;64.500;7.000;83.100;216.800
+124;Ford Motor;United States;177.500;3.900;274.300;49.000
+125;Capital One;United States;51.000;5.100;481.700;54.200
+125;NAB - National Australia Bank;Australia;38.700;4.600;698.700;71.500
+127;Apollo Global Management;United States;34.700;5.400;334.100;89.500
+128;Visa;United States;34.100;18.100;92.400;560.500
+129;UniCredit;Italy;26.500;10.800;875.400;66.400
+130;Contemporary Amperex Technology;China;54.300;6.200;101.200;123.300
+131;American International Group;United States;49.000;4.800;475.600;53.500
+132;ANZ Group Holdings;Australia;40.900;4.600;710.900;56.500
+133;VINCI;France;75.300;5.100;131.000;71.500
+134;China Citic Bank;China;54.100;9.400;1.255.000;34.700
+135;Thermo Fisher Scientific;United States;42.500;6.000;97.100;227.200
+136;Charles Schwab;United States;25.600;4.800;468.800;140.000
+137;Progressive;United States;65.000;5.800;88.900;122.500
+138;DBS;Singapore;26.200;7.500;560.700;75.300
+138;Marathon Petroleum;United States;146.500;7.900;85.500;63.300
+140;PNC Financial Services;United States;32.400;5.200;566.200;63.800
+141;Generali Group;Italy;74.700;4.000;555.300;42.000
+142;ICICI Bank;India;28.500;5.300;283.500;95.300
+143;Itochu;Japan;97.000;5.500;95.700;67.200
+144;Westpac Banking Group;Australia;35.300;4.300;686.800;62.100
+145;United Parcel Service;United States;89.600;5.900;67.600;127.700
+146;Deutsche Bank;Germany;68.000;4.900;1.437.300;33.600
+147;Canadian Imperial Bank;Canada;42.900;4.700;727.300;46.300
+148;China Shenhua Energy;China;47.900;8.600;90.800;91.300
+149;Tokio Marine Holdings;Japan;48.000;4.400;212.300;61.800
+150;NextEra Energy;United States;24.000;7.500;179.900;156.300
+151;Eni;Italy;97.000;3.900;158.300;50.400
+152;BYD;China;83.200;4.200;93.800;83.000
+153;ING Group;Netherlands;24.500;7.900;1.112.300;55.900
+154;Lloyds Banking Group;United Kingdom;33.100;5.800;1.123.800;44.400
+155;Walt Disney;United States;88.900;1.700;195.100;189.400
+156;Phillips 66;United States;148.900;5.800;76.400;62.400
+157;MetLife;United States;67.600;2.400;677.600;52.800
+158;Salesforce;United States;34.900;4.100;102.800;277.100
+159;Shanghai Pudong Development;China;49.700;5.300;1.252.600;33.200
+160;Banco do Brasil;Brazil;62.100;6.000;443.400;30.900
+161;AIA Group;Hong Kong;27.500;3.800;278.800;93.700
+162;Merck & Co.;United States;61.100;2.300;105.800;332.300
+163;Abbott Laboratories;United States;40.300;5.600;72.500;181.100
+164;China Telecom;China;71.400;4.300;117.400;52.300
+165;Dell Technologies;United States;88.500;3.200;82.100;106.700
+166;Barclays;United Kingdom;31.500;5.100;1.992.300;41.200
+167;Linde;United Kingdom;32.800;6.300;80.300;207.900
+168;FedEx;United States;87.500;4.400;86.100;63.300
+169;Hitachi;Japan;67.300;4.100;80.800;86.100
+170;Accenture;Ireland;64.600;7.000;51.300;190.900
+171;Lockheed Martin;United States;69.600;6.800;55.000;111.900
+172;L'Oréal;France;44.500;6.700;57.300;260.300
+172;Nordea Bank;Finland;28.500;5.600;653.300;43.500
+174;Eli Lilly;United States;35.900;6.100;63.900;731.800
+175;KKR;United States;22.700;4.100;339.800;92.900
+176;Philip Morris International;United States;35.700;7.900;65.300;155.200
+177;NatWest Group;United Kingdom;33.700;5.100;881.100;35.500
+177;Valero Energy;United States;140.100;7.000;62.600;54.300
+179;Enbridge;Canada;31.500;4.400;140.900;78.200
+180;JD.com;China;153.700;3.500;83.300;55.700
+181;Bank of New York Mellon;United States;36.200;3.400;434.700;44.500
+181;Vale;Brazil;41.800;7.800;91.500;55.400
+183;GSK;United Kingdom;38.600;5.600;73.900;91.900
+184;Prudential Financial;United States;58.900;2.100;725.800;43.500
+185;Lowe's;United States;86.400;7.700;43.400;132.200
+186;Charter Communications;United States;54.600;4.600;148.000;39.300
+187;Honeywell International;United States;36.900;5.700;65.600;134.100
+188;McKesson;United States;309.000;3.000;67.400;73.400
+189;Duke Energy;United States;29.500;3.300;178.700;80.200
+190;Qualcomm;United States;36.400;8.400;53.200;216.300
+191;HCA Healthcare;United States;66.700;5.500;57.000;84.600
+191;Medtronic;Ireland;32.300;4.200;90.800;114.100
+193;Amgen;United States;29.400;3.800;93.000;167.600
+194;ENGIE;France;89.300;2.400;215.000;41.500
+194;Southern Company;United States;25.400;4.200;140.100;87.000
+196;CaixaBank;Spain;25.200;5.200;670.700;39.200
+197;Manulife;Canada;26.400;3.400;630.400;48.200
+198;Danaher;United States;26.200;4.400;83.400;196.900
+199;Mondelez International;United States;36.100;4.300;77.600;95.500
+200;Schneider Electric;France;38.800;4.300;65.100;139.100
+201;Target;United States;107.400;4.100;55.400;74.100
+202;Deutsche Post;Germany;87.900;3.800;74.200;51.300
+202;KDDI;Japan;39.800;4.400;93.500;58.000
+204;National Grid;United Kingdom;25.400;9.400;115.000;53.700
+205;Midea Group;China;53.200;4.800;68.900;65.700
+205;Novo Nordisk;Denmark;35.500;13.000;43.300;581.100
+207;Oil & Natural Gas;India;77.500;5.100;80.600;41.900
+208;América Móvil;Mexico;46.800;3.400;96.300;61.400
+209;BlackRock;United States;19.100;5.900;124.000;120.700
+210;PDD Holdings;Ireland;34.700;8.400;49.100;194.200
+211;PICC;China;77.300;3.200;214.000;30.300
+212;Netflix;United States;34.900;6.400;48.800;267.700
+213;Brookfield Corporation;Canada;101.900;1.100;491.900;73.000
+214;Qatar National Bank;Qatar;32.000;4.000;339.600;35.500
+215;International Holding Company;United Arab Emirates;17.300;8.100;92.200;239.500
+215;Travelers;United States;42.900;3.100;117.800;50.300
+217;Volvo Group;Sweden;52.100;4.800;67.300;54.000
+218;Union Pacific;United States;24.100;6.400;67.300;149.500
+219;Oversea-Chinese Banking;Singapore;18.600;5.200;440.800;48.300
+220;Swiss Re;Switzerland;49.400;3.200;173.500;35.300
+221;China Pacific Insurance;China;46.600;3.800;332.100;27.200
+222;McDonald's;United States;25.800;8.600;53.500;196.400
+223;Banco Bradesco;Brazil;61.200;2.600;390.800;27.900
+224;Centene;United States;155.500;2.700;82.600;41.700
+225;PayPal;United States;30.400;4.300;83.300;67.400
+226;Japan Post Holdings;Japan;81.500;1.900;1.973.600;27.600
+227;Standard Chartered;United Kingdom;40.100;3.300;812.500;25.300
+228;China Everbright Bank;China;40.500;5.700;954.400;19.700
+228;Suncor Energy;Canada;36.700;5.800;65.900;51.600
+230;SAP;Germany;34.500;2.100;78.800;224.700
+231;Mastercard;United States;25.700;11.800;42.600;427.900
+231;The Saudi National Bank;Saudi Arabia;16.300;5.300;285.900;56.400
+233;China Resources Land;Hong Kong;35.200;4.400;168.000;30.000
+234;Delta Air Lines;United States;59.000;5.000;75.000;34.000
+234;KIA;South Korea;77.500;7.200;62.100;32.600
+236;ASML Holding;Netherlands;28.300;7.700;42.200;365.000
+237;General Dynamics;United States;43.100;3.400;55.200;82.000
+238;Daimler Truck Holding;Germany;60.700;4.200;79.500;34.400
+239;Nike;United States;51.600;5.200;37.400;139.100
+240;United Overseas Bank;Singapore;20.200;4.300;396.900;37.600
+241;KBC Group;Belgium;29.800;3.200;388.200;30.000
+242;First Abu Dhabi Bank;United Arab Emirates;20.800;4.300;336.300;36.600
+243;PTT;Thailand;90.000;3.200;99.800;26.600
+244;Canadian Natural Resources;Canada;26.400;5.500;56.100;82.600
+245;Aflac;United States;19.300;5.300;124.600;50.200
+245;Dai-ichi Life Insurance;Japan;66.100;2.200;446.300;23.100
+247;Occidental Petroleum;United States;27.400;4.300;74.300;56.200
+248;China Minsheng Bank;China;43.900;4.500;1.069.200;17.200
+249;Société Générale;France;84.600;1.900;1.716.700;20.900
+250;KB Financial Group;South Korea;36.800;3.000;543.900;22.600
+251;Inditex;Spain;38.900;5.800;35.600;146.100
+252;Al Rajhi Bank;Saudi Arabia;14.000;4.300;222.900;85.500
+253;MS&AD Insurance;Japan;43.000;2.500;183.300;28.400
+254;Air Liquide;France;29.800;3.300;53.400;105.600
+255;Fiserv;United States;19.400;3.200;92.700;89.400
+256;China Railway Group;China;178.200;4.500;257.900;14.500
+257;Orange;France;47.700;2.400;125.600;31.200
+258;Safran;France;25.600;3.700;55.700;93.800
+259;Indian Oil;India;93.800;5.000;57.800;27.800
+260;Emirates NBD;United Arab Emirates;20.200;5.700;234.900;28.600
+260;EssilorLuxottica;France;27.500;2.500;66.900;102.600
+262;Cencora;United States;276.500;1.900;63.900;44.300
+263;SLB;United States;34.100;4.300;47.900;69.500
+264;Saint-Gobain;France;51.800;2.900;63.300;44.400
+265;Danske Bank;Denmark;26.200;3.200;537.100;25.100
+266;Macquarie Group;Australia;19.600;2.200;264.000;46.600
+267;Zijin Mining Group;China;40.200;3.100;49.200;63.200
+268;TJX Cos;United States;54.200;4.500;29.700;113.600
+269;Banorte;Mexico;27.000;3.100;144.100;30.300
+269;Kweichow Moutai;China;18.600;10.900;39.500;298.200
+271;Fubon Financial;Taiwan;27.000;2.100;361.200;30.100
+271;SAIC Motor;China;102.800;2.000;132.800;23.100
+273;Automatic Data Processing;United States;18.900;3.700;64.200;103.300
+273;Kraft Heinz Company;United States;26.600;2.800;90.300;43.700
+275;Holcim;Switzerland;30.100;3.400;62.600;48.600
+276;ABB;Switzerland;32.300;3.600;41.100;96.700
+277;EOG Resources;United States;23.500;7.400;44.800;74.700
+278;Applied Materials;United States;26.500;7.300;31.900;176.200
+279;E.ON;Germany;89.800;1.300;123.100;36.100
+280;Denso;Japan;49.400;2.200;60.100;49.300
+280;DNB Bank;Norway;18.500;3.500;359.200;29.400
+282;Archer Daniels Midland;United States;91.700;3.000;54.800;30.500
+282;Marsh & McLennan;United States;23.300;3.900;47.600;103.500
+284;Tata Motors;India;52.900;3.800;44.400;43.800
+285;Sumitomo;Japan;47.800;2.700;72.900;32.300
+286;Paccar;United States;35.400;5.100;40.400;55.600
+287;Fairfax Financial;Canada;37.900;3.900;81.100;27.000
+288;PG&E;United States;24.100;2.400;127.600;39.800
+289;SEB AB;Sweden;17.600;3.600;386.200;29.200
+290;Allstate;United States;58.600;1.400;96.500;44.700
+291;Kroger;United States;150.000;2.100;50.500;39.100
+292;Erste Group Bank;Austria;26.100;3.300;370.100;20.600
+293;Axis Bank;India;16.700;3.200;182.000;42.300
+294;Humana;United States;109.200;2.000;50.100;42.900
+295;Ameriprise Financial;United States;16.600;3.100;179.800;43.100
+296;Marubeni;Japan;50.100;3.300;59.000;32.200
+297;Bank Of Jiangsu;China;20.600;4.100;507.800;21.300
+298;CRH;Ireland;34.900;3.100;46.300;56.600
+299;China Unicom;Hong Kong;52.700;2.700;93.200;24.800
+299;Sun Life Financial;Canada;23.300;2.400;247.400;30.200
+301;American Electric;United States;19.600;2.800;97.700;48.800
+302;Banco Btg Pactual;Brazil;17.000;2.100;113.400;78.800
+303;Northrop Grumman;United States;40.100;2.200;47.800;69.600
+304;Shinhan Financial Group;South Korea;28.600;3.100;527.200;18.500
+305;Couche Tard;Canada;68.000;2.900;36.200;53.400
+306;Xiaomi;China;38.200;2.500;45.700;63.800
+307;CK Hutchison;Hong Kong;35.200;3.000;148.400;20.700
+308;Bank Rakyat Indonesia (BRI);Indonesia;14.900;3.900;125.500;46.500
+309;Koç Holding;Turkey;67.400;3.000;96.800;19.300
+310;Merck KGaA, Darmstadt, Germany and its affiliates;Germany;22.600;3.000;53.500;79.100
+311;Commerzbank;Germany;25.700;2.600;596.100;19.900
+312;Meituan;China;39.000;2.000;41.900;100.000
+313;Seven & I Holdings;Japan;80.100;1.600;70.800;33.900
+314;Diageo;United Kingdom;20.400;4.000;46.800;79.000
+315;Eaton;Ireland;23.700;3.400;38.500;132.000
+316;Cathay Financial;Taiwan;29.000;1.600;417.000;25.700
+316;Ecopetrol;Colombia;32.300;4.200;74.700;24.900
+318;Talanx;Germany;54.000;1.900;179.700;20.100
+319;Starbucks;United States;36.500;4.200;29.400;88.200
+320;Altria Group;United States;20.500;8.500;36.500;79.100
+321;Exelon;United States;22.200;2.300;103.200;38.600
+322;D.R. Horton;United States;37.100;5.000;34.400;49.900
+323;National Bank of Canada;Canada;18.200;2.500;324.800;28.800
+324;Discover Financial Services;United States;21.600;2.300;152.700;31.400
+325;Nippon Steel;Japan;61.300;3.800;70.800;19.400
+326;Royal Ahold Delhaize N.V.;Netherlands;96.200;2.000;55.200;29.800
+327;Lennar;United States;35.100;4.000;39.000;46.100
+328;Stryker;United States;21.000;3.400;39.400;127.500
+329;Richemont;Switzerland;22.400;2.600;46.100;94.400
+330;Huaxia Bank;China;25.300;3.700;606.000;15.300
+331;Power Corp of Canada;Canada;31.400;1.900;560.200;19.000
+332;Repsol;Spain;63.700;3.300;68.200;19.700
+333;Bank of Ningbo;China;15.800;3.600;399.600;23.600
+334;Gree Electric Appliances;China;28.400;4.100;52.700;32.200
+335;Cenovus Energy;Canada;39.500;3.400;40.600;37.900
+336;Texas Instruments;United States;16.800;5.900;34.900;177.600
+337;RWE Group;Germany;28.000;1.900;111.500;28.100
+338;Constellation Energy;United States;22.000;2.400;52.000;67.200
+339;Møller-Maersk;Denmark;49.200;1.700;81.600;26.300
+340;Renault;France;56.600;2.400;134.700;15.900
+341;Nissan Motor;Japan;87.700;3.000;131.200;12.900
+342;Panasonic;Japan;58.800;3.100;62.200;19.900
+343;Advanced Micro Devices;United States;22.800;1.100;67.900;265.800
+343;Hartford Financial Services;United States;25.000;2.700;70.600;30.500
+345;Adobe;United States;19.900;4.800;28.800;216.600
+346;Sompo;Japan;31.700;2.700;102.300;20.000
+346;Uber;United States;38.600;1.400;39.600;137.200
+348;Bank of Beijing;China;19.400;3.600;538.900;17.000
+349;Vodafone;United Kingdom;39.800;1.200;155.900;26.500
+350;China Railway Construction;China;158.200;3.700;236.500;10.200
+351;Poly Developments & Holdings Group;China;48.200;1.600;197.100;18.500
+352;Japan Tobacco;Japan;20.200;3.400;47.300;50.400
+353;Freeport-McMoRan;United States;23.800;1.600;54.200;77.900
+354;Fannie Mae;United States;143.300;18.000;4.323.800;1.800
+355;Nucor;United States;34.100;4.200;33.900;41.300
+356;Booking Holdings;United States;22.000;4.800;27.700;125.800
+356;Canadian National Railway;Canada;13.500;4.400;53.500;81.000
+358;Corebridge Financial;United States;20.800;2.400;357.900;19.100
+359;Tesco;United Kingdom;85.300;1.500;59.500;27.600
+359;United Airlines Holdings;United States;54.800;2.700;71.900;18.100
+361;BAE Systems;United Kingdom;28.700;2.300;40.900;52.300
+362;HP;United States;53.100;3.400;35.800;30.500
+363;S&P Global;United States;12.800;2.800;60.500;138.300
+364;Cosco Shipping;China;24.800;3.400;65.200;25.900
+365;Freddie Mac;United States;110.500;11.300;3.287.400;962
+366;Sempra;United States;13.600;2.900;89.600;49.500
+367;China Communications Construction;China;106.600;3.300;239.200;10.100
+368;Kering;France;21.200;3.200;45.700;44.600
+369;State Street;United States;18.700;1.900;338.000;23.500
+370;Saudi Telecom;Saudi Arabia;19.500;3.600;42.600;50.500
+371;China Yangtze Power;China;10.700;3.800;78.700;87.300
+372;NTPC;India;21.200;2.400;54.700;42.500
+373;Bank Mandiri;Indonesia;11.600;3.600;136.500;38.100
+374;Aviva;United Kingdom;43.200;1.300;403.400;16.900
+375;Swedbank;Sweden;13.900;3.300;288.000;23.000
+376;Baidu;China;18.800;2.700;57.400;40.700
+376;First Citizens Bank (NC);United States;14.700;2.700;217.800;25.700
+378;Svenska Handelsbanken;Sweden;17.600;2.700;351.300;18.300
+379;Orix;Japan;19.500;2.400;107.800;25.200
+380;Dow;United States;43.500;1.200;58.800;41.600
+381;IntercontinentalExchange;United States;10.000;2.500;131.400;79.400
+381;Power Construction Corporation of China;China;85.600;1.800;168.100;12.700
+383;Toyota Tsusho;Japan;70.500;2.300;46.600;21.700
+384;Takeda Pharmaceutical;Japan;29.500;996;99.800;41.700
+385;Poste Italiane;Italy;22.200;2.000;293.200;17.400
+386;Mitsubishi Electric;Japan;36.400;2.000;40.800;37.900
+387;Citic Securities;China;13.400;2.700;216.900;26.200
+387;Haier Smart Home;China;36.900;2.400;35.700;37.800
+389;Kinder Morgan;United States;15.100;2.400;70.700;43.700
+389;Toyota Industries;Japan;26.500;1.600;73.200;29.600
+391;Rolls-Royce Holdings;United Kingdom;20.500;3.000;40.200;44.700
+392;Fortescue Metals Group;Australia;18.600;5.800;29.900;55.400
+393;Waste Management;United States;20.700;2.500;32.700;84.400
+394;Cheniere Energy;United States;17.200;4.900;42.900;36.700
+395;TAQA;United Arab Emirates;14.200;2.000;58.000;88.800
+396;CSX;United States;14.600;3.600;42.700;65.500
+397;Johnson Controls International;Ireland;26.800;1.700;43.500;46.500
+398;Larsen & Toubro;India;26.700;1.600;40.700;56.900
+399;Femsa;Mexico;42.000;1.200;48.000;42.800
+400;Dominion Energy;United States;14.400;1.700;102.000;44.800
+401;LyondellBasell Industries;United Kingdom;40.600;2.100;36.600;32.900
+402;Shin-Etsu Chemical;Japan;16.700;3.600;34.000;75.000
+403;Investor AB;Sweden;7.400;15.200;84.800;79.100
+404;M&T Bank;United States;13.100;2.600;215.100;25.700
+405;ORLEN Spolka Akcyjna;Poland;85.400;5.800;71.200;10.500
+406;Arch Capital Group;Bermuda;14.100;4.800;52.500;37.900
+407;Synchrony Financial;United States;19.400;2.900;121.200;17.600
+408;Fifth Third Bank;United States;13.200;2.300;214.500;26.400
+409;Becton Dickinson;United States;19.700;1.300;54.200;68.300
+410;ENEOS Holdings;Japan;95.800;2.000;67.000;14.400
+411;Hana Financial Group;South Korea;21.500;2.400;452.300;13.300
+412;Posco;South Korea;57.400;1.100;76.700;22.300
+412;Tata Consultancy Services;India;29.100;5.500;17.600;166.500
+414;Schweizerische Nationalbank;Switzerland;38.700;32.400;942.200;442
+415;Prologis;United States;8.200;3.200;93.300;104.100
+416;Wanhua Chemical Group;China;24.900;2.400;38.600;39.100
+417;Oneok;United States;17.800;2.200;44.400;48.200
+418;Analog Devices;United States;11.600;2.800;48.400;106.200
+419;Parker-Hannifin;United States;19.800;2.800;29.600;70.100
+420;Baoshan Iron & Steel;China;48.500;1.700;53.700;21.200
+421;ArcelorMittal;Luxembourg;68.300;921;93.900;21.600
+422;Nomura;Japan;28.800;1.100;364.400;17.500
+423;Bank Of Shanghai;China;15.000;3.200;436.500;15.300
+424;American Tower;United States;11.200;2.100;66.700;90.800
+425;Hewlett Packard Enterprise;United States;28.100;1.900;58.600;23.200
+425;Marriott International;United States;24.100;2.900;25.800;67.900
+427;Regeneron Pharmaceuticals;United States;13.100;3.900;34.400;108.200
+428;Intuit;United States;15.100;2.800;29.700;185.100
+429;Sysco;United States;78.000;2.100;24.700;37.800
+430;Daikin Industries;Japan;30.400;1.800;32.200;47.300
+431;Veolia Environnement;France;49.000;1.000;80.200;23.800
+432;Bridgestone;Japan;30.000;2.200;36.900;30.500
+433;Cummins;United States;34.000;1.900;31.800;39.100
+434;Michelin Group;France;30.600;2.100;38.900;29.000
+435;Komatsu;Japan;26.800;2.700;37.200;28.000
+436;Pfizer;United States;55.100;-289;221.100;162.300
+437;CSL;Australia;14.100;2.500;37.300;90.500
+438;Keurig Dr Pepper;United States;14.900;2.200;52.300;45.800
+439;Canadian Pacific Kansas City;Canada;10.200;2.900;60.300;76.600
+440;Bank of Baroda;India;17.100;2.300;198.400;16.200
+441;CTBC Financial Holding;Taiwan;13.200;1.800;270.600;23.200
+442;Kotak Mahindra Bank;India;11.400;2.200;92.000;40.500
+443;TC Energy;Canada;11.400;2.100;94.600;40.400
+444;Carrier Global;United States;23.000;1.200;40.800;58.800
+445;Aon;Ireland;13.700;2.600;40.800;63.600
+446;Hermès International;France;14.500;4.700;22.600;261.400
+447;Mitsubishi Heavy Industries;Japan;32.200;1.500;41.300;29.600
+448;Infineon Technologies;Germany;16.900;2.800;31.400;52.200
+449;Heineken;Netherlands;32.800;1.300;61.900;23.400
+450;Boeing;United States;76.400;-2.200;134.500;113.500
+451;Grupo Mexico;Mexico;14.300;3.200;35.800;52.600
+451;London Stock Exchange;United Kingdom;10.400;946;1.026.200;62.800
+451;Sherwin-Williams;United States;23.000;2.400;23.400;79.200
+454;Dollar General;United States;38.700;1.700;33.700;31.200
+455;Baker Hughes Company;United States;26.200;1.800;37.100;33.400
+455;CRRC;China;32.400;1.700;65.200;18.100
+457;Bank Central Asia;Indonesia;7.500;3.300;91.100;75.300
+458;Boston Scientific;United States;14.700;1.800;36.700;109.700
+459;Naturgy Energy Group;Spain;24.500;2.100;41.900;26.100
+460;Saudi Electricity;Saudi Arabia;20.700;1.300;133.500;19.600
+461;Softbank;Japan;46.700;-1.700;308.700;80.600
+462;Wilmar International;Singapore;67.200;1.500;61.800;14.700
+463;China Vanke;China;65.100;1.500;202.500;10.400
+463;Maybank;Malaysia;11.100;2.000;223.700;25.500
+465;Hyundai Mobis;South Korea;44.300;2.600;45.200;15.100
+466;General Mills;United States;20.200;2.600;30.900;40.200
+467;Canon;Japan;29.000;1.900;37.900;27.500
+467;Consolidated Edison;United States;14.500;1.800;66.700;33.600
+469;Kansai Electric Power;Japan;28.100;3.100;59.700;14.100
+470;Danone;France;29.900;944;49.100;41.800
+471;BT Group;United Kingdom;25.400;2.300;65.200;16.600
+472;Bharti Airtel;India;18.100;902;53.300;91.500
+473;Etisalat;United Arab Emirates;15.000;2.800;40.200;38.100
+474;OMV Group;Austria;39.800;1.700;55.400;16.900
+475;Fast Retailing;Japan;20.200;2.400;23.400;80.900
+476;Carrefour;France;91.800;1.800;62.000;12.100
+477;NetEase;China;14.600;4.200;26.200;65.000
+478;Compass Group;United Kingdom;40.100;1.700;22.400;48.800
+479;Principal Financial Group;United States;14.900;1.300;288.400;20.000
+480;BCE;Canada;18.300;1.400;53.600;31.400
+481;Prudential;United Kingdom;10.900;1.700;171.600;28.500
+481;Suzuki Motor;Japan;37.200;1.900;35.600;22.200
+483;FirstRand;South Africa;12.400;2.100;127.700;21.200
+483;Sun Hung Kai Properties;Hong Kong;9.200;3.100;104.500;29.800
+485;Recruit Holdings;Japan;23.600;2.400;20.800;76.500
+486;Williams;United States;10.200;2.900;52.700;50.300
+487;Xcel Energy;United States;13.800;1.800;65.600;30.800
+488;Coal India;India;17.200;3.900;28.500;34.800
+488;Kuwait Finance House;Kuwait;9.300;1.800;120.400;40.800
+490;Raymond James Financial;United States;14.000;1.800;81.200;26.200
+491;Reckitt Benckiser Group;United Kingdom;18.200;2.000;34.600;41.100
+492;China Coal Energy;China;27.300;2.900;49.200;14.800
+493;Samsung C&T;South Korea;32.200;1.700;51.500;17.500
+494;Longfor Group Holdings;China;25.400;1.800;98.800;13.000
+495;Blackstone;United States;10.300;2.200;39.700;151.900
+496;Daiwa House Industry;Japan;36.000;2.100;43.200;16.900
+497;Shaanxi Coal Industry;China;21.700;2.600;27.900;32.700
+498;China Merchants Shekou Industrial Zone Holdings;China;28.600;945;281.700;14.300
+499;Mitsui Fudosan;Japan;16.500;1.600;62.700;26.200
+500;Henkel;Germany;23.300;1.400;35.000;38.300
+501;Imperial Brands;United Kingdom;22.800;2.600;36.100;21.500
+501;Truist Financial;United States;33.200;-1.400;535.000;53.500
+503;L3Harris Technologies;United States;20.200;1.200;41.800;42.400
+504;Air Products & Chemicals;United States;12.200;2.500;35.900;58.400
+505;Woodside Energy Group;Australia;14.000;1.600;55.400;34.900
+506;Capgemini;France;24.300;1.800;27.300;38.600
+506;NN Group;Netherlands;21.600;1.200;230.000;13.500
+508;Legal & General Group;United Kingdom;55.900;541;656.300;19.000
+509;Republic Services;United States;15.200;1.800;31.400;59.300
+510;Halliburton;United States;23.100;2.600;24.700;33.600
+511;Bouygues;France;61.100;1.100;64.900;14.500
+512;Pernod Ricard;France;12.600;2.200;42.800;40.800
+513;Bristol Myers Squibb;United States;45.500;-6.100;99.000;89.300
+514;Coca-Cola Europacific Partners;United Kingdom;19.800;1.800;32.300;34.200
+514;Yankuang Energy Group;China;16.800;2.500;58.400;17.800
+516;Markel;United States;16.600;2.500;44.900;21.600
+517;Huntington Bank;United States;11.100;1.800;193.500;20.600
+517;Tokyo Electric Power;Japan;47.800;1.900;96.400;9.800
+519;CME Group;United States;5.600;3.200;132.100;76.700
+519;STMicroelectronics;Switzerland;16.500;3.700;25.000;37.200
+521;Swiss Life Holding;Switzerland;13.200;1.200;258.300;19.900
+522;Edison International;United States;16.400;959;83.600;29.400
+523;GE HealthCare Technologies;United States;19.500;1.600;32.200;37.400
+524;Thales;France;19.900;1.100;42.800;37.500
+525;Canara Bank;India;16.800;1.800;184.000;12.400
+525;Isbank;Turkey;17.600;3.000;100.000;11.500
+527;Nutrien;Canada;28.300;844;53.600;28.600
+528;British American Tobacco;United Kingdom;33.900;-17.900;151.300;69.900
+529;East Japan Railway;Japan;18.900;1.400;64.600;20.500
+530;Central Japan Railway;Japan;11.800;2.700;65.700;21.900
+531;Bank of Nanjing;China;11.400;2.500;331.500;14.000
+532;TE Connectivity;Switzerland;15.800;3.400;22.800;46.200
+533;Power Finance;India;11.100;2.400;124.600;18.500
+534;Royal Caribbean Group;United States;14.700;2.100;35.200;36.500
+535;HeidelbergCement;Germany;22.900;2.100;40.200;19.000
+536;AirBnB;United States;10.200;4.900;24.500;92.500
+537;Bharat Petroleum;India;54.100;3.200;24.300;16.400
+538;LG Chem;South Korea;40.000;758;61.000;23.000
+539;Turkish Airlines;Turkey;21.200;6.800;35.600;13.800
+540;Wuliangye Yibin;China;10.300;4.400;25.000;84.000
+541;Subaru Corporation;Japan;32.500;2.700;31.800;15.600
+542;Weichai Power;China;30.100;1.400;46.900;17.500
+543;Luxshare Precision Industry;China;32.600;1.600;23.600;31.500
+544;Atlas Copco;Sweden;16.600;2.700;18.600;90.000
+544;United Rentals;United States;14.500;2.500;26.700;45.700
+546;CNH Industrial;United Kingdom;24.200;2.300;45.700;14.400
+547;Loews;United States;16.300;1.500;80.900;17.200
+548;Entergy;United States;12.000;2.100;61.600;24.100
+548;Quanta Computer;Taiwan;34.300;1.400;23.100;34.200
+550;BASF;Germany;72.100;34;88.300;47.500
+551;NXP Semiconductors;Netherlands;13.300;2.800;23.300;68.500
+552;Lam Research;United States;14.200;3.600;18.300;119.200
+553;Vertex Pharmaceuticals;United States;10.200;4.000;23.900;114.900
+554;Citizens Financial Group;United States;12.500;1.400;220.400;16.900
+555;Xiamen C&D;China;101.200;1.800;123.400;4.500
+556;S.F. Holding;China;36.600;1.200;31.100;25.400
+557;Norfolk Southern;United States;12.000;1.400;42.100;52.300
+558;Deutsche Boerse;Germany;6.600;1.900;262.900;37.200
+559;Intact Financial;Canada;20.300;1.200;38.100;30.100
+560;Fujifilm Holdings;Japan;20.500;1.700;31.600;26.400
+561;Everest Re Group;Bermuda;15.400;2.900;47.900;17.100
+562;OTP Bank;Hungary;11.800;2.900;113.700;13.600
+563;Trane Technologies;Ireland;18.200;2.200;19.300;74.400
+564;Inpex;Japan;15.100;2.400;48.200;19.100
+564;Wesfarmers;Australia;28.900;1.700;18.600;51.900
+566;Colgate-Palmolive;United States;19.800;2.600;16.600;77.200
+567;Samsung Life Insurance;South Korea;17.500;1.400;233.500;11.800
+568;Haleon;United Kingdom;14.000;1.300;43.400;38.200
+569;Infosys;India;18.600;3.200;16.500;71.900
+570;Devon Energy;United States;15.100;3.300;25.000;31.400
+571;Punjab National Bank;India;14.800;1.100;191.700;16.500
+572;Publicis Groupe;France;16.000;1.400;40.600;28.800
+573;MediaTek;Taiwan;15.000;2.900;20.200;57.500
+574;SK Hynix;South Korea;30.400;-3.500;76.700;96.500
+575;Gilead Sciences;United States;27.400;484;56.300;84.400
+575;Union Bank of India;India;14.300;1.700;168.100;12.700
+577;Abu Dhabi Commercial Bank;United Arab Emirates;9.900;2.200;161.900;16.700
+578;Gallagher;United States;10.500;1.100;61.000;56.300
+579;International Airlines;United Kingdom;31.800;2.900;41.600;11.100
+580;Fujitsu;Japan;26.000;1.800;23.200;27.900
+581;Public Service Enterprise Group;United States;9.700;1.800;52.400;37.100
+582;Aptiv;Ireland;20.100;3.000;23.600;22.300
+583;Bayer;Germany;51.000;-3.400;129.500;30.500
+584;China Zheshang Bank;China;18.200;2.100;437.500;8.300
+585;George Weston;Canada;45.000;1.000;36.000;18.800
+586;Cardinal Health;United States;220.600;552;45.900;24.100
+587;Kubota;Japan;20.800;1.700;38.000;17.900
+587;Regions Financial;United States;9.200;1.800;154.900;18.500
+589;Bunge;United States;57.600;1.900;25.800;14.600
+590;Equitable Holdings;United States;13.300;1.200;276.400;13.200
+591;China National Nuclear Power;China;10.300;1.500;78.300;24.000
+592;Bajaj Finserv;India;13.000;984;64.500;30.300
+593;Mahindra & Mahindra;India;16.800;1.400;28.300;37.500
+594;Nintendo;Japan;11.600;3.400;20.800;63.700
+595;Kenvue;United States;15.500;1.500;27.300;39.200
+596;National Bank of Kuwait;Kuwait;7.800;1.800;124.600;23.700
+597;Barrick Gold;Canada;11.500;1.400;45.800;31.400
+598;Coinbase;United States;4.700;1.300;348.000;51.000
+599;Ecolab;United States;15.500;1.600;21.300;66.700
+600;AutoZone;United States;17.800;2.600;16.700;50.500
+601;Illinois Tool Works;United States;16.100;3.100;15.700;74.800
+602;DSV;Denmark;21.600;1.700;22.000;31.400
+603;Standard Bank Group;South Africa;7.800;2.500;167.600;17.300
+604;Associated British Foods;United Kingdom;24.900;1.500;23.700;25.900
+605;Lenovo Group;Hong Kong;55.700;876;39.500;16.300
+606;Northern Trust;United States;12.800;977;156.100;17.500
+607;Reinsurance Group of America;United States;20.700;860;100.700;14.000
+608;Nokia;Finland;22.800;888;42.900;21.600
+609;PKO Bank Polski;Poland;9.700;1.500;124.600;18.200
+610;Ferguson;United Kingdom;29.400;1.800;15.700;42.700
+611;Grupa PZU;Poland;14.600;1.400;118.100;12.200
+612;IQVIA;United States;15.100;1.400;26.600;42.100
+613;Woori Financial Group;South Korea;19.100;1.700;374.900;8.000
+614;Edp-energias De Portugal;Portugal;17.000;1.100;60.200;17.400
+615;Hess;United States;11.600;2.000;24.700;48.700
+616;Naspers;South Africa;6.100;4.100;60.500;38.300
+617;Swire Pacific;Hong Kong;12.100;3.700;57.300;12.500
+618;Kimberly-Clark;United States;20.400;1.800;17.100;45.200
+619;China Tower Corp.;China;13.300;1.400;46.000;21.700
+619;SingTel;Singapore;10.600;2.400;34.500;29.700
+621;Chubu Electric Power;Japan;25.000;2.800;47.000;9.500
+621;CMOC Group;China;25.700;1.400;24.600;21.900
+623;Hengli Petrochemical;China;31.800;1.100;37.700;15.300
+624;QBE Insurance Group;Australia;21.700;1.400;34.900;17.600
+625;Riyad Bank;Saudi Arabia;7.100;2.200;107.900;21.300
+626;Sinopharm Group;China;84.300;1.300;54.100;8.800
+627;Telefónica;Spain;44.200;-712;112.700;25.000
+627;Telstra;Australia;15.100;1.300;31.100;28.400
+629;Cognizant;United States;19.300;2.100;18.400;34.200
+630;3M;United States;32.700;-7.000;55.200;58.200
+631;Industrial Bank of Korea;South Korea;15.600;2.000;336.800;8.200
+632;NRG Energy;United States;28.500;1.600;25.400;17.200
+633;CBRE Group;United States;32.500;995;23.000;28.000
+634;Tokyo Electron;Japan;12.700;2.500;16.200;107.500
+635;Metallurgical Corp of China;China;89.100;1.100;97.300;4.700
+636;Bank Of Hangzhou;China;9.900;2.100;265.300;11.400
+637;CEZ Group;Czech Republic;15.300;1.400;35.200;21.600
+638;Micron Technology;United States;18.300;-3.800;65.700;138.700
+639;China Energy Engineering;China;57.700;1.200;112.800;4.900
+640;AerCap Holdings;Ireland;7.400;3.300;71.100;19.200
+641;CGN Power;China;11.500;1.500;58.000;18.700
+642;Swisscom;Switzerland;12.400;1.900;28.400;28.700
+643;Diamondback Energy;United States;8.700;3.200;29.700;35.300
+644;New China Life Insurance;China;18.900;2.100;178.900;7.300
+645;JSW Steel;India;21.100;1.100;27.400;26.600
+646;RELX;United Kingdom;11.400;2.200;19.000;82.000
+647;Raiffeisen Bank International;Austria;16.200;2.500;219.700;6.300
+648;Asahi Group Holdings;Japan;19.600;1.200;35.700;19.300
+648;Bank Leumi;Israel;9.900;1.900;203.100;11.900
+650;DTE Energy;United States;12.000;1.300;45.900;24.100
+651;Centrica;United Kingdom;32.900;4.900;27.200;9.700
+652;Nu Holdings;Cayman Islands;8.100;1.300;43.800;55.600
+653;Albertsons;United States;79.200;1.300;28.800;11.900
+654;Ally Financial;United States;16.200;858;192.900;12.200
+654;Anglo American;United Kingdom;30.700;301;66.500;41.200
+656;GD Power Development;China;25.000;897;64.800;12.800
+657;FirstEnergy;United States;12.900;1.100;51.300;23.000
+658;PPG;United States;18.200;1.400;21.900;31.500
+659;Bank Hapoalim;Israel;9.400;2.000;190.700;11.900
+660;Tenet Healthcare;United States;20.900;2.600;28.900;12.500
+661;Ross Stores;United States;20.400;1.900;15.300;44.400
+662;Global Payments;United States;9.800;1.300;51.800;27.900
+663;MercadoLibre;Uruguay;15.800;1.100;19.100;88.700
+664;Anhui Conch Cement;China;19.900;1.500;34.700;14.600
+665;Deutsche Lufthansa;Germany;38.800;1.500;51.100;8.700
+666;Akbank;Turkey;14.700;2.600;64.100;10.200
+667;Inner Mongolia Yili;China;17.400;1.800;22.300;24.800
+668;Teck Resources;Canada;11.300;1.200;43.100;27.900
+669;Amphenol;United States;12.800;2.000;16.700;79.200
+670;Magna International;Canada;43.100;1.000;32.700;13.600
+671;Great Wall Motor;China;25.100;1.400;27.100;16.400
+672;Jardine Matheson;Bermuda;36.000;686;89.200;11.400
+673;Warner Bros. Discovery;United States;40.600;-3.000;119.800;19.700
+674;CIMB Group Holdings;Malaysia;8.000;1.500;159.600;15.500
+674;O'Reilly Automotive;United States;16.100;2.400;14.200;59.600
+676;Asr Nederland;Netherlands;13.700;1.100;166.000;11.100
+677;Daiichi Sankyo;Japan;11.100;1.400;22.900;68.200
+678;Tenaris;Luxembourg;14.200;3.500;21.500;20.200
+679;Constellation Brands;United States;10.000;1.700;25.700;46.700
+680;GE Vernova;United States;33.200;-438;47.900;44.600
+681;Continental;Germany;44.300;782;40.800;13.600
+682;Samsung SDI;South Korea;17.000;1.400;26.300;21.300
+683;Huaneng Power International;China;35.700;784;78.200;10.300
+684;Hindalco Industries;India;26.100;1.100;27.100;17.700
+685;Banco de Sabadell;Spain;11.100;1.300;259.800;11.100
+686;Bank of Ireland;Ireland;9.700;1.600;172.000;11.700
+687;Aeon;Japan;66.700;312;86.500;18.200
+688;Sumitomo Mitsui Trust;Japan;15.100;548;501.400;16.500
+689;Walgreens Boots Alliance;United States;144.600;-6.000;84.200;15.700
+690;NEC;Japan;24.000;1.000;27.900;18.800
+691;Idemitsu Kosan;Japan;60.300;1.600;33.100;8.900
+691;Vistra Energy;United States;14.600;759;38.200;32.700
+693;W. R. Berkley;United States;12.500;1.500;33.600;20.300
+694;Corteva;United States;16.800;559;43.600;39.300
+695;Lincoln National;United States;16.800;1.400;353.900;5.100
+696;WEC Energy Group;United States;8.700;1.400;43.900;27.000
+697;Singapore Airlines;Singapore;14.100;2.000;33.400;15.000
+698;Hikvision;China;12.600;2.000;18.300;43.500
+699;Mitsubishi Estate;Japan;10.400;1.200;50.100;22.300
+700;Coupang;United States;25.700;1.300;14.900;41.100
+701;Li Auto;China;17.400;1.600;20.200;24.400
+702;ServiceNow;United States;9.500;1.900;17.500;156.800
+703;Samsung Fire & Marine;South Korea;13.900;1.400;62.000;11.600
+704;China Hongqiao Group;China;18.900;1.600;28.200;14.500
+705;Cincinnati Financial;United States;10.700;2.400;33.000;18.800
+706;KeyCorp;United States;10.600;874;187.500;14.500
+707;Block;United States;22.900;499;35.600;44.600
+708;PulteGroup;United States;16.400;2.700;16.500;25.000
+708;Saudi British Bank;Saudi Arabia;6.000;1.900;98.500;22.200
+710;JFE Holdings;Japan;35.800;1.400;38.000;9.400
+711;Korea Electric Power;South Korea;68.100;519;177.500;9.400
+712;Banco BPM;Italy;9.600;1.400;223.300;11.000
+712;Omnicom Group;United States;14.900;1.500;27.300;18.800
+714;EnBW Energie Baden-Wurttemberg;Germany;41.900;56;71.600;19.700
+715;ACS Actividades de Construccion y Servicios;Spain;38.600;843;40.900;11.300
+716;WW Grainger;United States;16.600;1.800;8.400;46.400
+717;BOE Technology Group;China;25.300;458;57.700;23.000
+718;Equinix;United States;8.300;941;31.900;75.900
+719;Nippon Yusen;Japan;16.500;1.600;28.100;14.600
+720;Emaar Properties;United Arab Emirates;7.800;3.100;38.900;18.200
+721;Kuehne & Nagel International;Switzerland;25.500;1.400;13.400;32.300
+722;KLA;United States;9.600;2.600;15.000;100.700
+723;Porsche Automobil Holding;Germany;5.700;5.500;68.900;16.500
+724;Crown Castle International;United States;6.800;1.400;38.200;44.700
+725;Eiffage;France;24.200;1.100;41.800;10.700
+726;Sekisui House;Japan;21.900;1.400;22.900;14.800
+727;Las Vegas Sands;United States;11.200;1.600;21.200;35.000
+728;Alcon;Switzerland;9.600;1.000;29.600;43.600
+729;VICI Properties;United States;3.700;2.600;44.200;31.700
+730;Simon Property Group;United States;5.800;2.600;33.700;48.500
+731;Genuine Parts;United States;23.100;1.300;18.300;21.300
+731;Renesas Electronics;Japan;10.100;2.200;21.400;31.200
+733;Verbund;Austria;10.000;2.400;21.900;27.300
+734;China Resources Power;Hong Kong;13.200;1.400;41.300;13.300
+735;Fidelity National Financial;United States;12.600;824;74.400;14.300
+736;eBay;United States;10.100;2.600;21.400;26.000
+736;Volvo Car;Sweden;37.500;1.200;34.600;9.300
+738;LG Electronics;South Korea;64.300;543;45.600;13.000
+739;Emerson Electric;United States;16.500;129;46.400;64.600
+740;Palo Alto Networks;United States;7.500;2.300;18.300;102.700
+741;Assa Abloy;Sweden;13.500;1.400;19.600;32.100
+742;Keyence;Japan;6.700;2.600;19.600;113.700
+743;Sumitomo Electric;Japan;30.400;1.000;28.800;11.900
+744;Siemens Energy;Germany;34.600;-2.400;54.200;21.500
+745;Steel Dynamics;United States;18.600;2.400;15.000;21.000
+746;Grasim Industries;India;15.300;681;47.000;19.800
+747;Aluminum Corp of China;China;31.900;941;29.900;12.000
+748;Ashtead Group;United Kingdom;10.700;1.600;21.800;31.900
+749;Sika;Switzerland;12.500;1.200;18.100;49.800
+750;Huatai Securities;China;7.500;1.700;127.700;11.500
+751;AIB Group;Ireland;6.100;2.200;150.600;13.500
+752;Meritz Financial Group;South Korea;10.000;1.600;75.900;11.000
+753;Hong Kong Exchanges;Hong Kong;2.600;1.500;43.400;47.800
+754;Fortis (Canada);Canada;8.400;1.200;49.900;20.100
+754;Targa Resources;United States;15.900;1.100;20.800;26.100
+756;Ryanair Holdings;Ireland;14.200;2.200;17.100;22.700
+757;3i Group;United Kingdom;707;4.800;27.300;36.200
+758;Roper Technologies;United States;6.400;1.500;30.000;58.000
+759;VakifBank;Turkey;16.300;1.300;96.800;6.600
+760;Chongqing Changan Auto;China;20.800;769;26.400;19.500
+761;MGM Resorts;United States;16.700;893;42.100;12.900
+762;RenaissanceRe Holdings;Bermuda;9.500;2.300;44.700;12.100
+763;Huishang Bank;China;10.200;2.000;254.800;4.300
+764;HCLTech;India;13.300;1.900;12.000;43.400
+765;Molina Healthcare;United States;35.900;1.100;15.500;20.400
+766;Neste;Finland;24.300;1.500;17.700;15.800
+767;Thomson Reuters;Canada;6.900;2.400;18.800;77.200
+768;Aegon;Netherlands;25.800;253;314.800;12.000
+769;Bancolombia;Colombia;11.300;1.500;87.200;9.100
+770;ASE Technology Holding;Taiwan;18.600;1.000;21.300;20.300
+770;Rongsheng Petrochemical;China;43.300;443;52.700;14.600
+772;Resona Holdings;Japan;6.200;1.100;503.200;15.200
+773;Jabil Circuit;United States;32.100;1.500;17.100;13.900
+774;Grupo Inbursa;Mexico;7.500;1.700;45.400;18.000
+775;Biogen;United States;9.300;1.200;26.600;33.600
+775;Daqin Railway;China;11.000;1.600;29.100;17.300
+777;The Estée Lauder Companies;United States;15.300;641;22.700;48.300
+777;Suncorp Group;Australia;11.800;777;73.100;13.900
+779;SSE;United Kingdom;14.300;709;31.900;25.300
+780;Murata Manufacturing;Japan;11.300;1.300;20.100;34.800
+781;Celanese;United States;10.700;2.000;26.000;17.200
+782;TransDigm Group;United States;7.300;1.400;21.600;72.300
+783;Beijing-Shanghai High-Speed Railway;China;5.800;1.700;40.600;35.700
+784;Newmont;United States;13.100;-2.700;55.300;50.400
+785;Tyson Foods;United States;52.900;-615;37.500;21.000
+786;Ageas;Belgium;12.200;1.000;106.100;9.400
+786;Nidec;Japan;16.200;867;21.000;27.100
+786;Zoetis;United States;8.700;2.400;14.300;79.400
+789;CK Asset Holdings;Hong Kong;6.200;2.200;65.200;16.100
+790;H&M - Hennes & Mauritz;Sweden;22.100;888;16.800;27.300
+791;Public Bank;Malaysia;5.100;1.500;111.100;17.400
+792;TELUS;Canada;14.800;557;42.600;24.400
+793;Sampo;Finland;10.000;1.500;24.800;22.100
+794;Best Buy;United States;43.500;1.200;15.000;15.900
+795;Galp Energia;Portugal;22.300;1.400;17.800;16.200
+796;Shanghai Rural Commercial Bank;China;7.000;1.700;199.500;10.300
+797;WTW;United Kingdom;9.600;1.000;30.200;26.300
+798;Intuitive Surgical;United States;7.300;2.000;15.800;141.500
+799;Otsuka Holding;Japan;14.500;951;22.800;22.700
+800;Unum Group;United States;12.600;1.300;53.600;10.100
+801;Universal Music Group;Netherlands;12.000;1.400;14.600;57.200
+802;The Hershey Company;United States;11.400;2.100;12.400;41.900
+803;Otis Worldwide;United States;14.300;1.400;9.800;39.100
+804;Digital Realty Trust;United States;5.500;1.200;42.600;46.400
+805;Quanta Services;United States;21.500;768;15.500;38.700
+806;SM Investments;Philippines;10.300;1.400;28.400;18.600
+807;CDW;United States;21.100;1.100;13.200;30.100
+808;Grupo Bimbo;Mexico;22.800;795;21.900;18.700
+809;Realty Income;United States;4.400;780;68.300;48.000
+810;ITC;India;8.500;2.500;10.500;65.400
+811;ZTE;China;17.400;1.300;28.800;11.100
+812;T&D Holdings;Japan;19.300;683;113.700;8.600
+813;Essity;Sweden;15.000;1.700;17.400;18.300
+814;Fox;United States;13.900;1.600;21.700;15.300
+815;Alinma Bank;Saudi Arabia;4.700;1.400;65.300;21.100
+815;Joint Stock Commercial Bank for Foreign Trade of Vietnam;Vietnam;5.200;1.400;71.500;20.200
+817;Mega Financial Holding;Taiwan;5.200;1.100;143.200;18.300
+818;HF Sinclair;United States;31.400;1.500;17.900;11.200
+819;American Airlines Group;United States;53.200;500;64.400;9.700
+820;Carnival Corporation;United States;22.600;405;49.800;19.000
+820;MTR;Hong Kong;7.300;994;44.400;23.200
+820;Trip.com Group;China;6.300;1.400;30.900;36.200
+823;Unipol Gruppo;Italy;14.100;1.200;86.600;7.200
+824;BPER Banca;Italy;8.100;1.800;151.300;8.100
+825;Hilton Worldwide Holdings;United States;10.500;1.200;15.900;51.100
+826;Chipotle Mexican Grill;United States;10.200;1.300;8.400;88.300
+827;Power Grid of India;India;5.600;1.900;29.600;35.000
+828;Mapfre;Spain;34.900;748;54.100;7.800
+829;Fresenius;Germany;29.600;-718;47.800;17.100
+830;CLP Holdings;Hong Kong;11.100;850;29.300;21.500
+831;JBS;Brazil;74.200;413;40.800;12.700
+832;Mitsubishi UFJ Lease;Japan;13.500;856;73.700;9.500
+833;Geely Automobile Holdings;Hong Kong;25.200;723;27.200;13.200
+834;Kasikornbank;Thailand;9.100;1.300;118.400;8.800
+834;Tata Steel;India;28.300;-405;32.700;25.100
+836;Leonardo;Italy;16.500;711;33.900;14.600
+837;Ameren;United States;7.300;1.100;41.300;19.900
+838;CenterPoint Energy;United States;8.500;942;40.200;19.200
+839;Cintas;United States;9.400;1.500;9.000;70.200
+840;Daiwa Securities;Japan;8.900;841;211.600;10.200
+841;Rogers Communications;Canada;15.100;440;51.300;21.200
+842;China Taiping Insurance;Hong Kong;17.400;686;191.900;4.300
+842;Microchip Technology;United States;7.600;1.900;15.900;51.000
+842;Motorola Solutions;United States;10.200;1.400;13.300;61.300
+845;TD SYNNEX;United States;56.400;627;27.800;11.000
+846;Builders FirstSource;United States;17.100;1.500;11.200;20.400
+847;Tohoku Electric Power;Japan;19.500;1.600;35.600;4.100
+848;Corning;United States;12.400;614;27.600;30.300
+849;Credicorp;Peru;7.000;1.300;64.800;13.000
+850;Eletrobrás;Brazil;7.400;889;52.800;18.600
+851;SK;South Korea;99.600;-1.400;160.500;6.300
+852;Kuaishou Technology;China;16.000;882;15.000;32.400
+853;Mitsui OSK Lines;Japan;11.300;1.800;27.200;11.800
+854;Mazda Motor;Japan;33.400;1.400;25.100;6.400
+855;Sandvik;Sweden;11.700;1.200;16.900;26.800
+856;Super Micro Computer;United States;11.800;1.000;8.900;52.000
+856;Tractor Supply;United States;14.700;1.100;9.600;30.800
+858;TDK;Japan;14.500;862;22.600;17.700
+859;Flex;United States;28.100;1.000;18.300;12.300
+860;Woolworths;Australia;43.600;-5;22.600;25.800
+861;Southwest Airlines;United States;26.700;426;36.000;16.700
+862;Jiangxi Copper;China;73.500;953;23.700;7.900
+863;HAL Trust;Netherlands;13.700;1.100;29.100;11.800
+864;Philips;Netherlands;19.600;-504;32.800;26.400
+865;PPL;United States;8.200;762;39.600;21.800
+866;Workday;United States;7.200;1.400;16.500;68.500
+867;Tenaga Nasional;Malaysia;11.600;607;50.700;15.600
+868;Public Storage;United States;4.600;2.100;19.600;50.700
+869;Mitsubishi Chemical;Japan;30.300;827;40.300;7.500
+870;Mediobanca;Italy;5.400;1.200;104.800;13.900
+871;Lululemon Athletica;Canada;9.600;1.600;7.100;42.200
+872;Interactive Brokers Group;United States;8.300;627;132.200;13.300
+872;Longi Green Energy Technology;China;16.500;664;23.300;19.500
+874;Kyocera;Japan;13.900;699;29.500;16.900
+875;CP All;Thailand;25.900;574;25.300;14.600
+876;Absa Group;South Africa;11.100;1.100;102.500;7.000
+876;Jackson Financial;United States;3.600;3.200;315.700;5.900
+878;Sabanci Holding;Turkey;23.100;648;74.200;6.600
+879;Henderson Land;Hong Kong;3.500;1.200;69.500;16.400
+880;BDO Unibank;Philippines;6.100;1.300;81.400;12.700
+880;Chongqing Rural Bank;China;7.600;1.500;206.300;5.500
+882;TCL;China;24.300;419;54.200;12.100
+883;NASDAQ;United States;6.200;992;30.300;36.200
+884;Isuzu Motors;Japan;23.400;1.200;21.600;9.400
+885;Phoenix Group Holdings;United Kingdom;33.200;-172;375.300;6.500
+886;SDIC Power Holdings;China;7.900;994;39.000;16.400
+887;Sumitomo Realty;Japan;6.700;1.200;44.100;15.700
+888;Quinenco;Chile;12.400;1.000;79.400;5.800
+889;Mizrahi Tefahot Bank;Israel;6.800;1.300;124.500;9.300
+890;Evergreen Marine Corp. (Taiwan);Taiwan;9.500;1.500;24.400;14.000
+891;Greenland Holdings Group;China;45.500;-1.600;165.600;4.200
+892;Adidas;Germany;23.400;145;19.900;44.500
+893;Banca MPS;Italy;6.700;2.200;135.500;7.300
+893;Ford Otosan;Turkey;17.300;2.100;7.300;13.100
+893;Sichuan Road & Bridge;China;14.800;1.100;32.800;9.200
+896;East Money Information;China;1.800;1.100;35.600;28.400
+897;Aisin Seiki;Japan;34.000;628;30.700;9.700
+897;Guotai Junan Securities;China;6.300;1.200;130.500;10.300
+899;Commercial Bank For Investment & Development Of Vietnam;Vietnam;7.300;909;93.900;11.100
+900;Dubai Islamic Bank;United Arab Emirates;5.400;1.700;85.600;10.900
+901;Arista Networks;United States;6.100;2.300;10.600;100.200
+901;IndusInd Bank;India;6.700;1.100;61.800;13.200
+903;Westinghouse Air Brake Technologies;United States;10.000;918;18.700;29.700
+904;Monster Beverage;United States;7.300;1.700;10.100;56.400
+905;Jeronimo Martins;Portugal;34.600;773;15.800;14.000
+906;Dollar Tree;United States;30.600;-998;22.000;25.600
+907;ON Semiconductor Corp.;United States;8.200;2.200;13.500;31.500
+908;Ovintiv;United States;10.600;1.900;19.800;13.300
+909;Hanwha;South Korea;38.800;-55;158.900;1.500
+909;Naver;South Korea;7.500;1.100;26.600;20.900
+911;Suzano;Brazil;7.700;1.800;28.600;12.900
+912;Expedia Group;United States;13.100;807;24.800;15.100
+912;Telkom Indonesia;Indonesia;9.800;1.600;18.200;18.600
+914;Tokyo Gas;Japan;18.400;1.200;25.700;8.700
+915;China National Building;China;29.800;542;68.900;3.900
+916;Fidelity National Information (FIS);United States;11.200;-6.800;35.900;43.600
+917;Saudi Arabian Mining;Saudi Arabia;7.600;570;30.100;49.100
+918;CMS Energy;United States;7.400;970;33.900;18.900
+919;Martin Marietta Materials;United States;6.700;2.100;16.200;35.800
+920;AES;United States;12.500;523;47.000;15.100
+921;Bank Of Chengdu;China;6.100;1.700;163.100;8.500
+922;Indian Railway Finance;India;3.200;731;58.600;26.500
+923;Legend Holding;China;61.500;-530;93.900;1.900
+924;Muyuan Foodstuff;China;15.700;-759;27.200;34.600
+925;DuPont De Nemours;United States;12.000;355;37.700;33.400
+926;Wipro;India;10.800;1.300;13.800;28.900
+927;Delta Electronics;Taiwan;12.700;1.000;14.800;26.000
+927;Mashreq Bank;United Arab Emirates;5.200;2.300;65.300;10.300
+929;Molson Coors Brewing;United States;12.000;1.100;26.100;12.000
+930;GAIL India;India;16.100;1.200;15.000;16.100
+931;Moody's;United States;6.200;1.700;15.000;75.600
+932;Restaurant Brands International;Canada;7.200;1.200;23.100;22.400
+933;Eversource Energy;United States;11.400;-412;57.300;21.500
+934;Bank Pekao;Poland;5.500;1.600;79.600;10.800
+935;Teva Pharmaceutical;Israel;16.000;-429;42.800;18.500
+936;Db Insurance;South Korea;12.300;1.400;43.600;4.800
+936;Legrand;France;9.000;1.200;16.500;28.700
+936;Rakuten;Japan;14.600;-2.100;157.600;11.000
+939;Conagra Brands;United States;12.100;952;21.900;14.700
+940;Kellanova;United States;14.400;920;15.300;21.000
+941;Schindler Holding;Switzerland;12.800;964;13.400;28.300
+942;Air France-KLM;France;32.900;686;37.500;3.000
+942;TBEA;China;13.200;1.100;27.600;10.200
+944;Bank Negara Indonesia;Indonesia;5.400;1.400;67.300;12.100
+945;Welltower;United States;6.900;442;44.600;60.600
+946;Ericsson;Sweden;24.000;-2.400;28.000;19.100
+947;Indian Bank;India;7.800;1.000;95.400;8.700
+948;DSM-Firmenich;Switzerland;11.500;-705;38.100;31.000
+949;Waste Connections;Canada;8.200;794;19.100;43.200
+950;Techtronic Industries;Hong Kong;13.700;976;12.400;25.100
+951;Raizen;Brazil;44.400;802;25.800;6.000
+952;Anta Sports Products;China;8.800;1.400;13.000;32.100
+953;Kyushu Electric Power;Japan;14.800;1.200;37.800;5.000
+954;Kone;Finland;11.900;1.000;9.000;28.400
+955;Semiconductor Manufacturing International;China;6.300;903;47.800;17.200
+956;Itaúsa;Brazil;1.500;2.700;21.700;20.700
+957;Halkbank;Turkey;15.800;658;78.000;3.900
+957;MOL Hungarian Oil;Hungary;25.300;1.300;22.100;5.500
+959;China Reinsurance Group;China;14.400;793;61.300;3.400
+960;Formosa Petrochemical;Taiwan;22.200;715;13.100;20.700
+961;Vedanta Limited;India;17.400;512;22.900;19.700
+962;Ferrari;Italy;6.600;1.400;9.300;76.000
+963;Shanghai International Port;China;5.300;1.900;28.500;18.000
+964;Reliance Steel;United States;14.500;1.300;10.700;17.100
+965;Yuanta Financial Holding;Taiwan;4.800;852;107.500;12.900
+966;NVR;United States;9.500;1.600;6.500;24.000
+967;Penske Automotive;United States;29.600;970;16.100;10.400
+967;St. James's Place;United Kingdom;23.600;-13;219.600;3.300
+969;China Bohai Bank;China;9.700;728;244.600;2.500
+970;China Three Gorges Renewables (Group);China;3.800;1.000;45.000;18.400
+971;Tongwei;China;17.400;584;24.900;13.600
+972;SCB X Public Company;Thailand;6.100;1.200;93.400;9.900
+973;Vestas Wind Systems;Denmark;16.500;-6;24.400;28.200
+974;KE Holdings;China;11.000;841;17.000;25.400
+975;Dassault Systemes;France;6.500;1.200;16.200;54.000
+976;DiDi Global;China;27.200;70;20.300;23.000
+977;SK Innovation;South Korea;58.300;239;64.200;7.700
+978;CGI;Canada;10.700;1.200;11.600;24.100
+979;American Water Works;United States;4.300;959;31.100;26.100
+980;Textron;United States;13.800;931;16.400;17.000
+981;Pembina Pipeline;Canada;6.200;1.400;24.600;20.300
+982;Banque Saudi Fransi;Saudi Arabia;4.300;1.100;71.600;11.800
+982;Fosun International;China;28.000;199;114.000;5.400
+982;Zimmer Biomet;United States;7.500;964;21.500;24.700
+985;Bangkok Bank;Thailand;7.200;1.200;124.900;7.300
+986;China National Chemical;China;25.200;771;30.400;6.600
+986;Yum! Brands;United States;7.000;1.600;6.200;39.900
+988;Lithia Motors;United States;32.600;935;22.200;7.400
+989;Aena;Spain;5.400;1.800;19.400;29.200
+990;Lonza Group;Switzerland;7.500;728;20.300;42.100
+990;Synopsys;United States;6.100;1.400;10.600;86.500
+992;United Microelectronics;Taiwan;7.100;1.800;17.700;20.500
+993;Uni-President;Taiwan;19.400;600;21.100;14.000
+994;China Cinda Asset Management;China;7.900;830;224.800;4.000
+995;Nongfu Spring;China;6.000;1.700;6.900;66.900
+996;Scor;France;21.400;755;35.000;5.900
+997;E.Sun Financial;Taiwan;4.000;698;116.700;14.100
+998;Rockwell Automation;United States;9.000;1.200;11.400;30.800
+999;Santos;Australia;6.000;1.400;31.100;16.400
+1;Kirin Holdings;Japan;15.100;920;19.900;11.700
+1.001;Snam;Italy;4.600;1.200;37.100;16.500
+1.002;Abu Dhabi Islamic Bank;United Arab Emirates;3.900;1.400;53.000;11.800
+1.003;KT;South Korea;20.100;812;31.700;6.800
+1.004;Sungrow Power Supply;China;10.000;1.400;11.700;20.900
+1.005;Air Canada;Canada;16.400;1.600;22.000;4.800
+1.006;CarMax;United States;26.500;479;27.500;11.500
+1.007;Dover;United States;8.500;1.500;12.000;25.300
+1.007;Zhejiang Zheneng Electric Power;China;13.700;1.000;20.400;11.300
+1.009;Sunac China Holdings;China;22.100;-1.200;137.900;2.000
+01. Jan;Ferrovial;Spain;9.200;497;29.100;29.700
+1.011;PBF Energy;United States;37.700;1.900;13.800;6.100
+1.012;Sanlam;South Africa;11.200;784;53.300;8.300
+1.012;Ulta Beauty;United States;11.200;1.300;6.300;19.200
+1.014;Yamaha Motor;Japan;16.900;1.200;18.500;9.300
+1.015;All Nippon Airways;Japan;14.200;1.100;23.600;9.100
+1.016;Viatris;United States;15.300;-56;47.300;13.100
+1.017;Chunghwa Telecom;Taiwan;7.100;1.200;16.500;30.300
+1.017;Live Nation Entertainment;United States;23.400;252;20.000;22.200
+1.019;Arab National Bank;Saudi Arabia;4.200;1.100;61.900;11.500
+1.019;Coles Group;Australia;27.900;705;13.300;14.600
+1.021;XCMG Construction Machinery;China;12.900;754;22.800;12.700
+1.022;GS Holdings;South Korea;19.300;958;26.000;3.100
+1.023;Franklin Resources;United States;8.100;860;32.900;12.800
+1.024;Ametek;United States;6.700;1.300;14.900;38.600
+1.025;Extra Space Storage;United States;2.900;819;27.500;32.200
+1.026;East West Bancorp;United States;4.100;1.100;70.900;10.800
+1.026;Flutter Entertainment;Ireland;11.800;-1.200;24.400;36.600
+1.028;First Financial Holding;Taiwan;4.700;721;144.300;11.900
+1.029;Electronic Arts;United States;7.500;1.300;13.400;34.200
+01. Mar;Experian;Ireland;7.100;1.200;11.700;42.800
+1.031;Beiersdorf;Germany;10.200;796;14.100;35.200
+1.031;Nippon Paint;Japan;10.300;854;19.100;17.600
+1.033;Avis Budget Group;United States;12.000;1.200;33.500;4.200
+1.034;Edwards Lifesciences;United States;6.100;1.400;9.700;53.700
+1.035;Agilent Technologies;United States;6.700;1.200;10.900;45.200
+1.035;Shenzhen Mindray Bio-Medical Electronics;China;5.000;1.700;7.000;51.700
+1.037;Brookfield Reinsurance;Bermuda;8.200;1.200;59.700;4.500
+1.037;Givaudan;Switzerland;7.700;994;13.200;42.500
+1.039;Fastenal;United States;7.400;1.200;4.500;38.000
+01. Apr;Vienna Insurance Group;Austria;13.400;596;51.900;8.700
+1.041;Brookfield Renewable;United States;4.000;1.400;44.200;11.600
+1.042;Qatar Islamic Bank;Qatar;2.000;1.200;52.700;11.400
+1.043;Globalfoundries;United States;7.100;899;18.500;30.000
+1.044;Jinko Solar;China;16.500;970;18.100;10.300
+1.045;China Resources Pharmaceutical Group;Hong Kong;34.500;544;34.800;5.000
+1.046;HD HYUNDAI;South Korea;48.100;307;51.800;3.600
+1.046;International Flavors & Fragrances;United States;11.400;-2.500;30.600;25.500
+1.048;Adani Power Limited;India;6.100;2.500;11.100;29.400
+1.049;Eurobank Ergasias;Greece;6.100;1.300;85.700;8.400
+01. May;Shaanxi Construction Engineering Group;China;24.000;516;46.200;2.100
+01. May;Voya Financial;United States;7.600;793;149.800;7.500
+1.052;Sany Heavy Industry;China;10.200;641;21.400;20.000
+1.053;Bank of India;India;8.100;793;110.800;6.700
+1.054;Dick's Sporting Goods;United States;13.000;1.000;10.200;15.900
+1.055;Bank of Changsha;China;6.500;1.100;146.800;4.800
+1.056;Luzhou Lao Jiao;China;3.800;2.000;9.500;38.500
+1.057;Israel Discount Bank;Israel;6.500;1.100;109.900;6.200
+1.058;China Development Financial;Taiwan;10.300;608;118.900;7.500
+1.059;Adani Enterprises;India;12.700;391;19.300;41.900
+1.059;T Rowe Price;United States;6.700;1.900;12.900;26.100
+1.061;Paychex;United States;5.200;1.700;13.000;45.200
+1.062;Shanghai Construction;China;43.500;222;48.500;3.000
+1.063;Greentown China Holdings;China;18.600;443;75.500;3.000
+1.064;Orsted;Denmark;8.400;-3.100;42.000;25.700
+1.065;Shanxi Xinghuacun Fen Wine Factory;China;4.000;1.700;7.000;44.500
+1.066;Paramount;United States;30.100;-481;52.000;8.000
+1.067;Arca Continental;Mexico;12.000;987;14.100;17.300
+1.068;Wuchan Zhongda Group;China;81.500;485;28.200;3.500
+1.069;Baxter International;United States;14.900;-233;27.800;18.000
+01. Jul;Copart;United States;4.200;1.400;8.000;52.400
+1.071;Shanghai Pharmaceuticals;China;36.800;530;30.100;5.900
+1.072;China CSSC Holdings;China;11.300;462;24.500;22.200
+1.072;Darden Restaurants;United States;11.200;1.000;11.400;18.400
+1.074;LPL Financial Holdings;United States;10.500;1.000;11.000;20.000
+1.075;Jacobs Solutions;United States;16.900;657;14.900;17.100
+1.076;Guosen Securities;China;2.900;821;65.800;11.900
+1.077;Vonovia;Germany;5.300;-4.300;101.600;26.300
+1.078;National Bank of Greece;Greece;3.900;1.300;78.200;8.400
+1.079;GF Securities;China;4.900;1.100;93.400;8.500
+01. Aug;Hua Nan Financial;Taiwan;4.800;694;126.100;11.000
+1.081;WestRock;United States;19.500;305;26.900;13.700
+1.082;Coterra Energy;United States;5.300;1.300;21.000;21.000
+1.083;EXOR;Netherlands;2.800;2.500;14.800;23.900
+1.084;SBI Holdings;Japan;8.400;603;179.800;7.600
+1.085;Hormel Foods;United States;12.100;795;13.500;19.900
+1.085;Nedbank;South Africa;8.200;838;71.700;6.100
+1.087;M&G;United Kingdom;13.800;369;240.300;6.200
+1.088;Vulcan Materials;United States;7.700;915;13.900;34.300
+1.089;WPP;United Kingdom;18.500;137;34.300;11.600
+01. Sep;Cadence Design;United States;4.100;1.000;5.700;78.600
+1.091;AvalonBay Communities;United States;2.800;954;20.600;28.300
+1.091;Ternium;Luxembourg;18.500;663;24.800;8.600
+1.093;Antofagasta;United Kingdom;6.300;834;19.600;29.600
+1.094;China Merchants Securities;China;4.300;1.200;98.100;8.000
+1.095;Spotify Technology;Luxembourg;15.000;-119;9.800;59.100
+1.096;Grupo Carso;Mexico;11.300;738;14.900;20.400
+1.097;Osaka Gas;Japan;14.400;918;19.700;9.300
+1.098;Interpublic Group;United States;10.900;1.100;17.300;12.000
+1.098;Kaspi.kz JSC;Kazakhstan;4.500;1.900;15.400;23.200
+01. Jan;APA;United States;8.200;2.700;15.000;11.500
+01. Jan;WH Group;Hong Kong;26.200;629;19.200;9.300
+1.102;Agnico Eagle Mines;Canada;6.900;466;28.800;35.000
+1.103;J Sainsbury;United Kingdom;40.900;171;31.700;8.400
+1.103;Julius Baer Group;Switzerland;6.500;505;115.000;12.300
+1.105;Ingersoll Rand;United States;6.900;820;15.500;37.400
+1.106;WEG;Brazil;6.700;1.200;6.400;32.500
+1.107;Euronext;Netherlands;1.600;604;238.500;10.300
+1.108;US Steel;United States;17.800;867;20.400;8.100
+1.109;Taiwan Cooperative Financial;Taiwan;4.200;544;156.500;12.100
+1.109;Toll Brothers;United States;10.200;1.400;12.500;13.600
+1.111;Arrow Electronics;United States;31.300;713;20.300;7.000
+1.111;Western Digital;United States;11.900;-1.600;23.800;23.500
+1.113;The Mosaic Company;United States;12.800;775;22.900;9.800
+1.114;Fortinet;United States;5.400;1.200;7.700;46.900
+1.115;ENN Natural Gas;China;20.000;936;18.900;7.800
+1.116;Kajima;Japan;18.400;796;20.700;8.300
+1.117;ENN Energy Holdings;China;16.100;962;14.500;11.100
+1.118;Acciona;Spain;18.400;585;35.000;7.300
+1.119;UPM-Kymmene;Finland;11.200;525;20.000;20.400
+01. Dec;Guangzhou Automobile Group;China;18.300;630;30.800;4.600
+1.121;DaVita;United States;12.300;816;17.400;12.300
+1.122;CNPC Capital;China;5.900;623;141.000;10.600
+1.123;Constellation Software;Canada;8.800;576;11.900;57.600
+1.124;Hoya;Japan;5.300;1.300;8.000;42.700
+1.125;Banca Mediolanum;Italy;3.100;937;85.400;8.800
+1.126;Amcor;United Kingdom;13.800;653;16.700;14.800
+1.127;Xylem;United States;7.900;663;15.900;34.700
+1.128;Marathon Oil;United States;6.400;1.400;19.700;14.800
+1.129;International Paper;United States;18.500;186;23.000;14.100
+Jan 13;El Puerto de Liverpool;Mexico;11.500;1.200;15.300;11.500
+Jan 13;EMCOR Group;United States;13.100;719;6.700;17.800
+1.132;Old Dominion Freight Line;United States;5.900;1.200;5.700;39.800
+1.133;Vibra Energia;Brazil;33.100;1.100;8.800;5.000
+1.134;ICON (Ireland);Ireland;8.200;683;17.000;26.000
+1.135;US Foods;United States;36.000;506;13.400;13.600
+1.136;Hexagon;Sweden;5.900;920;18.400;29.700
+1.137;Top Frontier Investment Holdings;Philippines;26.000;-48;47.100;586
+1.137;Weyerhaeuser;United States;7.600;802;16.800;22.700
+1.139;Atmos Energy;United States;4.100;999;24.000;17.900
+Jan 14;Terna;Italy;3.400;957;25.900;17.100
+1.141;Assurant;United States;11.400;765;26.600;9.100
+1.141;Cathay Pacific Airways;Hong Kong;12.100;1.300;22.300;7.200
+1.141;Korea Gas;South Korea;29.900;-375;42.400;1.800
+1.144;LKQ;United States;14.200;831;15.300;11.900
+1.145;XP;Brazil;3.000;783;51.300;11.900
+1.146;Asustek Computer;Taiwan;15.700;734;15.700;11.900
+1.147;Telecom Italia;Italy;17.600;-1.600;68.700;5.700
+1.148;Industrivarden;Sweden;1.000;3.000;16.400;14.700
+1.149;Echostar;United States;20.600;-1.800;55.600;4.800
+1.149;Krung Thai Bank;Thailand;5.800;1.100;101.900;6.600
+1.151;Vivendi;France;11.400;438;42.300;11.300
+1.152;Cemex;Mexico;17.500;204;28.600;11.700
+1.153;NARI Technology Development;China;7.400;1.000;11.500;25.500
+1.154;China Tourism Group Duty Free;China;8.900;937;11.100;19.800
+1.155;Equity Residential;United States;2.900;919;19.900;25.400
+1.156;Prysmian;Italy;16.300;577;14.600;16.800
+1.157;Garmin;Switzerland;5.500;1.400;8.600;32.800
+1.158;MSCI;United States;2.600;1.200;5.500;40.000
+1.159;Japan Exchange Group;Japan;1.100;421;533.100;12.200
+Jan 16;Owens Corning;United States;9.600;1.100;11.300;15.300
+1.161;Sun Pharma Industries;India;5.700;1.100;9.600;44.100
+1.162;Amadeus IT Group;Spain;6.100;1.200;12.100;31.400
+1.162;Wolters Kluwer;Netherlands;6.000;1.100;10.300;38.300
+1.164;Bankinter;Spain;5.000;913;124.800;7.500
+1.165;American Financial Group;United States;7.900;882;24.400;11.200
+1.165;SK Telecom;South Korea;13.400;862;22.500;8.100
+1.167;Investec;United Kingdom;6.200;1.100;69.900;5.700
+1.168;Chow Tai Fook Jewellery;Hong Kong;12.500;843;10.900;13.900
+1.169;Fortive;United States;6.100;900;17.500;27.200
+1.169;Sunshine Insurance Group;China;11.000;535;71.800;4.700
+1.171;First Horizon;United States;4.900;838;81.800;8.800
+1.171;Rexel;France;20.700;838;15.100;8.900
+1.173;Ball;United States;13.300;-480;19.900;21.800
+1.173;Caesars Entertainment;United States;11.400;764;33.100;7.700
+1.175;Howmet Aerospace;United States;6.900;860;10.400;33.900
+1.176;SMC;Japan;5.400;1.200;13.800;33.800
+1.177;ThyssenKrupp Group;Germany;38.700;-2.500;33.300;3.400
+1.178;Banco Comercial Portugues;Portugal;5.800;951;105.600;5.800
+1.179;Attijariwafa Bank;Morocco;4.200;741;66.800;10.300
+Jan 18;YPF;Argentina;18.000;-2.400;26.600;11.500
+1.181;Stanley Black & Decker;United States;15.700;-75;23.900;13.900
+1.182;SQM;Chile;7.400;2.000;11.700;13.500
+1.183;Mitsubishi Motors;Japan;19.300;1.100;16.200;4.200
+1.184;CJ Corporation;South Korea;31.800;193;36.100;3.500
+1.185;China Galaxy Securities;China;4.200;990;93.500;6.700
+1.185;West Japan Railway;Japan;11.300;683;25.000;9.900
+1.187;Chugoku Electric Power;Japan;11.300;923;27.300;2.400
+1.188;Telenor;Norway;7.600;699;21.500;16.600
+1.189;Universal Health Services;United States;14.700;816;14.000;11.900
+Jan 19;Metro;Canada;15.700;727;10.300;12.500
+1.191;Partners Group Holding;Switzerland;2.400;1.100;5.700;36.000
+1.192;Hydro One;Canada;5.900;813;25.200;17.700
+1.193;China Southern Airlines;China;22.500;-590;43.700;7.300
+1.194;Bayan Resources;Indonesia;3.300;1.000;2.900;39.600
+1.194;Vietin Bank;Vietnam;6.400;837;83.800;7.000
+1.196;Olympus;Japan;6.500;1.700;10.100;18.400
+1.197;StoneX Group;United States;73.400;234;25.700;2.400
+1.198;Yum China Holdings;China;11.000;825;11.300;15.300
+1.199;Korean Air;South Korea;12.700;909;23.200;5.900
+01. Feb;Autodesk;United States;5.400;906;9.900;47.700
+1.201;Towngas;Hong Kong;7.300;775;20.700;15.300
+1.202;WESCO International;United States;22.200;684;15.500;9.400
+1.203;Westlake Chemical;United States;12.200;257;21.000;20.300
+1.204;Shenzhen Transsion Holding;China;9.800;926;6.600;15.300
+1.205;Williams-Sonoma;United States;7.800;950;5.300;19.900
+1.206;J.B. Hunt Transport Services;United States;12.500;658;8.400;17.000
+1.207;Smurfit Kappa Group;Ireland;12.200;821;14.600;12.400
+1.208;Jyske Bank;Denmark;4.500;831;111.500;5.100
+1.209;Cellnex Telecom;Spain;4.300;-267;47.400;27.100
+Jan 21;Seazen Group;China;16.800;-41;53.600;1.600
+1.211;Forvia;France;29.500;247;33.700;3.400
+1.212;InterGlobe Aviation;India;7.900;871;8.800;20.200
+1.213;AutoNation;United States;27.000;923;12.000;6.900
+1.213;IDEXX Laboratories;United States;3.700;867;3.400;44.900
+1.215;Sodexo;France;24.500;303;16.900;13.700
+1.216;Dassault Aviation;France;5.200;750;25.900;17.600
+1.217;Grupo De Inversiones Suramericana;Colombia;9.700;1.400;21.900;6.100
+1.218;Oriental Land;Japan;4.300;831;9.000;48.200
+1.219;Adani Ports & Special Economic Zone;India;3.200;980;14.300;34.600
+Jan 22;Piraeus Financial Holdings;Greece;3.700;911;83.400;5.200
+1.221;Performance Food Group;United States;58.000;420;13.100;11.500
+1.221;Webster Financial;United States;4.100;855;76.200;8.000
+1.223;iA Financial Corporation;Canada;8.900;556;70.200;6.600
+1.224;Gerdau (Cosigua);Brazil;13.400;1.300;15.400;8.000
+1.225;Brenntag;Germany;17.700;694;11.500;10.900
+1.226;Hunan Valin Steel;China;22.500;667;19.300;5.000
+1.227;Kobe Steel;Japan;17.600;758;19.300;4.900
+1.228;Quest Diagnostics;United States;9.300;842;14.000;16.000
+1.229;Bunzl;United Kingdom;14.700;654;11.400;13.000
+1.229;GoDaddy;United States;4.300;1.700;8.000;19.100
+1.231;Compagnie de l'Odet;France;14.800;133;57.100;7.000
+1.232;Pan Pacific International Holdings;Japan;14.200;600;9.600;14.700
+1.233;AntarChile;Chile;29.600;236;29.700;3.900
+1.233;Astellas Pharma;Japan;11.100;89;23.600;17.200
+1.235;Huadian Power International;China;16.300;511;31.900;6.000
+1.235;Swatch Group;Switzerland;8.800;967;16.900;11.400
+1.237;Randstad N.V.;Netherlands;26.900;605;11.700;9.800
+1.238;Origin Energy;Australia;10.400;1.100;13.000;11.400
+1.239;Jiangsu Eastern Shenghong;China;19.700;27;27.900;9.000
+Jan 24;ResMed;United States;4.600;958;6.800;32.100
+1.241;BCI-Banco Credito;Chile;5.200;823;88.000;6.700
+1.242;Jiangsu Yanghe Brewery;China;4.000;1.400;10.000;20.400
+1.243;Bank Of Guiyang;China;4.300;767;100.200;2.900
+1.243;Norsk Hydro;Norway;18.100;306;19.600;12.600
+1.245;Zhongyuan Bank;China;7.900;451;189.800;1.700
+1.246;Vipshop Holdings;China;15.900;1.100;10.200;8.000
+1.247;SinoPac Financial;Taiwan;3.500;634;90.300;8.900
+1.248;Industries Qatar;Qatar;3.100;1.400;10.800;20.000
+1.249;Grupo Galicia;Argentina;19.500;1.000;12.700;6.500
+Jan 25;Csc Financial;China;4.500;863;73.700;6.900
+1.251;Datang International Power;China;17.100;-22;42.900;3.800
+1.251;Pegatron;Taiwan;37.800;508;16.200;8.600
+1.253;Evolution Gaming Group AB;Sweden;2.000;1.200;5.400;23.300
+1.254;Keppel;Singapore;5.200;3.000;20.300;8.900
+1.254;Olam Group;Singapore;35.900;208;25.600;3.300
+1.256;S-Oil;South Korea;27.200;644;16.600;5.900
+1.257;A2A;Italy;13.800;846;19.400;6.900
+1.258;China International Capital;China;5.000;779;88.000;7.000
+1.259;IDBI Bank;India;3.700;699;43.700;10.900
+Jan 26;Dongguan Rural Commercial Bank;China;3.700;735;100.000;6.000
+1.261;NiSource;United States;5.200;746;29.300;13.100
+1.262;Helvetia Holding;Switzerland;11.700;315;71.900;7.500
+1.263;Yuexiu Property;Hong Kong;11.300;454;56.600;3.300
+1.264;Bajaj Auto;India;5.400;931;4.700;29.400
+1.264;Grupo Aval;Colombia;11.300;104;79.400;2.900
+1.266;BAIC Motor;China;28.000;437;23.800;2.400
+1.267;Alstom;France;19.100;-335;35.900;7.600
+1.268;Bâloise Group;Switzerland;10.600;267;92.000;7.500
+1.269;Masco;United States;7.900;918;5.300;15.500
+Jan 27;Gartner;United States;6.000;797;7.700;35.000
+1.271;Keysight Technologies;United States;5.300;969;9.100;27.500
+1.272;Evergy;United States;5.500;711;31.300;12.700
+1.273;Adyen;Netherlands;2.000;755;10.600;41.900
+1.274;Bank of Chongqing;China;4.300;697;108.000;2.400
+1.275;Ajinomoto;Japan;10.000;603;11.700;19.800
+1.276;Alpha Bank;Greece;4.700;771;80.300;4.400
+1.277;Solventum;United States;8.200;1.300;14.700;10.800
+1.278;Brown & Brown;United States;4.400;915;14.800;25.600
+1.278;Sojitz;Japan;16.700;697;19.100;6.000
+Jan 28;Halyk Bank;Kazakhstan;5.200;1.500;35.500;5.000
+1.281;Fanuc;Japan;5.500;921;12.700;28.000
+1.281;Shriram Transport Finance Co.;India;4.400;890;29.800;10.700
+1.283;Hyundai Marine & Fire;South Korea;11.100;624;31.900;1.900
+1.284;Asahi Kasei;Japan;19.300;303;24.200;9.300
+1.285;Jefferies Financial;United States;8.400;305;60.900;10.000
+1.286;Labcorp;United States;12.300;433;16.500;17.800
+1.286;Old Mutual;South Africa;11.900;383;62.800;2.700
+1.286;Xiamen International Trade Group;China;61.500;166;20.500;2.400
+1.289;EQT;United States;4.500;620;25.400;18.200
+Jan 29;AGCO;United States;14.000;1.100;13.500;8.200
+Jan 29;NetApp;United States;6.200;940;9.400;22.800
+Jan 29;Voestalpine;Austria;18.400;677;18.300;4.900
+1.293;Verisk Analytics;United States;2.700;778;4.500;35.900
+1.294;Corpay;United States;3.800;997;15.800;19.600
+1.295;Marfrig Global Foods;Brazil;27.200;-167;26.200;2.100
+1.296;Eastman;United States;9.100;925;14.700;11.800
+1.297;Western Alliance Bancorp.;United States;4.600;758;77.000;7.200
+1.298;Bank Albilad;Saudi Arabia;2.600;654;38.300;11.700
+1.298;Leidos;United States;15.700;321;12.800;20.100
+01. Mar;PGE Polska Grupa Energetyczna;Poland;22.800;-1.200;28.800;4.300
+1.301;China Eastern Airlines;China;16.000;-1.200;40.100;5.500
+1.301;Tourmaline Oil;Canada;3.900;1.300;14.800;17.400
+1.303;Kerry Group;Ireland;8.700;787;12.900;14.900
+1.304;Kingspan Group PLC;Ireland;8.700;692;8.800;17.700
+1.305;Zhongsheng Group Holdings;China;25.300;712;14.600;4.900
+1.306;Dongfeng Motor Group;China;14.000;-543;46.600;3.100
+1.307;DexCom;United States;3.800;639;6.500;52.200
+1.308;Mettler-Toledo International;United States;3.800;778;3.300;32.500
+1.309;HBIS;China;16.700;138;36.100;3.200
+Jan 31;AGNC Investment;United States;2.900;749;71.900;7.300
+Jan 31;ZTO Express (Cayman);China;5.500;1.200;12.400;19.300
+1.312;Shanghai Electric Group;China;15.800;-6;38.600;3.400
+1.313;DoorDash;United States;9.100;-420;11.400;48.000
+1.313;Tianshan Material;China;13.800;178;41.600;7.900
+1.315;Campbell Soup;United States;9.300;766;12.100;13.800
+1.316;Marvell Technology;United States;5.500;-933;21.200;62.200
+1.317;Bank of Greece;Greece;7.500;107;250.200;309
+1.317;Expeditors International;United States;8.900;696;4.500;16.700
+1.319;Hyundai Glovis;South Korea;19.700;821;11.500;5.300
+Jan 32;Storebrand;Norway;9.700;301;89.000;4.600
+1.321;Brown-Forman;United States;4.200;965;8.200;22.900
+1.322;Foshan Haitian Flavouring and Food;China;3.500;813;5.100;29.200
+1.323;Carvana;United States;11.200;638;7.000;13.700
+1.323;Wistron;Taiwan;28.500;472;14.400;10.000
+1.325;Alexandria Real Estate Equities;United States;3.000;184;37.700;21.700
+1.326;Beijing Enterprises;Hong Kong;10.500;702;26.200;4.500
+1.327;Coca-Cola HBC;Switzerland;11.000;689;11.000;12.900
+1.328;Rheinmetall;Germany;8.000;575;12.500;24.200
+1.329;Gemdale;China;12.500;15;50.900;2.900
+Jan 33;First Solar;United States;3.600;1.000;10.800;21.100
+1.331;Evonik Industries;Germany;16.300;-386;22.100;10.200
+1.332;Terumo;Japan;6.400;736;12.100;26.000
+1.333;Robinhood Markets;United States;2.100;127;46.100;17.700
+1.334;BJ's Wholesale Club;United States;20.000;524;6.700;10.600
+1.335;Borouge;United Arab Emirates;5.700;1.100;9.200;20.000
+1.336;Bank of Suzhou;China;3.300;664;89.700;4.000
+1.337;Solvay;Belgium;9.900;2.100;7.500;3.900
+1.338;Comerica;United States;5.200;691;79.400;7.300
+1.339;Wuxi Apptec;China;5.500;1.500;10.400;15.100
+Jan 34;Far East Horizon;Hong Kong;5.500;874;49.600;3.500
+1.341;Xiamen Xiangyu;China;60.500;200;18.500;2.200
+1.342;Ares Management;United States;3.900;435;24.400;28.300
+1.343;TUI;Germany;23.500;551;17.500;3.600
+1.344;Epiroc;Sweden;5.700;863;7.300;24.600
+1.345;Metropolitan Bank & Trust;Philippines;3.400;782;56.700;5.500
+1.345;Shopify;Canada;7.400;-200;11.100;75.300
+1.347;Next;United Kingdom;6.800;1.000;6.000;14.500
+1.348;Church & Dwight;United States;5.900;780;8.600;26.000
+1.348;E-mart;South Korea;22.400;-66;25.200;1.300
+Jan 35;Akzo Nobel;Netherlands;11.500;574;15.500;12.000
+Jan 35;Rede D'Oro Luiz;Brazil;9.700;518;18.200;13.700
+1.352;Obayashi;Japan;16.100;519;19.900;8.300
+1.352;STRABAG;Austria;19.100;682;15.600;4.500
+1.354;Grupo Elektra;Mexico;10.800;419;26.900;10.500
+1.354;Valeo;France;23.800;239;24.000;3.400
+1.356;Galaxy Entertainment;Hong Kong;2.900;872;11.200;22.400
+1.357;Qantas Airways;Australia;13.700;1.100;13.200;6.400
+1.358;Bawag Group;Austria;3.300;738;61.300;5.100
+1.359;ACWA Power;Saudi Arabia;1.700;450;15.300;89.700
+Jan 36;Aristocrat Leisure;Australia;4.300;994;6.800;19.600
+Jan 36;Packaging Corp of America;United States;7.800;716;8.900;16.400
+1.362;Zions Bancorp;United States;4.800;624;87.100;6.600
+1.363;FinecoBank;Italy;1.900;659;36.800;10.400
+1.364;China Mengniu Dairy;Hong Kong;13.900;683;16.200;8.500
+1.365;Broadridge Financial;United States;6.400;699;8.200;24.000
+1.366;Aramark;United States;18.300;626;12.600;8.800
+1.367;Lindt & Sprungli;Switzerland;5.800;747;9.500;27.300
+1.368;Veralto;United States;5.000;798;5.700;24.300
+1.369;Qilu Bank;China;3.200;613;86.500;3.500
+Jan 37;Jiangsu Hengrui Medicine;China;3.200;618;6.400;39.300
+1.371;Hyundai Steel;South Korea;19.300;200;26.100;3.100
+1.372;Teledyne Technologies;United States;5.600;886;14.600;19.300
+1.372;Tokyo Century;Japan;9.300;499;42.700;4.800
+1.374;BBMG;China;13.500;-129;37.800;1.000
+1.375;China Jinmao;Hong Kong;10.200;-949;57.400;1.600
+1.375;Coloplast;Denmark;3.700;722;7.000;27.900
+1.375;Shin Kong Financial;Taiwan;7.100;-238;161.400;4.300
+1.378;Roivant Sciences;United Kingdom;123;4.500;7.300;9.100
+1.379;Carlsberg;Denmark;10.700;-5.900;16.600;18.900
+Jan 38;McCormick;United States;6.700;708;12.900;19.900
+1.381;China Steel;Taiwan;11.600;97;21.600;11.900
+1.381;Shimao Property Holdings;Hong Kong;8.500;-3.000;76.600;641
+1.383;Banque Cantonale Vaudoise;Switzerland;1.800;522;69.900;8.900
+1.384;Ag Anadolu Grubu Holding Anonim Sirketi;Turkey;15.800;824;13.300;2.800
+1.384;Asian Paints;India;4.300;660;3.600;32.300
+1.384;Wens Foodstuff Group;China;12.800;-680;13.100;19.500
+1.387;Credito Emiliano;Italy;3.500;638;71.000;3.700
+1.388;China Merchants Expressway Network & Technology Holdings;China;1.500;936;21.800;10.700
+1.389;Annaly Capital Management;United States;6.000;-336;91.500;10.200
+Jan 39;Latam Airlines;Chile;12.200;725;14.900;9.000
+1.391;Dollarama;Canada;4.300;749;4.400;25.400
+1.391;Hong Leong Financial;Malaysia;2.500;638;69.700;4.200
+1.393;Chongqing Zhifei Biological Products;China;7.400;1.000;7.400;11.500
+1.394;China Nuclear Engineering Corporation;China;15.200;295;30.300;3.300
+1.395;Murphy USA;United States;21.300;517;4.300;9.200
+1.396;Bank of Tianjin;China;5.200;524;118.500;1.400
+1.397;HPB;Croatia;2.500;707;55.000;493
+1.398;Trina Solar;China;15.300;597;18.400;6.000
+1.399;Hotai Motor;Taiwan;8.900;753;15.500;10.800
+1.399;Korea Shipbuilding & Offshore Engineering;South Korea;17.300;417;24.100;7.000
+1.401;Aeroports de Paris;France;5.900;682;21.700;13.600
+1.402;China Resources Gas Group;Hong Kong;12.900;667;17.700;8.000
+1.403;Motor Oil;Greece;14.400;871;8.400;3.300
+1.404;Lumen Technologies;United States;14.100;-10.800;33.200;1.300
+1.405;CF Industries Holdings;United States;6.100;1.200;13.900;13.900
+1.405;RHB Bank;Malaysia;3.000;615;71.500;5.100
+1.407;CJ Cheiljedang;South Korea;22.100;357;22.500;3.900
+1.408;DISCO Corp.;Japan;2.100;582;3.700;39.100
+1.409;Avery Dennison;United States;8.500;554;8.300;18.200
+Jan 41;China Shipbuilding Industry;China;6.900;-99;27.400;16.300
+1.411;BNK Financial Group;South Korea;6.400;461;110.700;2.000
+1.411;Casey's General Stores;United States;14.600;471;6.200;12.400
+1.411;Huntington Ingalls Industries;United States;11.600;705;11.200;10.100
+1.414;Sandoz Group;Switzerland;9.900;77;19.400;15.200
+1.415;Guangdong Haid Group;China;16.100;445;6.200;12.000
+1.415;Lamb Weston Holdings;United States;6.600;1.100;7.200;12.500
+1.417;LG Display;South Korea;16.800;-1.700;26.800;3.800
+1.418;New World Development;Hong Kong;9.300;73;60.200;3.200
+1.418;Zhuhai Huafa Properties;China;9.000;230;63.600;3.100
+Jan 42;JDE Peet's;Netherlands;8.900;397;25.900;11.800
+Jan 42;Rithm Capital;United States;4.000;815;42.100;5.500
+1.422;Unibail-Rodamco-Westfield;France;3.300;-1.800;59.200;12.000
+1.423;Shenwan Hongyuan Group;China;3.300;559;86.900;5.200
+1.424;Invitation Homes;United States;2.600;541;19.200;21.700
+1.424;Sumitomo Chemical;Japan;16.900;-2.200;26.000;3.400
+1.426;Toray Industries;Japan;17.000;151;22.900;8.100
+1.427;Alliant Energy;United States;4.000;698;21.200;13.300
+1.427;Transurban Group;Australia;2.800;151;24.800;25.700
+1.429;China Communications Services;China;21.000;508;17.200;3.400
+Jan 43;Sinotruk Hong Kong;China;12.100;749;17.200;7.100
+1.431;Commercial Bank of Qatar;Qatar;3.400;752;45.700;4.600
+1.431;Hubei Biocause Pharmaceutical;China;11.800;-81;39.000;1.700
+1.433;China International Marine;China;18.600;44;23.800;4.600
+1.434;Secom;Japan;8.000;705;13.700;13.500
+1.435;ASM International;Netherlands;2.800;591;4.900;34.800
+1.436;Lundbergs;Sweden;2.200;683;21.400;13.200
+1.437;Avnet;United States;24.700;571;12.300;4.800
+1.437;Kao;Japan;10.700;384;11.700;20.800
+1.439;Concordia Financial Group;Japan;2.500;463;161.100;6.700
+1.439;Globe Life;United States;5.500;1.000;28.600;7.900
+1.439;Siam Cement;Thailand;14.100;335;25.700;8.300
+1.442;Deckers Outdoor;United States;4.100;724;3.300;22.800
+1.443;Suntory Beverage & Food;Japan;11.200;611;13.100;11.300
+1.443;WSP;Canada;10.800;418;11.700;19.000
+1.445;Wharf Real Estate Investment;Hong Kong;1.700;609;31.400;10.600
+1.446;BIM Birlesik Magazalar;Turkey;13.800;648;5.000;9.000
+1.447;Lear;United States;23.600;539;14.900;7.400
+1.448;SSAB;United States;10.800;1.100;10.600;5.700
+1.449;Korea Investment Holdings;South Korea;4.100;566;72.300;3.000
+Jan 45;Hyundai Engineering;South Korea;24.400;425;18.100;2.800
+1.451;Charoen Pokphand Foods;Thailand;16.500;-60;24.800;4.900
+1.452;Goodyear;United States;19.700;-645;22.000;3.700
+1.452;Military Commercial Joint Stock Bank;Vietnam;3.500;838;36.300;4.800
+1.454;Wintrust Financial;United States;3.800;630;57.600;6.300
+1.455;Jones Lang LaSalle;United States;21.200;301;15.500;9.800
+1.456;Carlisle Cos;United States;5.000;773;6.600;19.900
+1.457;Snap-on;United States;5.100;1.000;7.700;14.700
+1.458;Fukuoka Financial Group;Japan;2.800;423;215.700;5.200
+1.459;CBOE Global Markets;United States;3.700;793;8.200;19.300
+1.459;Genmab;Denmark;2.600;793;5.300;19.400
+1.461;Booz Allen Hamilton Holding;United States;10.300;406;6.500;19.800
+1.462;Advanced Info Service;Thailand;5.500;874;12.500;17.100
+1.462;BorgWarner;United States;15.300;614;14.100;8.500
+1.464;New York Community Bancorp;United States;6.700;-2.400;112.900;3.000
+1.464;Old Republic International;United States;7.500;715;21.100;8.800
+1.466;Hubbell;United States;5.500;724;6.900;21.100
+1.467;Lotte Chemical;South Korea;15.200;-193;26.100;3.700
+1.468;Moderna;United States;5.100;-6.000;16.700;50.900
+1.469;Colruyt;Belgium;10.800;1.100;7.100;5.600
+Jan 47;China Longyuan Power;China;5.200;885;32.800;7.400
+Jan 47;Hyatt Hotels;United States;7.200;684;11.700;15.100
+1.472;Bank of Qingdao;China;3.600;521;86.200;2.000
+1.472;SGS;Switzerland;7.400;615;8.000;16.800
+1.474;Cleveland-Cliffs;United States;21.900;389;17.200;8.300
+1.475;Bath & Body Works;United States;7.400;878;5.500;11.200
+1.475;Empire;Canada;22.800;563;12.400;6.300
+1.477;Ultrapar Participacoes;Brazil;25.500;529;7.400;5.300
+1.478;Vietnam Technological & Commercial Joint Stock Bank;Vietnam;3.000;819;35.700;6.900
+1.479;Guangzhou Rural Commercial Bank;China;6.100;377;185.400;2.600
+Jan 48;LG;South Korea;5.000;874;22.700;9.300
+1.481;Check Point Software;Israel;2.400;840;5.500;17.100
+1.481;CIFI Holdings Group;China;10.100;-1.300;42.500;721
+1.483;Bank of Guizhou;China;3.500;518;81.300;2.800
+1.484;VeriSign;United States;1.500;833;1.700;17.000
+1.484;Vertiv Holdings;United States;7.000;404;7.600;36.200
+1.486;Ningxia Baofeng Energy Group;China;4.200;821;10.200;17.200
+1.487;Stora Enso;Finland;9.600;-500;21.900;11.800
+1.488;KPN;Netherlands;5.900;914;13.500;15.000
+1.489;Shenzhen Inovance Technology;China;4.500;670;7.000;22.500
+Jan 49;Chiba Bank;Japan;2.000;432;140.900;6.100
+Jan 49;China Development Bank Financial Leasing;China;3.700;585;57.800;3.600
+1.492;First Pacific;Hong Kong;10.500;501;27.400;2.000
+1.492;Prada;Italy;5.100;725;8.400;19.800
+1.494;Albemarle;United States;8.400;337;19.000;15.400
+1.495;Cosmo Energy Holdings;Japan;18.900;568;14.600;4.100
+1.496;Equifax;United States;5.400;558;12.300;30.700
+1.497;AppLovin;United States;3.600;594;5.300;27.100
+1.498;Knorr-Bremse;Germany;8.700;597;9.500;13.000
+1.499;Grupo Bolivar;Colombia;8.400;-9;52.000;1.400
+01. May;Brighthouse Financial;United States;2.900;-1.100;238.800;2.800
+1.501;Bank of East Asia;Hong Kong;5.700;450;110.200;3.600
+1.502;Schaeffler;Germany;17.600;447;18.700;4.600
+1.503;Japan Airlines;Japan;11.400;661;17.500;7.600
+1.504;AECOM;United States;15.300;-14;11.500;12.200
+1.505;Shionogi;Japan;3.000;1.100;9.400;12.500
+1.505;Unicharm;Japan;6.600;604;7.700;19.200
+1.507;Taishin Financial Holdings;Taiwan;3.600;463;100.100;7.300
+1.508;Bandai Namco Holdings;Japan;7.300;702;6.400;13.200
+1.509;Geberit;Switzerland;3.400;687;4.200;20.600
+Jan 51;Veeva Systems;United States;2.400;526;5.900;34.000
+1.511;Hangzhou Binjiang Real Estate Group Co., Ltd.;China;10.100;367;39.200;4.400
+1.512;CrowdStrike;United States;3.100;89;6.600;84.100
+1.513;Sumitomo Forestry Co.,;Japan;12.500;763;12.700;7.800
+1.514;Anhui Gujing Distillery;China;2.600;709;5.600;19.500
+1.514;News Corp;United States;9.900;208;16.500;15.000
+1.516;Banca Popolare di Sondrio;Italy;2.900;555;61.300;4.000
+1.516;SS&C Technologies;United States;5.600;639;17.400;15.800
+1.518;Ventas;United States;4.600;-73;24.700;19.800
+1.519;Wheaton Precious Metals;Canada;1.100;591;7.200;25.900
+Jan 52;CPFL Energia;Brazil;8.100;1.100;15.100;7.700
+1.521;MTN Group;South Africa;12.000;222;23.800;8.600
+1.521;Skyworks Solutions;United States;4.500;855;8.300;15.000
+1.523;Sime Darby;Malaysia;11.900;820;12.200;4.200
+1.524;Group 1 Automotive;United States;18.200;577;8.500;4.300
+1.525;Dr. Sulaiman Al-Habib Medical Services Group;Saudi Arabia;2.600;562;4.500;27.700
+1.526;Nan Ya Plastics;Taiwan;8.000;213;20.400;13.900
+1.527;PTT Global Chemical;Thailand;17.900;9;20.400;4.700
+1.528;Sasol;South Africa;14.900;206;23.400;4.700
+1.529;Genworth Financial;United States;7.000;93;70.900;2.900
+1.529;Macy's;United States;23.900;105;17.400;5.400
+1.531;Falabella;Chile;13.100;198;24.800;7.800
+1.532;Fuyao Glass Industry Group;China;4.700;795;8.000;15.800
+1.532;U-Haul Holding;United States;5.700;637;19.000;13.500
+1.534;Tata Power Company;India;7.400;447;16.700;16.700
+1.535;West Pharmaceutical Services;United States;2.900;569;3.600;25.900
+1.536;World Fuel Services;United States;46.200;58;7.200;1.500
+1.537;Goodman Group;Australia;1.300;161;15.700;43.600
+1.538;United Therapeutics;United States;2.500;1.100;6.500;12.200
+1.539;Banca Transilvania;Romania;2.900;686;38.200;5.200
+1.539;Qinghai Salt Lake Industry;China;2.600;924;6.500;13.200
+1.539;Shengjing Bank;China;5.700;106;152.300;936
+1.542;Cadence Bank;United States;2.500;583;48.300;5.400
+1.542;NAURA Technology GroupLtd;China;3.300;618;7.800;21.400
+1.544;Wynn Resorts;United States;7.000;862;13.500;10.800
+1.545;Brambles;Australia;6.400;764;8.800;13.300
+1.546;Chesapeake Energy;United States;4.700;1.100;14.000;12.000
+1.547;Iveco Group;Italy;17.500;248;19.900;3.400
+1.548;Mebuki Financial Group;Japan;1.900;300;143.900;3.900
+1.549;Royalty Pharma;United States;2.200;800;16.100;12.300
+Jan 55;Sonova Holding;Switzerland;4.100;678;6.400;19.100
+1.551;Chailease Holding;Taiwan;3.200;762;30.100;7.600
+1.552;Shanghai Commercial & Savings Bank;Taiwan;3.000;469;75.800;6.900
+1.553;Bank OZK;United States;2.400;696;36.000;5.600
+1.553;China Huarong Asset Management;China;5.300;212;136.500;3.900
+1.553;Popular;United States;4.000;486;70.900;6.600
+1.556;Fair Isaac;United States;1.600;481;1.700;34.900
+1.557;Chang Hwa Bank;Taiwan;2.800;425;94.700;6.200
+1.558;Zoom Video Communications;United States;4.500;638;9.900;19.900
+1.559;InterContinental Hotels;United Kingdom;4.600;751;4.800;16.100
+Jan 56;HMM;South Korea;6.600;819;20.400;8.200
+1.561;Migdal Insurance;Israel;7.500;114;53.000;1.300
+1.562;Shizuoka Financial Group;Japan;2.300;399;106.700;5.600
+1.562;Titan (India);India;6.200;422;3.800;35.800
+1.564;Waters;United States;2.900;604;4.500;21.100
+1.565;Moncler SpA;Italy;3.200;662;5.500;18.800
+1.566;Shenzhen Overseas;China;7.600;-912;50.400;3.400
+1.567;Old National Bank;United States;2.600;556;49.500;5.600
+1.568;Rajesh Exports;India;36.900;89;2.300;1.100
+1.569;Snowflake;United States;2.800;-836;8.200;54.100
+Jan 57;TMBThanachart Bank;Thailand;2.800;554;49.500;4.700
+Jan 57;Whirlpool;United States;19.300;400;17.400;5.000
+1.572;Watsco;United States;7.300;477;4.400;19.200
+1.573;Hellenic Petroleum;Greece;14.100;640;9.000;2.800
+1.574;Cullen/Frost Bankers;United States;2.700;550;49.500;6.800
+1.575;Harbin Bank;China;4.700;106;114.800;465
+1.576;Alfa Laval;Sweden;6.100;614;8.000;18.700
+1.576;FCC;Spain;9.800;639;18.500;6.600
+1.578;Doosan;South Korea;14.600;-261;21.800;2.100
+1.578;Emera;Canada;5.000;514;29.600;10.500
+Jan 58;China Resources Beer (Holdings);Hong Kong;5.500;741;10.100;15.400
+1.581;Commercial Bank Dubai;United Arab Emirates;2.200;686;35.100;5.300
+1.581;JM Smucker;United States;8.200;-101;20.200;12.200
+1.583;RPM International;United States;7.300;557;6.400;14.600
+1.584;Pinnacle Financial Partners;United States;2.800;549;48.900;6.400
+1.585;AviChina Industry & Technology;China;11.900;348;26.100;4.000
+1.586;Virgin Money UK;United Kingdom;5.000;235;112.000;3.500
+1.587;C.H. Robinson;United States;17.400;303;5.500;9.800
+1.588;Hokuhoku Financial Group;Japan;1.100;159;108.200;1.700
+1.589;NOV;United States;8.800;986;11.300;7.500
+1.589;Unicaja Banco;Spain;3.300;288;107.300;3.800
+1.591;Chandra Asri Petrochemical;Indonesia;2.100;-76;5.400;49.300
+1.591;Stifel Financial;United States;5.300;529;38.300;8.500
+1.593;Haitong Securities;China;5.600;164;106.400;6.900
+1.594;Gen Digital;United States;3.800;616;15.800;15.700
+1.595;Covestro;Germany;15.300;-224;14.800;9.900
+1.595;Metro Group;Germany;33.100;-43;12.400;2.000
+1.597;Inner Mongolia Baotou Steel;China;9.700;40;21.100;10.100
+1.597;Palantir Technologies;United States;2.300;299;4.800;48.500
+1.599;Asbury Automotive Group;United States;15.400;568;10.100;4.900
+01. Jun;Fortum;Finland;7.000;-2.300;20.500;14.300
+1.601;Mirae Asset Financial Group;South Korea;5.100;193;101.400;3.400
+1.602;Ayala Corp;Philippines;5.400;732;29.200;6.700
+1.603;Atlassian;United States;4.200;-163;5.100;46.800
+1.604;Jio Financial Services;India;224;194;17.400;27.200
+1.605;PT Amman Mineral Internasional;Indonesia;2.000;252;9.900;46.600
+1.606;SLM;United States;3.100;753;28.300;4.600
+1.607;Trade Desk;United States;2.100;201;4.700;46.400
+1.608;Hachijuni Bank;Japan;1.400;256;98.000;3.200
+1.608;New Hope Liuhe;China;18.300;0;17.500;6.100
+Jan 61;SBA Communications;United States;2.700;555;10.000;21.400
+1.611;Electric Power Development;Japan;8.700;538;23.000;3.000
+1.612;Autoliv;Sweden;10.600;540;8.300;10.200
+1.613;United Natural Foods;United States;30.300;-115;7.700;666
+1.614;Midea Real Estate Holding;China;10.500;131;28.400;1.000
+1.615;Anhui Construction Engineering Group;China;12.300;211;23.200;1.200
+1.615;Compal Electronics;Taiwan;29.800;260;13.800;5.000
+1.617;Avenue Supermarts;India;6.100;306;2.500;36.600
+1.618;Beijing Shougang;China;15.900;97;19.000;3.500
+1.619;BAC Holding International;Colombia;3.800;611;36.300;2.900
+1.619;Synovus;United States;3.500;466;59.800;5.900
+1.621;DCC;Ireland;24.900;410;12.000;7.400
+1.622;Link REIT;Hong Kong;1.700;-245;32.400;11.900
+1.623;Japan Securities;Japan;346;56;90.800;907
+1.624;Iron Mountain;United States;5.600;194;17.800;24.000
+1.624;SKF Group;Sweden;9.600;586;11.200;9.900
+1.626;D'Ieteren;Belgium;8.600;546;8.000;11.400
+1.627;Thai Beverage;Thailand;7.900;752;13.600;9.200
+1.627;Zheshang Development Group;China;28.500;96;6.500;782
+1.629;Altice USA;United States;9.200;6;31.900;1.000
+1.629;Kyushu Financial Group;Japan;1.500;183;89.300;2.700
+1.631;Nishi-nippon Financial Holdings;Japan;1.200;163;89.100;1.800
+1.632;Rakuten Bank;Japan;948;238;89.100;3.300
+1.632;Starwood Property Trust;United States;2.200;434;66.200;6.600
+1.632;Tapestry;United States;6.700;881;13.700;9.700
+1.632;UCB;Belgium;5.700;371;17.200;25.700
+1.636;Monolithic Power Systems;United States;1.800;410;2.600;35.500
+1.637;Bank of Zhengzhou;China;3.800;230;87.600;1.000
+1.637;Sinotrans Ltd.;China;14.400;568;11.000;4.000
+1.639;Insurance Australia Group;Australia;8.400;512;17.000;10.100
+1.639;North Pacific Bank;Japan;884;89;87.500;1.400
+1.641;Huaibei Mining Holdings;China;9.900;795;12.100;7.000
+1.641;Lennox International;United States;5.000;616;3.000;17.500
+1.643;Airports of Thailand;Thailand;1.800;481;5.400;26.400
+1.644;Cencosud;Chile;19.700;157;16.000;5.700
+1.645;Valley National Bancorp;United States;3.500;448;61.000;4.000
+1.646;Formosa Chemicals;Taiwan;10.600;345;17.800;10.300
+1.647;Hirogin Holdings;Japan;1.300;192;84.500;2.300
+1.648;Gold Fields;South Africa;4.500;701;8.200;14.500
+1.648;Zhejiang Expressway Co. Ltd.;China;2.400;707;28.300;4.000
+Jan 65;Columbia Bank;United States;3.000;487;52.200;4.300
+Jan 65;Datadog;United States;2.300;115;4.100;40.200
+1.652;Companhia Energetica de Minas Gerais;Brazil;7.400;1.200;11.300;5.800
+1.653;Liberty Global;United Kingdom;7.600;-2.800;40.600;6.800
+1.653;W. P. Carey;United States;1.700;573;17.600;13.200
+1.655;Yamaguchi Financial;Japan;1.200;174;82.900;2.400
+1.656;Jiangsu Zhongnan Construction Group;China;9.200;-729;30.600;297
+1.657;Thai Oil;Thailand;13.400;589;11.700;2.900
+1.658;B3;Brazil;1.800;809;9.800;12.200
+1.658;Gap;United States;14.900;502;11.000;8.100
+1.658;Novonesis A/S;Denmark;2.600;439;4.200;29.500
+1.661;Power Assets Holdings;Hong Kong;165;767;12.300;12.800
+1.662;Sumitomo Metal Mining;Japan;10.000;405;20.000;9.000
+1.663;Commercial International Bank;Egypt;4.700;967;20.600;4.800
+1.664;ARC Resources;Canada;3.900;895;9.100;11.300
+1.665;Asia Commercial Bank;Vietnam;2.700;673;29.600;4.300
+1.665;Shenzhou International Group Holdings;China;3.500;643;6.900;15.600
+1.667;AGC;Japan;14.000;158;19.800;7.500
+1.668;Adecco Group;Switzerland;25.800;332;13.300;6.700
+1.668;Avolta;Switzerland;14.200;97;19.600;6.200
+1.668;Graphic Packaging;United States;9.200;681;11.300;8.600
+1.671;BayWa;Germany;24.800;-106;14.300;932
+1.672;Daou Data;South Korea;7.500;51;40.300;340
+1.673;Brookfield Business;United States;9.700;513;20.900;2.100
+1.674;Dai Nippon Printing;Japan;9.900;767;12.900;7.400
+1.675;Skechers USA;United States;8.300;592;7.600;10.400
+1.676;EQT AB;Sweden;2.200;142;10.200;37.800
+1.677;Jiangxi Bank;China;3.100;101;77.900;618
+1.678;Jiangsu Changshu Rural Commercial Bank;China;2.300;480;50.500;3.400
+1.679;Heico;United States;3.200;425;7.300;29.800
+Jan 68;Ansys;United States;2.200;435;7.200;28.600
+Jan 68;Kyoto Financial Group;Japan;918;218;76.500;1.200
+1.682;Skanska;Sweden;15.800;461;15.000;7.500
+1.683;Arab Bank;Jordan;2.900;536;40.400;3.900
+1.683;Segro;United Kingdom;931;-315;22.100;15.900
+1.685;Incyte;United States;3.800;745;7.100;12.800
+1.686;Crown Holdings;United States;11.800;415;14.700;10.300
+1.686;Seres Group;China;7.800;-224;8.700;18.400
+1.688;Ampol;Australia;24.900;365;9.100;5.600
+1.689;Medipal Holdings;Japan;24.600;287;11.900;3.000
+Jan 69;Wuestenrot & Wuerttembergische;Germany;5.800;277;73.800;1.300
+1.691;Daishi Hokuetsu Financial Group;Japan;1.200;147;73.600;1.400
+1.692;CoStar Group;United States;2.500;294;9.000;35.700
+1.693;Jindal Steel & Power;India;6.000;717;9.400;12.400
+1.694;Host Hotels & Resorts;United States;5.400;721;12.500;13.000
+1.695;Ceconomy;Germany;24.100;120;10.800;1.500
+1.696;Eurazeo;France;2.400;2.000;10.800;6.100
+1.697;Hengyi Petrochemical;China;19.400;114;15.200;3.600
+1.697;LIC Housing Finance;India;3.300;575;34.900;4.300
+1.699;Adani Green Energy;India;1.100;133;10.600;34.800
+1.699;DGB Financial Group;South Korea;3.800;233;71.500;1.000
+1.699;Lasertec;Japan;1.600;463;1.700;25.100
+1.702;China Grand Automotive Services;China;18.700;-9;15.500;1.700
+1.702;Gunma Bank;Japan;1.400;215;71.500;2.600
+1.704;Bajaj Holdings & Investment;India;207;878;7.800;11.000
+1.704;Celltrion;South Korea;1.800;298;15.000;29.100
+1.704;Chugin Financial Group,Inc.;Japan;1.200;148;71.100;1.800
+1.707;Bank of Jiujiang;Hong Kong;3.100;59;71.000;2.300
+1.708;KION Group;Germany;12.500;374;20.600;6.400
+1.709;Rite Aid;United States;23.500;-1.600;7.100;7
+Jan 71;Orpea;France;5.600;1.500;15.400;2.300
+1.711;Focus Media Information Technology;China;1.600;687;3.500;13.600
+1.712;CTP;Netherlands;786;1.000;17.000;8.200
+1.713;Umicore;Belgium;19.700;416;11.200;5.100
+1.713;Warner Music Group;United States;6.400;522;8.700;16.600
+1.715;SBI Sumishin Net Bank;Japan;819;172;70.500;2.600
+1.715;Toppan Printing;Japan;11.600;515;16.100;7.800
+1.717;Everbright Securities;China;1.900;550;36.600;3.500
+1.717;Parkland;Canada;23.200;288;10.300;5.100
+1.719;Shanghai Tunnel Engineering Co. Ltd.;China;10.700;409;22.200;3.100
+Jan 72;Taiwan Business Bank;Taiwan;2.000;316;69.500;4.400
+Jan 72;Telia;Sweden;8.500;28;20.500;9.900
+1.722;77 Bank;Japan;905;206;69.400;2.300
+1.723;Kawasaki Kisen Kaisha;Japan;6.700;725;13.900;10.500
+1.724;IDEX;United States;3.200;578;5.900;16.800
+1.724;Indorama Ventures;Thailand;15.300;-325;17.200;3.900
+1.726;Kingfisher;United Kingdom;16.200;430;15.200;6.200
+1.727;Braskem;Brazil;14.000;-1.200;18.700;3.000
+1.727;Lotte Shopping;South Korea;11.000;140;22.900;1.400
+1.729;Gaming And Leisure Properties;United States;1.500;725;11.800;12.500
+1.729;Quilter;United Kingdom;5.800;52;68.000;1.900
+1.731;Bendigo & Adelaide Bank;Australia;3.000;352;67.900;4.100
+1.731;Daou Technology;South Korea;7.100;153;39.900;620
+1.733;BOK Financial;United States;3.300;448;50.200;6.200
+1.734;Marks & Spencer;United Kingdom;15.400;497;10.700;7.200
+1.735;Berry Global Group;United States;12.200;504;16.000;6.900
+1.735;WPG Holdings;Taiwan;22.600;298;10.600;4.600
+1.737;Shandong Gold Mining;China;8.400;253;19.000;10.600
+1.738;China Merchants Port Holdings;Hong Kong;1.500;796;22.100;6.300
+1.738;PT Adaro Energy Indonesia;Indonesia;6.100;1.600;10.500;5.600
+Jan 74;Advantest;Japan;3.400;431;4.400;26.300
+Jan 74;Ooredoo Q.P.S.C;Qatar;6.400;815;15.600;8.700
+1.742;Pandora;Denmark;4.200;701;3.500;12.800
+1.743;Bank of Queensland;Australia;3.100;178;65.900;2.600
+1.743;Jinke Property Group;China;8.300;-1.300;29.900;1.200
+1.745;Air Lease;United States;2.500;594;30.900;5.500
+1.745;Latour Ab Investment;Sweden;2.400;552;5.900;17.600
+1.747;Haidilao International Holding;China;5.800;635;3.500;14.200
+1.748;Oshkosh;United States;9.900;689;9.500;7.600
+1.749;Luzerner Kantonalbank;Switzerland;1.400;315;65.600;3.800
+Jan 75;Akamai Technologies;United States;3.900;626;9.900;14.500
+Jan 75;Qingdao Rural Commercial Bank;China;2.700;352;65.600;2.200
+Jan 75;South State;United States;2.300;469;45.100;6.200
+1.753;HubSpot;United States;2.300;-132;3.200;31.400
+1.754;Domino's Pizza;United States;4.500;540;1.700;17.900
+1.755;Nitto Denko;Japan;6.300;710;8.300;11.100
+1.756;Carlyle Group;United States;3.100;-644;20.900;15.500
+1.756;WT Microelectronics;Taiwan;21.200;147;9.200;4.200
+1.758;Zenith Bank;Nigeria;2.800;981;18.600;690
+1.759;CP Axtra;Thailand;14.000;254;14.700;8.900
+Jan 76;General Insurance Corporation Of India;India;5.700;828;20.900;7.200
+1.761;EMS-Chemie Holding;Switzerland;2.400;509;2.600;19.700
+1.761;F.N.B.;United States;2.400;460;45.900;5.100
+1.763;Nitori Holdings;Japan;6.200;598;8.200;13.400
+1.764;Bank of Lanzhou;China;2.800;261;64.000;2.100
+1.764;LG Innotek Co.,;South Korea;15.600;470;8.100;4.200
+1.766;Drax Group plc;United Kingdom;9.700;699;7.700;2.800
+1.767;AVIC Capital;China;2.700;-32;62.800;3.700
+1.767;Jointown Pharmaceutical Group;China;20.700;300;13.500;4.300
+1.769;Yes Bank;India;4.000;155;48.700;8.300
+1.769;Yunnan Copper Co. Ltd.;China;20.600;216;6.700;4.000
+1.771;Basler Kantonalbank;Switzerland;1.600;189;62.600;370
+1.772;Axis Capital Holdings;Bermuda;5.700;592;29.700;6.100
+1.773;Bausch Health Companies;Canada;9.000;-453;26.900;2.500
+1.773;Nova Ljubljanska Banka;Slovenia;1.600;619;28.100;2.500
+1.775;Zhongliang Holdings;China;9.400;-586;25.500;131
+1.776;Pentair;United Kingdom;4.100;626;6.700;13.900
+1.777;CapitaMall Trust;Singapore;1.200;642;18.800;9.900
+1.778;Samsung SDS;South Korea;9.900;532;9.300;9.000
+1.779;FIBI Holdings;Israel;3.000;284;61.500;1.500
+Jan 78;Mondi;United Kingdom;7.900;653;11.000;8.900
+1.781;RiseSun Real Estate Development;China;8.700;150;27.400;1.200
+1.782;Iyogin Holdings,Inc.;Japan;1.300;273;61.200;2.600
+1.783;Bank of Xi'an;China;2.300;347;61.000;2.300
+1.784;JB Financial Group;South Korea;3.000;435;47.800;1.900
+1.785;Mid-america Apartment Communities;United States;2.200;560;11.500;16.100
+1.786;Burlington Stores;United States;9.700;340;7.700;12.300
+1.787;Alfresa Holdings;Japan;19.800;204;9.600;2.500
+1.787;Pinterest;United States;3.200;148;3.700;29.000
+1.789;Rollins;United States;3.200;441;2.700;22.300
+Jan 79;Goneo GroupClass A;China;2.200;567;2.900;15.500
+Jan 79;Südzucker;Germany;11.100;602;11.400;3.100
+1.792;Adris grupa d.d. Pref.;Croatia;8.300;446;23.600;1.000
+1.792;Mobileye Global;Israel;1.900;-166;15.300;23.000
+1.794;E-L Financial;Canada;3.000;872;19.300;2.800
+1.794;Logitech International;Switzerland;4.300;611;3.600;14.000
+1.794;Navient;United States;5.000;190;59.000;1.700
+1.797;Grupo Comercial Chedraui SAB de CV Class B;Mexico;15.200;463;8.700;7.200
+1.798;NH Investment & Securities;South Korea;1.900;453;43.600;3.300
+1.799;Liberty Media Corporation Series A Liberty Formula One;United States;3.400;371;10.600;28.300
+01. Aug;Hertz Global Holdings;United States;9.400;234;24.300;786
+01. Aug;MicroStrategy;United States;490;-85;6.400;28.100
+1.802;Fibra Uno;Mexico;1.500;804;20.400;5.900
+1.802;Novatek Microelectronics Corp.;Taiwan;3.500;746;3.400;11.400
+1.804;Redeia Corporacion;Spain;2.200;746;16.000;9.800
+1.805;Samvardhana Motherson International;India;11.400;242;9.400;10.500
+1.806;Nomura Research Institute;Japan;5.100;551;6.100;15.900
+1.807;Align Technology;United States;3.900;462;6.200;20.400
+1.808;Bureau Veritas;France;6.300;545;7.300;13.600
+1.808;Essex Property Trust;United States;1.700;525;12.900;17.100
+1.808;JA Solar Technology;China;10.700;554;15.200;6.500
+1.811;Bluescope Steel;Australia;11.500;564;10.400;6.300
+1.811;Henry Schein;United States;12.500;388;10.100;9.600
+1.813;Deutsche Pfandbriefbank;Germany;3.100;74;56.200;837
+1.813;Hera;Italy;13.600;423;16.000;5.400
+1.815;Harel Insurance Investments & Financial Services;Israel;6.700;132;38.700;1.900
+1.816;KakaoBank;South Korea;2.000;276;44.900;8.300
+1.817;Pinnacle West;United States;4.700;522;24.800;8.900
+1.818;Founder Securities;China;1.300;332;31.900;9.900
+1.819;Tongling Nonferrous Metals;China;18.900;351;11.400;7.200
+1.819;Weihai City Commercial Bank;China;2.500;244;55.300;2.100
+1.821;Bharat Electronics Limited;India;2.200;432;4.400;21.800
+1.821;Ricoh;Japan;16.200;306;15.100;4.900
+1.823;Xiamen Bank;China;1.900;376;54.400;2.100
+1.824;MongoDB;United States;1.700;-177;2.900;27.000
+1.824;Phoenix Holdings;Israel;6.400;211;43.300;2.500
+1.826;Bank Of Gansu;China;2.100;92;54.800;676
+1.827;Cosan;Brazil;7.900;219;28.800;5.200
+1.827;Zscaler;United States;1.900;-139;3.900;26.800
+1.829;Bank Muscat;Oman;2.200;500;36.400;5.100
+1.829;Manpower;United States;18.600;51;8.500;3.700
+1.831;Diebold Nixdorf;Germany;3.800;1.500;3.900;3.600
+1.832;Clorox;United States;7.200;240;5.800;16.800
+1.832;Metalurgica Gerdau;Brazil;13.400;436;15.400;2.300
+1.834;Snap;United States;4.800;-1.300;7.200;26.500
+1.834;TopBuild;United States;5.200;631;5.300;12.900
+1.836;Dentsu;Japan;9.200;-118;23.900;7.000
+1.836;Orient Securities;China;2.600;355;54.100;3.900
+1.838;CSPC Pharmaceutical Group;China;4.400;830;6.500;10.100
+1.838;LS Corp;South Korea;18.400;301;13.600;3.400
+Jan 84;Central Bank of India;India;4.300;322;53.700;6.400
+1.841;Yara International;Norway;14.600;-35;15.700;7.700
+1.842;Bank of Maharashtra;India;2.800;492;36.800;5.500
+1.843;Shimizu;Japan;13.900;119;16.800;4.000
+1.844;Healthpeak Properties;United States;2.300;193;20.500;14.000
+1.844;Kawasaki Heavy Industries;Japan;12.800;176;17.700;5.900
+1.846;Tradeweb Markets;United States;1.400;403;7.400;24.000
+1.847;Hyakugo Bank;Japan;799;99;53.500;1.000
+1.848;Indus Towers;India;3.500;729;6.700;11.100
+1.848;Kesko;Finland;12.700;512;8.800;7.400
+Jan 85;China Power International Development;Hong Kong;6.200;378;43.100;5.500
+1.851;Kakao;South Korea;5.900;-770;19.100;15.000
+1.852;Trelleborg Group;Sweden;3.200;914;5.600;9.300
+1.853;Steel Authority of India;India;12.900;375;15.600;8.300
+1.854;CAPITEC;South Africa;2.900;565;10.800;14.500
+1.854;First Quantum Minerals;Canada;5.900;-1.200;23.500;11.800
+1.856;Almarai;Saudi Arabia;5.300;562;9.300;14.600
+1.856;Aurubis;Germany;17.900;128;8.300;3.700
+1.856;Banque Centrale Populaire;Morocco;2.900;343;52.700;6.000
+1.856;Nexi S.p.A.;Italy;6.400;-1.100;29.100;9.000
+Jan 86;Enstar Group;Bermuda;1.000;813;19.400;4.700
+1.861;Shiga Bank;Japan;805;110;52.700;1.200
+1.862;Tryg;Denmark;6.000;542;15.700;12.400
+1.863;Erie Indemnity;United States;3.400;484;2.600;18.500
+1.863;Ramsay Health Care;Australia;10.600;572;14.100;7.600
+1.863;Var Energi ASA;Norway;6.700;507;22.100;8.300
+1.863;Viva Energy Group;Australia;17.800;3;6.600;3.600
+1.867;United Bank for Africa;Nigeria;2.800;807;19.400;501
+1.868;Zall Smart Commerce Group;China;17.600;7;9.000;598
+1.869;Federal Bank;India;3.200;469;38.100;4.800
+Jan 87;Cloudflare;United States;1.400;-181;2.800;25.600
+1.871;MBH Bank Plc.;Hungary;3.900;519;32.100;6.800
+1.871;PVH;United States;9.200;664;11.200;6.600
+1.873;Aareal Bank;Germany;3.100;45;51.700;2.200
+1.874;Kohl's;United States;17.500;317;14.000;2.900
+1.875;Samsung Securities;South Korea;2.500;415;44.700;2.500
+1.876;Momentum Metropolitan Holdings;South Africa;6.800;224;35.600;1.600
+1.877;Jinshang Bank;China;1.900;283;51.000;1.000
+1.878;Take-Two Interactive Software;United States;5.300;-3.700;12.200;25.200
+1.879;DLF;India;776;329;7.200;25.200
+Jan 88;Johnson Matthey;United Kingdom;17.300;217;7.900;4.300
+1.881;Aozora Bank;Japan;1.500;-345;50.200;1.800
+1.881;Guangzhou Baiyunshan Pharmaceutical Holdings;China;10.700;573;10.900;4.900
+1.881;Teradyne;United States;2.600;429;3.400;20.600
+1.884;Mercuries & Associates;Taiwan;3.900;-26;50.000;549
+1.884;Rentokil Initial;United Kingdom;6.700;474;14.200;13.500
+1.886;Juroku  Financial Group;Japan;870;134;49.800;1.100
+1.887;Franco-Nevada;Canada;1.200;-490;6.100;24.700
+1.888;Daito Trust Construction;Japan;12.000;517;7.100;6.900
+1.888;nVent Electric;United Kingdom;3.400;578;6.200;13.300
+Jan 89;Banco Davivienda;Colombia;6.000;-224;45.600;2.800
+Jan 89;Digital China Group;China;17.000;167;6.200;2.800
+1.892;Informa plc;United Kingdom;4.000;521;14.700;14.600
+1.892;Jiangxi Zhengbang Technology;China;857;1.300;2.500;3.700
+1.894;Seagate Technology;Ireland;6.300;-270;7.100;20.000
+1.895;Dr. Reddy's Laboratories;India;3.400;673;4.600;11.600
+1.896;Avantor;United States;6.900;260;12.800;17.000
+1.896;St. Galler Kantonalbank;Switzerland;1.100;231;49.100;3.000
+1.898;Essential Utilities;United States;1.900;573;17.100;10.900
+1.899;Hanwa;Japan;16.800;266;7.700;1.700
+1.899;Yunnan Baiyao Group;China;5.500;597;7.900;12.900
+1.901;Bank of Cyprus Holdings;Cyprus;1.500;570;26.900;2.100
+1.902;San-In Godo Bank;Japan;777;116;48.600;1.400
+1.903;China Fortune Land Development;China;4.100;-1.200;48.300;775
+1.904;Teleperformance;France;9.000;651;13.000;7.000
+1.905;Inventec;Taiwan;16.700;202;7.900;6.000
+1.906;OneMain Holdings;United States;5.400;617;23.900;6.000
+1.906;Organon;United States;6.300;1.000;11.900;5.600
+1.908;FactSet Research Systems;United States;2.200;489;4.000;17.100
+1.908;Varun Beverages;India;2.000;261;1.800;23.600
+Jan 91;Steris;Ireland;5.400;378;11.100;23.000
+1.911;NIO;China;7.800;-3.000;16.600;11.100
+1.912;Open House;Japan;8.400;688;8.700;3.500
+1.913;TFI International;Canada;7.500;486;6.900;11.300
+1.914;BEKB-BCBE;Switzerland;818;195;47.600;2.600
+1.915;Sabesp;Brazil;5.400;729;13.300;10.500
+1.915;Scentre Group;Australia;1.700;116;24.300;11.100
+1.917;IHH Healthcare;Malaysia;4.600;647;11.200;11.800
+1.917;Tokyo Kiraboshi Financial Group;Japan;840;177;47.500;848
+1.919;Shanxi Xishan Coal & Electricity Power Co. Ltd.;China;6.800;732;12.800;8.500
+Jan 92;Wharf (Holdings);Hong Kong;2.400;121;26.200;10.500
+1.921;Cameco;Canada;1.900;174;7.000;23.000
+1.921;CVR Energy;United States;8.800;656;4.100;3.000
+1.921;Guangzhou R&F;China;5.000;-2.800;47.200;640
+1.924;Suzuken;Japan;16.500;201;8.100;2.300
+1.925;Logan Property Holdings;China;6.700;-1.200;35.000;588
+1.925;Schibsted ASA;Norway;1.500;1.300;5.400;7.400
+1.925;Taylor Morrison Home;United States;7.500;768;8.900;6.400
+1.928;Barry Callebaut;Switzerland;9.200;481;9.700;9.500
+1.928;NIPPON EXPRESS HOLDINGS;Japan;15.800;170;14.400;4.200
+Jan 93;FMC;United States;4.100;1.100;12.000;8.000
+1.931;Ralph Lauren;United States;6.600;588;7.000;10.700
+1.932;ALFA;Mexico;16.400;-629;12.800;3.600
+1.932;Commercial Metals;United States;8.400;680;6.700;6.700
+1.932;Taisei;Japan;12.200;279;17.100;6.600
+1.935;Hologic;United States;4.000;467;8.700;17.500
+1.936;Signet Jewelers;Bermuda;7.200;810;6.800;4.400
+1.937;Inner Mongolia Yitai Coal;China;6.800;880;12.300;6.200
+1.937;Masraf Al Rayan;Qatar;1.600;392;43.800;6.200
+1.939;Saputo;Canada;12.800;246;10.600;8.700
+Jan 94;Samsara;United States;937;-287;1.700;22.500
+1.941;China Gas Holdings;Hong Kong;10.900;366;19.100;5.500
+1.942;Delek US Holdings;United States;16.200;-77;7.200;1.800
+1.943;EFG International;Switzerland;2.700;337;45.800;3.900
+1.944;Zhangzhou Pientzehuang Pharmaceutical;China;1.500;419;2.500;19.800
+1.945;Sumec Corporation;China;16.100;145;7.800;1.500
+1.946;Ipsen;France;3.400;697;7.000;10.900
+1.946;Manila Electric;Philippines;7.900;707;10.800;7.300
+1.946;Public Power;Greece;8.800;414;21.200;4.800
+1.949;Cholamandalam Investment and Finance;India;2.300;413;18.800;13.000
+Jan 95;Yunnan Yuntianhua;China;9.200;615;7.500;5.400
+1.951;PTC;United States;2.200;288;6.200;22.100
+1.951;UMB Financial;United States;2.500;368;45.300;4.200
+1.953;arGEN-X;Netherlands;1.200;-295;4.500;22.000
+1.953;Sharp;Japan;16.100;-1.000;10.500;3.400
+1.955;Kyndryl Holdings;United States;16.100;-340;11.000;6.400
+1.955;Lotte;South Korea;11.700;-68;17.500;1.400
+1.957;Aichi Financial Group;Japan;587;57;45.100;838
+1.957;A.O. Smith;United States;3.900;577;3.200;12.600
+1.957;NMDC;India;2.500;779;3.900;9.700
+Jan 96;AltaGas;Canada;9.300;470;17.700;6.700
+Jan 96;Cogent Communications;United States;1.100;1.200;3.100;2.900
+1.962;Axon Enterprise;United States;1.700;262;3.600;21.800
+1.963;Nanto Bank;Japan;571;83;44.800;685
+1.964;Aier Eye Hospital Group;China;2.900;485;4.300;16.500
+1.965;XPO;United States;7.900;242;7.600;12.800
+1.966;Toho Bank;Japan;399;36;44.700;602
+1.967;Wisetech Global;Australia;623;147;1.900;21.700
+1.968;Celsius Holdings;United States;1.400;263;1.600;21.700
+1.969;Clal Insurance Enterprises;Israel;5.400;60;44.400;1.300
+Jan 97;Buzzi Unicem;Italy;4.700;1.000;8.400;8.100
+Jan 97;Canadian Tire Corporation;Canada;12.200;209;16.600;5.900
+1.972;Ingredion;United States;7.900;668;7.300;7.900
+1.973;Ogaki Kyoritsu Bank;Japan;601;66;43.900;569
+1.974;Euronav;Belgium;1.100;1.200;3.700;4.000
+1.975;Saudi Investment Bank;Saudi Arabia;2.300;435;36.400;4.400
+1.976;Nordson;United States;2.700;493;5.200;15.500
+1.977;H World Group;China;3.200;524;8.500;14.000
+1.977;Straumann Holding;Switzerland;2.700;274;4.000;21.300
+1.979;Ningbo Jintian Copper (Group);China;15.500;77;3.600;1.300
+Jan 98;Abb India;India;1.300;176;1.300;21.300
+Jan 98;China Merchants Energy Shipping;China;3.700;710;8.800;10.300
+1.982;Fluor;United States;15.500;304;6.700;6.600
+1.983;AmBank Group;Malaysia;1.800;388;42.200;3.000
+1.984;Equatorial Energia;Brazil;8.200;444;20.100;7.000
+1.984;Uniqa;Austria;6.700;327;31.600;2.800
+1.986;Delivery Hero;Germany;10.700;-2.500;11.900;9.800
+1.986;Kimco Realty;United States;1.900;351;19.500;13.000
+1.986;Puig Brands;Spain;4.700;503;8.500;14.800
+1.986;Zhejiang Construction Investment Group;China;12.500;36;16.100;1.400
+Jan 99;Keiyo Bank;Japan;474;75;43.300;634
+1.991;Sun Communities;United States;3.300;153;17.100;15.200
+1.992;Roblox;United States;2.900;-1.200;6.300;21.100
+1.993;China Merchants Port Group;China;2.200;524;27.500;6.700
+1.993;DraftKings;United States;4.100;-548;3.800;21.100
+1.995;Guangdong Construction Engineering Group;China;10.900;209;18.100;2.300
+1.996;Angang Steel;China;15.200;-665;13.600;1.800
+1.997;Sichuan Chuantou Energy;China;201;633;8.600;11.300
+1.997;Vietnam Prosperity Joint-sock Commercial Bank;Vietnam;3.900;460;33.200;6.000
+1.999;Adient;United States;15.200;158;9.300;2.600
+1.999;CapitaLand Investment;Singapore;2.200;135;25.900;10.000
+1.999;Shanxi Lu'an Environmental;China;5.100;813;11.600;9.000

@@ -1,0 +1,66 @@
+---
+title: "forbes_companies"
+format: html
+editor: visual
+---
+
+## Forbes_companies
+
+### data loading
+
+```{r}
+library(readr)
+com <- read.csv("/Forbes_companies_2024.csv")
+
+com
+```
+
+### divide the number through 1,000,000 and rename columns
+
+```{r}
+com$revenue_USD <- as.numeric(com$revenue_USD)
+com$profits_USD <- as.numeric(com$profits_USD)
+com$assets_USD <- as.numeric(com$assets_USD)
+com$marketValue_USD <- as.numeric(com$marketValue_USD)
+
+com
+```
+
+```{r}
+# Divide the columns by 1,000,000
+com$revenue_USD_in_mio <- com$revenue_USD / 1e6
+com$profits_USD_in_mio <- com$profits_USD / 1e6
+com$assets_USD_in_mio <- com$assets_USD / 1e6
+com$marketValue_USD_in_mio <- com$marketValue_USD / 1e6
+
+
+# Remove the old column sif no longer needed
+com$revenue_USD <- NULL
+com$profits_USD <- NULL
+com$assets_USD <- NULL
+com$marketValue_USD <- NULL
+
+# View the updated dataframe
+print(com)
+```
+
+```{r}
+write.csv(com, "/Forbes_companies_mio_2024.csv", row.names = FALSE)
+```
+
+```{r}
+library(readr)
+com2 <- read.csv2("/Forbes_companies_24.csv")
+
+com2
+```
+
+```{r}
+com2$revenue_USD_in_Mio <- as.numeric(com2$revenue_USD_in_Mio)
+com2$profits_USD_in_Mio <- as.numeric(com2$profits_USD_in_Mio)
+com2$assets_USD_in_Mio <- as.numeric(com2$assets_USD_in_Mio)
+com2$marketValue_USD_in_Millions <- as.numeric(com2$marketValue_USD_in_Millions)
+
+
+com2
+```

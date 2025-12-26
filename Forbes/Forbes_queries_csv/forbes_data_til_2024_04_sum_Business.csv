@@ -1,0 +1,767 @@
+Business,2022_total,2023_total,2024_01_total,2024_02_total,2024_03_total,2024_04_total
+"Real estate",666.20,637.40,626.50,628.40,634.90,649.30
+Diversified,382.00,395.10,438.10,448.00,438.20,469.90
+Investments,374.10,356.90,376.80,381.30,371.90,376.20
+Pharmaceuticals,311.00,273.00,278.20,300.60,302.20,310.70
+"Hedge funds",284.90,286.25,294.90,296.10,301.90,302.30
+Google,260.90,189.00,282.20,276.20,298.50,316.80
+Walmart,240.90,223.70,263.30,287.50,293.10,290.10
+Microsoft,232.40,196.40,262.40,269.20,274.50,262.20
+Tesla,219.00,180.00,198.40,210.00,195.30,199.60
+Amazon,214.60,138.40,228.60,233.50,235.00,226.00
+Retail,212.20,209.60,211.30,205.30,206.20,219.80
+Software,200.60,175.60,193.00,203.30,201.50,206.00
+Banking,196.30,201.40,221.80,220.00,224.30,227.20
+Mining,190.90,174.10,177.60,169.90,175.40,194.40
+Telecom,159.60,162.90,175.30,174.60,183.80,181.70
+LVMH,158.00,211.00,212.00,229.60,226.60,209.40
+"Private equity",149.40,164.60,204.20,207.90,218.40,224.60
+Chemicals,143.40,150.30,122.80,123.30,119.80,137.10
+Shipping,141.40,186.40,179.60,191.60,193.30,210.40
+Cryptocurrency,129.50,20.80,33.80,39.10,69.30,86.70
+Batteries,129.10,102.60,62.80,70.20,78.80,83.50
+Media,124.40,122.50,118.50,117.80,120.20,127.10
+"Berkshire Hathaway",123.40,110.80,131.90,138.10,142.00,134.30
+"Koch Industries",120.00,118.00,115.10,116.70,122.80,151.10
+Steel,119.70,138.60,150.80,158.10,160.40,166.80
+Oil,110.90,144.60,167.50,172.70,173.70,190.20
+Manufacturing,106.10,99.60,76.30,80.50,82.30,90.40
+Oracle,106.00,107.00,143.70,139.90,155.20,142.80
+Candy,105.60,125.30,130.20,126.30,127.20,129.40
+Facebook,101.60,94.60,227.40,235.50,232.40,207.70
+Beverages,94.10,98.90,89.30,88.30,85.20,91.20
+Infrastructure,94.10,62.40,111.50,117.50,110.70,114.10
+E-commerce,93.80,105.20,120.10,119.80,119.10,121.60
+"Bloomberg LP",90.70,104.30,106.40,117.30,117.30,117.30
+"medical devices",89.90,85.80,79.30,83.50,82.80,83.70
+Finance,84.00,91.10,104.70,110.40,107.40,107.80
+Supermarkets,81.10,58.00,95.80,95.20,93.80,92.60
+"Consumer goods",75.90,74.50,77.60,73.90,74.50,76.20
+"Luxury goods",74.90,85.30,75.30,81.30,76.20,74.30
+LOreal,74.80,80.50,98.10,96.90,96.00,95.40
+"Online games",73.80,66.70,70.50,72.50,75.00,71.40
+"Fashion retail",71.60,72.70,80.10,83.40,95.60,89.40
+Construction,71.50,52.90,54.90,55.80,60.40,62.20
+Semiconductors,71.00,62.00,105.50,121.40,132.60,129.60
+Automobiles,70.30,63.80,54.50,60.60,60.90,61.00
+Hotels,69.50,70.80,76.00,77.70,78.90,82.30
+Casinos,67.40,80.45,73.00,75.80,67.70,65.70
+Fintech,67.20,27.80,38.60,41.80,44.40,42.00
+Zara,65.40,84.20,108.80,111.80,124.00,114.90
+Hospitals,64.00,51.00,51.20,49.60,50.20,48.60
+Biotech,63.00,58.00,47.00,48.00,54.40,54.30
+"Auto parts",62.60,66.90,69.80,74.60,73.30,74.70
+"Oil and gas",62.50,67.30,78.70,75.00,77.00,77.60
+Chanel,62.40,63.20,73.00,76.40,73.60,72.20
+Electronics,61.90,54.70,51.70,55.10,59.10,61.40
+"software services",56.50,49.40,63.60,65.30,61.60,57.30
+"Dell Technologies",55.10,50.10,73.20,76.30,90.50,93.90
+Petrochemicals,54.40,39.30,70.10,73.60,71.30,92.80
+Beer,54.20,57.30,55.70,54.60,54.80,57.50
+"Venture capital",54.00,43.00,58.20,58.80,60.30,60.80
+TikTok,52.30,47.00,45.40,45.40,45.60,45.60
+"Internet media",51.30,46.30,40.40,40.30,43.80,49.20
+Packaging,48.90,34.50,31.50,33.30,27.50,27.00
+Cheese,48.30,45.40,50.90,51.30,50.30,48.90
+Nike,47.30,45.10,40.50,42.40,39.30,38.80
+Energy,46.40,55.40,55.10,56.80,60.50,63.10
+BMW,45.00,52.00,48.50,53.90,53.00,51.20
+Vaccines,44.20,36.10,34.90,33.30,31.40,29.40
+Cargill,42.90,33.40,31.60,31.60,31.50,39.00
+"Estee Lauder",42.20,38.40,25.70,27.40,28.10,27.00
+Paint,40.50,41.40,30.60,28.90,28.80,27.60
+Agribusiness,40.35,34.30,25.60,28.10,26.90,26.20
+Pipelines,40.20,41.90,45.80,47.00,48.80,47.90
+Cement,39.70,42.70,46.00,41.10,44.30,42.00
+Insurance,39.20,40.50,46.70,51.10,52.50,49.00
+Nutella,38.20,40.90,41.40,41.40,45.40,45.00
+Music,37.60,36.00,37.40,37.90,37.30,36.90
+Internet,37.50,33.50,36.20,40.30,46.60,42.90
+"Soy sauce",37.40,28.60,13.30,16.30,15.70,15.30
+Coal,36.40,55.70,54.10,57.80,56.60,57.30
+"Discount brokerage",35.90,37.80,43.20,47.50,48.90,50.10
+"Business software",35.60,31.00,38.80,42.10,40.10,37.40
+"Package delivery",35.40,31.70,20.90,23.00,22.80,21.40
+"Medical equipment",33.70,31.20,31.50,32.50,32.70,33.70
+Lego,32.80,26.80,27.20,25.20,25.20,25.10
+Shoes,32.60,27.70,31.60,33.30,34.60,37.10
+Metals,32.10,46.30,42.80,49.00,51.60,52.40
+"Financial services",31.70,27.80,35.20,41.50,45.10,47.40
+Food,31.20,31.10,24.80,25.70,26.90,27.20
+"Money management",31.00,21.80,25.40,26.10,26.90,26.30
+Airbnb,30.80,24.90,28.40,30.50,31.30,30.30
+"Home appliances",29.70,24.60,24.10,25.50,25.90,27.60
+"Red Bull",27.40,34.70,39.30,39.20,39.10,38.80
+Aluminum,27.30,23.60,17.70,20.20,22.20,25.20
+Eyeglasses,27.30,24.50,28.70,30.80,33.60,31.70
+Commodities,27.20,24.40,29.80,28.90,31.60,34.00
+"Pig breeding",27.00,21.20,15.40,16.50,19.50,19.60
+Fidelity,26.30,33.70,49.70,51.50,50.70,50.00
+"Palm oil",26.10,28.90,27.10,29.30,29.80,34.20
+Sensors,25.50,21.00,21.20,21.70,21.50,21.00
+Textiles,25.50,21.40,21.30,21.10,20.00,20.80
+Drugstores,25.10,23.30,22.60,24.30,24.60,23.50
+"Electronics components",25.10,19.20,15.90,16.80,17.50,18.20
+HandM,24.50,22.70,24.00,23.90,26.30,26.00
+Furniture,23.30,22.00,16.20,17.30,17.40,16.50
+Samsung,23.00,18.70,24.20,22.80,24.00,20.10
+Fertilizer,22.40,27.00,24.30,26.40,26.40,26.30
+"Quicken Loans",22.00,18.00,25.90,26.00,28.90,25.50
+Smartphones,22.00,17.00,19.70,21.20,23.60,26.40
+Alcohol,21.90,25.40,29.00,28.40,27.40,27.20
+"Cable television",21.70,22.50,22.40,22.40,23.70,23.40
+"Online retail",21.20,18.80,18.70,19.90,21.80,20.20
+Newspapers,20.80,17.10,18.50,19.20,20.40,19.60
+Agriculture,20.70,24.40,25.20,25.00,27.10,32.20
+"Sports apparel",19.70,22.80,16.40,18.20,19.80,20.60
+EBay,19.50,15.80,13.70,13.70,14.30,14.40
+"IT provider",19.30,19.90,23.70,23.90,23.60,23.70
+Fasteners,19.00,29.70,28.50,33.60,33.10,34.80
+Aldi,18.70,16.50,13.90,14.20,14.10,13.40
+Apple,18.40,13.80,15.30,15.40,14.90,14.80
+"Solar wafers and modules",18.30,13.10,7.70,8.10,7.70,7.40
+Education,18.00,18.80,16.30,18.30,16.10,17.10
+Restaurants,17.90,18.20,13.60,14.50,16.80,16.40
+Apparel,17.90,17.60,14.20,15.70,15.70,16.80
+"Building materials",17.80,13.90,15.30,16.10,16.10,16.00
+"Construction equipment",17.70,17.50,18.40,19.50,19.80,19.90
+Cosmetics,17.70,18.20,16.00,18.30,18.40,25.10
+Movies,17.60,16.90,18.40,18.30,18.70,20.80
+Liquor,17.20,15.70,17.00,17.40,18.30,17.90
+Logistics,17.00,17.90,16.80,17.50,19.00,23.30
+"Video games",16.90,16.90,13.20,14.70,15.70,13.30
+"Security software",16.70,10.40,19.50,19.00,16.30,14.90
+"Home improvement stores",16.60,17.40,23.50,24.90,25.20,22.80
+Airline,16.60,10.60,9.60,10.20,9.90,12.40
+Machinery,16.00,12.30,1.90,5.00,4.70,7.90
+"Home Depot",15.80,15.50,18.10,19.00,19.10,17.20
+Homebuilding,15.80,15.00,22.40,22.90,24.10,24.10
+Coffee,15.80,19.00,20.90,18.40,22.10,22.40
+Heineken,15.20,14.70,14.20,13.30,14.30,14.30
+"Messaging app",15.10,11.50,11.50,11.50,15.50,15.50
+Engineering,15.00,17.20,20.70,21.20,21.80,22.40
+"Electrical equipment",14.90,13.80,12.70,15.70,15.70,16.80
+"Wireless networking",14.60,15.50,6.90,6.40,6.30,5.90
+"Payments software",14.60,9.70,9.50,10.10,12.20,11.20
+Publishing,14.50,14.50,14.10,14.00,15.90,15.50
+Sports,14.30,25.70,30.50,30.50,33.00,33.00
+"Food distribution",14.20,14.00,18.00,18.00,18.00,18.00
+Gas,14.00,21.60,29.00,29.00,27.40,27.40
+"lithium battery",13.90,10.80,2.30,2.90,3.00,3.80
+Chick-fil-A,13.80,19.80,34.50,35.40,33.60,33.60
+Glass,13.40,9.10,5.10,5.90,6.90,7.90
+"Car dealerships",13.30,13.40,11.70,12.30,12.00,13.90
+"Video surveillance",13.20,11.00,9.70,10.30,9.80,10.00
+"Diamond jewelry",13.20,11.80,12.80,12.80,12.90,12.90
+"Cleaning products",13.20,19.20,19.60,19.70,19.70,19.80
+"Online gambling",13.00,15.10,16.40,16.60,19.10,17.90
+WhatsApp,12.60,16.10,19.10,19.10,19.10,18.90
+"Cloud computing",12.50,8.90,13.80,13.10,12.70,12.70
+Snapchat,12.40,5.20,7.60,5.50,5.50,6.80
+Cybersecurity,12.30,9.60,12.60,13.60,13.50,12.50
+Conglomerate,12.20,10.90,9.40,9.60,8.90,9.40
+"Solar panel components",12.10,6.70,3.50,4.30,4.30,4.20
+Trading,12.00,42.00,48.90,47.70,46.10,46.10
+"Energy drinks",12.00,13.70,14.00,14.30,11.40,11.20
+"Carnival Cruises",11.90,9.70,12.10,12.00,13.50,13.30
+"Electric vehicles",11.80,6.60,8.00,12.30,8.30,7.50
+"Used cars",11.80,3.00,7.80,10.50,11.60,11.20
+"Power strips",11.60,12.40,10.90,11.70,11.80,13.50
+Semiconductor,11.60,5.70,2.20,2.60,2.40,2.80
+"Steel  telecom",11.50,14.40,14.30,14.40,13.50,13.60
+"Medical technology",11.50,10.00,14.00,14.00,14.00,13.60
+"Smartphone screens",11.40,8.20,7.50,8.20,8.80,9.10
+"Solar panels",11.30,10.80,3.70,4.10,3.80,3.10
+Tires,11.30,13.40,15.20,15.40,15.30,18.90
+"Computer hardware",11.20,13.40,24.40,25.00,20.40,24.00
+Flavorings,11.20,11.70,9.50,9.60,9.60,9.90
+"Online media",11.10,10.20,12.30,12.20,11.50,11.40
+"Beef processing",10.90,7.70,9.20,9.20,8.80,9.20
+"Campbell Soup",10.80,11.90,11.70,11.50,11.60,11.80
+"Building supplies",10.70,13.70,22.10,23.10,20.90,20.90
+"Dallas Cowboys",10.60,13.30,13.60,13.80,13.90,14.10
+"Photovoltaic equipment",10.50,7.60,5.10,5.50,6.50,6.50
+Retailing,10.50,9.70,9.60,10.70,11.10,11.30
+"Natural gas",10.40,9.80,9.60,9.60,10.90,11.80
+Healthcare,10.40,22.90,20.90,22.60,21.90,23.70
+"Email marketing",10.00,8.00,10.10,10.30,10.30,10.10
+"Financial information",9.90,7.80,5.80,6.50,6.00,6.10
+Heating,9.70,9.00,9.20,12.20,12.50,12.50
+"retail and gas stations",9.70,NULL,NULL,NULL,NULL,NULL
+Intel,9.50,6.80,NULL,NULL,NULL,NULL
+"Payment software",9.50,5.50,5.50,5.50,7.20,7.20
+"Franklin Templeton",9.40,9.30,9.50,9.70,9.70,8.70
+"Hearing aids",9.30,8.40,8.80,8.90,9.10,8.50
+Vacuums,9.20,9.30,9.70,9.70,13.30,13.20
+"Online services",9.10,5.00,4.80,4.60,4.60,4.10
+Jewelry,9.10,9.00,11.70,12.50,14.00,13.20
+Adhesives,9.10,8.30,9.00,11.00,12.00,12.10
+"Auto dealerships",9.10,6.60,3.70,4.10,4.60,4.50
+Gambling,9.00,9.50,9.70,9.70,9.50,9.50
+"Health care",9.00,8.30,8.80,8.90,8.60,8.60
+"Internet search",8.90,9.80,7.90,7.80,8.00,7.90
+U-Haul,8.80,9.10,9.30,9.10,9.40,9.10
+Two-wheelers,8.80,4.30,7.00,6.80,7.00,6.80
+"plumbing fixtures",8.80,NULL,NULL,NULL,NULL,NULL
+"Solar equipment",8.70,6.30,2.50,2.80,2.60,2.40
+"Shopping centers",8.70,10.00,11.00,11.00,11.20,10.80
+"Satellite TV",8.70,3.20,1.60,1.30,1.50,1.70
+"Hydraulic machinery",8.60,9.00,6.60,7.60,6.70,6.80
+Elevators,8.60,8.70,8.90,9.00,9.00,9.50
+"Self storage",8.50,7.10,7.60,7.70,7.80,7.20
+Ports,8.40,8.80,10.10,9.40,10.10,10.10
+"Auto loans",8.40,8.30,7.40,7.40,7.40,7.40
+Telecommunication,8.40,7.90,6.90,7.10,6.60,6.70
+Gaming,8.40,8.70,5.80,6.40,7.00,7.90
+Dairy,8.40,6.30,6.70,6.70,7.80,8.00
+"Kitchen appliances",8.30,8.30,8.00,8.00,8.10,7.90
+Biopharmaceuticals,8.30,8.30,7.90,9.50,10.00,10.60
+"Frozen foods",8.20,9.80,11.00,10.90,10.90,10.80
+Twitter,8.10,6.40,6.20,6.80,7.00,6.40
+Drones,7.90,7.40,7.40,7.40,7.40,7.40
+Spirits,7.90,10.50,9.30,9.30,10.60,10.40
+"Mutual funds",7.80,6.30,7.90,8.00,9.20,9.00
+Snacks,7.70,10.30,10.30,11.10,11.00,11.00
+"Furniture retailing",7.70,4.00,2.60,2.70,2.70,2.70
+"Electronic components",7.70,5.40,3.80,4.20,4.60,2.60
+"Meat processing",7.60,5.70,3.20,3.20,3.20,10.50
+E-cigarettes,7.60,4.40,3.20,3.40,3.80,3.80
+"Consumer products",7.50,5.70,3.30,6.00,5.00,4.60
+Technology,7.50,6.80,9.20,9.40,7.00,10.50
+Motorcycles,7.40,6.70,8.50,8.20,8.60,9.60
+Gap,7.40,6.80,7.40,7.30,8.40,7.50
+Footwear,7.40,4.90,5.90,5.90,5.80,5.60
+"Tech investments",7.30,6.80,6.80,5.90,5.90,5.90
+Hyundai,7.20,6.70,8.00,8.50,8.10,8.10
+"Home-cleaning robots",7.10,4.40,1.70,2.10,2.00,2.70
+Investing,7.10,6.10,6.80,6.10,6.10,6.00
+Lithium,7.10,4.40,1.60,1.90,1.70,1.60
+"Healthcare software",7.00,7.10,7.20,7.90,7.40,7.10
+Motors,7.00,5.10,2.80,2.80,3.00,3.50
+Paper,7.00,6.00,3.80,4.80,3.90,4.00
+Tequila,6.90,7.70,5.90,7.30,7.50,6.50
+"Acoustic components",6.90,4.50,3.80,4.10,4.00,3.90
+Fashion,6.80,9.70,11.90,12.80,13.10,11.80
+"Sports teams",6.80,7.80,8.70,8.70,9.10,9.10
+Hermes,6.60,9.80,13.60,15.50,15.80,14.90
+Wine,6.60,6.00,3.90,3.10,3.00,3.00
+"Bakery chain",6.60,5.10,3.60,3.90,3.40,3.40
+"Food services",6.50,8.20,8.20,8.20,8.40,8.40
+Toys,6.50,2.70,2.60,2.80,3.50,3.90
+"Personal care goods",6.40,7.20,6.80,6.30,6.10,5.80
+"Mapping software",6.40,7.00,9.50,9.60,8.10,7.70
+Videogames,6.40,3.90,4.30,4.30,4.30,6.40
+Airport,6.40,8.60,10.30,10.10,10.70,10.70
+"Convinience stores",6.30,7.60,9.80,10.20,9.40,9.20
+Yahoo,6.30,5.60,6.10,6.10,6.10,6.10
+"Art collection",6.30,6.60,6.60,6.60,7.10,7.10
+Appliances,6.30,6.10,6.50,6.30,6.30,6.50
+Transportation,6.30,4.20,2.90,3.90,4.10,4.10
+"Metalworking tools",6.20,6.30,6.30,6.30,6.30,6.30
+"Gas stations",6.10,18.20,25.60,25.90,25.00,24.90
+"Star Wars",6.10,5.00,5.20,5.50,5.70,5.50
+Tobacco,6.10,5.90,6.40,6.40,6.40,6.40
+"Home furnishings",6.10,5.10,5.50,6.10,6.30,5.70
+"Sporting goods retail",6.00,8.30,8.90,9.50,9.50,9.50
+"Oil  banking",6.00,6.40,6.50,6.40,6.60,6.70
+Defense,6.00,7.30,6.60,6.80,6.70,6.60
+Staffing,5.90,6.40,7.20,7.10,7.20,7.00
+"Biomedical products",5.90,6.40,3.60,4.00,4.30,3.70
+"Laboratory services",5.80,4.30,3.70,3.90,4.20,4.00
+"wind turbines",5.80,NULL,NULL,NULL,NULL,NULL
+"Temp agency",5.70,6.20,5.90,6.20,6.10,5.90
+"Record label",5.70,5.70,5.70,5.70,5.70,5.70
+"Investment research",5.70,4.40,6.00,6.30,6.50,6.10
+Coca-Cola,5.70,6.40,8.60,7.80,7.70,7.80
+"Houston Rockets",5.60,8.10,9.40,9.60,9.40,9.30
+"Gambling software",5.60,5.60,5.60,5.60,6.40,6.40
+"Poultry genetics",5.60,5.30,5.40,5.40,5.70,5.70
+"Dental implants",5.60,5.00,5.60,5.80,5.70,5.00
+Uber,5.60,6.80,9.60,10.30,9.70,8.20
+"Hardware stores",5.50,9.20,11.00,11.60,11.70,10.70
+"New Balance",5.40,4.90,5.80,6.10,5.90,5.60
+"Payroll services",5.40,4.90,5.60,5.60,5.60,5.50
+"Aircraft leasing",5.40,5.10,5.40,5.40,5.50,5.50
+Advertising,5.40,3.70,3.50,3.80,3.90,4.80
+"Household chemicals",5.40,4.90,4.00,4.00,4.00,4.00
+Stationery,5.40,5.00,2.50,2.70,2.70,2.70
+"Plastic products",5.40,3.90,3.10,3.10,2.90,9.60
+"Pest control",5.30,5.30,6.40,6.50,6.50,6.30
+Lululemon,5.30,5.00,6.50,6.60,6.10,5.80
+"Computer services",5.30,4.40,4.90,4.90,4.90,4.90
+Biochemicals,5.30,4.40,3.30,3.80,4.50,4.20
+Spotify,5.30,5.20,8.80,10.00,10.30,10.80
+"Soft drinks",5.20,8.60,15.00,16.00,15.80,16.80
+"Zoom Video Communications",5.20,3.40,4.10,4.40,4.10,4.00
+"Solar inverters",5.10,4.30,2.10,2.30,2.10,2.00
+"Marvel comics",5.10,4.00,4.20,4.40,4.60,4.40
+Entertainment,5.10,5.40,4.70,4.50,4.70,4.50
+Aerospace,5.10,4.90,6.70,6.70,7.30,8.40
+"Data analytics",5.00,3.80,3.80,3.80,3.80,3.80
+Refinery,5.00,5.40,8.60,8.60,9.00,9.00
+"Mortgage lender",4.90,5.40,8.20,7.60,10.60,9.50
+"Data centers",4.90,3.10,2.80,2.80,2.80,2.80
+Fertilizers,4.80,34.90,34.40,34.30,30.40,28.40
+"Infant formula",4.80,3.50,2.60,2.70,2.60,3.00
+"Department stores",4.80,3.20,3.30,3.30,2.30,2.30
+Blockchain,4.80,3.60,3.60,3.00,3.00,3.00
+"Petro Fibre",4.80,3.70,NULL,2.00,2.10,2.10
+"Metals and mining",4.70,7.90,7.70,7.70,6.70,8.00
+FedEx,4.70,4.60,5.50,5.60,6.50,5.90
+Trucking,4.70,4.30,5.00,5.00,4.80,4.30
+Optometry,4.70,3.90,4.50,4.40,NULL,5.70
+Virgin,4.70,3.40,2.90,2.90,2.00,2.60
+"Dolby Laboratories",4.60,4.90,5.00,5.10,5.20,4.90
+"Navigation equipment",4.60,4.20,4.80,5.20,5.40,5.30
+"Information technology",4.60,4.30,5.40,5.40,3.10,6.10
+"Sports retailing",4.50,4.80,5.20,5.20,5.20,5.20
+Vodka,4.50,4.60,6.80,6.70,6.80,6.60
+Pharmacies,4.50,6.50,5.50,6.60,1.30,8.70
+"TD Ameritrade",4.50,3.40,3.60,3.80,4.00,4.10
+"Investment banking",4.50,6.00,6.00,5.90,6.10,6.10
+"Fish farming",4.50,2.70,3.70,4.10,4.10,4.00
+"Pet food",4.50,4.40,2.10,1.70,1.70,3.10
+"Pulp and paper",4.50,6.40,6.60,8.60,10.70,10.30
+Gold,4.40,11.80,11.80,12.60,12.30,12.30
+"Little Caesars Pizza",4.40,4.30,4.00,4.00,4.00,4.00
+"Coffee makers",4.40,3.90,4.50,4.40,4.90,4.70
+"Imaging systems",4.40,3.70,2.10,2.60,3.00,2.90
+"online marketplace",4.40,NULL,NULL,NULL,NULL,NULL
+"Natural gas distribution",4.30,7.50,6.40,6.90,7.10,6.70
+"Toyota dealerships",4.30,5.50,6.20,6.30,6.40,6.30
+"Plush toys",4.30,5.20,5.90,5.80,5.60,5.60
+"Staffing and recruiting",4.30,4.40,4.50,4.40,4.40,4.10
+"Best Buy",4.30,3.70,3.80,3.90,4.10,4.00
+"Video streaming",4.30,2.80,2.50,2.70,3.00,3.30
+"Asset management",4.30,4.80,6.60,6.70,7.30,7.00
+"In-N-Out Burger",4.20,4.20,6.70,6.70,6.70,6.70
+"Train cars",4.20,4.10,3.90,3.90,3.90,3.80
+"Book distribution",4.20,3.80,4.40,4.50,4.40,4.80
+"Generic drugs",4.20,4.90,5.10,5.40,5.30,5.20
+"Electronic trading",4.20,3.20,3.50,3.60,3.80,3.80
+Agrochemicals,4.20,4.40,4.20,4.30,4.30,4.30
+Groupon,4.10,4.20,4.30,4.30,3.90,3.90
+Art,4.10,4.80,5.20,5.30,5.30,5.20
+"Mobile phones",4.10,2.90,3.00,3.30,3.30,3.30
+"Construction materials",4.10,3.80,2.60,2.70,2.80,2.80
+"TV broadcasting",4.10,2.00,1.60,2.20,2.10,2.00
+"San Francisco 49ers",4.00,5.10,5.80,5.80,5.80,5.80
+"Washington Commanders",4.00,4.90,4.10,4.10,4.40,4.40
+Starbucks,4.00,3.70,3.10,3.20,3.10,3.10
+"Renewable energy",4.00,3.40,1.80,1.60,1.50,1.40
+Copper,4.00,3.00,2.60,2.70,2.60,2.60
+"Animal health",4.00,4.20,4.20,4.20,4.20,4.20
+"Call centers",4.00,3.00,1.20,1.30,1.10,1.00
+Utilities,4.00,3.00,2.80,3.00,2.90,2.80
+"Solar panel materials",3.90,3.00,2.00,2.30,2.50,2.40
+"Pipe Manufacturing",3.90,5.40,5.20,5.60,11.40,10.60
+"TV shows",3.90,3.70,4.00,4.00,4.00,4.20
+"Printed circuit boards",3.90,2.20,NULL,NULL,NULL,1.10
+"Medical packaging",3.80,5.50,7.90,7.90,7.70,6.80
+"Sporting goods",3.80,5.00,5.90,6.10,4.90,5.20
+"New Orleans Saints",3.80,4.70,6.10,6.10,6.10,6.10
+"Smartphone components",3.80,3.60,2.90,3.40,3.40,3.30
+"Chicken processing",3.80,2.30,2.30,2.30,3.40,3.40
+Aviation,3.70,6.90,9.30,9.40,10.20,12.00
+Netflix,3.70,3.10,4.10,4.30,4.40,4.00
+"Paper and related products",3.70,2.50,2.40,2.80,2.80,3.00
+"Hygiene products",3.70,3.40,2.90,2.80,2.90,2.90
+"Mining  metals",3.60,7.30,6.80,7.90,8.30,8.30
+Billboards,3.60,4.10,4.90,4.90,4.90,4.90
+"Convenience stores",3.60,4.90,5.10,5.30,4.90,4.80
+Brakes,3.60,2.60,2.50,2.90,3.00,3.00
+"Education technology",3.60,2.10,NULL,NULL,NULL,NULL
+"Power equipment",3.60,2.00,1.20,1.40,1.30,1.40
+"Communication equipment",3.60,3.10,2.20,2.40,2.40,5.40
+"Machine tools",3.60,3.00,4.00,4.00,3.80,3.80
+"rubber gloves",3.60,NULL,1.00,NULL,NULL,NULL
+"mobile games",3.60,NULL,3.70,4.20,5.20,13.50
+"Philadelphia Eagles",3.50,4.40,4.60,4.60,4.60,4.60
+"Indianapolis Colts",3.50,3.90,4.30,4.30,4.40,4.40
+"Movie making",3.50,3.30,3.30,3.40,3.40,3.40
+"Stock brokerage",3.50,3.10,3.70,3.40,3.10,3.00
+"Chewing gum",3.50,2.90,3.00,3.20,3.20,3.20
+"Health IT",3.50,3.90,4.60,4.60,4.90,4.70
+"Grocery delivery service",3.50,1.00,1.00,NULL,1.10,NULL
+Timberland,3.40,5.50,5.40,5.40,5.40,5.40
+"Web hosting",3.40,3.40,3.60,3.60,3.60,3.60
+Scaffolding,3.40,3.30,2.60,2.60,3.30,3.30
+"Surveillance equipment",3.40,3.30,3.10,3.50,3.60,3.50
+"Digital advertising",3.40,3.10,4.00,4.70,4.80,4.60
+"Video streaming app",3.40,2.50,2.00,2.20,2.40,2.80
+"Sensor systems",3.40,4.60,7.60,8.10,8.80,8.10
+Carpet,3.30,10.00,5.00,5.10,5.40,5.30
+"Sensor technology",3.30,2.80,2.80,2.70,2.70,2.70
+"Internet service provider",3.30,2.10,2.70,2.50,2.40,2.60
+"Oil refinery",3.30,3.70,4.00,4.20,3.50,3.50
+"Energy services",3.30,2.70,1.70,1.70,1.70,1.70
+"Mobile payments",3.30,1.60,3.70,3.90,4.00,3.80
+IKEA,3.30,3.30,3.30,3.30,3.30,3.30
+Valves,3.20,4.00,3.80,4.30,4.10,3.80
+"Poultry processing",3.20,3.80,3.90,3.80,3.90,4.30
+"Mobile phone retailer",3.20,3.80,4.50,4.50,4.60,4.10
+"Microchip testing",3.20,3.50,5.00,5.00,4.40,3.90
+Investment,3.20,3.20,2.70,5.70,5.70,5.40
+Netscape,3.20,2.90,3.70,3.90,3.70,3.70
+"Fast food",3.20,7.70,9.80,10.00,9.60,9.70
+Forestry,3.20,3.40,3.00,3.20,3.40,3.40
+"Hair dryers",3.10,4.70,2.70,3.00,3.00,2.90
+"Ticketing service",3.10,3.20,3.40,3.80,4.20,4.20
+"TV network",3.10,2.90,3.00,3.00,3.00,3.00
+"Touch screens",3.10,2.00,1.80,2.20,2.00,2.10
+"Financial technology",3.10,1.70,1.80,1.80,1.90,1.90
+"Medical diagnostics",3.10,2.50,2.60,2.60,2.40,2.40
+"employment agency",3.10,NULL,NULL,NULL,NULL,NULL
+"Fashion investments",3.00,3.60,3.60,3.60,3.90,3.90
+"Winter jackets",3.00,3.50,3.40,3.80,4.00,3.80
+"Hair care products",3.00,3.00,3.20,3.20,3.20,3.20
+"Formula One",3.00,2.90,2.90,2.90,2.40,2.40
+"Nutritional supplements",3.00,2.70,1.90,2.10,2.10,2.00
+"Food processing",3.00,4.70,4.80,4.60,4.90,5.10
+"Damaged cars",3.00,3.50,5.00,5.30,5.40,5.10
+Silicon,3.00,2.00,1.60,1.70,1.70,1.70
+"Automotive technology",3.00,2.80,2.80,2.80,3.20,3.20
+Cruises,3.00,2.80,3.10,3.20,3.30,3.30
+Cars,2.90,3.20,3.90,4.00,4.10,3.80
+Nutrition,2.90,3.10,3.30,3.30,3.30,3.40
+"Healthcare services",2.90,2.70,1.60,1.60,1.80,1.70
+"Solar energy",2.90,1.10,NULL,NULL,NULL,NULL
+"Oilfield equipment",2.90,1.10,NULL,1.10,1.10,1.10
+"Finance and investments",2.80,3.30,3.60,3.50,4.40,4.40
+"Hair products",2.80,2.90,2.90,3.00,3.00,2.90
+Travel,2.80,2.60,2.80,NULL,NULL,NULL
+"Payroll software",2.80,2.60,2.40,2.40,2.50,2.30
+Cobalt,2.80,2.50,2.40,2.60,2.60,2.60
+Sunglasses,2.80,2.20,2.30,2.30,1.30,1.30
+LG,2.80,2.90,3.00,3.10,2.90,2.70
+"Gambling products",2.80,3.10,3.10,3.30,3.30,3.10
+"IT products",2.80,NULL,NULL,NULL,NULL,NULL
+Magazines,2.70,2.60,2.30,2.30,2.30,2.30
+"Tobacco distribution",2.60,4.10,5.40,5.40,5.50,5.50
+Prosthetics,2.60,2.60,2.80,2.80,2.80,2.70
+"Plastic pipes",2.60,2.50,3.30,3.60,3.40,3.60
+"Leveraged buyouts",2.60,1.80,1.70,1.70,1.90,1.90
+Electrodes,2.60,1.50,1.50,1.50,1.50,1.50
+Flipkart,2.60,2.70,2.70,2.70,2.60,2.60
+"Specialty chemicals",2.60,2.30,2.20,2.20,1.00,1.10
+Lighting,2.60,1.20,1.20,1.20,1.30,1.30
+"Car rentals",2.60,2.40,3.60,3.40,3.60,3.40
+"game software",2.60,NULL,NULL,NULL,NULL,NULL
+"Readymade garments",2.50,3.10,2.60,2.80,2.50,2.60
+"Drug distribution",2.50,2.80,3.40,3.40,3.40,3.40
+Printing,2.50,2.70,3.00,2.90,2.90,2.90
+Tractors,2.50,2.50,2.80,2.80,2.90,3.00
+"Herbal products",2.50,2.40,2.40,2.40,2.40,2.40
+"Payroll processing",2.50,2.20,1.70,1.60,1.70,1.70
+"motorcycle loans",2.50,NULL,NULL,NULL,NULL,NULL
+"3D printing",2.40,2.70,2.70,2.70,2.70,2.70
+"Auto repair",2.40,2.50,2.50,2.70,2.70,2.70
+"Greek yogurt",2.40,2.10,1.70,1.70,2.30,2.50
+"Low-cost airlines",2.40,2.00,1.60,1.70,1.40,1.20
+"Semiconductor devices",2.40,1.60,1.00,1.20,1.10,1.10
+Roku,2.40,1.60,2.20,1.70,1.70,1.60
+"Healthcare IT",2.40,1.50,1.40,1.50,1.50,1.30
+IT,2.40,NULL,1.20,1.20,1.30,2.30
+"Live entertainment",2.30,2.90,2.70,2.70,2.70,2.70
+"Scientific equipment",2.30,2.70,2.70,3.20,3.50,2.90
+"Steel production",2.30,2.50,2.40,3.80,3.80,3.80
+"Hand tools",2.30,2.40,2.50,2.90,3.00,3.10
+"Columbia Sportswear",2.30,2.30,2.20,2.30,2.20,2.20
+Dole,2.30,2.30,3.40,3.40,3.40,3.40
+"Dental materials",2.30,2.30,2.40,1.50,1.50,1.50
+SAP,2.30,2.20,2.40,2.40,2.40,2.40
+"Edible oil",2.30,2.10,2.00,1.80,1.80,1.80
+Shipbuilding,2.30,1.70,3.10,3.30,3.30,3.10
+Sugar,2.30,1.50,2.10,2.00,1.90,1.60
+diagnostics,2.30,NULL,NULL,NULL,NULL,NULL
+"home building",2.30,NULL,1.40,1.80,1.90,1.70
+"food delivery app",2.30,NULL,2.90,2.90,2.50,2.30
+"Measuring instruments",2.20,2.30,1.50,1.70,1.70,1.60
+"Pearlescent pigments",2.20,2.30,1.60,1.80,1.60,1.60
+"Accounting services",2.20,2.10,2.60,2.60,2.80,2.80
+"Snack bars",2.20,2.10,2.10,2.10,2.30,2.30
+Security,2.20,2.00,2.00,2.00,2.00,6.00
+"Solar energy equipment",2.20,2.00,1.30,1.50,3.40,2.80
+"Storage facilities",2.20,1.90,2.00,2.00,2.00,1.90
+"Iron ore mining",2.20,1.70,1.20,1.30,1.30,1.40
+Ecommerce,2.10,8.80,7.00,7.00,7.40,7.40
+"Automotive brakes",2.10,2.90,2.50,2.50,2.60,NULL
+"Copy machines",2.10,2.70,3.20,3.30,3.20,3.00
+"Computer networking",2.10,2.30,3.60,3.60,3.80,3.40
+"Getty Oil",2.10,2.10,2.10,2.10,2.10,2.10
+"Clinical trials",2.10,2.10,2.20,2.30,2.40,2.30
+LinkedIn,2.10,1.90,2.40,2.50,2.50,2.50
+"Home sales",2.10,1.80,1.50,1.50,1.60,1.50
+FIAT,2.10,1.70,1.70,1.70,2.60,2.60
+Materials,2.10,1.60,NULL,NULL,NULL,NULL
+"Waste disposal",2.10,1.60,1.20,1.50,1.50,1.80
+"Minerals processing",2.10,1.30,NULL,NULL,NULL,NULL
+"Furniture retail",2.10,1.20,1.30,1.40,1.80,1.30
+Slim-Fast,2.00,2.50,2.40,2.40,2.40,2.40
+"Online dating",2.00,2.00,2.00,2.00,2.00,2.00
+"Real estate finance",2.00,1.70,1.90,1.90,2.00,1.80
+"Waffle House",2.00,1.70,1.70,1.70,1.70,1.70
+Petroleum,2.00,1.50,1.60,1.60,1.60,1.60
+"E-commerce software",2.00,1.10,1.10,NULL,NULL,NULL
+Poultry,1.90,2.20,1.30,1.40,1.40,1.40
+"Metals  banking",1.90,2.10,2.00,NULL,NULL,NULL
+"Steel pipes",1.90,5.60,4.70,6.20,7.90,7.90
+"Medical cosmetics",1.90,2.10,1.10,1.20,1.30,1.10
+"Metal processing",1.90,2.10,1.20,1.40,1.30,1.40
+"Amusement parks",1.90,2.00,1.00,1.30,1.30,1.30
+Motorhomes,1.90,1.70,2.10,2.10,2.50,2.30
+"Real estate development",1.90,1.70,1.40,1.30,1.60,1.60
+Hardware,1.90,1.60,NULL,NULL,NULL,NULL
+TV,1.90,1.60,1.60,1.90,2.20,2.00
+"Beauty products",1.90,1.40,2.20,2.60,3.20,3.30
+"orange juice",1.90,NULL,NULL,NULL,NULL,NULL
+"mobile gaming",1.90,NULL,NULL,NULL,NULL,NULL
+"Oil trading",1.80,4.00,4.00,4.00,5.40,5.40
+Sears,1.80,1.90,2.00,2.00,2.10,2.10
+Jewellery,1.80,1.90,1.90,1.90,2.60,2.60
+"TV programs",1.80,1.80,1.80,1.80,1.80,1.80
+Nascar,1.80,1.80,1.80,1.80,1.80,1.80
+Salsa,1.80,1.80,1.80,1.80,2.00,2.00
+"Medical patents",1.80,1.80,1.80,1.80,1.80,1.80
+"Online gaming",1.80,3.40,NULL,1.00,3.00,2.80
+Coking,1.80,1.70,1.40,1.40,1.40,1.50
+DirecTV,1.80,1.60,1.60,1.70,1.60,1.60
+"Contact Lens",1.80,1.50,NULL,NULL,NULL,NULL
+"Online payments",1.80,1.30,NULL,1.00,1.20,1.20
+Shapewear,1.80,1.20,1.70,1.70,1.70,1.70
+Mattresses,1.80,1.10,1.10,1.00,NULL,NULL
+"Construction  pipes",1.70,3.50,4.00,4.00,4.00,4.00
+"Electric scooters",1.70,4.60,3.20,3.50,3.50,4.20
+"Precision machinery",1.70,2.30,1.70,2.10,2.30,2.60
+"Dicks Sporting Goods",1.70,2.10,2.40,2.70,3.20,2.90
+"Charlotte Hornets",1.70,2.00,3.00,3.00,3.20,3.20
+"Venture capital investing",1.70,1.70,1.80,1.80,1.90,1.80
+"Medical products",1.70,1.70,1.70,1.70,1.90,1.90
+"Sandwich chain",1.70,1.70,1.70,1.70,2.40,2.40
+"Wedding dresses",1.70,1.70,1.80,2.10,2.10,2.10
+"Real estate services",1.70,1.70,1.70,1.70,1.50,1.50
+Transport,1.70,1.60,1.70,1.70,1.70,2.70
+"Non-ferrous metals",1.70,1.60,1.50,1.50,NULL,NULL
+"Wire and cables",1.70,1.10,NULL,NULL,NULL,NULL
+"electric components",1.70,NULL,NULL,NULL,NULL,NULL
+"real estate developer",1.70,NULL,NULL,NULL,NULL,NULL
+"Electric bikes",1.60,3.60,2.30,2.90,2.70,3.00
+"Quartz products",1.60,3.30,1.70,2.00,2.30,2.00
+"Valve manufacturing",1.60,2.40,2.80,3.00,3.10,3.20
+"Payment processing",1.60,2.10,2.30,2.50,1.60,1.50
+"Dairy ",1.60,1.80,1.70,1.80,2.00,2.00
+Comcast,1.60,1.70,2.10,2.00,2.00,1.80
+Homebuilder,1.60,1.70,2.10,2.20,2.30,2.20
+"Fitness equipment",1.60,1.60,1.60,1.60,NULL,NULL
+"Retail stores",1.60,1.50,1.50,1.50,1.70,1.70
+Feed,1.60,1.50,NULL,1.00,1.00,1.20
+Brewery,1.60,1.50,1.10,1.10,1.10,1.10
+"Seed production",1.60,1.30,NULL,NULL,NULL,NULL
+"Industrial lasers",1.60,1.00,NULL,NULL,NULL,NULL
+"live streaming service",1.60,NULL,NULL,NULL,NULL,NULL
+Titanium,1.50,4.40,4.50,4.50,3.50,3.50
+"Golden State Warriors",1.50,1.80,2.00,2.00,2.10,2.10
+"Express delivery",1.50,1.70,1.00,1.20,1.40,1.40
+"Electric power",1.50,1.60,1.60,3.50,3.30,3.30
+"IT consulting",1.50,2.50,1.50,2.60,2.60,2.60
+"Consumer electronics",1.50,1.50,1.40,1.40,1.40,1.40
+"Fine jewelry",1.50,1.50,1.50,1.50,1.50,1.50
+"Sports drink",1.50,1.50,1.50,1.50,1.60,1.60
+Instagram,1.50,1.50,2.70,2.80,2.70,2.50
+AOL,1.50,1.40,1.50,1.50,2.40,2.40
+"Cooking appliances",1.50,1.40,1.30,1.00,NULL,NULL
+"Health products",1.50,1.30,1.20,1.20,1.30,1.30
+"Stock photos",1.50,1.20,NULL,NULL,NULL,NULL
+"Computer games",1.50,1.20,1.30,1.30,1.20,1.20
+"Paper manufacturing",1.50,1.20,NULL,NULL,1.20,1.30
+"Under Armour",1.50,1.10,1.00,1.10,1.00,NULL
+"Cables and wires",1.50,2.10,2.60,4.10,5.40,8.50
+WeWork,1.40,2.20,2.20,2.30,2.30,2.30
+"Price comparison website",1.40,1.90,2.00,2.00,2.00,2.00
+Photovoltaics,1.40,1.90,NULL,NULL,NULL,NULL
+"Precious metals",1.40,1.90,1.60,1.90,1.90,1.90
+Bars,1.40,1.70,NULL,NULL,NULL,NULL
+"Gym equipment",1.40,1.50,1.60,1.60,1.60,1.50
+"Optical components",1.40,1.50,1.40,1.80,1.70,1.50
+"Social media",1.40,1.50,2.20,2.10,2.00,1.90
+"Testing equipment",1.40,1.40,NULL,1.10,1.00,1.00
+"Powdered metal",1.40,1.40,1.40,1.40,1.60,1.60
+"Messaging software",1.40,1.30,1.60,1.70,1.70,1.60
+Genentech,1.40,1.30,1.60,1.60,1.10,1.10
+Sneakers,1.40,1.20,NULL,NULL,NULL,NULL
+Flooring,1.40,1.10,1.20,1.30,1.50,1.30
+"Office real estate",1.40,1.00,1.10,1.10,1.20,1.10
+"Grocery stores",1.40,1.00,1.00,1.00,1.30,1.20
+"retail chain",1.40,NULL,NULL,NULL,NULL,NULL
+"Fast fashion",1.30,2.10,1.30,1.30,1.30,3.00
+"Dental products",1.30,2.00,2.00,2.00,2.10,2.10
+"Industrial explosives",1.30,3.00,5.20,5.40,7.00,7.20
+"Executive search",1.30,1.60,1.60,1.60,1.60,1.60
+"Pharmaceutical services",1.30,1.60,2.50,3.20,3.30,3.20
+Phamaceuticals,1.30,1.50,2.80,2.90,3.10,3.20
+"Fashion retailer",1.30,1.40,1.40,1.40,1.40,1.40
+"Clinical diagnostics",1.30,1.40,1.20,1.40,1.30,1.30
+"Fiber optic cables",1.30,1.40,1.40,1.10,1.10,1.10
+"Industrial equipment",1.30,2.60,2.60,3.20,3.50,3.50
+"Online recruitment",1.30,1.30,1.00,1.10,1.20,1.40
+"Semiconductor materials",1.30,1.30,NULL,NULL,NULL,NULL
+Property,1.30,1.20,1.80,1.90,2.40,2.40
+"Medical services",1.30,1.20,NULL,NULL,NULL,NULL
+Pinterest,1.30,1.10,1.70,1.60,1.50,1.40
+Polyester,1.30,1.00,NULL,1.10,1.10,1.10
+edtech,1.30,NULL,NULL,NULL,NULL,NULL
+"electric equipment",1.30,NULL,NULL,NULL,NULL,NULL
+"food delivery service",1.30,NULL,1.60,1.80,2.20,2.10
+drugs,1.30,NULL,NULL,NULL,NULL,NULL
+"lighting installations",1.30,NULL,NULL,NULL,NULL,NULL
+"Toll roads",1.20,1.50,1.60,1.70,1.70,1.70
+Payments,1.20,1.30,2.00,2.20,2.20,1.80
+"Finance services",1.20,1.30,1.50,1.50,1.50,1.50
+"Defense contractor",1.20,1.30,NULL,NULL,NULL,NULL
+"Urban Outfitters",1.20,1.20,1.50,1.60,1.70,1.60
+"Food and beverage retailing",1.20,1.20,1.20,1.30,1.30,1.30
+"Cirque du Soleil",1.20,1.20,1.20,1.20,1.20,1.20
+"Poultry breeding",1.20,1.10,NULL,NULL,NULL,NULL
+"Sports data",1.20,1.10,NULL,NULL,1.10,NULL
+"Security services",1.20,1.10,1.10,1.20,1.10,1.20
+Tourism,1.20,1.10,1.00,1.10,1.20,1.10
+foods,1.20,NULL,NULL,NULL,NULL,NULL
+Patagonia,1.20,NULL,NULL,NULL,NULL,NULL
+"food manufacturing",1.20,NULL,NULL,NULL,NULL,NULL
+"telecom services",1.20,NULL,NULL,NULL,NULL,NULL
+"paper and pulp",1.20,NULL,NULL,NULL,NULL,NULL
+"social network",1.20,NULL,NULL,NULL,NULL,NULL
+microbiology,1.20,NULL,NULL,NULL,NULL,NULL
+"vaccine and shoes",1.20,NULL,NULL,NULL,NULL,NULL
+"Liquefied natural gas",1.10,2.60,1.00,1.00,1.00,1.00
+"Power supply equipment",1.10,2.10,NULL,1.10,1.10,1.00
+"Stainless steel products",1.10,1.50,NULL,NULL,NULL,NULL
+"Industrial machinery",1.10,1.40,1.20,1.20,1.20,6.20
+"Software firm",1.10,1.30,1.90,2.50,2.70,2.60
+"Data management",1.10,1.20,1.60,1.70,1.70,1.60
+Spanx,1.10,1.10,1.10,1.30,1.30,1.30
+"Air compressors",1.10,1.10,NULL,NULL,NULL,NULL
+Reebok,1.10,1.10,1.10,1.10,1.30,1.30
+EasyJet,1.10,3.10,3.40,3.30,3.60,3.60
+"Internet and software",1.10,1.10,1.00,NULL,1.00,NULL
+"Stock exchange",1.10,1.10,2.10,2.20,1.30,1.30
+"LED lighting",1.10,1.00,NULL,NULL,NULL,NULL
+"Health clinics",1.10,1.00,NULL,NULL,NULL,NULL
+"medical testing",1.10,NULL,NULL,NULL,NULL,NULL
+"health insurance",1.10,NULL,NULL,NULL,NULL,NULL
+"magnetic switches",1.10,NULL,1.10,1.10,NULL,NULL
+"packaged meats",1.10,NULL,1.00,NULL,NULL,NULL
+cashmere,1.10,NULL,NULL,NULL,NULL,NULL
+"Energy drink",1.00,1.70,NULL,NULL,NULL,NULL
+"graphite electrodes",1.00,NULL,1.00,1.10,1.10,1.20
+"high speed trading",1.00,NULL,NULL,NULL,NULL,NULL
+cameras,1.00,NULL,NULL,NULL,NULL,NULL
+"payments technology",1.00,NULL,1.30,1.20,NULL,1.40
+"pharma retailing",1.00,NULL,NULL,NULL,NULL,NULL
+garments,1.00,NULL,NULL,NULL,NULL,NULL
+"flavors and fragrances",1.00,NULL,NULL,NULL,NULL,NULL
+"Warehouse automation",NULL,9.60,21.90,17.60,19.80,17.30
+"Food delivery",NULL,9.40,6.80,9.00,9.20,9.70
+"Real estate management",NULL,5.20,5.80,5.80,5.80,5.80
+Polyurethanes,NULL,4.50,5.20,5.80,6.00,6.80
+Subway,NULL,4.00,8.20,8.20,8.20,8.20
+"Packaging materials",NULL,7.60,10.00,10.20,10.40,13.20
+Eyeglases,NULL,3.50,4.10,4.40,4.80,4.50
+Skincare,NULL,3.50,3.70,4.30,4.70,5.30
+"Oil  coal",NULL,3.50,3.00,3.00,3.70,3.70
+"Johnson and Johnson",NULL,3.40,3.20,3.20,3.30,3.20
+"Transport  engineering",NULL,3.20,2.50,2.70,2.80,2.80
+"Technology services",NULL,2.70,2.00,2.00,2.00,2.00
+"Construction Vehicles",NULL,5.20,5.20,5.80,5.80,5.80
+Space,NULL,2.10,2.20,2.30,2.40,2.30
+"Defense Contracting",NULL,2.00,2.00,2.00,4.40,4.40
+"Las Vegas Raiders",NULL,1.90,2.30,2.30,2.30,2.30
+"Tennessee Titans",NULL,1.70,1.60,1.60,2.00,2.00
+"Virtual reality",NULL,1.70,2.00,2.30,2.30,2.30
+"Liquor stores",NULL,1.50,3.10,3.10,3.20,3.20
+Solar,NULL,1.50,1.70,1.70,1.70,1.70
+Nickel,NULL,1.40,NULL,NULL,NULL,NULL
+"Power tools",NULL,1.30,NULL,NULL,NULL,NULL
+"Cell phone distribution",NULL,1.30,2.00,2.00,2.00,2.00
+"Fitness clothing",NULL,1.20,1.30,1.30,1.30,1.30
+"Steel tubes",NULL,1.20,1.50,1.50,1.50,1.50
+Hospitality,NULL,1.20,1.20,1.20,1.50,1.50
+Fisheries,NULL,1.20,1.20,1.20,1.30,1.30
+Lumber,NULL,1.20,1.20,1.50,1.50,1.50
+"Online apparel retail",NULL,1.20,1.30,1.60,1.40,1.20
+"Pneumatic equipments",NULL,1.20,1.10,1.40,1.20,1.30
+"Sports shoes",NULL,1.10,NULL,NULL,NULL,NULL
+Building,NULL,1.10,1.20,1.20,1.20,1.20
+"Pachinko machines",NULL,2.10,1.20,NULL,NULL,NULL
+"Waste management",NULL,1.10,1.30,1.40,1.30,1.30
+"Solar systems",NULL,1.10,1.30,1.60,1.60,1.60
+"Search engine",NULL,1.10,2.60,2.70,2.70,2.70
+Golf,NULL,1.10,1.10,1.10,1.10,1.30
+Vitamins,NULL,1.10,NULL,NULL,NULL,NULL
+"Online entertainment",NULL,1.00,NULL,NULL,NULL,NULL
+"Electrical appliances",NULL,1.00,1.40,1.50,1.50,1.60
+Bio-Pharma,NULL,1.00,NULL,NULL,NULL,NULL
+"Online universities",NULL,1.00,1.00,1.00,1.00,1.00
+Basketball,NULL,1.00,1.00,1.00,1.00,1.20
+Tiles,NULL,1.00,1.30,1.20,1.10,1.10
+Power,NULL,1.00,1.10,1.10,1.10,1.10
+"Hydraulic pumps",NULL,1.00,NULL,NULL,NULL,NULL
+"Hot sauce",NULL,1.00,1.00,NULL,NULL,NULL
+"Tyre manufacturing machinery",NULL,1.00,1.00,1.20,1.30,1.40
+"manda brokerage",NULL,NULL,1.80,1.80,1.80,1.30
+"rolling papers",NULL,NULL,1.70,1.70,1.70,1.70
+"sports betting",NULL,NULL,1.40,1.40,NULL,NULL
+broadcasting,NULL,NULL,1.20,1.20,2.00,2.00
+"tea drinks",NULL,NULL,1.20,1.20,NULL,1.00
+"electric systems",NULL,NULL,1.10,1.20,2.40,2.30
+Cinemas,NULL,NULL,1.10,1.10,1.10,1.10
+"payments  banking",NULL,NULL,1.10,1.20,NULL,NULL
+"food products",NULL,NULL,1.00,NULL,1.20,1.20
+"financial information service",NULL,NULL,0.90,NULL,NULL,NULL
+"blood testing",NULL,NULL,0.00,0.00,0.00,0.00
+"Auto components",NULL,NULL,NULL,1.20,1.20,1.30
+"stock trading app",NULL,NULL,NULL,1.10,1.30,2.20
+Sourcing,NULL,NULL,NULL,2.10,2.00,2.10
+"educational services",NULL,NULL,NULL,1.00,1.00,NULL
+"Nordstrom department stores",NULL,NULL,NULL,1.00,NULL,NULL
+"Monster Beverage",NULL,NULL,NULL,NULL,3.40,3.20
+metallurgy,NULL,NULL,NULL,NULL,1.00,1.00
+"Rocket Internet",NULL,NULL,NULL,NULL,1.00,1.00
+"home appliance",NULL,NULL,NULL,NULL,1.00,1.10
+"Levi's jeans",NULL,NULL,NULL,NULL,1.00,1.10
+"Financial software",NULL,NULL,NULL,NULL,NULL,26.90
+"Raising Cane's",NULL,NULL,NULL,NULL,NULL,9.10
+Shein,NULL,NULL,NULL,NULL,NULL,12.60
+"Drug delivery devices",NULL,NULL,NULL,NULL,NULL,3.00
+firearms,NULL,NULL,NULL,NULL,NULL,2.30
+"supply chain services",NULL,NULL,NULL,NULL,NULL,3.00
+"Arca Continental",NULL,NULL,NULL,NULL,NULL,1.80
+"Manchester United",NULL,NULL,NULL,NULL,NULL,10.20
+"Air conditioning parts",NULL,NULL,NULL,NULL,NULL,1.40
+"Kansas City Chiefs",NULL,NULL,NULL,NULL,NULL,5.60
+baseball,NULL,NULL,NULL,NULL,NULL,1.40
+"Tableau software",NULL,NULL,NULL,NULL,NULL,2.70
+"Palo Alto software",NULL,NULL,NULL,NULL,NULL,1.40
+Robots,NULL,NULL,NULL,NULL,NULL,1.40
+"home appliance stores",NULL,NULL,NULL,NULL,NULL,1.40
+"packaged food",NULL,NULL,NULL,NULL,NULL,1.30
+Seaport,NULL,NULL,NULL,NULL,NULL,1.30
+Loews,NULL,NULL,NULL,NULL,NULL,2.50
+Peugeot,NULL,NULL,NULL,NULL,NULL,2.50
+"Electrical components",NULL,NULL,NULL,NULL,NULL,1.30
+"indian snacks",NULL,NULL,NULL,NULL,NULL,1.20
+"Military drones",NULL,NULL,NULL,NULL,NULL,2.30
+"Enterprise software+K3471",NULL,NULL,NULL,NULL,NULL,3.50
+"Rewards firm",NULL,NULL,NULL,NULL,NULL,1.20
+"Law and Order TV",NULL,NULL,NULL,NULL,NULL,1.20
+AI,NULL,NULL,NULL,NULL,NULL,1.20
+,NULL,NULL,NULL,NULL,NULL,4.20
+GoPro,NULL,NULL,NULL,NULL,NULL,1.10
+"Yindu Kitchen Equipment",NULL,NULL,NULL,NULL,NULL,1.10
+"electronic vehicals",NULL,NULL,NULL,NULL,NULL,1.10
+"payment service",NULL,NULL,NULL,NULL,NULL,1.10
+"power generation",NULL,NULL,NULL,NULL,NULL,1.10
+pasta,NULL,NULL,NULL,NULL,NULL,1.00
+AMD,NULL,NULL,NULL,NULL,NULL,1.00
+Nvidia,NULL,NULL,NULL,NULL,NULL,1.00
+"parcel lockers",NULL,NULL,NULL,NULL,NULL,1.00
