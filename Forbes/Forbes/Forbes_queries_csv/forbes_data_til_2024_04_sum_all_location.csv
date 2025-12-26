@@ -1,0 +1,751 @@
+Continent,Country_of_residence,City,2022_total,2023_total,2024_01_total,2024_02_total,2024_03_total,2024_04_total
+"North America",USA,"New York City",599.80,569.80,607.40,627.90,637.20,638.10
+Asia,China,,461.00,525.60,337.50,359.10,362.60,380.80
+Asia,China,"Hong Kong",342.00,283.40,266.30,277.10,274.60,281.90
+Europe,France,Paris,324.80,383.80,393.10,413.00,410.30,398.20
+"North America",USA,,307.90,612.35,883.30,928.90,952.00,968.70
+"North America",USA,Austin,299.00,258.30,304.60,319.30,319.10,326.40
+Europe,UK,London,295.80,283.30,278.90,274.80,283.50,287.20
+Asia,India,Mumbai,279.30,235.40,298.50,304.40,308.00,319.90
+Asia,China,Shenzhen,244.70,214.50,160.70,167.60,162.50,173.80
+"North America",USA,"Palo Alto",237.30,194.10,356.10,359.80,368.30,358.70
+"North America",USA,Seattle,227.70,149.70,239.70,244.50,243.50,237.20
+Asia,China,Beijing,218.10,198.10,168.90,184.90,182.70,190.30
+Europe,Russia,Moscow,203.30,287.80,296.20,307.70,312.30,331.90
+Asia,China,Hangzhou,202.30,138.80,120.00,127.60,123.70,133.50
+Asia,Taiwan,Taipei,156.70,96.40,106.30,106.50,131.00,133.40
+Europe,Germany,,154.40,123.10,155.10,170.30,175.20,181.90
+"North America",USA,"San Francisco",151.10,117.40,153.70,160.50,170.30,160.60
+"North America",Mexico,"Mexico City",146.10,152.40,165.90,161.20,169.80,167.00
+"North America",USA,Medina,134.80,109.20,131.30,135.40,138.70,134.00
+"North America",USA,Bentonville,131.20,58.80,NULL,NULL,NULL,NULL
+"North America",USA,"Los Altos",130.80,95.60,135.70,130.80,140.00,148.20
+Asia,China,Shanghai,127.10,101.40,88.90,100.00,99.90,115.50
+"North America",USA,Omaha,120.30,108.50,131.10,137.10,141.00,133.40
+Asia,India,Ahmedabad,114.00,26.00,36.10,38.00,38.80,39.00
+Asia,Singapore,Singapore,106.20,95.00,101.20,95.70,99.20,102.70
+"North America",USA,Lanai,106.00,107.00,143.70,139.90,155.20,142.80
+Asia,"South Korea",Seoul,97.60,73.70,80.40,84.10,86.10,79.80
+Asia,Japan,Tokyo,97.40,99.40,111.20,115.00,120.90,112.90
+"North America",USA,"Hunts Point",93.60,82.70,122.50,124.80,126.50,119.10
+Asia,India,Delhi,93.20,71.80,104.30,110.00,108.10,110.80
+Asia,Thailand,Bangkok,91.90,86.90,68.30,67.00,69.30,68.80
+Asia,India,,91.10,180.10,264.90,284.40,266.10,285.20
+"North America",USA,"Los Angeles",87.30,90.00,90.10,91.30,91.30,96.00
+Europe,Sweden,Stockholm,84.50,72.20,83.30,85.40,76.80,76.60
+"North America",USA,"Fort Worth",84.00,78.60,86.70,92.50,94.70,93.90
+Asia,China,Foshan,82.00,31.30,16.00,17.90,17.00,16.80
+Asia,China,Ningde,77.60,61.40,40.60,45.30,52.00,55.30
+Asia,China,Ningbo,74.30,50.50,36.20,41.10,39.40,43.00
+"North America",Canada,Toronto,74.20,73.40,87.50,89.60,93.10,96.70
+Europe,Italy,Milan,73.20,53.70,47.60,50.20,49.10,51.30
+"North America",USA,Dallas,70.50,74.30,85.70,86.40,83.10,88.20
+"North America",USA,Chicago,69.70,80.85,84.20,88.20,90.40,98.50
+"North America",USA,Houston,68.20,69.90,77.10,78.90,81.20,92.30
+Europe,Spain,"La Coruna",65.40,84.20,108.80,111.80,124.00,114.90
+"North America",USA,"Palm Beach",63.50,62.20,71.60,76.10,81.10,86.70
+Europe,France,,63.10,53.30,55.90,56.70,54.70,53.50
+"North America",USA,Atherton,62.60,57.70,68.90,69.20,74.70,75.10
+Australia,Australia,Sydney,60.50,49.00,58.90,59.20,58.10,55.50
+"North America",USA,Wichita,60.00,NULL,NULL,NULL,NULL,NULL
+"North America",USA,Atlanta,57.70,61.20,77.00,78.30,77.80,74.90
+"North America",USA,Greenwich,57.00,54.10,54.00,53.00,53.70,50.50
+Asia,China,Guangzhou,56.90,45.10,32.40,36.30,37.30,51.10
+"South America",Brazil,"Sao Paulo",56.30,31.70,41.20,38.50,41.90,44.00
+"North America",USA,Jackson,56.10,69.70,76.50,79.50,80.20,80.50
+Asia,China,Chengdu,54.75,40.30,29.70,32.70,32.60,31.70
+Australia,Australia,Perth,53.50,52.20,37.60,37.50,38.00,37.80
+"North America",USA,Hillsboro,47.30,45.10,40.50,42.40,39.30,38.80
+Europe,Germany,Neckarsulm,47.10,42.90,46.10,38.70,37.40,36.30
+Europe,Switzerland,Geneva,46.80,32.30,32.90,33.50,38.10,38.20
+Asia,Indonesia,Kudus,45.50,47.30,50.70,50.60,50.80,48.10
+Europe,Monaco,"Monte Carlo",43.20,40.20,41.90,41.70,44.50,46.30
+"North America",USA,Woodside,42.60,32.40,31.40,32.20,33.00,33.20
+Asia,Indonesia,Jakarta,40.90,55.70,88.20,92.80,89.50,122.80
+Asia,Israel,"Tel Aviv",40.60,38.30,40.60,41.00,43.30,50.30
+Europe,France,Laval,39.90,37.40,43.30,43.90,42.80,41.30
+"North America",USA,"Las Vegas",39.90,13.60,13.90,14.00,10.60,13.50
+"North America",USA,"Beverly Hills",39.40,40.90,46.60,47.00,47.10,47.70
+Europe,Switzerland,Zurich,38.00,37.50,40.60,40.10,41.30,40.70
+"South America",Brazil,,37.70,46.80,55.30,59.40,60.00,59.00
+Europe,Switzerland,Schindellegi,37.30,39.10,33.40,43.10,39.10,40.00
+Europe,Germany,Hamburg,36.90,39.00,41.80,41.40,34.60,35.10
+Europe,Italy,Brussels,36.20,38.90,39.40,39.40,43.20,42.90
+Asia,India,Bangalore,36.20,30.10,34.80,35.00,33.40,36.10
+"South America",Chile,Santiago,35.70,36.40,36.30,35.00,37.20,38.50
+Asia,Philippines,Manila,34.70,36.70,38.70,40.20,41.30,40.30
+"North America",USA,"Oklahoma City",34.20,33.40,40.30,38.00,32.20,32.10
+Asia,Malaysia,"Kuala Lumpur",33.30,21.90,21.20,20.40,20.60,20.40
+Europe,Denmark,Billund,32.80,26.80,27.20,25.20,25.20,25.10
+Australia,Australia,Melbourne,32.50,29.70,29.50,28.30,29.00,29.60
+Asia,Turkey,Istanbul,32.30,45.80,36.20,35.70,41.10,46.00
+Asia,"United Arab Emirates",Dubai,32.10,34.00,30.10,30.10,34.50,37.80
+Asia,China,Changsha,32.00,32.00,21.40,25.00,23.50,25.70
+Europe,Austria,Vienna,32.00,29.00,29.50,29.90,32.10,32.00
+"North America",USA,"The Plains",31.70,38.30,39.80,38.60,38.50,39.20
+Asia,India,Pune,31.50,29.80,35.90,33.40,33.50,34.10
+"North America",Canada,Vancouver,30.80,28.50,30.90,30.70,28.30,27.60
+"North America",USA,Franklin,29.70,25.90,35.40,35.70,38.50,34.90
+"South America",Brazil,"Rio de Janeiro",29.50,25.40,27.50,27.90,29.20,28.40
+Asia,Taiwan,,28.90,26.00,23.30,26.00,27.50,27.90
+"North America",USA,"East Setauket",28.60,28.10,30.70,30.70,31.40,31.40
+Europe,Italy,,28.30,66.80,74.40,77.70,88.00,122.00
+Africa,Nigeria,Lagos,28.20,28.50,29.40,25.00,28.30,26.80
+Europe,"Czech Republic",Prague,27.60,30.60,30.20,30.00,30.90,30.70
+Asia,China,Quanzhou,27.40,19.90,16.40,17.40,18.20,18.80
+Europe,Austria,"Fuschl am See",27.40,NULL,NULL,NULL,NULL,NULL
+Europe,Switzerland,,26.70,74.30,72.80,72.00,80.00,92.60
+Asia,Japan,Osaka,26.00,22.60,22.70,23.00,22.80,22.30
+"North America",USA,"Newport Beach",25.90,27.30,34.30,35.10,35.30,35.00
+"North America",Canada,,25.60,23.00,23.60,23.60,24.80,27.90
+"North America",USA,Boston,25.00,28.00,25.80,26.70,29.30,28.70
+Australia,Australia,,24.80,20.70,47.70,45.30,45.80,46.30
+Asia,China,Wujiang,24.70,8.70,6.00,6.60,7.10,7.80
+"North America",Canada,Montreal,24.60,25.10,27.50,28.10,27.20,26.60
+"North America",USA,Naples,24.40,28.80,28.60,29.10,30.60,30.10
+Europe,Germany,"Bad Homburg",24.30,27.40,23.70,26.50,26.10,25.30
+Asia,Israel,,24.00,20.70,21.80,22.40,24.70,24.70
+Asia,China,Changzhou,23.90,21.00,12.00,13.60,12.50,12.30
+Europe,Germany,Tegernsee,23.80,23.00,19.20,19.40,19.60,19.20
+"North America",USA,Denver,23.80,17.20,17.90,17.90,19.10,19.20
+Asia,China,Lianyungang,23.70,16.10,12.60,14.70,16.40,16.60
+"North America",USA,"St. Louis",23.60,21.50,24.80,25.00,25.00,25.60
+Europe,Russia,,22.90,107.30,113.10,106.20,102.10,110.60
+"North America",USA,"Miami Beach",22.60,24.20,22.10,22.20,22.40,22.40
+Asia,China,Suzhou,22.20,18.80,7.40,9.30,8.90,9.10
+Europe,Spain,Madrid,21.40,25.00,28.30,28.70,29.30,29.40
+"North America",USA,Milton,21.20,21.60,28.40,29.50,29.00,28.60
+Europe,Germany,"Frankfurt am Main",20.70,24.60,24.80,27.40,26.90,27.90
+Asia,"South Korea",,20.40,12.70,9.00,10.30,16.30,16.10
+"North America",USA,Electra,19.70,21.40,25.30,25.50,26.20,26.10
+Europe,Germany,Kuenzelsau,19.00,29.70,28.50,33.60,33.10,34.80
+Asia,China,Chongqing,18.90,15.60,12.90,14.70,13.20,11.20
+Asia,Kazakhstan,Almaty,18.90,23.60,26.20,27.50,28.70,28.60
+Europe,Switzerland,Zug,18.20,16.20,18.20,18.10,19.40,19.10
+Europe,Switzerland,Lucerne,18.10,12.80,12.40,12.30,11.90,11.70
+"North America",USA,Miami,17.90,16.50,18.30,19.20,21.30,23.40
+Asia,India,Hisar,17.70,17.50,29.50,30.40,33.40,36.20
+"North America",USA,Cary,17.40,15.80,18.90,19.00,20.80,20.20
+Asia,China,Wenzhou,17.00,1.60,5.10,8.10,10.30,10.90
+"North America",USA,Phoenix,16.90,17.40,19.00,19.00,19.40,19.00
+Europe,Switzerland,Gstaad,16.70,17.80,18.00,18.00,20.70,21.80
+Europe,"Czech Republic",,16.60,20.50,20.60,20.50,24.20,24.00
+"North America",USA,"Indian Creek",16.50,17.50,6.00,6.60,5.50,7.30
+"North America",USA,Reno,16.50,10.90,20.60,20.50,18.30,17.20
+"North America",USA,"Grand Rapids",16.50,NULL,NULL,NULL,NULL,NULL
+Africa,Egypt,Cairo,16.20,17.10,18.30,18.20,18.40,18.60
+Europe,Monaco,Monaco,16.00,14.50,14.80,14.80,17.90,17.80
+Europe,Sweden,Gothenburg,15.90,12.10,15.10,15.60,14.90,14.10
+Asia,India,Hyderabad,15.70,12.10,15.90,16.30,16.30,18.60
+Asia,China,Baoding,15.50,14.50,9.80,11.30,11.00,12.40
+Asia,China,Xi'an,15.40,10.60,5.50,6.10,5.80,5.50
+Asia,China,Jiaxing,15.40,7.50,2.00,3.40,3.70,5.00
+Asia,Indonesia,,15.30,20.10,18.70,21.20,20.30,19.90
+Europe,UK,Gloucestershire,14.90,15.60,16.60,17.00,20.70,20.50
+Europe,Germany,Munich,14.90,13.70,15.00,15.40,16.60,19.70
+Asia,China,Yuxi,14.90,2.90,1.10,1.20,1.10,1.10
+Asia,China,Yinchuan,14.80,12.20,13.30,14.60,13.80,13.90
+"North America",Mexico,,14.80,16.50,15.80,21.50,20.50,35.40
+"North America",USA,"San Jose",14.60,15.50,6.90,6.40,6.30,10.50
+Europe,Norway,Oslo,13.70,14.80,15.10,15.10,15.90,15.60
+Europe,Denmark,Aarhus,13.60,7.30,6.80,6.80,12.50,12.30
+"North America",USA,Tulsa,13.40,13.30,14.40,14.50,14.80,14.80
+Europe,Netherlands,Amsterdam,13.40,12.10,13.20,14.10,14.20,13.10
+Europe,Switzerland,"Crans Montana",13.20,6.50,6.60,6.60,6.60,6.50
+Europe,Germany,Heidelberg,13.10,14.10,16.60,18.10,18.40,17.80
+"North America",USA,"Incline Village",12.90,10.20,15.70,15.70,14.50,13.20
+"North America",USA,Brookline,12.30,13.50,14.20,14.80,15.00,14.80
+Asia,China,Hefei,12.30,13.90,6.60,7.20,9.20,9.20
+Europe,Germany,Bruchsal,12.10,3.90,7.40,7.40,7.30,7.30
+"North America",USA,Haverford,12.00,28.50,28.90,28.90,27.60,27.60
+Africa,"South Africa",Johannesburg,12.00,11.10,12.10,11.90,12.00,12.20
+Asia,India,Kolkata,12.00,9.40,11.40,10.40,10.30,11.70
+Europe,Switzerland,Basel,12.00,9.50,10.00,10.10,10.50,9.80
+"North America",USA,"Boca Raton",11.90,13.20,14.70,14.70,14.70,16.10
+"North America",USA,"Delray Beach",11.90,11.60,10.30,10.30,11.00,10.80
+Asia,Vietnam,Hanoi,11.70,7.60,8.20,8.90,8.90,8.30
+Europe,Germany,Melsungen,11.50,10.00,14.00,14.00,14.00,13.60
+"North America",USA,"Bryn Mawr",11.40,14.80,15.20,15.20,15.20,15.20
+Asia,China,Xingtai,11.30,9.60,3.70,4.10,3.80,3.10
+"North America",USA,Honolulu,11.30,8.80,6.40,6.30,6.50,6.50
+"North America",USA,Newton,11.30,10.80,11.90,12.00,11.70,11.10
+Africa,"South Africa","Cape Town",11.20,13.50,13.80,14.40,13.90,13.20
+"North America",USA,Bloomington,11.10,10.20,10.30,10.50,10.60,10.20
+"North America",USA,"Saint Petersburg",11.00,10.80,10.60,11.00,11.40,10.40
+Asia,China,Xiamen,11.00,13.30,4.40,5.60,4.50,8.30
+Europe,UK,Stoke-on-Trent,10.80,12.80,14.20,14.70,16.80,15.60
+Asia,China,Wuxi,10.80,10.00,4.30,4.80,4.90,4.80
+Asia,India,Chennai,10.80,10.30,11.90,13.70,14.50,14.30
+"North America",USA,Afton,10.70,13.70,22.10,23.10,20.90,20.90
+"North America",USA,Philadelphia,10.70,12.50,13.60,13.30,13.30,13.20
+Europe,Germany,Berlin,10.70,8.40,9.40,8.70,8.50,8.40
+Europe,Switzerland,"Wilen bei Wollerau",10.60,10.00,9.90,9.60,10.30,10.40
+Europe,France,Lyon,10.60,7.90,6.60,6.60,6.60,6.50
+Australia,"New Zealand",Auckland,10.50,8.60,9.50,10.60,10.50,10.60
+Asia,China,Fuzhou,10.40,5.40,2.70,5.90,5.60,6.00
+"North America",USA,Lexington,10.20,8.70,8.80,8.90,9.20,8.60
+Europe,Germany,Herzogenaurach,10.10,12.80,12.70,15.20,13.10,12.00
+"South America",Colombia,Bogota,9.90,6.40,7.50,7.30,7.20,7.40
+"North America",USA,Racine,9.90,14.40,14.70,14.80,14.80,14.80
+Europe,Germany,Bielefeld,9.90,11.70,11.70,6.60,6.60,6.60
+Europe,UK,Surrey,9.80,8.90,8.60,9.10,7.20,7.00
+Europe,UK,Newmarket,9.80,8.90,8.60,9.10,7.20,7.00
+"North America",USA,Potomac,9.80,10.40,8.80,9.00,9.30,9.20
+"North America",USA,Springfield,9.60,11.90,12.40,13.00,13.00,13.00
+Asia,Philippines,,9.50,3.70,3.70,6.10,5.90,5.70
+Asia,China,Binzhou,9.40,8.40,6.90,7.30,9.40,11.00
+Europe,Switzerland,Ruschlikon,9.10,9.00,8.40,7.80,9.30,11.30
+"North America",USA,"Bal Harbour",9.00,8.60,11.10,11.00,11.40,12.30
+Europe,Sweden,,9.00,5.30,4.50,5.90,6.90,14.90
+Europe,Germany,Haiger,8.90,9.70,9.80,10.50,10.50,10.40
+"North America",USA,"Hobe Sound",8.90,8.90,11.00,11.00,11.00,11.00
+"North America",USA,Missoula,8.90,8.40,9.10,9.10,9.00,9.10
+"North America",USA,Kohler,8.80,NULL,NULL,NULL,NULL,NULL
+Asia,China,Dongguan,8.70,3.90,NULL,NULL,1.20,1.30
+"North America",USA,Katonah,8.60,6.70,6.70,6.70,6.70,6.70
+Europe,Switzerland,"St. Gallen",8.50,8.60,9.10,8.90,8.90,8.70
+"North America",USA,"Portola Valley",8.50,6.30,9.20,9.40,9.40,9.40
+Europe,Italy,Treviso,8.50,8.90,9.60,9.50,10.00,9.60
+"North America",USA,"Santa Barbara",8.40,7.40,8.10,8.30,8.30,8.10
+Asia,China,Huizhou,8.40,6.90,2.30,2.90,3.00,2.70
+"North America",Canada,Ottawa,8.40,7.60,10.80,10.30,10.70,10.10
+Europe,Ireland,Dublin,8.40,7.30,7.40,7.70,8.20,8.00
+Asia,China,Tianjin,8.40,4.30,4.30,3.50,3.30,3.30
+Europe,Finland,Helsinki,8.30,9.90,10.30,10.40,10.80,11.10
+"North America",USA,"Chevy Chase",8.20,4.00,NULL,NULL,NULL,NULL
+"North America",USA,Henderson,8.10,7.90,9.60,9.90,10.10,10.00
+"North America",Canada,"Saint John",8.10,11.20,11.80,11.80,11.90,12.20
+Europe,Germany,Ulm,8.10,8.40,9.80,12.40,12.90,12.30
+"North America",USA,Winnetka,8.00,8.00,9.10,10.40,10.90,9.90
+"North America",USA,Irvine,8.00,9.90,12.20,12.50,10.20,9.70
+Asia,China,Shaoxing,8.00,8.30,7.60,8.50,8.20,8.20
+"North America",USA,Alexandria,7.90,9.60,10.00,9.70,9.60,9.80
+Australia,Australia,"New South Wales",7.80,8.40,6.70,6.10,6.10,5.80
+Asia,Japan,,7.80,13.80,12.00,13.50,13.80,9.50
+"South America",Peru,Lima,7.80,2.50,2.50,2.70,1.00,1.10
+Europe,Switzerland,Verbier,7.70,8.10,8.10,8.10,9.30,9.30
+Europe,Switzerland,Lausanne,7.70,7.10,7.50,7.60,7.50,7.50
+Europe,Spain,Valencia,7.70,7.00,10.50,10.60,10.50,10.30
+Asia,Malaysia,,7.70,11.40,13.10,13.00,12.80,12.80
+Europe,Switzerland,Feldmeilen,7.60,6.70,6.70,6.30,6.80,7.00
+"North America",USA,Elizabeth,7.40,9.20,10.00,9.90,9.80,9.60
+Europe,Italy,Rome,7.30,7.20,8.00,8.10,8.60,8.40
+Europe,Denmark,Humlebaek,7.20,5.80,5.90,6.80,7.00,6.30
+"North America","Cayman Islands","Grand Cayman",7.20,7.00,6.90,6.90,7.00,7.00
+"North America",USA,Wilson,7.10,6.90,6.70,6.70,6.80,6.80
+"North America",USA,"Highland Park",7.10,7.00,3.70,3.70,3.80,3.60
+"North America",USA,Madison,7.00,7.10,7.20,7.90,7.40,7.10
+"North America",USA,"Oyster Bay",7.00,6.20,6.40,6.50,6.20,6.10
+"North America",USA,Adel,6.90,7.40,7.90,7.80,9.70,10.80
+Asia,China,Weifang,6.90,4.50,3.80,4.10,4.00,3.90
+"North America",USA,Portage,6.80,6.90,7.90,8.10,8.20,7.80
+"South America",Argentina,"Buenos Aires",6.70,4.80,6.90,6.40,7.40,7.20
+Europe,Austria,,6.60,42.90,42.10,42.00,42.00,41.70
+Europe,Russia,Magnitogorsk,6.60,10.20,10.50,10.50,10.60,10.60
+Europe,Switzerland,Martigny,6.60,9.80,13.60,15.50,15.80,14.90
+"North America",USA,Darien,6.60,5.90,5.90,5.90,7.20,7.20
+"North America",USA,"Bloomfield Hills",6.60,7.20,10.00,9.40,12.30,11.20
+Europe,Switzerland,Zermatt,6.60,4.30,4.20,4.20,5.80,5.50
+Asia,Vietnam,"Ho Chi Minh City",6.60,2.80,1.50,2.30,2.30,5.00
+"North America",USA,Rye,6.60,NULL,NULL,NULL,NULL,NULL
+"North America",USA,Millburn,6.50,6.80,7.30,7.30,7.30,7.30
+"North America",USA,Windermere,6.50,6.80,7.30,7.30,7.30,7.30
+"North America",USA,"Newport Coast",6.50,6.60,NULL,NULL,NULL,NULL
+"North America",USA,McLean,6.50,4.40,1.50,1.50,2.40,2.40
+Asia,China,Shangyu,6.50,7.20,2.50,3.90,4.90,4.80
+"North America",USA,Redlands,6.40,7.00,9.50,9.60,8.10,7.70
+Asia,China,Wuhan,6.40,6.50,3.60,5.30,4.60,4.70
+Asia,Lebanon,Beirut,6.40,5.60,5.20,5.10,5.60,5.60
+"South America",Brazil,Fortaleza,6.40,NULL,1.20,1.20,2.20,2.20
+Asia,China,Qingdao,6.30,4.90,4.30,4.70,4.90,7.20
+"North America",USA,Venice,6.30,2.50,3.70,2.60,2.60,3.30
+Europe,Poland,Kielce,6.20,6.20,6.80,6.80,6.80,6.80
+"North America",USA,"Saddle River",6.10,7.80,7.90,6.80,8.00,7.50
+"North America",USA,"San Anselmo",6.10,5.00,5.20,5.50,5.70,5.50
+"North America",USA,Knoxville,6.10,7.30,14.30,14.30,13.10,13.10
+Europe,Turkey,Ankara,6.10,6.30,6.60,6.60,6.50,6.50
+"North America",USA,"Sugar Land",6.00,5.40,6.10,6.30,6.00,6.10
+"North America",USA,Millersville,5.90,6.40,7.20,7.10,7.20,7.00
+Asia,China,Nanjing,5.90,2.90,1.30,3.80,3.40,3.60
+"North America",USA,"New Albany",5.80,6.00,6.00,6.00,6.00,6.00
+"North America",USA,"Sands Point",5.80,5.60,8.10,8.70,8.80,8.30
+"North America",USA,Branford,5.80,5.60,6.20,6.20,6.10,6.00
+Europe,Germany,Passau,5.80,5.40,5.40,5.60,5.60,5.60
+Europe,France,Nantes,5.80,4.30,3.70,3.90,4.20,4.00
+Europe,Germany,Aurich,5.80,NULL,NULL,NULL,NULL,NULL
+Europe,Norway,Trondheim,5.70,4.50,4.80,4.80,4.70,4.40
+Asia,Taiwan,Hsinchu,5.70,4.70,5.50,6.40,6.80,6.30
+Australia,Australia,Brisbane,5.70,5.30,7.80,7.70,7.70,9.40
+"North America",USA,"Rolling Hills",5.60,6.70,12.20,12.50,10.20,9.70
+Europe,Germany,Visbek,5.60,5.30,5.40,5.40,5.70,5.70
+"North America",USA,"Paradise Valley",5.60,5.10,7.50,6.40,6.40,6.30
+"North America",USA,Bethesda,5.60,5.30,6.60,6.70,7.00,8.70
+"North America",USA,"Laguna Beach",5.60,6.10,6.20,6.40,6.70,6.50
+"North America",USA,Malibu,5.50,7.20,7.40,7.40,7.40,7.40
+"North America",USA,"Rancho Santa Fe",5.50,4.30,4.60,4.60,4.60,5.00
+Europe,Germany,Dusseldorf,5.50,4.50,5.20,3.30,3.30,3.20
+Europe,Italy,Fiesole,5.40,6.70,7.30,7.40,7.50,7.40
+Europe,UK,Albany,5.40,6.00,6.20,6.10,6.20,6.30
+Europe,Italy,Modena,5.40,5.50,8.80,9.60,9.90,9.50
+Asia,"United Arab Emirates","Abu Dhabi",5.40,5.30,7.60,7.60,7.60,7.40
+Europe,Norway,Vettre,5.40,5.10,4.70,4.50,4.60,4.50
+"South America",Argentina,,5.40,6.20,8.80,7.80,7.80,7.50
+Asia,China,Fushun,5.40,4.60,3.90,3.90,3.80,3.80
+Asia,Japan,Kyoto,5.40,3.70,2.80,2.80,3.00,3.50
+"North America",Canada,Windsor,5.40,5.70,5.70,5.70,5.50,5.50
+"North America",USA,Camas,5.30,6.70,8.10,8.50,8.70,8.50
+Africa,Eswatini,Ezulwini,5.30,6.50,6.10,6.10,7.10,6.90
+Europe,UK,"Isle of Man",5.30,5.20,5.20,5.20,5.60,5.60
+Europe,Germany,Mainz,5.30,5.00,3.60,3.60,3.70,3.60
+Europe,Switzerland,Binningen,5.30,4.90,5.80,5.90,6.10,5.60
+Europe,Germany,Walldorf,5.30,4.50,4.60,5.00,5.00,4.80
+Europe,Switzerland,Liestal,5.30,4.40,3.30,3.80,4.50,4.20
+Asia,China,Zhengzhou,5.30,5.20,5.00,5.20,3.00,3.00
+Asia,Malaysia,Tawau,5.30,1.70,1.40,1.50,1.50,1.50
+"North America",USA,Palisades,5.20,5.50,4.40,4.10,4.00,3.90
+"North America",USA,"East Hampton",5.20,5.50,4.40,4.10,4.00,3.90
+"North America",USA,Southampton,5.20,5.50,4.40,4.10,4.00,3.90
+Asia,Malaysia,"Petaling Jaya",5.20,4.00,3.60,3.60,3.70,4.10
+"North America",USA,"Santa Clara",5.20,3.40,4.10,4.40,4.10,4.00
+Asia,China,Xinyu,5.20,3.20,1.60,1.90,1.70,1.60
+Europe,Switzerland,Lugano,5.20,4.90,5.60,2.80,2.60,2.40
+"North America",USA,"San Antonio",5.20,3.50,3.50,3.50,3.90,5.00
+Europe,France,Lille,5.10,5.00,5.90,6.10,4.90,5.20
+Africa,Algeria,Algiers,5.10,4.60,2.50,2.50,2.50,2.50
+"North America",USA,"North Palm Beach",5.00,5.70,6.20,6.20,6.20,6.20
+"North America",USA,Livingston,5.00,3.90,NULL,NULL,NULL,NULL
+"North America",USA,Birchwood,5.00,3.90,NULL,NULL,NULL,4.60
+"North America",USA,Bozeman,5.00,3.90,4.20,4.20,4.20,4.60
+"North America",USA,Clearwater,5.00,4.80,6.70,7.20,6.90,6.70
+Europe,Russia,Kazan,5.00,5.40,8.60,8.60,9.00,9.00
+Europe,Switzerland,Jona,4.90,5.70,6.50,6.80,7.00,6.80
+"North America",USA,Islamorada,4.90,5.20,NULL,NULL,NULL,NULL
+"North America",USA,Pleasanton,4.90,5.00,7.00,6.90,6.90,6.30
+Asia,Georgia,Tbilisi,4.80,4.90,4.90,4.90,4.90,4.90
+"South America",Brazil,Brusque,4.80,3.20,3.30,3.30,2.30,2.30
+"North America",USA,"Lighthouse Point",4.70,6.90,7.70,7.70,7.70,7.70
+Europe,Portugal,Grijo,4.70,4.70,5.30,5.70,5.80,6.50
+"North America",USA,Fayetteville,4.70,4.30,5.00,5.00,4.80,4.30
+"North America","British Virgin Islands","Necker Island",4.70,3.40,2.90,2.90,2.00,2.60
+Europe,Spain,Barcelona,4.70,2.90,3.80,4.00,3.90,4.20
+Europe,Poland,Warsaw,4.70,3.90,2.00,2.00,2.00,2.90
+Europe,Romania,,4.70,5.20,5.20,5.20,5.70,5.70
+"North America",USA,Leawood,4.60,4.20,4.80,5.20,5.40,6.70
+Asia,China,Zhongshan,4.60,2.50,NULL,NULL,NULL,NULL
+"North America",USA,Cleveland,4.60,4.50,4.60,4.60,4.70,4.70
+Asia,China,Langfang,4.50,6.30,6.40,6.90,7.10,6.70
+Europe,UK,Hertfordshire,4.50,4.80,5.20,5.20,5.20,5.20
+"North America",Canada,Edmonton,4.50,4.30,4.40,4.40,NULL,5.00
+"North America",USA,"Steamboat Springs",4.50,3.90,6.00,6.30,6.50,6.40
+"North America",USA,"Little Jackson Hole",4.50,3.40,3.60,3.80,4.00,4.10
+Europe,Norway,Kverva,4.50,2.70,3.70,4.10,4.10,4.00
+Europe,Ukraine,Kiev,4.50,5.80,5.80,5.70,4.30,4.30
+"North America",USA,"Bingham Farms",4.40,4.30,4.00,4.00,4.00,4.00
+Europe,UK,Bristol,4.40,2.40,3.70,3.90,4.00,4.00
+Europe,Spain,,4.40,5.60,7.50,8.80,9.10,8.90
+Asia,China,Changshu,4.30,5.20,4.40,4.70,4.70,5.20
+"North America",USA,"Oak Brook",4.30,5.20,5.90,5.80,5.60,5.60
+"North America",USA,"San Diego",4.30,5.60,4.70,4.60,4.80,4.70
+Europe,Finland,Kirkkonummi,4.30,4.10,4.10,4.00,4.00,4.20
+"North America",USA,"Bonita Springs",4.30,3.70,3.80,3.90,4.10,4.00
+Europe,Ukraine,Donetsk,4.20,5.70,5.70,5.70,4.00,4.00
+Europe,Germany,Koenigstein,4.20,4.80,3.60,NULL,NULL,NULL
+"North America",USA,Glendora,4.20,4.20,6.70,6.70,6.70,6.70
+Europe,Switzerland,Weiningen,4.20,4.10,3.90,3.90,3.90,3.80
+"North America",USA,Nashville,4.20,3.80,4.40,4.50,4.40,4.80
+"North America",USA,"Menlo Park",4.20,3.70,4.60,4.60,4.90,4.80
+Asia,China,Changchun,4.20,1.80,3.90,4.10,2.80,2.90
+"North America",USA,Croton-on-Hudson,4.10,4.70,4.90,5.40,5.40,5.40
+"North America",USA,Glencoe,4.10,4.20,4.30,4.30,3.90,3.90
+"North America",USA,Youngstown,4.00,5.10,5.80,5.80,5.80,5.80
+"North America",USA,"Coral Gables",4.00,4.30,4.90,5.00,5.00,6.50
+Europe,Poland,Konstancin,4.00,4.00,4.40,4.40,4.40,4.30
+Asia,Japan,Hokkaido,4.00,3.30,3.80,4.20,4.40,3.90
+Europe,Germany,Espelkamp,4.00,2.40,2.50,2.50,2.50,2.50
+"North America",USA,Hattiesburg,4.00,4.60,6.00,6.00,6.00,6.00
+Europe,Bulgaria,,4.00,4.20,4.20,4.20,4.20,4.20
+"North America",USA,"Port Washington",3.90,7.00,6.40,6.30,6.30,6.50
+"North America",USA,"New Orleans",3.80,4.70,6.10,6.10,6.10,6.10
+Asia,Israel,Netanya,3.80,3.70,4.30,4.50,4.50,4.10
+Europe,Switzerland,Davos,3.80,3.50,3.10,3.10,4.90,5.30
+"North America",USA,"Sag Harbor",3.80,3.30,3.10,3.20,3.20,3.00
+Europe,Germany,Rechterfeld,3.80,2.30,2.30,2.30,3.40,3.40
+Asia,China,Tonghua,3.80,2.60,1.10,2.10,2.10,2.10
+"North America",USA,"Pacific Palisades",3.70,4.00,4.80,4.80,4.80,4.80
+"North America",USA,"Coconut Grove",3.70,3.70,4.50,4.60,4.90,4.30
+"North America",USA,"Santa Cruz",3.70,3.10,4.10,4.30,4.40,4.00
+Europe,Germany,Brunswick,3.70,3.00,4.70,4.70,4.70,4.60
+Asia,China,Jinjiang,3.70,3.40,2.90,2.80,2.90,2.90
+Europe,Italy,Torino,3.70,NULL,NULL,NULL,NULL,NULL
+"North America",Belize,,3.60,3.90,2.50,4.80,5.00,4.80
+"North America",USA,"Short Hills",3.60,3.60,4.20,4.30,4.30,4.40
+Asia,China,Daye,3.60,3.20,2.80,1.90,1.90,1.90
+Asia,China,Fuqing,3.60,3.10,3.30,3.60,3.50,3.90
+Europe,Switzerland,Wilen,3.60,3.10,3.30,3.10,3.10,3.00
+Europe,Switzerland,"Kanton Schwyz",3.60,3.10,3.00,2.80,3.30,3.40
+Europe,Spain,Esporles,3.60,2.70,3.40,2.10,2.10,2.00
+"North America",USA,"Chestnut Hill",3.60,3.40,2.70,2.70,2.80,2.80
+"North America",USA,"Indian Hills",3.60,1.90,2.10,2.00,2.10,2.30
+"South America",Spain,"A Coruña",3.50,4.30,4.40,4.40,4.40,4.40
+"North America",USA,Coatesville,3.50,4.10,3.80,3.70,3.80,3.90
+"North America",USA,Carmel,3.50,3.90,4.30,4.30,4.40,4.40
+"North America",Bermuda,Bermuda,3.50,4.60,4.90,4.80,4.80,4.80
+"North America",USA,Indianapolis,3.50,3.40,4.70,4.80,4.90,4.70
+Europe,Italy,"Bassano del Grappa",3.50,3.10,3.50,3.60,3.60,3.70
+Europe,Italy,Bergamo,3.50,4.00,3.60,3.60,4.20,1.50
+"North America",USA,Ventura,3.50,2.30,3.40,3.40,3.40,3.40
+"North America",USA,Wynnewood,3.50,NULL,NULL,NULL,NULL,NULL
+"North America",USA,Redding,3.40,5.50,5.40,5.40,5.40,5.40
+"North America",USA,"Marina Del Rey",3.40,4.30,3.80,3.80,3.80,3.80
+"North America",USA,Plantation,3.40,4.10,4.10,4.50,4.20,4.00
+"North America",USA,Scottsdale,3.40,3.40,3.60,3.60,3.60,3.60
+Europe,France,Montpellier,3.40,3.30,2.60,2.60,3.30,3.30
+"North America",USA,"Sioux Falls",3.40,2.00,2.10,2.10,2.10,2.10
+Asia,China,Tongxiang,3.40,2.30,NULL,NULL,NULL,NULL
+Europe,Germany,Rheda-Wiedenbruck,3.40,2.60,2.20,2.20,2.20,2.20
+Europe,Poland,"Krotoszyn,",3.30,4.80,6.00,6.00,5.00,5.00
+"North America",USA,"Virginia Beach",3.30,4.80,4.90,4.90,4.90,5.00
+Europe,Germany,Stuttgart,3.30,3.40,3.40,3.40,4.30,4.20
+"South America",Brazil,"Sao Jose dos Pinhais",3.30,3.10,3.30,5.70,5.60,5.50
+Europe,Germany,Montabaur,3.30,2.10,2.70,2.50,2.40,2.60
+Asia,China,Yantai,3.30,4.50,2.00,4.00,4.00,4.10
+Asia,Qatar,Doha,3.30,3.00,3.10,3.00,3.70,3.70
+Asia,China,Zhuzhou,3.30,1.70,NULL,NULL,NULL,NULL
+Africa,Morocco,Casablanca,3.30,2.80,3.00,3.00,3.00,3.00
+Asia,China,Xinxiang,3.30,NULL,2.30,2.50,2.50,2.50
+Asia,China,Suqian,3.30,NULL,2.20,2.30,2.20,2.20
+"North America",USA,Erie,3.20,4.20,6.40,7.40,7.30,7.00
+"North America",USA,"Salt Lake City",3.20,4.00,3.90,3.90,3.90,3.90
+"North America",Canada,Oakville,3.20,3.30,5.20,5.20,5.40,5.30
+Europe,Russia,Krasnodar,3.20,3.20,3.20,3.20,3.30,3.30
+"North America",USA,"Park City",3.20,2.00,2.90,3.40,3.40,3.10
+Europe,Switzerland,Küsnacht,3.10,3.30,3.40,3.40,3.40,3.30
+"North America",USA,"Fort Collins",3.10,3.20,3.80,3.90,3.90,3.70
+"North America",Canada,"North York",3.10,2.40,2.40,2.30,2.70,2.70
+Asia,Israel,Herzliya,3.10,2.70,2.90,3.00,3.10,2.90
+Asia,China,Hengshui,3.10,1.40,1.60,1.60,1.70,1.70
+Europe,Italy,Como,3.00,3.50,3.40,3.80,4.00,3.80
+Europe,Germany,Ohningen,3.00,2.90,2.90,2.70,2.70,2.70
+Europe,Germany,Leipzig,3.00,2.90,2.90,2.70,2.70,2.70
+"North America",USA,Provo,3.00,3.00,3.50,3.50,3.60,3.60
+"North America",USA,Springdale,3.00,NULL,NULL,NULL,NULL,NULL
+"South America",Uruguay,,3.00,NULL,2.20,2.20,2.00,1.00
+"North America",USA,"East Aurora",2.90,4.10,NULL,NULL,NULL,NULL
+"North America",USA,Birmingham,2.90,3.20,3.90,4.00,4.10,3.80
+"North America",USA,"Little Rock",2.90,3.20,3.20,3.20,3.20,3.20
+"North America",USA,"Idaho Falls",2.90,3.10,3.30,3.30,3.30,3.40
+Asia,China,Taixing,2.90,2.90,2.90,3.50,3.50,3.80
+Asia,China,Jiangyin,2.90,2.90,3.60,3.90,4.00,4.00
+Europe,Switzerland,Rheinfelden,2.90,2.60,2.60,2.40,2.70,2.80
+Asia,Vietnam,,2.90,2.20,2.40,2.80,2.80,NULL
+Asia,Japan,Fukuoka,2.90,1.90,2.30,2.10,3.60,3.40
+Asia,China,Putian,2.80,4.10,1.60,1.90,1.50,1.60
+Asia,Thailand,,2.80,13.80,13.10,13.10,12.20,12.30
+Europe,UK,Merseyside,2.80,3.70,4.40,4.60,4.00,4.20
+Asia,China,Yingkou,2.80,2.80,2.70,2.70,2.40,2.40
+Asia,Kazakhstan,Astana,2.80,2.70,2.70,2.70,2.70,2.70
+Europe,Netherlands,Vorden,2.80,2.60,2.50,2.50,2.70,NULL
+"North America",USA,Nicasio,2.80,2.60,1.60,1.60,1.60,1.60
+"North America",USA,Scarborough,2.80,2.50,3.00,3.10,3.20,3.00
+"North America",USA,Weston,2.80,2.50,3.00,3.10,3.20,3.00
+"North America",USA,"San Juan Islands",2.80,2.20,2.30,2.30,1.30,1.30
+Europe,Ireland,Kingscourt,2.80,2.10,2.40,2.70,2.70,2.70
+"North America",USA,Rhinebeck,2.80,2.00,1.10,1.10,1.10,1.10
+Europe,Ireland,,2.70,9.60,11.60,12.20,11.90,11.90
+"North America",USA,Brownsville,2.70,3.30,3.10,3.20,3.20,3.00
+Europe,Italy,"Ponzano Veneto",2.70,3.20,3.30,3.30,3.30,3.20
+"North America",USA,"The Woodlands",2.70,3.00,3.20,3.20,3.20,3.20
+"North America",USA,Tampa,2.70,3.00,NULL,NULL,NULL,NULL
+Europe,UK,,2.60,22.50,33.10,32.20,32.30,32.00
+Asia,Cambodia,"Phnom Penh",2.60,2.80,NULL,NULL,NULL,NULL
+Europe,Germany,Duderstadt,2.60,2.60,2.80,2.80,2.80,2.70
+Asia,China,Yanzhou,2.60,2.50,2.40,2.80,2.80,3.00
+"North America",USA,Montecito,2.60,2.50,2.80,2.80,2.80,3.00
+"North America",USA,"Marin County",2.60,2.40,2.60,2.60,2.60,2.60
+"North America",USA,"Ormond Beach",2.60,2.20,3.10,3.30,3.40,3.20
+Asia,India,Gurgaon,2.60,2.10,2.90,2.80,2.90,3.10
+"North America",USA,Cisco,2.60,3.10,2.80,2.80,4.10,3.90
+"North America",USA,Aspen,2.60,2.50,2.80,2.90,3.00,2.90
+Asia,China,Linhai,2.60,1.10,NULL,NULL,NULL,NULL
+"South America",Brazil,Curitiba,2.60,NULL,NULL,NULL,NULL,1.40
+Europe,Denmark,Copenhagen,2.60,NULL,NULL,NULL,NULL,NULL
+Asia,Oman,Muscat,2.50,2.70,1.80,2.00,2.10,1.80
+"North America",USA,Mankato,2.50,2.70,3.00,2.90,2.90,2.90
+Europe,Switzerland,Burgdorf,2.50,2.50,4.00,4.50,4.40,4.10
+"North America",USA,Berkeley,2.50,2.40,2.70,2.70,2.90,2.90
+Europe,Guernsey,"St. Peter Port",2.50,2.30,2.40,2.50,2.50,2.50
+"North America",USA,Edmond,2.50,2.20,1.70,1.60,1.70,1.70
+"North America",USA,Jacksonville,2.50,1.20,3.20,3.60,3.90,3.40
+Europe,Germany,"Neustadt an der Waldnaab",2.40,2.50,2.50,2.70,2.70,2.70
+"South America",Brazil,Manaus,2.40,2.30,2.80,2.80,2.80,2.70
+Europe,UK,Norwich,2.40,2.10,1.70,1.70,2.30,2.50
+"North America",USA,"Old Lyme",2.40,1.90,2.00,2.00,2.00,2.20
+Europe,Switzerland,Wollerau,2.40,1.90,2.20,2.30,2.30,2.30
+Asia,China,Yangzhou,2.40,1.60,1.00,1.20,1.10,1.10
+Asia,Taiwan,Taichung,2.40,2.60,2.50,3.00,2.80,2.50
+"North America",USA,Sarasota,2.30,2.90,2.70,2.70,2.70,2.70
+"North America",USA,Pittsburgh,2.30,2.70,3.00,3.00,2.90,3.00
+"North America",Canada,Westmount,2.30,2.50,3.20,3.20,3.10,2.90
+"North America",USA,Portland,2.30,2.30,2.20,2.30,2.20,2.20
+"North America",USA,Brookville,2.30,2.30,NULL,NULL,NULL,NULL
+Europe,Switzerland,Hurden,2.30,2.30,2.30,2.10,2.10,2.10
+Europe,Liechtenstein,Vaduz,2.30,2.30,2.40,1.50,1.50,1.50
+Europe,Germany,Weinheim,2.30,2.20,2.40,2.40,2.40,2.40
+Asia,India,"New Delhi",2.30,2.10,2.20,2.20,2.10,2.10
+Asia,China,Chaozhou,2.30,2.00,1.40,1.60,1.60,1.80
+Europe,Netherlands,Gorinchem,2.30,1.70,2.00,2.20,2.10,2.00
+"North America",USA,"La Jolla",2.30,1.70,1.70,1.70,NULL,NULL
+Europe,Sweden,Bastad,2.30,NULL,NULL,NULL,NULL,NULL
+"North America",USA,Larchmont,2.20,3.30,3.00,3.00,3.00,3.00
+"North America",USA,Providence,2.20,3.10,3.40,3.40,3.40,3.40
+Australia,Bahamas,"Paradise Island",2.20,2.20,2.00,2.30,2.20,2.20
+Europe,Germany,Krefeld,2.20,2.10,2.10,1.70,1.70,1.70
+"North America","Turks and Caicos Islands","Turks and Caicos Islands",2.20,2.00,2.00,2.00,2.00,2.00
+Australia,Australia,Whistler,2.20,2.00,2.10,2.00,2.00,2.00
+Asia,China,Linyi,2.20,2.00,1.90,1.60,1.60,1.60
+"North America",USA,Ypsilanti,2.20,2.00,2.00,2.00,2.90,2.90
+"North America",USA,Saratoga,2.10,2.30,3.60,3.60,3.80,3.40
+"North America",USA,"El Cerrito",2.10,2.20,1.50,1.50,2.50,2.00
+Australia,Australia,"Surfers Paradise",2.10,2.10,2.20,2.20,2.30,2.30
+Europe,UK,Durham,2.10,2.10,2.20,2.30,2.40,2.30
+Asia,Indonesia,Surabaya,2.10,1.90,2.10,2.10,2.10,2.00
+Europe,Italy,Turin,2.10,1.70,1.70,1.70,2.60,2.60
+Asia,China,Xianyang,2.10,1.60,NULL,NULL,NULL,NULL
+"North America",USA,Belvedere,2.10,1.20,1.30,1.40,1.80,1.30
+Europe,UK,Leicester,2.10,NULL,NULL,NULL,NULL,NULL
+Europe,Italy,Solomeo,2.00,3.20,3.70,4.40,4.20,3.80
+"North America",USA,"Lake Worth",2.00,2.60,2.60,2.60,2.60,2.60
+Europe,Germany,Darmstadt,2.00,2.00,2.40,2.40,2.40,2.40
+Asia,Taiwan,Tainan,2.00,1.90,NULL,NULL,NULL,NULL
+"North America",USA,Cupertino,2.00,1.80,1.90,2.10,2.00,2.00
+Asia,China,Yixing,2.00,1.80,1.20,1.60,1.80,2.00
+"North America",Canada,Burlington,2.00,1.40,1.30,1.40,1.30,1.30
+Europe,Russia,"Verkhniaya Pyshma",1.90,4.30,4.10,4.20,4.40,4.40
+Asia,India,Haridwar,1.90,3.40,3.30,3.80,3.80,3.70
+"North America",USA,"North Salem",1.90,1.90,1.90,1.90,2.10,2.10
+"North America",USA,Monsey,1.90,1.90,1.90,1.90,2.00,2.00
+"North America",USA,Alpine,1.90,1.90,1.90,1.90,2.20,2.20
+"South America",Uruguay,Manantiales,1.90,1.80,2.00,2.00,4.90,5.10
+Europe,Germany,Allendorf,1.90,1.80,1.80,2.40,2.50,2.50
+Asia,China,Lanzhou,1.90,1.70,1.30,1.50,1.50,1.50
+Asia,Japan,Chiba,1.90,1.70,1.60,1.40,1.40,1.40
+Asia,Taiwan,Yunlin,1.90,1.70,1.90,1.80,1.70,1.70
+Europe,Italy,Spilamberto,1.90,1.50,1.50,1.50,1.50,1.40
+Europe,UK,Aberdyfi,1.90,1.40,1.50,1.50,1.50,1.50
+Asia,China,Urumchi,1.90,1.20,NULL,NULL,NULL,NULL
+Asia,"South Korea",Anyang,1.90,NULL,NULL,NULL,NULL,NULL
+Europe,Russia,Yekaterinburg,1.80,5.10,4.40,5.30,7.10,8.00
+Europe,Austria,Graz,1.80,2.50,2.40,2.50,2.70,2.40
+Asia,China,Weihai,1.80,2.20,1.20,1.20,1.20,1.30
+"North America",USA,"El Paso",1.80,2.10,2.30,2.30,1.60,1.60
+Europe,Netherlands,Blaricum,1.80,1.80,1.80,1.80,1.80,1.80
+"North America",USA,"Daytona Beach",1.80,1.80,1.80,1.80,1.80,1.80
+"South America",Brazil,"Porto Alegre",1.80,1.70,2.40,2.40,2.60,2.50
+Europe,Switzerland,Montagnola,1.80,1.60,1.50,1.50,1.50,1.50
+"North America",USA,"St. Paul",1.80,1.60,1.60,1.70,1.60,1.60
+Europe,Germany,Schwieberdingen,1.80,1.50,2.00,2.00,1.90,1.90
+"North America",USA,Audubon,1.80,1.40,1.40,1.40,1.40,1.30
+Africa,"South Africa",Stellenbosch,1.80,1.00,1.20,1.10,1.20,1.30
+Asia,China,Liaoyang,1.80,NULL,NULL,NULL,NULL,NULL
+"North America",USA,Sewickley,1.70,2.10,2.40,2.70,3.20,2.90
+"North America",USA,Jupiter,1.70,2.00,3.00,3.00,3.20,3.20
+"North America",USA,Charleston,1.70,1.90,2.00,2.10,2.30,3.80
+"North America",USA,Annapolis,1.70,1.70,1.70,1.70,1.90,1.90
+"North America",USA,"Key Largo",1.70,1.70,1.70,1.70,2.40,2.40
+Europe,UK,Aberdeen,1.70,1.70,1.70,1.70,1.70,1.70
+Europe,Germany,Kitzbuhel,1.70,1.60,1.60,2.50,2.50,2.40
+Europe,Germany,Straelen,1.70,1.60,1.30,1.30,1.30,1.30
+Europe,Slovakia,Bratislava,1.70,1.60,1.60,2.00,1.60,1.60
+Europe,UK,Nottinghamshire,1.70,1.60,1.70,1.70,2.50,2.40
+Australia,Australia,"Gold Coast",1.70,1.50,1.40,1.30,1.30,1.30
+Europe,Italy,"Crocetta del Montello",1.70,1.50,1.40,1.40,1.40,1.40
+"North America",USA,Bedford,1.70,1.50,1.50,1.50,1.70,1.70
+Asia,India,Vadodara,1.70,1.40,1.70,1.80,1.70,1.90
+"North America",Barbados,,1.70,1.40,1.40,1.40,1.40,1.40
+Europe,Sweden,Karlstad,1.70,1.10,NULL,NULL,NULL,NULL
+"North America",USA,"Farmington Hills",1.70,NULL,NULL,NULL,NULL,NULL
+Europe,Spain,Marbella,1.60,2.50,3.00,3.00,3.00,3.00
+"North America",USA,"Fort Lauderdale",1.60,2.40,2.80,3.00,3.10,3.20
+"North America",USA,Easton,1.60,2.10,2.30,2.50,1.60,1.50
+Europe,Romania,Bucharest,1.60,2.00,2.00,2.00,2.10,2.10
+"North America",USA,"Santa Monica",1.60,1.90,2.00,2.00,1.30,1.30
+"North America",USA,Princeton,1.60,1.70,1.70,1.80,1.80,1.80
+"North America",USA,Manalapan,1.60,1.60,1.60,1.60,1.40,1.40
+Europe,France,Pujols,1.60,1.50,1.50,1.50,1.70,1.70
+Asia,India,Aurangabad,1.60,1.30,2.10,1.90,1.80,2.00
+Asia,China,Laizhou,1.60,1.30,NULL,NULL,NULL,NULL
+"North America",USA,Plymouth,1.60,1.20,1.30,1.30,1.30,1.40
+"North America",USA,Orono,1.60,1.20,1.30,1.30,1.30,1.40
+"North America",USA,Englewood,1.60,1.20,1.30,1.30,1.30,1.40
+Asia,China,Nanyang,1.60,1.20,NULL,NULL,1.00,1.00
+Asia,Malaysia,Selangor,1.60,1.10,NULL,NULL,NULL,NULL
+Europe,Germany,Grebenhain,1.60,NULL,NULL,NULL,NULL,NULL
+Europe,Russia,Rostov-on-Don,1.60,NULL,NULL,NULL,NULL,NULL
+"North America",USA,Vienna,1.60,NULL,1.60,2.70,5.00,3.60
+Europe,Russia,Irkutsk,1.50,1.90,3.10,3.10,3.30,3.60
+Asia,Nepal,Kathmandu,1.50,1.80,1.80,1.80,1.80,1.80
+Europe,Germany,Marburg,1.50,1.60,2.40,2.40,2.40,2.40
+"North America",USA,"Redwood City",1.50,1.50,1.80,1.70,1.80,1.70
+"North America",USA,"Fisher Island",1.50,2.50,1.50,2.60,2.60,2.60
+Africa,Tanzania,"Dar es Salaam",1.50,1.50,1.80,1.80,1.80,1.80
+"North America",USA,Liberty,1.50,1.50,1.50,1.50,1.50,1.50
+"North America",USA,Hillsborough,1.50,1.50,1.50,1.50,2.30,2.30
+Australia,"New Zealand",,1.50,1.50,1.50,1.50,1.50,1.50
+Asia,Bahrain,Manama,1.50,1.50,1.50,1.50,1.50,1.50
+Asia,Israel,"Kfar Shmaryahu",1.50,1.50,1.50,1.50,1.80,1.80
+Europe,UK,Wotton-under-Edge,1.50,1.40,1.30,1.60,1.60,1.50
+Asia,China,Jiaozuo,1.50,2.40,NULL,NULL,NULL,1.20
+Asia,India,Baroda,1.50,1.30,1.80,1.90,1.80,1.80
+Asia,Israel,"Mevaseret Zion",1.50,1.30,1.30,1.30,1.40,1.40
+Europe,UK,Cardiff,1.50,1.10,1.40,1.50,1.50,1.40
+Europe,Spain,Matadepera,1.50,1.10,NULL,NULL,NULL,NULL
+"North America",USA,Lutherville-Timonium,1.50,1.10,1.00,1.10,1.00,NULL
+Europe,France,Saint-Emilion,1.50,NULL,NULL,NULL,NULL,NULL
+Europe,UK,"St. Brelade",1.40,1.90,2.00,2.00,2.00,2.00
+Europe,Greece,Athens,1.40,1.90,2.00,2.10,2.10,6.70
+"North America",USA,"Yorktown Heights",1.40,1.60,2.00,2.00,2.10,1.90
+Europe,Italy,Cesena,1.40,1.50,1.60,1.60,1.60,1.50
+"North America",USA,Kearney,1.40,1.40,1.40,1.50,1.70,1.70
+Europe,Sweden,Helsingborg,1.40,1.40,1.40,1.40,1.60,1.60
+"South America",Brazil,"Santo Andre",1.40,1.40,1.50,1.70,1.70,1.70
+Asia,Taiwan,Taoyuan,1.40,1.30,NULL,NULL,NULL,1.00
+Asia,China,Wuhu,1.40,1.30,1.30,1.30,1.30,1.30
+Europe,Italy,"Sant Elpidio A Mare",1.40,1.20,1.20,1.30,1.40,1.40
+Asia,Israel,"Bnei Atarot",1.40,1.20,1.30,1.40,1.30,1.30
+Europe,Germany,"St. Wendel",1.40,1.10,1.10,1.60,1.60,1.50
+"North America",USA,Chattanooga,1.40,1.10,1.20,1.30,1.50,1.30
+"North America",USA,"San Carlos",1.40,1.00,1.40,1.20,1.20,1.10
+"North America",USA,"San Mateo",1.40,NULL,1.40,1.20,1.00,NULL
+Asia,China,Haikou,1.40,NULL,NULL,NULL,NULL,1.30
+"North America",USA,"Belle Vernon",1.40,NULL,NULL,NULL,NULL,NULL
+Asia,India,Ernakulam,1.40,NULL,1.30,1.20,1.40,1.60
+Asia,India,Trivandrum,1.40,NULL,1.30,1.20,1.40,1.60
+Asia,India,Kottayam,1.40,NULL,1.30,1.20,1.40,1.60
+Asia,China,Jinhua,1.30,1.90,1.80,2.40,2.30,2.30
+"North America",Canada,Boucherville,1.30,1.60,2.00,2.10,2.00,1.90
+Europe,Russia,"Saint Petersburg",1.30,3.00,2.60,2.60,4.20,5.60
+"North America",USA,Cincinnati,1.30,1.60,2.50,3.20,3.30,3.20
+Europe,Italy,Campodoro,1.30,1.50,1.50,1.50,1.50,1.50
+Europe,Hungary,Budapest,1.30,1.50,1.60,1.50,1.50,2.50
+Europe,Slovakia,,1.30,1.50,1.60,1.60,1.80,1.80
+Australia,Australia,Canberra,1.30,1.50,1.70,1.70,1.70,1.70
+Asia,Japan,Saitama,1.30,1.40,1.60,1.50,1.60,1.40
+"North America",USA,"Locust Valley",1.30,1.30,1.50,1.50,1.80,1.80
+Europe,Netherlands,Baarn,1.30,1.20,1.20,1.20,1.20,1.20
+Asia,China,"Huaibei city",1.30,1.20,NULL,NULL,NULL,NULL
+Europe,Switzerland,Lipperswil,1.30,1.10,1.10,1.20,1.20,1.20
+Asia,China,Luohe,1.30,1.10,1.20,1.30,1.40,2.90
+Asia,China,Hohhot,1.30,NULL,NULL,NULL,NULL,NULL
+"North America",USA,Tarrytown,1.20,2.60,3.40,3.50,3.50,3.20
+Europe,Austria,Wels,1.20,1.60,1.10,1.10,NULL,NULL
+Asia,China,Shantou,1.20,2.60,3.70,3.90,3.30,3.30
+Europe,Poland,Cieszyn,1.20,1.30,1.70,1.70,1.70,1.70
+Europe,Estonia,,1.20,1.30,3.10,3.40,2.20,1.80
+Asia,India,Jaipur,1.20,1.20,1.20,1.00,1.00,1.20
+Asia,Israel,"Bnei Brak",1.20,1.20,1.20,1.20,1.50,1.50
+Europe,Hungary,Felcsut,1.20,1.20,1.70,1.70,1.70,1.60
+"North America",USA,"Mount Kisco",1.20,1.20,1.30,1.30,1.30,1.30
+Europe,Belgium,Deinze,1.20,1.20,1.20,1.20,NULL,NULL
+Asia,Taiwan,"Chang Hwa County",1.20,1.20,1.20,1.30,1.30,1.30
+Europe,Germany,Rottendorf,1.20,1.10,1.40,1.50,1.50,1.50
+Europe,Germany,Detmold,1.20,1.10,1.30,NULL,NULL,NULL
+Asia,Taiwan,Kaohsiung,1.20,1.10,1.30,1.60,1.80,NULL
+Asia,China,Yongzhou,1.20,1.10,NULL,NULL,NULL,NULL
+Asia,China,Qinhuangdao,1.20,NULL,NULL,NULL,NULL,NULL
+"South America",Brazil,"Belo Horizonte",1.20,NULL,1.40,1.80,1.90,1.70
+"North America",USA,"Far Hills",1.20,NULL,NULL,NULL,NULL,NULL
+Europe,Netherlands,Eindhoven,1.20,NULL,NULL,NULL,NULL,NULL
+Asia,Singapore,,1.10,29.50,29.20,29.30,30.00,29.80
+"South America",Brazil,Joinville,1.10,1.40,1.20,1.20,1.20,1.20
+Europe,Ukraine,Dnipro,1.10,1.10,1.10,1.10,1.00,1.00
+Europe,Spain,"Palma de Majorca",1.10,1.10,1.10,NULL,NULL,NULL
+Europe,Belgium,Tervuren,1.10,1.10,1.10,1.10,1.10,1.10
+Europe,Denmark,,1.10,1.00,2.10,2.40,3.60,3.40
+Europe,Germany,Landsberg,1.10,1.00,1.60,1.70,1.70,1.70
+Europe,Germany,Augsburg,1.10,NULL,NULL,NULL,NULL,NULL
+"North America",USA,"Monte Vista",1.10,NULL,1.40,1.50,1.30,1.20
+Asia,China,Taizhou,1.10,NULL,1.30,1.40,1.30,1.20
+"North America",USA,"Mercer Island",1.10,NULL,1.30,1.10,1.10,1.00
+Europe,Norway,,1.10,NULL,NULL,NULL,NULL,NULL
+Europe,Germany,Cologne,1.10,NULL,NULL,NULL,NULL,1.00
+Europe,Ukraine,,1.10,NULL,NULL,NULL,NULL,NULL
+"North America",USA,Duluth,1.00,NULL,1.30,1.20,NULL,1.40
+Europe,Germany,Holzminden,1.00,NULL,NULL,NULL,NULL,NULL
+Europe,Cyprus,,NULL,9.80,25.40,27.00,22.40,24.20
+Europe,Greece,,NULL,8.70,9.10,9.40,10.30,10.20
+"South America",Colombia,,NULL,4.50,9.30,10.80,11.60,10.60
+Asia,China,Shijiazhuang,NULL,3.90,2.70,3.00,2.80,2.60
+Europe,Belgium,,NULL,6.60,6.90,6.80,7.70,21.30
+Europe,Netherlands,,NULL,6.50,7.10,7.20,6.90,7.10
+Asia,China,Luancheng,NULL,3.00,2.40,2.50,2.50,2.60
+Asia,China,Zhuji,NULL,3.00,2.60,2.70,2.60,2.60
+"North America",USA,Tempe,NULL,3.00,NULL,NULL,NULL,NULL
+Europe,Turkey,,NULL,3.60,1.70,1.60,4.80,4.80
+Asia,China,Shenyang,NULL,2.50,1.60,1.70,1.60,1.60
+Asia,China,Urumqi,NULL,2.30,4.70,4.90,4.90,4.80
+Asia,China,Nanping,NULL,2.20,1.30,1.40,1.40,1.40
+Asia,China,Panzhihua,NULL,1.80,1.20,1.40,1.50,1.50
+Asia,Oman,,NULL,1.60,2.00,2.10,2.70,2.90
+Asia,China,Liaocheng,NULL,1.60,1.40,3.90,3.90,5.30
+"South America",Peru,,NULL,3.00,3.00,3.40,NULL,NULL
+"North America",USA,Sagaponack,NULL,1.50,1.50,NULL,NULL,NULL
+Europe,Russia,Surgut,NULL,1.40,1.50,1.50,1.50,1.50
+Asia,China,Meishan,NULL,1.40,NULL,NULL,NULL,NULL
+Asia,China,Shunde,NULL,1.20,1.30,1.40,2.40,2.60
+Europe,Hungary,,NULL,1.20,1.30,1.30,1.30,1.20
+Europe,Russia,Murmansk,NULL,1.20,1.20,1.20,1.30,1.30
+Asia,Armenia,,NULL,1.20,1.20,1.10,1.10,1.10
+Asia,China,Nantong,NULL,1.20,NULL,1.00,NULL,NULL
+Asia,China,Quzhou,NULL,1.10,NULL,NULL,NULL,NULL
+"North America",USA,Gallatin,NULL,1.10,1.30,1.60,1.60,1.60
+Asia,Israel,"Beit Yanay",NULL,1.00,1.00,1.00,1.10,1.10
+Asia,Bangladesh,,NULL,1.00,1.10,1.10,1.10,1.10
+"South America",Panama,,NULL,1.00,1.10,1.10,1.10,1.10
+Asia,China,Yunfu,NULL,1.00,1.10,1.00,1.00,1.00
+Asia,China,Gaomi,NULL,1.00,1.00,1.20,1.30,1.40
+Asia,Philippines,Makati,NULL,1.00,NULL,NULL,1.00,NULL
+Asia,China,Longkou,NULL,NULL,2.90,2.40,2.50,2.40
+Asia,India,Thrissur,NULL,NULL,2.70,3.00,3.30,3.20
+Asia,China,Danyang,NULL,NULL,2.70,3.00,2.90,3.30
+Asia,China,Zhaoyuan,NULL,NULL,2.10,2.40,2.20,2.40
+"North America",USA,Albuquerque,NULL,NULL,1.70,1.70,1.70,1.70
+Europe,Poland,,NULL,NULL,1.60,2.20,2.10,4.10
+Asia,China,Huzhou,NULL,NULL,1.50,1.90,1.60,1.60
+Asia,Israel,Bat-Yam,NULL,NULL,1.40,1.40,NULL,NULL
+"North America",USA,Kauai,NULL,NULL,1.40,1.50,1.10,NULL
+Africa,"South Africa",,NULL,NULL,1.30,1.20,1.20,1.20
+Asia,China,Ruzhou,NULL,NULL,1.30,4.00,2.00,1.00
+Africa,Nigeria,,NULL,NULL,1.10,1.40,1.70,1.60
+Europe,Russia,Kaliningrad,NULL,NULL,NULL,2.50,2.50,2.50
+Asia,India,Faridabad,NULL,NULL,NULL,NULL,1.40,1.40
+Asia,"South Korea",Busan,NULL,NULL,NULL,NULL,1.20,NULL
+"South America",Brazil,"Campos do Jordao",NULL,NULL,NULL,NULL,1.00,NULL
+Europe,"France ",,NULL,NULL,NULL,NULL,NULL,9.20
+"North America",USA,"Baton Rouge",NULL,NULL,NULL,NULL,NULL,9.10
+"North America",USA,Lakeland,NULL,NULL,NULL,NULL,NULL,5.10
+Asia,"United Arab Emirates",,NULL,NULL,NULL,NULL,NULL,4.80
+Europe,UK,Kent,NULL,NULL,NULL,NULL,NULL,3.30
+Europe,"France ",Rennes,NULL,NULL,NULL,NULL,NULL,4.80
+Europe,Italy,Brescia,NULL,NULL,NULL,NULL,NULL,2.30
+Europe,Spain,Oviedo,NULL,NULL,NULL,NULL,NULL,2.00
+"North America",USA,"Cut Off",NULL,NULL,NULL,NULL,NULL,2.00
+"North America",USA,Miamisburg,NULL,NULL,NULL,NULL,NULL,2.00
+Europe,Germany,Bovenden,NULL,NULL,NULL,NULL,NULL,1.90
+"North America",USA,Shelburne,NULL,NULL,NULL,NULL,NULL,1.90
+Asia,"South Korea",Cheongju,NULL,NULL,NULL,NULL,NULL,1.70
+"North America",USA,Rochester,NULL,NULL,NULL,NULL,NULL,1.70
+"North America",USA,Concord,NULL,NULL,NULL,NULL,NULL,1.50
+"North America",USA,Wellington,NULL,NULL,NULL,NULL,NULL,1.40
+"South America",Brazil,Florianopolis,NULL,NULL,NULL,NULL,NULL,5.00
+"North America",USA,Raleigh,NULL,NULL,NULL,NULL,NULL,2.50
+Europe,Russia,Vladivostok,NULL,NULL,NULL,NULL,NULL,2.60
+Europe,Cyprus,Limassol,NULL,NULL,NULL,NULL,NULL,1.20
+Asia,India,Bikaner,NULL,NULL,NULL,NULL,NULL,1.20
+,,,NULL,NULL,NULL,NULL,NULL,3.20
+"North America",USA,"Big Sky",NULL,NULL,NULL,NULL,NULL,1.10
+Australia,Australia,Bellawongarah,NULL,NULL,NULL,NULL,NULL,1.10
+"South America",Brazil,Cataguazes,NULL,NULL,NULL,NULL,NULL,1.10
+"North America",USA,"Key West",NULL,NULL,NULL,NULL,NULL,1.10
+Europe,Switzerland,Baar,NULL,NULL,NULL,NULL,NULL,1.00
+"South America",Brazil,Eusebio,NULL,NULL,NULL,NULL,NULL,1.00
+"North America",USA,Charlotte,NULL,NULL,NULL,NULL,NULL,1.00

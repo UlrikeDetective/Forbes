@@ -1,0 +1,87 @@
+Continent,Country_of_residence,2024_01_total,2024_02_total,2024_03_total,2024_04_total,2024_05_total
+"North America",USA,5485.90,5623.70,5724.00,5758.30,5854.30
+Asia,China,1586.60,1728.50,1719.40,1827.50,1813.00
+Asia,India,865.00,898.00,886.40,932.30,945.40
+Europe,Germany,523.70,538.90,536.40,546.40,554.80
+Europe,France,512.60,534.30,528.50,513.70,512.60
+Europe,Russia,440.00,448.10,453.90,488.50,489.30
+Europe,UK,394.70,392.20,404.80,410.10,414.90
+Europe,Switzerland,382.40,392.10,414.60,427.50,442.80
+Europe,Italy,221.50,229.60,245.60,279.20,286.10
+"North America",Canada,215.00,216.80,214.50,224.10,222.40
+Australia,Australia,195.60,191.30,192.00,192.80,193.30
+"North America",Mexico,181.70,182.70,190.30,202.40,201.00
+Europe,Spain,170.80,173.40,186.30,179.10,185.70
+Asia,Indonesia,159.70,166.70,162.70,192.80,186.90
+Asia,Japan,158.00,163.50,172.90,158.30,161.30
+Asia,Taiwan,142.00,146.60,172.90,174.10,179.40
+"South America",Brazil,132.00,136.00,143.70,150.60,147.30
+Asia,Singapore,130.40,125.00,129.20,132.50,136.20
+Europe,Sweden,104.30,108.30,100.20,107.20,112.90
+Asia,"South Korea",89.40,94.40,103.60,97.60,96.70
+Asia,Thailand,81.40,80.10,81.50,81.10,80.90
+Asia,Israel,79.40,80.80,84.00,89.10,89.50
+Europe,Austria,75.10,75.50,76.80,76.10,76.80
+Europe,Monaco,63.10,62.90,68.80,70.50,71.00
+Europe,"Czech Republic",50.80,50.50,55.10,54.70,55.90
+Asia,Philippines,42.40,46.30,48.20,46.00,43.40
+Europe,Denmark,42.00,41.20,48.30,47.10,47.60
+Asia,Malaysia,39.30,38.50,38.60,38.80,41.60
+Asia,"United Arab Emirates",37.70,37.70,42.10,50.00,50.90
+"South America",Chile,36.30,35.00,37.20,38.50,39.20
+Asia,Turkey,36.20,35.70,41.10,46.00,47.40
+Africa,Nigeria,30.50,26.40,30.00,28.40,27.40
+Asia,Kazakhstan,28.90,30.20,31.40,31.30,31.40
+Africa,"South Africa",28.40,28.60,28.30,27.90,29.40
+Europe,Norway,28.30,28.50,29.30,28.50,29.60
+Europe,Netherlands,27.80,29.00,28.90,25.20,25.50
+Europe,Cyprus,25.40,27.00,22.40,25.40,29.00
+Europe,Poland,22.50,23.10,22.00,24.80,25.70
+Europe,Ireland,21.40,22.60,22.80,22.60,22.40
+Africa,Egypt,18.30,18.20,18.40,18.60,18.70
+"South America",Argentina,15.70,14.20,15.20,14.70,17.50
+Europe,Finland,14.40,14.40,14.80,15.30,15.70
+Europe,Ukraine,12.60,12.50,9.30,9.30,9.30
+Asia,Vietnam,12.10,14.00,14.00,13.30,13.80
+Europe,Greece,11.10,11.50,12.40,16.90,17.10
+Australia,"New Zealand",11.00,12.10,12.00,12.10,11.70
+Europe,Belgium,9.20,9.10,8.80,22.40,22.60
+Europe,Turkey,8.30,8.20,11.30,11.30,11.60
+"South America",Colombia,7.50,7.30,7.20,7.40,7.40
+Europe,Romania,7.20,7.20,7.80,7.80,7.80
+"North America","Cayman Islands",6.90,6.90,7.00,7.00,7.00
+Africa,Eswatini,6.10,6.10,7.10,6.90,6.70
+"South America",Peru,5.50,6.10,1.00,1.10,1.20
+Europe,Portugal,5.30,5.70,5.80,6.50,6.40
+Asia,Lebanon,5.20,5.10,5.60,5.60,5.60
+"North America",Bermuda,4.90,4.80,4.80,4.80,5.10
+Asia,Georgia,4.90,4.90,4.90,4.90,4.90
+Europe,Hungary,4.60,4.50,4.50,5.30,5.60
+Europe,Bulgaria,4.20,4.20,4.20,4.20,4.20
+"South America",Uruguay,4.20,4.20,6.90,6.10,5.10
+Asia,Oman,3.80,4.10,4.80,4.70,4.80
+Europe,Slovakia,3.20,3.60,3.40,3.40,3.40
+Europe,Estonia,3.10,3.40,2.20,1.80,1.90
+Asia,Qatar,3.10,3.00,3.70,3.70,3.70
+Africa,Morocco,3.00,3.00,3.00,3.00,3.20
+"North America","British Virgin Islands",2.90,2.90,2.00,2.60,2.60
+Africa,Algeria,2.50,2.50,2.50,2.50,2.50
+"North America",Belize,2.50,4.80,5.00,4.80,5.10
+Europe,Guernsey,2.40,2.50,2.50,2.50,2.70
+Europe,Liechtenstein,2.40,1.50,1.50,1.50,1.50
+Australia,Bahamas,2.00,2.30,2.20,2.20,2.30
+"North America","Turks and Caicos Islands",2.00,2.00,2.00,2.00,2.10
+Africa,Tanzania,1.80,1.80,1.80,1.80,1.80
+Asia,Nepal,1.80,1.80,1.80,1.80,1.80
+Asia,Bahrain,1.50,1.50,1.50,1.50,1.50
+"North America",Barbados,1.40,1.40,1.40,1.40,1.40
+Asia,Armenia,1.20,1.10,1.10,1.10,1.10
+Asia,Bangladesh,1.10,1.10,1.10,1.10,1.10
+"South America",Panama,1.10,1.10,1.10,1.10,1.10
+Asia,Cambodia,NULL,NULL,NULL,NULL,NULL
+Europe,"France ",NULL,NULL,NULL,14.00,14.00
+,,NULL,NULL,NULL,3.20,2.10
+"South America",Columbia,NULL,NULL,NULL,NULL,NULL
+Europe,USA,NULL,NULL,NULL,NULL,NULL
+Europe,China,NULL,NULL,NULL,NULL,NULL
+Asia,Phillipines,NULL,NULL,NULL,NULL,NULL

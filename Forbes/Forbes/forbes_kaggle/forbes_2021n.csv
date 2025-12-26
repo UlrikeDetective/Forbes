@@ -1,0 +1,2746 @@
+﻿ID;User_ID;Table_rank_2021;Person;net_worth_in_BillionUSD_2021;Age_of_person_2021;year
+1;3;1;Jeff Bezos;177;57;2021
+2;2;2;Elon Musk;151;49;2021
+3;1;3;Bernard Arnault;150;72;2021
+4;6;4;Bill Gates;124;65;2021
+5;16;5;Mark Zuckerberg;97;36;2021
+6;5;6;Warren Buffett;96;90;2021
+7;4;7;Larry Ellison;93;76;2021
+8;12;8;Larry Page;91.5;48;2021
+9;14;9;Sergey Brin;89;47;2021
+10;9;10;Mukesh Ambani;84.5;64;2021
+11;13;11;Amancio Ortega;77;85;2021
+12;11;12;Francoise Bettencourt Meyers;73.6;67;2021
+13;15;13;Zhong Shanshan;68.9;66;2021
+14;10;14;Steve Ballmer;68.7;65;2021
+15;34;15;Ma Huateng;65.8;49;2021
+16;8;16;Carlos Slim Helu;62.8;81;2021
+17;21;17;Alice Walton;61.8;71;2021
+18;19;18;Jim Walton;60.2;72;2021
+19;20;19;Rob Walton;59.5;76;2021
+20;7;20;Michael Bloomberg;59;79;2021
+21;2612;21;Colin Zheng Huang;55.3;41;2021
+22;60;22;MacKenzie Scott;53;51;2021
+23;90;23;Daniel Gilbert;51.9;59;2021
+24;24;24;Gautam Adani;50.5;58;2021
+25;25;25;Phil Knight;49.9;83;2021
+26;63;26;Jack Ma;48.4;56;2021
+27;17;27;Charles Koch;46.4;85;2021
+28;18;27;Julia Koch;46.4;59;2021
+29;69;29;Masayoshi Son;45.4;63;2021
+30;23;30;Michael Dell;45.1;56;2021
+31;39;31;Tadashi Yanai;44.1;72;2021
+32;28;32;Francois Pinault;42.3;84;2021
+33;22;33;David Thomson;41.8;63;2021
+34;106;34;Beate Heister;39.2;;2021
+35;75;35;Wang Wei;39;50;2021
+36;35;36;Miriam Adelson;38.2;75;2021
+37;64;37;He Xiangjian;37.7;78;2021
+38;27;38;Dieter Schwarz;36.9;81;2021
+39;26;39;Zhang Yiming;35.6;37;2021
+40;30;40;Giovanni Ferrero;35.1;56;2021
+41;41;41;Alain Wertheimer;34.5;72;2021
+42;42;41;Gerard Wertheimer;34.5;70;2021
+43;33;43;Li Ka-shing;33.7;92;2021
+44;85;44;Qin Yinglin;33.5;56;2021
+45;2607;45;William Lei Ding;33;49;2021
+46;40;46;Len Blavatnik;32;63;2021
+47;47;47;Lee Shau Kee;31.7;93;2021
+48;31;48;Jacqueline Mars;31.3;81;2021
+49;32;48;John Mars;31.3;85;2021
+50;250;50;Yang Huiyan;29.6;39;2021
+51;79;51;Alexey Mordashov;29.1;55;2021
+52;38;52;Robin Zeng;28.4;52;2021
+53;983;53;Hui Ka Yan;27.7;62;2021
+54;51;53;Susanne Klatten;27.7;59;2021
+55;62;55;Vladimir Potanin;27;60;2021
+56;2605;56;Dietrich Mateschitz;26.9;76;2021
+57;104;57;Pang Kang;26.4;65;2021
+58;29;58;Klaus-Michael Kuehne;26.3;83;2021
+59;70;59;Vladimir Lisin;26.2;65;2021
+60;200;60;Wang Xing;26.1;42;2021
+61;54;61;German Larrea Mota Velasco;25.9;67;2021
+62;2606;62;Leonardo Del Vecchio;25.8;85;2021
+63;78;62;Takemitsu Takizaki;25.8;75;2021
+64;77;64;Leonard Lauder;25.5;88;2021
+65;57;65;Thomas Peterffy;25;76;2021
+66;80;66;Vagit Alekperov;24.9;70;2021
+67;73;66;Leonid Mikhelson;24.9;65;2021
+68;49;68;Jim Simons;24.6;83;2021
+69;140;69;Jiang Rensheng;24.4;67;2021
+70;52;70;Gina Rinehart;23.6;67;2021
+71;97;71;Rupert Murdoch;23.5;90;2021
+72;55;71;Shiv Nadar;23.5;75;2021
+73;157;73;Zhang Zhidong;23.4;49;2021
+74;65;74;Iris Fontbona;23.3;78;2021
+75;187;75;Lei Jun;23;51;2021
+76;298;75;Zhang Yong;23;50;2021
+77;220;77;Richard Liu;22.4;47;2021
+78;89;78;Gennady Timchenko;22;68;2021
+79;50;79;Stephen Schwarzman;21.9;74;2021
+80;120;80;Goh Cheng Liang;21.7;93;2021
+81;59;81;Stefan Quandt;21.6;54;2021
+82;100;82;Li Xiting;21.5;70;2021
+83;222;83;Pierre Omidyar;21.4;53;2021
+84;101;84;Stefan Persson;21.3;73;2021
+85;72;85;Abigail Johnson;20.9;59;2021
+86;61;86;R. Budi Hartono;20.5;80;2021
+87;3102;87;Andrew Forrest;20.4;59;2021
+88;81;88;Ray Dalio;20.3;71;2021
+89;66;89;Michael Hartono;19.7;81;2021
+90;2609;89;Li Shufu;19.7;57;2021
+91;293;89;Zhong Huijuan;19.7;60;2021
+92;117;92;Xu Hang;19.5;54;2021
+93;126;93;Lui Che Woo;19.4;92;2021
+94;71;94;Emmanuel Besnier;19.1;50;2021
+95;142;95;Laurene Powell Jobs;19;57;2021
+96;102;96;Eric Schmidt;18.9;66;2021
+97;189;96;Sun Piaoyang;18.9;62;2021
+98;98;98;Theo Albrecht jr;18.8;70;2021
+99;119;99;Alisher Usmanov;18.4;67;2021
+100;110;100;Robert Pera;18.3;43;2021
+101;176;100;Wu Yajun;18.3;57;2021
+102;586;102;Fan Hongwei;18.2;54;2021
+103;113;103;Dhanin Chearavanont;18.1;82;2021
+104;108;104;Peter Woo;18;74;2021
+105;125;105;Chen Bang;17.9;55;2021
+106;58;105;Andrey Melnichenko;17.9;49;2021
+107;221;107;Dustin Moskovitz;17.8;36;2021
+108;1074;107;Su Hua;17.8;39;2021
+109;160;109;Donald Newhouse;17.6;91;2021
+110;3395;110;Petr Kellner;17.5;;2021
+111;3396;111;Lee Man Tat;17.4;91;2021
+112;145;112;Pavel Durov;17.2;36;2021
+113;67;113;James Ratcliffe;17;68;2021
+114;107;114;Jorge Paulo Lemann;16.9;81;2021
+115;46;115;Reinhold Wuerth;16.8;86;2021
+116;116;116;Charlene de Carvalho-Heineken;16.7;66;2021
+117;111;117;Radhakishan Damani;16.5;66;2021
+118;86;118;Wang Chuanfu;16.3;55;2021
+119;92;119;Steve Cohen;16;64;2021
+120;36;119;Ken Griffin;16;52;2021
+121;1150;121;Chen Zhiping;15.9;45;2021
+122;3012;121;Ernest Garcia II.;15.9;63;2021
+123;135;121;Uday Kotak;15.9;62;2021
+124;93;124;Carl Icahn;15.8;85;2021
+125;162;124;Suleiman Kerimov;15.8;55;2021
+126;3008;126;Thomas Frist Jr;15.7;82;2021
+127;74;127;Lukas Walton;15.6;34;2021
+128;137;128;Mikhail Fridman;15.5;57;2021
+129;118;128;Wei Jianjun;15.5;57;2021
+130;3397;128;Zuo Hui;15.5;50;2021
+131;417;131;Zhou Qunfei;15.4;;2021
+132;95;132;Donald Bren;15.3;88;2021
+133;2611;133;Hinduja brothers;14.9;;2021
+134;91;133;Lakshmi Mittal;14.9;70;2021
+135;172;133;Georg Schaeffler;14.9;56;2021
+136;859;133;Eric Yuan;14.9;51;2021
+137;249;137;Wang Jianlin;14.8;66;2021
+138;123;138;Kwong Siu-hing;14.7;91;2021
+139;280;138;Robin Li;14.7;52;2021
+140;2610;140;Pallonji Mistry;14.6;91;2021
+141;171;140;Eduardo Saverin;14.6;39;2021
+142;203;142;Roman Abramovich;14.5;54;2021
+143;88;142;David Tepper;14.5;63;2021
+144;156;144;Gong Hongjia;14.4;56;2021
+145;166;145;Mike Cannon-Brookes;14.2;41;2021
+146;96;145;John Menard Jr;14.2;81;2021
+147;457;145;Seo Jung-jin;14.2;63;2021
+148;1200;148;Cheng Yixiao;14.1;37;2021
+149;322;148;Liang Wengen;14.1;64;2021
+150;174;150;Scott Farquhar;14;41;2021
+151;215;151;Finn Rausing;13.9;66;2021
+152;216;151;Jorn Rausing;13.9;61;2021
+153;217;151;Kirsten Rausing;13.9;68;2021
+154;201;154;Brian Chesky;13.7;39;2021
+155;132;155;Joseph Lau;13.6;69;2021
+156;168;156;David Duffield;13.5;80;2021
+157;115;156;Charoen Sirivadhanabhakdi;13.5;77;2021
+158;3398;158;Kim Jung-ju;13.3;53;2021
+159;302;158;Robert Ng;13.3;;2021
+160;1987;158;Zhang Bangxin;13.3;41;2021
+161;308;161;Anders Holch Povlsen;13.2;48;2021
+162;83;161;Wang Wenyin;13.2;53;2021
+163;214;163;Wang Liping;13.1;55;2021
+164;218;164;Tatyana Bakalchuk;13;45;2021
+165;103;164;Michael Platt;13;53;2021
+166;112;166;Huang Shilin;12.9;54;2021
+167;159;166;Ricardo Salinas Pliego;12.9;65;2021
+168;121;168;Kumar Birla;12.8;53;2021
+169;139;169;Dang Yanbao;12.7;48;2021
+170;68;169;Cyrus Poonawalla;12.7;79;2021
+171;143;171;Robert Kuok;12.6;97;2021
+172;594;171;Hank Meijer;12.6;;2021
+173;585;173;Jack Dorsey;12.5;44;2021
+174;1930;173;Lu Zhongfang;12.5;78;2021
+175;301;173;Ma Jianrong;12.5;57;2021
+176;557;173;Zhang Tao;12.5;48;2021
+177;256;177;Nathan Blecharczyk;12.4;37;2021
+178;219;177;John Doerr;12.4;69;2021
+179;288;177;Joe Gebbia;12.4;39;2021
+180;591;177;Forrest Li;12.4;43;2021
+181;732;181;Yu Renrong;12.3;55;2021
+182;281;182;Liu Yonghao;12.1;69;2021
+183;353;182;Gordon Moore;12.1;92;2021
+184;48;184;Jeff Yass;12;62;2021
+185;1225;185;Bobby Murphy;11.9;32;2021
+186;623;186;Patrick Drahi;11.8;57;2021
+187;76;186;Jensen Huang;11.8;;2021
+188;212;186;Alexander Otto;11.8;53;2021
+189;1148;189;Cen Junda;11.6;56;2021
+190;292;189;Joseph Tsai;11.6;57;2021
+191;122;191;Aliko Dangote;11.5;64;2021
+192;161;191;Marcel Herrmann Telles;11.5;71;2021
+193;153;193;Mikhail Prokhorov;11.4;56;2021
+194;718;194;Jorge Moll Filho;11.3;76;2021
+195;170;195;Viktor Rashnikov;11.2;72;2021
+196;134;195;Harry Triguboff;11.2;88;2021
+197;257;197;Leonid Fedun;11.1;65;2021
+198;84;197;Eyal Ofer;11.1;70;2021
+199;1132;197;Evan Spiegel;11.1;30;2021
+200;396;200;Luis Carlos Sarmiento;11;88;2021
+201;146;200;Andreas Struengmann;11;71;2021
+202;147;200;Thomas Struengmann;11;71;2021
+203;182;203;Rodolphe Saade;10.9;51;2021
+204;109;203;Dilip Shanghvi;10.9;65;2021
+205;2616;205;Tom and Judy Love;10.8;;2021
+206;152;205;Anthony Pratt;10.8;61;2021
+207;357;205;Wang Laisheng;10.8;56;2021
+208;43;208;Gianluigi Aponte;10.7;80;2021
+209;310;208;Wang Laichun;10.7;53;2021
+210;225;210;Chen Jianhua;10.6;50;2021
+211;817;210;Leng Youbin;10.6;52;2021
+212;208;210;Charles Schwab;10.6;83;2021
+213;236;213;Li Zhenguo;10.5;53;2021
+214;416;213;Sunil Mittal;10.5;63;2021
+215;184;213;Melker Schorling;10.5;73;2021
+216;430;216;Cai Kui;10.4;58;2021
+217;127;216;John Fredriksen;10.4;76;2021
+218;274;216;Qi Shi;10.4;51;2021
+219;234;219;Chase Coleman III;10.3;45;2021
+220;1578;219;Hui Wing Mau;10.3;70;2021
+221;351;219;Edward Johnson III;10.3;90;2021
+222;148;219;Liu Hanyuan;10.3;57;2021
+223;3399;223;Larry Xiangdong Chen;10.2;49;2021
+224;2614;224;Philip Anschutz;10.1;81;2021
+225;603;224;Dietmar Hopp;10.1;81;2021
+226;245;224;German Khan;10.1;59;2021
+227;453;224;Li Ge;10.1;54;2021
+228;422;228;Jay Chaudhry;10;61;2021
+229;262;228;Eric Wittouck;10;74;2021
+230;167;230;Carl Cook;9.9;58;2021
+231;129;230;Jan Koum;9.9;45;2021
+232;2617;232;Herbert Kohler jr;9.8;82;2021
+233;695;232;Tobi Lutke;9.8;40;2021
+234;202;234;James Dyson;9.7;74;2021
+235;481;234;Mat Ishbia;9.7;41;2021
+236;94;234;Savitri Jindal;9.7;71;2021
+237;188;234;Friedhelm Loh;9.7;74;2021
+238;307;234;Iskander Makhmudov;9.7;57;2021
+239;242;234;Stefano Pessina;9.7;79;2021
+240;175;234;Quek Leng Chan;9.7;79;2021
+241;150;241;Israel Englander;9.6;72;2021
+242;898;241;Charles Ergen;9.6;68;2021
+243;198;241;Jim Pattison;9.6;92;2021
+244;275;241;Yao Liangsong;9.6;56;2021
+245;279;245;David Geffen;9.5;78;2021
+246;1401;245;Yeung Kin-man;9.5;57;2021
+247;264;247;Ding Shizhong;9.4;50;2021
+248;87;247;Harold Hamm;9.4;75;2021
+249;237;247;Jim Kennedy;9.4;73;2021
+250;239;247;Blair Parry-Okeden;9.4;70;2021
+251;296;251;Ding Shijia;9.3;57;2021
+252;532;251;Kim Beom-su;9.3;55;2021
+253;633;251;Ian Livingstone;9.3;;2021
+254;2705;251;Sun Hongbin;9.3;58;2021
+255;3010;255;Alberto Bailleres Gonzalez;9.2;89;2021
+256;1441;256;Lam Wai-ying;9.1;;2021
+257;364;256;Massimiliana Landini Aleotti;9.1;78;2021
+258;133;256;Lu Xiangyang;9.1;58;2021
+259;469;256;Wolfgang Marguerre;9.1;79;2021
+260;372;256;David Sun;9.1;69;2021
+261;374;256;John Tu;9.1;79;2021
+262;316;262;Guillaume Pousaz;9;39;2021
+263;356;262;Viktor Vekselberg;9;64;2021
+264;130;264;Jerry Jones;8.9;78;2021
+265;226;264;Michael Otto;8.9;78;2021
+266;303;264;Steven Rales;8.9;70;2021
+267;138;264;Sarath Ratanavadi;8.9;55;2021
+268;522;264;Tse Ping;8.9;69;2021
+269;972;269;Chan Tan Ching-fen;8.8;;2021
+270;210;269;David Cheriton;8.8;70;2021
+271;368;269;Xavier Niel;8.8;53;2021
+272;3400;269;August von Finck;8.8;91;2021
+273;318;269;Zong Qinghou;8.8;75;2021
+274;306;274;Benu Gopal Bangur;8.7;89;2021
+275;2608;274;Sam Bankman-Fried;8.7;29;2021
+276;505;274;Cheng Xue;8.7;51;2021
+277;228;274;Graeme Hart;8.7;65;2021
+278;361;274;Kjeld Kirk Kristiansen;8.7;73;2021
+279;362;274;Sofie Kirk Kristiansen;8.7;45;2021
+280;363;274;Thomas Kirk Kristiansen;8.7;42;2021
+281;655;274;Lin Bin;8.7;53;2021
+282;342;274;Liu Jincheng;8.7;56;2021
+283;764;274;Shigenobu Nagamori;8.7;76;2021
+284;231;274;Carlos Alberto Sicupira;8.7;73;2021
+285;373;274;Agnete Kirk Thinggaard;8.7;37;2021
+286;213;274;Anthony von Mandl;8.7;;2021
+287;375;274;Xu Shihui;8.7;63;2021
+288;199;288;Ernesto Bertarelli;8.6;55;2021
+289;227;288;Leon Black;8.6;69;2021
+290;207;288;Azim Premji;8.6;75;2021
+291;269;288;Andrei Skoch;8.6;55;2021
+292;371;288;George Soros;8.6;90;2021
+293;240;288;Zheng Shuliang;8.6;75;2021
+294;326;294;Marc Benioff;8.4;56;2021
+295;936;294;Kuldip Singh Dhingra;8.4;;2021
+296;235;294;Ann Walton Kroenke;8.4;72;2021
+297;377;297;Bubba Cathy;8.3;67;2021
+298;378;297;Dan Cathy;8.3;68;2021
+299;266;297;Jay Y. Lee;8.3;52;2021
+300;1121;297;Pan Dong;8.3;56;2021
+301;230;297;Hasso Plattner;8.3;77;2021
+302;304;297;Nassef Sawiris;8.3;60;2021
+303;248;297;Kushal Pal Singh;8.3;89;2021
+304;136;304;Stanley Kroenke;8.2;73;2021
+305;436;304;Niels Peter Louis-Hansen;8.2;73;2021
+306;401;304;Alain Merieux;8.2;83;2021
+307;233;304;Andreas von Bechtolsheim;8.2;65;2021
+308;128;308;Diane Hendricks;8;74;2021
+309;141;308;Shahid Khan;8;70;2021
+310;238;308;Nicky Oppenheimer;8;75;2021
+311;398;311;Anthony Bamford;7.9;75;2021
+312;165;311;Andrew Beal;7.9;68;2021
+313;327;311;Dmitri Bukhman;7.9;35;2021
+314;328;311;Igor Bukhman;7.9;39;2021
+315;317;311;Takahisa Takahara;7.9;59;2021
+316;1105;316;Kei Hoi Pang;7.8;55;2021
+317;394;316;Alexei Kuzmichev;7.8;58;2021
+318;206;316;John Malone;7.8;80;2021
+319;193;316;Marijke Mars;7.8;56;2021
+320;194;316;Pamela Mars;7.8;60;2021
+321;195;316;Valerie Mars;7.8;62;2021
+322;196;316;Victoria Mars;7.8;64;2021
+323;154;323;Giorgio Armani;7.7;86;2021
+324;323;323;Frederik Paulsen;7.7;70;2021
+325;387;323;David Reuben;7.7;82;2021
+326;388;323;Simon Reuben;7.7;80;2021
+327;418;327;Alexander Abramov;7.6;62;2021
+328;438;327;Rinat Akhmetov;7.6;54;2021
+329;347;327;Silvio Berlusconi;7.6;84;2021
+330;400;327;John Grayken;7.6;64;2021
+331;114;327;David Green;7.6;79;2021
+332;247;327;George Roberts;7.6;77;2021
+333;478;327;Zhao Yan;7.6;54;2021
+334;265;334;Nancy Walton Laurie;7.5;69;2021
+335;223;334;Pei Zhenhua;7.5;62;2021
+336;408;334;Ruan Liping;7.5;57;2021
+337;409;334;Ruan Xueping;7.5;49;2021
+338;437;334;Patrick Soon-Shiong;7.5;68;2021
+339;204;339;Antonia Axson Johnson;7.4;77;2021
+340;2684;339;Ernest Garcia III;7.4;39;2021
+341;535;339;George Lucas;7.4;76;2021
+342;2623;339;Vicky Safra;7.4;68;2021
+343;3401;339;Zhang Jindong;7.4;58;2021
+344;251;344;Laurent Dassault;7.3;67;2021
+345;252;344;Thierry Dassault;7.3;64;2021
+346;254;344;Marie-Helene Habert-Dassault;7.3;56;2021
+347;297;344;Henry Kravis;7.3;77;2021
+348;450;344;Lai Meisong;7.3;50;2021
+349;344;344;Sandra Ortega Mera;7.3;52;2021
+350;637;344;Pham Nhat Vuong;7.3;52;2021
+351;268;344;David Shaw;7.3;70;2021
+352;271;352;Rocco Commisso;7.2;71;2021
+353;415;352;Michael Kadoorie;7.2;79;2021
+354;258;352;Bernard Marcus;7.2;91;2021
+355;232;352;Manuel Villar;7.2;71;2021
+356;173;352;Christy Walton;7.2;72;2021
+357;1335;352;Wang Zhenhua;7.2;59;2021
+358;390;358;Carl Bennet;7.1;69;2021
+359;376;358;Rahel Blocher;7.1;45;2021
+360;320;358;Johann Graf;7.1;74;2021
+361;331;358;Ralph Lauren;7.1;81;2021
+362;3106;358;Li Hua;7.1;43;2021
+363;367;358;Magdalena Martullo-Blocher;7.1;52;2021
+364;2620;358;Stewart and Lynda Resnick;7.1;;2021
+365;155;358;Johann Rupert;7.1;70;2021
+366;2622;358;Safra siblings;7.1;;2021
+367;1860;358;Anthony Wood;7.1;55;2021
+368;1003;358;Gang Ye;7.1;40;2021
+369;837;369;Igor Altushkin;7;50;2021
+370;2621;369;Bajaj siblings;7;;2021
+371;889;369;Juan Francisco Beckmann Vidal;7;81;2021
+372;504;369;Alexandre Behring;7;54;2021
+373;197;369;Vincent Bollore;7;69;2021
+374;405;369;Gustaf Douglas;7;83;2021
+375;312;369;Terry Gou;7;70;2021
+376;3009;369;Paul Tudor Jones II.;7;66;2021
+377;315;369;Richard Kinder;7;76;2021
+378;470;369;Ludwig Merckle;7;56;2021
+379;144;369;Stephen Ross;7;80;2021
+380;3402;380;Eli Broad;6.9;;2021
+381;543;380;Jim Davis;6.9;77;2021
+382;2647;380;Guo Guangchang;6.9;54;2021
+383;2619;380;Robert Kraft;6.9;79;2021
+384;544;384;Murali Divi;6.8;70;2021
+385;2640;384;Huang Chulong;6.8;62;2021
+386;1024;384;Li Jianquan;6.8;64;2021
+387;2667;384;Shi Yonghong;6.8;52;2021
+388;324;384;Wee Cho Yaw;6.8;92;2021
+389;502;384;Erich Wesjohann;6.8;75;2021
+390;2631;384;Aloys Wobben;6.8;69;2021
+391;459;391;Micky Arison;6.7;71;2021
+392;277;391;Jean-Michel Besnier;6.7;53;2021
+393;278;391;Marie Besnier Beauvalot;6.7;40;2021
+394;518;391;Kwon Hyuk-bin;6.7;47;2021
+395;1309;391;Li Haiyan;6.7;;2021
+396;442;391;Fredrik Lundberg;6.7;69;2021
+397;850;391;Hiroshi Mikitani;6.7;56;2021
+398;395;391;Dmitry Rybolovlev;6.7;54;2021
+399;283;391;Reinhold Schmieding;6.7;66;2021
+400;244;400;Francis Choi;6.6;73;2021
+401;380;400;Bruce Kovner;6.6;76;2021
+402;643;400;Wang Wenjing;6.6;56;2021
+403;800;400;Zeng Fangqin;6.6;55;2021
+404;1342;404;Brian Armstrong;6.5;38;2021
+405;2644;404;Chu Mang Yee;6.5;61;2021
+406;348;404;Denise Coates;6.5;53;2021
+407;423;404;Gopikishan Damani;6.5;63;2021
+408;299;404;James Goodnight;6.5;78;2021
+409;672;404;Antti Herlin;6.5;64;2021
+410;178;404;Liu Yongxing;6.5;72;2021
+411;300;404;Sri Prakash Lohia;6.5;68;2021
+412;354;404;John Overdeck;6.5;51;2021
+413;495;404;Prajogo Pangestu;6.5;76;2021
+414;569;404;Horst Julius Pudwill;6.5;76;2021
+415;355;404;David Siegel;6.5;86;2021
+416;345;404;Ronda Stryker;6.5;67;2021
+417;270;404;Georg Stumpf;6.5;48;2021
+418;340;418;Pauline MacMillan Keinath;6.4;87;2021
+419;402;418;Wang Yusuo;6.4;57;2021
+420;397;418;Dennis Washington;6.4;86;2021
+421;3403;421;Rahul Bajaj;6.3;82;2021
+422;330;421;Ashwin Dani;6.3;78;2021
+423;432;421;Andreas Halvorsen;6.3;60;2021
+424;631;421;Andrei Kozitsyn;6.3;60;2021
+425;2624;421;Axel Oberwelland;6.3;54;2021
+426;2671;421;Shi Yuzhu;6.3;58;2021
+427;434;421;Tsai Eng-meng;6.3;64;2021
+428;540;421;Murat Ulker;6.3;62;2021
+429;798;421;Wang Junlin;6.3;58;2021
+430;3044;421;Wang Ning;6.3;34;2021
+431;2636;421;You Xiaoping;6.3;63;2021
+432;294;432;Arthur Blank;6.2;78;2021
+433;460;432;James Chambers;6.2;64;2021
+434;604;432;Jiang Bin;6.2;54;2021
+435;759;432;Jason Jiang;6.2;48;2021
+436;471;432;Mitchell Rales;6.2;64;2021
+437;472;432;Katharine Rayner;6.2;76;2021
+438;476;432;Margaretta Taylor;6.2;79;2021
+439;403;432;Stef Wertheimer;6.2;94;2021
+440;411;440;Mike Adenuga;6.1;68;2021
+441;584;440;Charles Dolan;6.1;94;2021
+442;546;440;Marcos Galperin;6.1;;2021
+443;756;440;Huang Li;6.1;57;2021
+444;332;440;Law Kar Po;6.1;72;2021
+445;1823;440;Li Wa;6.1;55;2021
+446;124;440;Idan Ofer;6.1;65;2021
+447;3038;440;Qian Dongqi;6.1;63;2021
+448;608;440;Odd Reitan;6.1;69;2021
+449;282;440;Henry Samueli;6.1;66;2021
+450;429;440;Les Wexner;6.1;83;2021
+451;346;451;Dannine Avara;6;57;2021
+452;706;451;Juergen Blickle;6;74;2021
+453;2643;451;Robert Brockman;6;79;2021
+454;710;451;Mong-Koo Chung;6;83;2021
+455;2770;451;Dulce Pugliese de Godoy Bueno;6;73;2021
+456;1795;451;Daniel Dines;6;49;2021
+457;349;451;Scott Duncan;6;38;2021
+458;319;451;Judy Faulkner;6;77;2021
+459;713;451;Guenther Fielmann;6;81;2021
+460;350;451;Milane Frantz;6;51;2021
+461;406;451;Frits Goldschmeding;6;87;2021
+462;185;451;Andrei Guryev;6;61;2021
+463;533;451;Jane Lauder;6;48;2021
+464;1027;451;Martin Lorentzon;6;52;2021
+465;699;451;Isaac Perlmutter;6;78;2021
+466;660;451;Jeff Skoll;6;56;2021
+467;260;451;Robert F. Smith;6;58;2021
+468;370;451;John A. Sobrato;6;81;2021
+469;501;451;Ronald Wanek;6;79;2021
+470;358;451;Randa Duncan Williams;6;59;2021
+471;524;451;Hansjoerg Wyss;6;86;2021
+472;2635;472;Chen Fashu;5.9;60;2021
+473;3404;472;Chen Rui;5.9;43;2021
+474;360;472;Christopher Hohn;5.9;54;2021
+475;366;472;Lin Jianhua;5.9;58;2021
+476;404;476;Maria Asuncion Aramburuzabala;5.8;58;2021
+477;647;476;Chan Laiwa;5.8;80;2021
+478;131;476;George Kaiser;5.8;78;2021
+479;509;476;Ananda Krishnan;5.8;83;2021
+480;494;476;Douglas Leone;5.8;63;2021
+481;590;476;Li Chunan;5.8;52;2021
+482;365;476;Li Ping;5.8;;2021
+483;2038;476;William Li;5.8;46;2021
+484;2656;476;Augusto and Giorgio Perfetti;5.8;;2021
+485;1078;476;Meg Whitman;5.8;64;2021
+486;420;486;Neil Bluhm;5.7;83;2021
+487;287;486;Andrew Currie;5.7;65;2021
+488;412;486;Tom Gores;5.7;56;2021
+489;534;486;Michel Leclercq;5.7;81;2021
+490;657;486;Michael Moritz;5.7;66;2021
+491;180;486;Nicolas Puech;5.7;78;2021
+492;290;486;John Reece;5.7;64;2021
+493;552;486;Emanuele Saputo;5.7;84;2021
+494;597;486;Fred Smith;5.7;;2021
+495;2627;486;Teh Hong Piow;5.7;91;2021
+496;419;496;Rene Benko;5.6;44;2021
+497;329;496;Jack Dangermond;5.6;75;2021
+498;392;496;Stanley Druckenmiller;5.6;67;2021
+499;321;496;Tamara Gustavson;5.6;59;2021
+500;393;496;Jian Jun;5.6;57;2021
+501;2633;496;Kwee brothers;5.6;;2021
+502;440;502;Clive Calder;5.5;74;2021
+503;286;502;Hasmukh Chudgar;5.5;87;2021
+504;545;502;Dagmar Dolby;5.5;79;2021
+505;1351;502;Dong Wei;5.5;50;2021
+506;359;502;Ken Fisher;5.5;70;2021
+507;211;502;Ivan Glasenberg;5.5;64;2021
+508;2014;502;He Xiaopeng;5.5;43;2021
+509;424;502;Sumet Jiaravanon;5.5;86;2021
+510;255;502;Karel Komarek;5.5;52;2021
+511;589;502;Ronald Lauder;5.5;77;2021
+512;1455;502;Mu Rongjun;5.5;41;2021
+513;335;502;J. Christopher Reyes;5.5;67;2021
+514;336;502;Jude Reyes;5.5;65;2021
+515;520;502;Kjell Inge Rokke;5.5;62;2021
+516;3011;502;Edward Roski Jr;5.5;82;2021
+517;538;502;Alexandra Schoerghuber;5.5;62;2021
+518;1467;502;Shu Ping;5.5;;2021
+519;1339;502;Christoph Zeller;5.5;64;2021
+520;2680;520;An Kang;5.4;72;2021
+521;2632;520;Rainer Blickle;5.4;73;2021
+522;431;520;Jaran Chiaravanont;5.4;91;2021
+523;2710;520;Alceu Elias Feldmann;5.4;71;2021
+524;2637;520;Montri Jiaravanont;5.4;90;2021
+525;381;520;Henry Nicholas III.;5.4;61;2021
+526;369;520;Terrence Pegula;5.4;70;2021
+527;224;520;Carrie Perrodo;5.4;70;2021
+528;305;520;Harry Stine;5.4;79;2021
+529;646;529;Pyotr Aven;5.3;66;2021
+530;3251;529;Kapil Bhatia;5.3;;2021
+531;285;529;Cao Renxian;5.3;52;2021
+532;510;529;Barry Lam;5.3;72;2021
+533;1950;529;Carlos Rodriguez-Pastor;5.3;62;2021
+534;920;529;Shen Guojun;5.3;58;2021
+535;2848;529;Luiza Helena Trajano;5.3;69;2021
+536;3405;529;Yao Zhenhua;5.3;51;2021
+537;570;529;Yu Yong;5.3;60;2021
+538;515;529;Sam Zell;5.3;79;2021
+539;439;539;John Brown;5.2;86;2021
+540;712;539;Giuseppe De Longhi;5.2;82;2021
+541;426;539;Frank Lowy;5.2;90;2021
+542;621;539;Joe Mansueto;5.2;64;2021
+543;874;539;Akio Nitori;5.2;77;2021
+544;499;539;Gary Rollins;5.2;76;2021
+545;3030;539;Ruan Hongliang;5.2;60;2021
+546;456;539;Teddy Sagi;5.2;49;2021
+547;2661;539;Neil Shen;5.2;53;2021
+548;611;539;David Velez;5.2;39;2021
+549;1137;539;Wong Man Li;5.2;56;2021
+550;527;550;Robert Bass;5.1;73;2021
+551;461;550;Pierre Chen;5.1;64;2021
+552;480;550;Mahendra Choksi;5.1;80;2021
+553;2666;550;Gustavo Denegri;5.1;84;2021
+554;941;550;Reed Hastings;5.1;60;2021
+555;413;550;Michael Herz;5.1;77;2021
+556;414;550;Wolfgang Herz;5.1;70;2021
+557;816;550;Patrick Lee;5.1;79;2021
+558;2641;550;Yeow Chor and Yeow Seng Lee;5.1;;2021
+559;606;550;Theo Mueller;5.1;81;2021
+560;857;550;Wu Guanjiang;5.1;52;2021
+561;560;561;Bernard Broermann;5;77;2021
+562;573;561;Jason Chang;5;77;2021
+563;2629;561;Joshua Harris;5;56;2021
+564;451;561;Vikram Lal;5;79;2021
+565;988;561;Lin Xiucheng;5;65;2021
+566;568;561;Pankaj Patel;5;68;2021
+567;309;561;Enrique Razon jr;5;61;2021
+568;3406;561;Walter Scott Jr;5;89;2021
+569;513;561;Charles Simonyi;5;72;2021
+570;3407;561;Kate Wang;5;39;2021
+571;445;561;Daniel Ziff;5;49;2021
+572;446;561;Dirk Ziff;5;57;2021
+573;447;561;Robert Ziff;5;54;2021
+574;391;574;Stephen Bisciotti;4.9;61;2021
+575;709;574;Chen Dongsheng;4.9;63;2021
+576;2638;574;Charles B. Johnson;4.9;88;2021
+577;653;574;Marc Ladreit de Lacharriere;4.9;80;2021
+578;425;574;Joe Lewis;4.9;84;2021
+579;656;574;Lin Li;4.9;58;2021
+580;454;574;Karen Pritzker;4.9;63;2021
+581;246;574;Abdulsamad Rabiu;4.9;60;2021
+582;512;574;Mark Scheinberg;4.9;47;2021
+583;769;574;Howard Schultz;4.9;67;2021
+584;746;574;Yasumitsu Shigeta;4.9;56;2021
+585;828;574;Thomas Siebel;4.9;68;2021
+586;664;574;Peter Thiel;4.9;53;2021
+587;541;574;Chip Wilson;4.9;64;2021
+588;1540;574;Zhang Fan;4.9;55;2021
+589;3408;589;Pierre Bellon;4.8;91;2021
+590;841;589;Richard Branson;4.8;70;2021
+591;783;589;Huang Yi;4.8;59;2021
+592;549;589;Bidzina Ivanishvili;4.8;65;2021
+593;2625;589;Edward Johnson IV.;4.8;56;2021
+594;493;589;Elizabeth Johnson;4.8;58;2021
+595;2648;589;Ted Lerner;4.8;95;2021
+596;273;589;Lin Shu-hong;4.8;92;2021
+597;352;589;Yuri Milner;4.8;59;2021
+598;596;589;Issad Rebrab;4.8;77;2021
+599;443;589;Thomas Schmidheiny;4.8;75;2021
+600;555;589;Chairul Tanjung;4.8;58;2021
+601;1681;589;Alan Trefler;4.8;65;2021
+602;389;589;Radovan Vitek;4.8;50;2021
+603;641;589;Frank Wang;4.8;40;2021
+604;3031;589;Wang Xicheng;4.8;72;2021
+605;3409;589;Wang Zhendong;4.8;44;2021
+606;1858;589;Bruce Wilson;4.8;;2021
+607;503;589;M.A. Yusuff Ali;4.8;65;2021
+608;571;608;Maria Fernanda Amorim;4.7;86;2021
+609;528;608;Dona Bertarelli;4.7;53;2021
+610;673;608;Hong Jie;4.7;53;2021
+611;385;608;Nathan Kirsh;4.7;89;2021
+612;452;608;Ken Langone;4.7;85;2021
+613;484;608;Michael Pieper;4.7;75;2021
+614;770;608;Richard Schulze;4.7;80;2021
+615;209;608;Eric Smidt;4.7;61;2021
+616;581;608;Tim Sweeney;4.7;50;2021
+617;3410;608;Tang Shing-bor;4.7;87;2021
+618;3411;608;Oleg Tinkov;4.7;53;2021
+619;500;608;Mark Walter;4.7;60;2021
+620;1079;608;Wong Luen Hei;4.7;59;2021
+621;930;608;Zhou Bajin;4.7;86;2021
+622;479;622;Patrizio Bertelli;4.6;75;2021
+623;582;622;Bert Beveridge;4.6;59;2021
+624;2650;622;Martin and Olivier Bouygues;4.6;;2021
+625;1048;622;Chen Lip Keong;4.6;73;2021
+626;1564;622;Dong Fan;4.6;;2021
+627;1297;622;Daniel Ek;4.6;38;2021
+628;253;622;Tilman Fertitta;4.6;63;2021
+629;2856;622;Luiz Frias;4.6;58;2021
+630;815;622;Peter Gassner;4.6;56;2021
+631;587;622;Vladimir Kim;4.6;60;2021
+632;1059;622;Li Weiguo;4.6;56;2021
+633;1117;622;Denis O Brien;4.6;63;2021
+634;485;622;Miuccia Prada;4.6;71;2021
+635;511;622;Robert Rich jr;4.6;80;2021
+636;3412;622;Abhay Vakil;4.6;70;2021
+637;1336;622;Paul-Heinz Wesjohann;4.6;77;2021
+638;526;638;Ron Baron;4.5;77;2021
+639;575;638;Andre Esteves;4.5;52;2021
+640;548;638;Jonathan Gray;4.5;51;2021
+641;905;638;Hu Baifan;4.5;58;2021
+642;151;638;Viatcheslav Kantor;4.5;67;2021
+643;652;638;Min Kao;4.5;72;2021
+644;985;638;Friedrich Knapp;4.5;70;2021
+645;592;638;Richard Li;4.5;54;2021
+646;551;638;Rudolf Maag;4.5;75;2021
+647;483;638;Miao Hangen;4.5;56;2021
+648;519;638;Sami Mnaymneh;4.5;59;2021
+649;343;638;Igor Olenicoff;4.5;78;2021
+650;955;638;Sergei Popov;4.5;49;2021
+651;496;638;Thomas Pritzker;4.5;70;2021
+652;2642;638;Julian Robertson jr;4.5;88;2021
+653;521;638;Tony Tamer;4.5;63;2021
+654;733;638;Zhu Baoguo;4.5;59;2021
+655;645;655;Shari Arison;4.4;63;2021
+656;263;655;Orlando Bravo;4.4;50;2021
+657;1047;655;Garrett Camp;4.4;42;2021
+658;668;655;Nick Caporella;4.4;85;2021
+659;583;655;Mark Cuban;4.4;62;2021
+660;755;655;Yakir Gabay;4.4;55;2021
+661;1300;655;Erman Ilicak;4.4;53;2021
+662;1136;655;Gustav Magnar Witzoe;4.4;28;2021
+663;1985;655;Michael Minhong Yu;4.4;59;2021
+664;705;655;Zhang Daocai;4.4;71;2021
+665;614;665;Stephane Bancel;4.3;48;2021
+666;1418;665;Ralph Dommermuth;4.3;57;2021
+667;649;665;Thomas Hagen;4.3;85;2021
+668;781;665;Pansy Ho;4.3;58;2021
+669;2630;665;Rakesh Jhunjhunwala;4.3;60;2021
+670;2652;665;Lee Yin Yee;4.3;69;2021
+671;654;665;Eric Lefkofsky;4.3;51;2021
+672;788;665;Edwin Leong;4.3;69;2021
+673;2449;665;Pawan Munjal;4.3;67;2021
+674;433;665;Antony Ressler;4.3;59;2021
+675;474;665;Paul Singer;4.3;76;2021
+676;682;665;Kerry Stokes;4.3;80;2021
+677;749;665;Steven Udvar-Hazy;4.3;75;2021
+678;887;665;Takao Yasuda;4.3;72;2021
+679;3029;665;Ye Chenghai;4.3;77;2021
+680;421;680;Alain Bouchard;4.2;72;2021
+681;491;680;Rick Caruso;4.2;62;2021
+682;670;680;Scott Cook;4.2;68;2021
+683;736;680;Barry Diller;4.2;79;2021
+684;2651;680;Traudl Engelhorn;4.2;94;2021
+685;516;680;Fang Wei;4.2;47;2021
+686;868;680;Fu Liquan;4.2;53;2021
+687;671;680;Luca Garavoglia;4.2;52;2021
+688;547;680;Tom Golisano;4.2;79;2021
+689;1259;680;Peter Hargreaves;4.2;74;2021
+690;942;680;Bertil Hult;4.2;80;2021
+691;449;680;Ray Lee Hunt;4.2;78;2021
+692;467;680;James Irving;4.2;93;2021
+693;1512;680;Martin Lau;4.2;48;2021
+694;2285;680;Li Li;4.2;57;2021
+695;2040;680;Liu Fangyi;4.2;;2021
+696;192;680;Luo Liguo;4.2;65;2021
+697;1266;680;Pan Laican;4.2;;2021
+698;795;680;Juan Roig;4.2;71;2021
+699;291;680;Leonard Stern;4.2;83;2021
+700;539;680;Thomas Straumann;4.2;57;2021
+701;772;680;Wang Yanqing;4.2;55;2021
+702;683;680;Ken Xie;4.2;58;2021
+703;886;680;Xue Hua;4.2;;2021
+704;1867;680;Steven Meng Yang;4.2;39;2021
+705;615;705;Margot Birmingham Perot;4.1;87;2021
+706;383;705;David Bonderman;4.1;78;2021
+707;3413;705;Matthew Calkins;4.1;48;2021
+708;931;705;Cho Tak Wong;4.1;74;2021
+709;465;705;Piero Ferrari;4.1;75;2021
+710;466;705;Dan Friedkin;4.1;56;2021
+711;844;705;Laurence Graff;4.1;82;2021
+712;530;705;Martin Haefner;4.1;67;2021
+713;577;705;Hong Ra-hee;4.1;75;2021
+714;758;705;Ji Qi;4.1;54;2021
+715;650;705;Rupert Johnson jr;4.1;80;2021
+716;205;705;Daniel Kretinsky;4.1;45;2021
+717;848;705;William Lauder;4.1;61;2021
+718;536;705;Janice McNair;4.1;84;2021
+719;241;705;John Morris;4.1;73;2021
+720;721;705;Gabe Newell;4.1;58;2021
+721;954;705;Katharina Otto-Bernstein;4.1;57;2021
+722;875;705;Julio Ponce Lerou;4.1;75;2021
+723;638;705;Jon Stryker;4.1;63;2021
+724;1676;705;Suh Kyung-bae;4.1;58;2021
+725;3414;705;Xu Jingren;4.1;76;2021
+726;613;705;Samuel Yin;4.1;70;2021
+727;813;727;Walter P.J. Droege;4;68;2021
+728;1053;727;Du Jiangtao;4;51;2021
+729;689;727;Vinod Rai Gupta;4;;2021
+730;2645;727;Masatoshi Ito;4;97;2021
+731;675;727;Igor Kesaev;4;54;2021
+732;692;727;Koon Poh Keong;4;60;2021
+733;2618;727;Paul Xiaoming Lee;4;63;2021
+734;742;727;Li Xiang;4;39;2021
+735;1449;727;Melissa Ma;4;;2021
+736;1453;727;Kiran Mazumdar-Shaw;4;68;2021
+737;635;727;Gwendolyn Sontheim Meyer;4;59;2021
+738;1064;727;Akira Mori;4;84;2021
+739;1030;727;Georg Nemetschek;4;87;2021
+740;791;727;Masahiro Noda;4;82;2021
+741;993;727;Ajay Piramal;4;65;2021
+742;2679;727;Qiu Guanghe;4;69;2021
+743;745;727;Trevor Rees-Jones;4;69;2021
+744;821;727;Ira Rennert;4;86;2021
+745;609;727;Marc Rowan;4;58;2021
+746;537;727;Ugur Sahin;4;55;2021
+747;410;727;Michal Solowow;4;58;2021
+748;925;727;Udo Tschira;4;;2021
+749;458;727;Wu Jianshu;4;57;2021
+750;1004;727;Ye Xiaoping;4;58;2021
+751;3051;727;Zhou Hongyi;4;50;2021
+752;2665;752;Che Jianxing;3.9;54;2021
+753;778;752;Beatriz Davila de Santo Domingo;3.9;82;2021
+754;617;752;Rafael Del Pino;3.9;62;2021
+755;3415;752;Du Weimin;3.9;57;2021
+756;739;752;Rakesh Gangwal;3.9;67;2021
+757;1257;752;Paul Gauselmann;3.9;86;2021
+758;313;752;Jeff Greene;3.9;66;2021
+759;628;752;Johnelle Hunt;3.9;89;2021
+760;191;752;Jin Baofang;3.9;68;2021
+761;2742;752;Kuan Kam Hon;3.9;73;2021
+762;3026;752;Stephen Mandel Jr;3.9;65;2021
+763;990;752;Gilles Martin;3.9;57;2021
+764;790;752;Masahiro Miki;3.9;65;2021
+765;1119;752;Dan Olsson;3.9;74;2021
+766;455;752;Robert Rowling;3.9;67;2021
+767;997;752;Erik Selin;3.9;53;2021
+768;553;752;Mark Shoen;3.9;70;2021
+769;1955;752;Ben Silbermann;3.9;38;2021
+770;599;752;Maximilian Viessmann;3.9;;2021
+771;1476;752;Wang Linpeng;3.9;53;2021
+772;1242;752;Wu Zhigang;3.9;86;2021
+773;858;752;Yi Zheng;3.9;50;2021
+774;1043;752;Zhang Wenzhong;3.9;59;2021
+775;1050;775;Euisun Chung;3.8;50;2021
+776;806;775;Daniel DAniello;3.8;74;2021
+777;1206;775;Oleg Deripaska;3.8;53;2021
+778;1207;775;Sergey Dmitriev;3.8;55;2021
+779;980;775;Feng Hailiang;3.8;60;2021
+780;869;775;John Gandel;3.8;86;2021
+781;507;775;Gao Dekang;3.8;69;2021
+782;780;775;Jaime Gilinski Bacal;3.8;63;2021
+783;939;775;Sergei Gordeev;3.8;48;2021
+785;845;775;Amos Hostetter jr;3.8;84;2021
+786;944;775;Kuok Khoon Hong;3.8;71;2021
+787;2704;775;Lai Jianping;3.8;;2021
+788;945;775;Aerin Lauder;3.8;51;2021
+789;1175;775;Hans Georg Naeder;3.8;59;2021
+790;1069;775;Maren Otto;3.8;;2021
+791;1523;775;Clive Palmer;3.8;67;2021
+792;1122;775;Karsanbhai Patel;3.8;77;2021
+793;1270;775;Qiu Jianping;3.8;59;2021
+794;486;775;Wolfgang Reimann;3.8;68;2021
+795;487;775;Matthias Reimann-Andersen;3.8;56;2021
+796;488;775;Stefan Reimann-Andersen;3.8;57;2021
+797;489;775;Renate Reimann-Haas;3.8;69;2021
+798;822;775;Dirk Rossmann;3.8;74;2021
+799;700;775;Shaul Shani;3.8;66;2021
+800;2201;775;Song Fei;3.8;54;2021
+801;681;775;Donald Sterling;3.8;87;2021
+802;284;775;Ivar Tollefsen;3.8;59;2021
+803;337;775;Don Vultaggio;3.8;69;2021
+804;730;775;Nusli Wadia;3.8;77;2021
+805;3416;775;Zhang Jin;3.8;49;2021
+806;2663;775;Gongshan Zhu;3.8;63;2021
+807;870;807;Peter Gilgan;3.7;70;2021
+808;629;807;Marian Ilitch;3.7;88;2021
+809;2556;807;Kong Jian Min;3.7;53;2021
+810;907;807;Li Liangbin;3.7;53;2021
+811;1169;807;Li Yongxin;3.7;45;2021
+812;676;807;Mary Alice Dorrance Malone;3.7;71;2021
+813;427;807;Michael Milken;3.7;74;2021
+814;1667;807;Ronald Perelman;3.7;78;2021
+815;2686;807;Candido Pinheiro Koren de Lima;3.7;74;2021
+816;852;807;J. Joe Ricketts;3.7;79;2021
+817;2660;807;Paolo and Gianfelice Mario Rocca;3.7;;2021
+818;1127;807;Jeff Rothschild;3.7;66;2021
+819;915;807;David Rubenstein;3.7;71;2021
+820;1181;807;Maria-Elisabeth Schaeffler-Thumann;3.7;79;2021
+821;701;807;Steven Spielberg;3.7;74;2021
+822;598;807;Barry Sternlicht;3.7;60;2021
+823;728;807;Mark Stevens;3.7;61;2021
+824;428;807;David Steward;3.7;69;2021
+825;926;807;Vincent Viola;3.7;65;2021
+826;885;807;Todd Wanek;3.7;57;2021
+827;1240;807;Roger Wang;3.7;72;2021
+828;600;807;Russ Weiner;3.7;51;2021
+829;644;807;Herbert Wertheim;3.7;81;2021
+830;1338;807;Xu Shugen;3.7;55;2021
+831;2658;831;Anil Agarwal;3.6;67;2021
+832;3417;831;Majid Al Futtaim;3.6;;2021
+833;775;831;Leonid Boguslavsky;3.6;69;2021
+834;3015;831;Austen Cargill II.;3.6;70;2021
+835;707;831;James Cargill II.;3.6;72;2021
+836;1293;831;Chu Lam Yiu;3.6;51;2021
+837;2805;831;Steve Conine;3.6;48;2021
+838;627;831;Hu Kaijun;3.6;59;2021
+839;563;831;S. Curtis Johnson;3.6;66;2021
+840;564;831;Helen Johnson-Leipold;3.6;64;2021
+841;630;831;Daryl Katz;3.6;59;2021
+842;784;831;Peter Kellogg;3.6;78;2021
+843;787;831;Samuel Tak Lee;3.6;82;2021
+844;1219;831;Li Hongxin;3.6;68;2021
+845;717;831;Marianne Liebmann;3.6;67;2021
+846;567;831;Winifred J. Marquart;3.6;62;2021
+847;765;831;Daniel Och;3.6;60;2021
+848;767;831;Anthony Pritzker;3.6;60;2021
+849;876;831;Rodger Riney;3.6;75;2021
+850;2797;831;Niraj Shah;3.6;47;2021
+851;661;831;Lynsi Snyder;3.6;39;2021
+852;702;831;Jerzy Starak;3.6;73;2021
+853;1848;831;Michael Tojner;3.6;55;2021
+854;640;831;Richard Tsai;3.6;63;2021
+855;514;831;Ty Warner;3.6;76;2021
+856;832;831;Yang Shaopeng;3.6;63;2021
+857;2092;831;Yuan Liping;3.6;50;2021
+858;1616;831;Zhang Hongwei;3.6;66;2021
+859;665;859;Andrej Babis;3.5;66;2021
+860;2113;859;Hari Bhartia;3.5;68;2021
+861;667;859;Hubert Burda;3.5;81;2021
+862;2712;859;Chuchat Petaumpai and Daonapa Petampai;3.5;67;2021
+863;754;859;Charles Cohen;3.5;69;2021
+864;899;859;David Filo;3.5;55;2021
+865;901;859;Sergei Galitsky;3.5;53;2021
+866;843;859;Alessandra Garavoglia;3.5;61;2021
+868;741;859;Martha Ingram;3.5;85;2021
+869;562;859;H. Fisk Johnson;3.5;62;2021
+870;1168;859;Li Guoqiang;3.5;57;2021
+871;2789;859;Lim Wee Chai;3.5;63;2021
+872;1026;859;Liu Xiaodong;3.5;53;2021
+873;818;859;Daniel Loeb;3.5;59;2021
+874;1828;859;Jim McKelvey;3.5;55;2021
+875;2567;859;Apoorva Mehta;3.5;34;2021
+876;607;859;N.R. Narayana Murthy;3.5;74;2021
+877;992;859;John Paulson;3.5;65;2021
+878;794;859;J.B. Pritzker;3.5;56;2021
+879;149;859;Michael Rubin;3.5;48;2021
+880;1273;859;Arnout Schuijff;3.5;53;2021
+881;579;859;Thomas Secunda;3.5;66;2021
+882;826;859;Vivek Chaand Sehgal;3.5;64;2021
+883;659;859;E. Joe Shoen;3.5;71;2021
+884;854;859;Leena Tewari;3.5;63;2021
+885;1185;859;Julia Thiele-Schuerhoff;3.5;;2021
+886;523;859;Romesh T. Wadhwani;3.5;73;2021
+887;927;859;Wu Shaoxun;3.5;65;2021
+888;1244;859;Ye Guofu;3.5;43;2021
+889;525;859;Denise York;3.5;70;2021
+890;1044;859;Zhou Jianping;3.5;60;2021
+891;861;891;Mohed Altrad;3.4;73;2021
+892;572;891;Gayle Benson;3.4;74;2021
+893;735;891;Francesco Gaetano Caltagirone;3.4;78;2021
+894;975;891;William Conway jr;3.4;71;2021
+896;934;891;Deng Wen;3.4;53;2021
+897;3419;891;Ennio Doris;3.4;80;2021
+898;1014;891;Bernard Ecclestone;3.4;90;2021
+899;1100;891;Alexander Frolov;3.4;56;2021
+900;1158;891;Fiona Geminder;3.4;56;2021
+901;1021;891;Zarakh Iliev;3.4;54;2021
+902;531;891;Viktor Kharitonin;3.4;48;2021
+903;847;891;Steven Klinsky;3.4;64;2021
+904;1364;891;Chris Larsen;3.4;60;2021
+905;1112;891;Angela Leong;3.4;60;2021
+906;819;891;Margarita Louis-Dreyfus;3.4;58;2021
+907;849;891;John Middleton;3.4;66;2021
+908;873;891;Arnon Milchan;3.4;76;2021
+909;679;891;Arturo Moreno;3.4;74;2021
+910;1031;891;God Nisanov;3.4;49;2021
+911;1665;891;Benjamin Zhengmin Pan;3.4;51;2021
+912;636;891;Jay Paul;3.4;73;2021
+913;824;891;Remo Ruffini;3.4;59;2021
+914;259;891;Patrick Ryan;3.4;83;2021
+915;3420;891;RJ Scaringe;3.4;38;2021
+916;918;891;Lynn Schusterman;3.4;82;2021
+917;2323;891;Eric Ya Shen;3.4;50;2021
+918;639;891;Daniel Tsai;3.4;65;2021
+919;797;891;Tung Chee Chen;3.4;78;2021
+920;1135;891;Bulat Utemuratov;3.4;63;2021
+921;962;891;Frank VanderSloot;3.4;72;2021
+922;556;891;Kelcy Warren;3.4;65;2021
+923;3421;891;Xu Yi;3.4;;2021
+924;1769;891;Vladimir Yevtushenkov;3.4;72;2021
+925;836;925;Somphote Ahunai;3.3;53;2021
+926;862;925;John Arnold;3.3;47;2021
+927;616;925;Neal Blue;3.3;86;2021
+928;1626;925;Alejandro Bulgheroni;3.3;76;2021
+929;897;925;Dong Jinggui;3.3;;2021
+930;1208;925;Joseph Edelman;3.3;65;2021
+931;938;925;Charles Edelstenne;3.3;83;2021
+932;902;925;Senapathy Gopalakrishnan;3.3;66;2021
+934;229;925;Ravi Jaipuria;3.3;66;2021
+935;1104;925;Samvel Karapetyan;3.3;55;2021
+936;785;925;Vyacheslav Kim;3.3;51;2021
+937;1918;925;Jim Koch;3.3;71;2021
+938;588;925;Andre Koo Sr.;3.3;53;2021
+939;2864;925;Yuri Kovalchuk;3.3;69;2021
+940;761;925;Richard LeFrak;3.3;75;2021
+941;1308;925;Kevin David Lehmann;3.3;18;2021
+942;766;925;Horst Paulmann;3.3;86;2021
+943;658;925;Jean Pritzker;3.3;58;2021
+944;1376;925;Qi Xiangdong;3.3;50;2021
+945;958;925;Renzo Rosso;3.3;65;2021
+946;995;925;Stephen Rubin;3.3;84;2021
+947;3024;925;Bernard Saul II.;3.3;89;2021
+948;917;925;Klaus-Peter Schulenberg;3.3;;2021
+949;663;925;Tahir;3.3;69;2021
+950;1276;925;Lucio Tan;3.3;86;2021
+951;1393;925;Lottie Tham;3.3;72;2021
+952;3422;925;Wang Wenxue;3.3;53;2021
+953;856;925;Hans Peter Wild;3.3;79;2021
+954;1042;925;William Wrigley Jr;3.3;57;2021
+955;2095;925;Zhang Xin;3.3;55;2021
+956;890;956;Giuliana Benetton;3.2;83;2021
+957;891;956;Luciano Benetton;3.2;85;2021
+958;559;956;Tomasz Biernacki;3.2;48;2021
+959;1787;956;Chey Tae-won;3.2;60;2021
+960;462;956;John Collison;3.2;30;2021
+961;463;956;Patrick Collison;3.2;32;2021
+962;1093;956;Jack Cowin;3.2;78;2021
+963;464;956;Archie Aldis Emmerson;3.2;92;2021
+964;2134;956;Yoichi Erikawa;3.2;;2021
+965;625;956;Juan Carlos Escotet;3.2;61;2021
+966;576;956;Carlo Fidani;3.2;66;2021
+967;314;956;Don Hankey;3.2;77;2021
+968;1018;956;Otto Happel;3.2;73;2021
+969;1716;956;He Zhaoxi;3.2;47;2021
+970;2693;956;Heidi Horten;3.2;80;2021
+971;2020;956;Ke Zunhong;3.2;66;2021
+972;566;956;Thai Lee;3.2;62;2021
+973;762;956;Mikhail Lomtadze;3.2;45;2021
+974;1028;956;Ronald McAulay;3.2;85;2021
+975;991;956;Maja Oeri;3.2;66;2021
+976;2664;956;James Packer;3.2;53;2021
+977;768;956;John Sall;3.2;73;2021
+978;878;956;Naguib Sawiris;3.2;66;2021
+979;3040;956;Zygmunt Solorz;3.2;64;2021
+980;796;956;Lawrence Stroll;3.2;61;2021
+981;960;956;Rita Tong Liu;3.2;72;2021
+982;748;956;Tsai Cheng-ta;3.2;71;2021
+983;729;956;Tsai Hong-tu;3.2;68;2021
+984;928;956;Steve Wynn;3.2;79;2021
+985;1695;956;Zhang Li;3.2;68;2021
+986;1249;986;Otto Philipp Braun;3.1;43;2021
+987;1010;986;John Caudwell;3.1;68;2021
+988;1414;986;Chi Yufeng;3.1;50;2021
+989;3423;986;Camilla de Godoy Bueno Grossi;3.1;42;2021
+990;896;986;Antonio Del Valle Ruiz;3.1;82;2021
+991;937;986;Martin Ebner;3.1;75;2021
+992;1298;986;John Fisher;3.1;59;2021
+993;1430;986;Jane Goldman;3.1;65;2021
+994;1017;986;Gu Yuhua;3.1;71;2021
+995;1356;986;Hao Hong;3.1;65;2021
+996;2141;986;Hoi Kin Hong;3.1;68;2021
+997;1645;986;Jin Lei;3.1;55;2021
+998;1438;986;Artem Khachatryan;3.1;46;2021
+999;578;986;Li Gaiteng;3.1;49;2021
+1000;1113;986;Li Zhongchu;3.1;57;2021
+1001;1367;986;Harald Link;3.1;66;2021
+1002;1447;986;Sergey Lomakin;3.1;47;2021
+1003;3078;986;Nie Tengyun;3.1;45;2021
+1004;820;986;Prasert Prasarttong-Osoth;3.1;88;2021
+1005;956;986;Penny Pritzker;3.1;62;2021
+1006;853;986;Herb Simon;3.1;86;2021
+1007;2672;986;Jerry Speyer;3.1;80;2021
+1008;1493;1008;Wilhelm Beier;3;65;2021
+1009;1248;1008;Koos Bekker;3;68;2021
+1010;686;1008;Ben Chestnut;3;46;2021
+1011;932;1008;John Coates;3;51;2021
+1012;2930;1008;Pedro de Godoy Bueno;3;31;2021
+1013;1156;1008;Carl Douglas;3;60;2021
+1014;1157;1008;Eric Douglas;3;53;2021
+1015;624;1008;Behdad Eghbali;3;45;2021
+1016;626;1008;Jose E. Feliciano;3;47;2021
+1017;2689;1008;Philippe Foriel-Destezet;3;85;2021
+1018;2409;1008;Gan Zhongru;3;72;2021
+1019;2703;1008;Allan Goldman;3;78;2021
+1020;1502;1008;Amy Goldman Fowler;3;67;2021
+1021;1211;1008;Alec Gores;3;68;2021
+1022;618;1008;Peter Grogg;3;79;2021
+1023;561;1008;Jimmy Haslam;3;67;2021
+1024;619;1008;Christian Haub;3;56;2021
+1025;1019;1008;Gudrun Heine;3;66;2021
+1026;3424;1008;Huang Jinfeng;3;38;2021
+1027;2813;1008;Huang Rulun;3;69;2021
+1028;715;1008;James Irsay;3;61;2021
+1029;1301;1008;Justin Ishbia;3;43;2021
+1030;1509;1008;Diane Kemper;3;75;2021
+1031;1648;1008;George Kurtz;3;50;2021
+1032;693;1008;Dan Kurzius;3;49;2021
+1033;871;1008;Kwek Leng Beng;3;80;2021
+1034;1107;1008;Geoffrey Kwok;3;36;2021
+1035;946;1008;Sheldon Lavin;3;88;2021
+1036;1166;1008;Louis Le Duff;3;74;2021
+1037;1584;1008;James Leprino;3;83;2021
+1038;605;1008;Joseph Liemandt;3;52;2021
+1039;1170;1008;Peter Lim;3;67;2021
+1040;2676;1008;Jeffrey Lurie;3;69;2021
+1041;763;1008;Tom Morris;3;66;2021
+1042;953;1008;Or Wai Sheun;3;69;2021
+1043;2187;1008;P.V. Ramprasad Reddy;3;63;2021
+1044;1037;1008;Haim Saban;3;76;2021
+1045;1230;1008;Ferit Faik Sahenk;3;57;2021
+1046;2577;1008;Eddy Kusnadi Sariaatmadja;3;67;2021
+1047;880;1008;Gil Shwed;3;52;2021
+1048;3021;1008;Song Zuowen;3;74;2021
+1049;959;1008;Friede Springer;3;78;2021
+1050;1040;1008;Sybill Storz;3;84;2021
+1051;922;1008;Pat Stryker;3;65;2021
+1052;1274;1008;Hans Sy;3;65;2021
+1053;1275;1008;Herbert Sy;3;64;2021
+1054;1235;1008;Andrew Tan;3;71;2021
+1055;1329;1008;Tian Ming;3;67;2021
+1056;1853;1008;Wang Changtian;3;56;2021
+1057;477;1008;Richard White;3;66;2021
+1058;2351;1008;Cameron Winklevoss;3;39;2021
+1059;2352;1008;Tyler Winklevoss;3;39;2021
+1060;799;1008;Xia Zuoquan;3;59;2021
+1061;3425;1008;Yin Xin;3;36;2021
+1062;2697;1008;Zhang Lei;3;48;2021
+1063;1081;1008;Zhu Xingming;3;54;2021
+1064;1083;1064;Juan Abello;2.9;79;2021
+1065;1140;1064;Ben Ashkenazy;2.9;51;2021
+1066;685;1064;Sid Bass;2.9;79;2021
+1067;1144;1064;Joesley Batista;2.9;49;2021
+1068;1145;1064;Wesley Batista;2.9;48;2021
+1069;1195;1064;Riley Bechtel;2.9;69;2021
+1070;1624;1064;Sanjeev Bikhchandani;2.9;57;2021
+1071;1412;1064;Cao Ji;2.9;69;2021
+1072;894;1064;Chen Kaixuan;2.9;63;2021
+1073;865;1064;Bennett Dorrance;2.9;75;2021
+1074;1252;1064;Marcel Erni;2.9;56;2021
+1075;866;1064;Walter Faria;2.9;66;2021
+1076;1353;1064;Fu Guangming;2.9;67;2021
+1077;779;1064;Bob Gaglardi;2.9;80;2021
+1078;1256;1064;Alfred Gantner;2.9;53;2021
+1079;1102;1064;Maggie Hardy;2.9;55;2021
+1080;1504;1064;Hu Yangzhong;2.9;56;2021
+1081;1506;1064;Huang Qiaoling;2.9;62;2021
+1082;3027;1064;Huang Zhenda;2.9;73;2021
+1083;757;1064;Brad Jacobs;2.9;64;2021
+1084;1204;1064;Yadu Hari Dalmia;2.9;50;2021
+1085;2021;1064;Kim Taek-jin;2.9;54;2021
+1086;1111;1064;Maritsa Lazari;2.9;76;2021
+1087;872;1064;Pablo Legorreta;2.9;57;2021
+1088;1114;1064;Liang Yunchao;2.9;52;2021
+1089;909;1064;Samir Mehta;2.9;57;2021
+1090;910;1064;Sudhir Mehta;2.9;67;2021
+1091;951;1064;Farhad Moshiri;2.9;65;2021
+1092;1116;1064;Patrice Motsepe;2.9;59;2021
+1093;3426;1064;Matt Moulding;2.9;49;2021
+1094;1457;1064;Alexander Nesis;2.9;58;2021
+1095;1068;1064;Benjamin Otto;2.9;;2021
+1096;3427;1064;Lucy Peng;2.9;48;2021
+1097;1034;1064;Sebastian Pinera;2.9;71;2021
+1098;1177;1064;Alexander Ponomarenko;2.9;56;2021
+1099;744;1064;Chandru Raheja;2.9;80;2021
+1100;1380;1064;Chad Richison;2.9;50;2021
+1101;823;1064;Arkady Rotenberg;2.9;69;2021
+1102;1179;1064;Alejandro Santo Domingo;2.9;44;2021
+1103;2462;1064;Paul Sciarra;2.9;40;2021
+1104;1131;1064;Alexander Skorobogatko;2.9;53;2021
+1105;1233;1064;Jeff Sutton;2.9;61;2021
+1106;1133;1064;Glen Taylor;2.9;80;2021
+1107;1280;1064;Urs Wietlisbach;2.9;59;2021
+1108;1400;1064;Xu Yingzhuo;2.9;53;2021
+1109;929;1064;Jon Yarbrough;2.9;63;2021
+1110;1868;1064;Ye Fan;2.9;50;2021
+1111;835;1111;William Ackman;2.8;54;2021
+1112;964;1111;Abdulla bin Ahmad Al Ghurair;2.8;;2021
+1113;1780;1111;Bai Baokun;2.8;;2021
+1114;1143;1111;David Baszucki;2.8;58;2021
+1115;1345;1111;Aneel Bhusri;2.8;55;2021
+1116;968;1111;Norman Braman;2.8;88;2021
+1117;969;1111;Eva Maria Bucher-Haefner;2.8;64;2021
+1118;1198;1111;Vivek Chand Burman;2.8;84;2021
+1119;669;1111;John Catsimatidis;2.8;72;2021
+1120;1290;1111;Morris Chang;2.8;89;2021
+1121;648;1111;Chen Hua;2.8;55;2021
+1122;2732;1111;Chen Huwen;2.8;50;2021
+1123;2733;1111;Chen Huxiong;2.8;50;2021
+1124;1785;1111;Chen Tianshi;2.8;36;2021
+1125;1011;1111;James Clark;2.8;77;2021
+1126;976;1111;Jean Coutu;2.8;93;2021
+1127;1154;1111;Deng Weiming;2.8;52;2021
+1128;3428;1111;Bergit Douglas;2.8;74;2021
+1129;1253;1111;Doris Fisher;2.8;89;2021
+1130;2259;1111;Gary Friedman;2.8;63;2021
+1131;3429;1111;Valentin Gapontsev;2.8;82;2021
+1132;2677;1111;David Gottesman;2.8;95;2021
+1133;690;1111;John Henry;2.8;71;2021
+1134;782;1111;Alan Howard;2.8;57;2021
+1135;508;1111;Micky Jagtiani;2.8;69;2021
+1136;691;1111;Travis Kalanick;2.8;44;2021
+1137;1163;1111;Alicia Koplowitz;2.8;67;2021
+1138;3386;1111;Timur Kulibayev;2.8;54;2021
+1139;632;1111;Dinara Kulibaeva;2.8;53;2021
+1140;3105;1111;Li Liufa;2.8;63;2021
+1141;1822;1111;Li Sze Lim;2.8;64;2021
+1142;1025;1111;Li Xiaohua;2.8;59;2021
+1143;2289;1111;Liu Ming Hui;2.8;58;2021
+1144;2169;1111;Lv Jianming;2.8;56;2021
+1145;2685;1111;Rudy Ma;2.8;80;2021
+1146;1061;1111;Drayton McLane jr;2.8;84;2021
+1147;1173;1111;Hans Melchers;2.8;83;2021
+1148;2692;1111;Nguyen Thi Phuong Thao;2.8;50;2021
+1149;1066;1111;Philip Niarchos;2.8;67;2021
+1150;722;1111;Alfred Oetker;2.8;54;2021
+1151;725;1111;August Oetker;2.8;76;2021
+1152;723;1111;Carl Ferdinand Oetker;2.8;48;2021
+1153;726;1111;Christian Oetker;2.8;72;2021
+1154;724;1111;Julia Oetker;2.8;42;2021
+1155;727;1111;Richard Oetker;2.8;70;2021
+1156;1375;1111;Heloise Pratt;2.8;58;2021
+1157;1323;1111;Filiz Sahenk;2.8;54;2021
+1158;1529;1111;T. Denny Sanford;2.8;85;2021
+1159;1671;1111;Karin Schick;2.8;;2021
+1160;916;1111;Hilton Schlosberg;2.8;68;2021
+1161;3430;1111;Rosely Schweizer;2.8;80;2021
+1162;921;1111;Warren Stephens;2.8;64;2021
+1163;2205;1111;Konstantin Strukov;2.8;62;2021
+1164;1760;1111;Kenneth Tuchman;2.8;61;2021
+1165;1608;1111;Masateru Uno;2.8;74;2021
+1166;855;1111;Stefan von Holtzbrinck;2.8;57;2021
+1167;2482;1111;Lars Wingefors;2.8;44;2021
+1168;3431;1111;Wong Kwong Yu;2.8;51;2021
+1169;1981;1111;Xiong Wu;2.8;45;2021
+1170;612;1111;Xu Jinfu;2.8;57;2021
+1171;2876;1111;Tony Xu;2.8;36;2021
+1172;1983;1111;Xu Zhihan;2.8;48;2021
+1173;1773;1111;Zhong Ruonong;2.8;58;2021
+1174;1147;1174;Miriam Baumann-Blocher;2.7;46;2021
+1175;1289;1174;Timothy Boyle;2.7;71;2021
+1176;1013;1174;John Paul DeJoria;2.7;77;2021
+1177;1258;1174;Mitchell Goldhar;2.7;59;2021
+1178;903;1174;Luciano Hang;2.7;58;2021
+1179;1299;1174;Georg Haub;2.7;59;2021
+1180;2659;1174;Victor Jacobsson;2.7;39;2021
+1181;1361;1174;James Jannard;2.7;71;2021
+1182;565;1174;Vinod Khosla;2.7;66;2021
+1183;1646;1174;Valentin Kipyatkov;2.7;44;2021
+1184;1311;1174;Lim Kok Thay;2.7;69;2021
+1185;3432;1174;Lu Zhiqiang;2.7;68;2021
+1186;1172;1174;Sergio Mantegazza;2.7;93;2021
+1187;2568;1174;Gabriella Meister;2.7;;2021
+1188;2670;1174;Nan Cunhui;2.7;57;2021
+1189;3433;1174;Ou Zongrong;2.7;57;2021
+1190;1072;1174;Sean Parker;2.7;41;2021
+1191;1123;1174;Richard Peery;2.7;82;2021
+1192;743;1174;H. Ross Perot Jr;2.7;62;2021
+1193;1964;1174;Su Suyu;2.7;72;2021
+1194;1075;1174;Sun Shoukuan;2.7;71;2021
+1195;1388;1174;Harley Sy;2.7;61;2021
+1196;1234;1174;Henry Sy jr;2.7;68;2021
+1197;1389;1174;Teresita Sy-Coson;2.7;70;2021
+1198;1971;1174;Yuequn Tao;2.7;61;2021
+1199;2847;1174;Tong Jinquan;2.7;66;2021
+1200;1277;1174;Tsai Ming-kai;2.7;71;2021
+1201;771;1174;Yitzhak Tshuva;2.7;72;2021
+1202;1241;1174;Oprah Winfrey;2.7;67;2021
+1203;1542;1174;Zhang Wanzhen;2.7;71;2021
+1204;1284;1174;Mortimer Zuckerman;2.7;83;2021
+1205;1245;1205;Brian Acton;2.6;49;2021
+1206;2103;1205;Rajendra Agarwal;2.6;;2021
+1207;1285;1205;John Armitage;2.6;61;2021
+1208;2111;1205;Banwari Lal Bawri;2.6;68;2021
+1209;1994;1205;Girdhari Lal Bawri;2.6;73;2021
+1210;2741;1205;Guilherme Benchimol;2.6;44;2021
+1211;970;1205;Cai Dongchen;2.6;68;2021
+1212;1049;1205;Choo Chong Ngen;2.6;68;2021
+1213;1251;1205;Abilio dos Santos Diniz;2.6;84;2021
+1214;1155;1205;John Dorrance III.;2.6;77;2021
+1215;1097;1205;Bruce Flatt;2.6;55;2021
+1216;1431;1205;Stein Erik Hagen;2.6;64;2021
+1217;1573;1205;Caroline Hagen Kjos;2.6;37;2021
+1218;1433;1205;Hortensia Herrero;2.6;70;2021
+1219;3434;1205;Anthony Hsieh;2.6;56;2021
+1220;1721;1205;Hal Jackman;2.6;88;2021
+1221;1217;1205;Brad Kelley;2.6;64;2021
+1222;1919;1205;Raj Kumar;2.6;66;2021
+1223;1164;1205;Adam Kwok;2.6;38;2021
+1224;1363;1205;Lai Shixian;2.6;46;2021
+1225;1307;1205;Stephen Lansdown;2.6;68;2021
+1226;2041;1205;K.C. Liu;2.6;67;2021
+1227;1517;1205;Aloke Lohia;2.6;62;2021
+1228;1263;1205;Kalanithi Maran;2.6;55;2021
+1229;1174;1205;C. Dean Metropoulos;2.6;75;2021
+1230;1120;1205;Yuji Otsuka;2.6;67;2021
+1231;1268;1205;Daniel Pritzker;2.6;61;2021
+1232;1597;1205;Ren Jianhua;2.6;64;2021
+1233;1036;1205;Alexey Repik;2.6;41;2021
+1234;1180;1205;Steven Sarowitz;2.6;55;2021
+1235;1841;1205;Yuri Shefler;2.6;53;2021
+1236;2913;1205;Shum Chiu Hung;2.6;;2021
+1237;881;1205;Stephen Smith;2.6;69;2021
+1238;554;1205;Dan Snyder;2.6;56;2021
+1239;444;1205;Helmut Sohmen;2.6;81;2021
+1240;1077;1205;Tung Chee Hwa;2.6;83;2021
+1241;1683;1205;Pieter van der Does;2.6;52;2021
+1242;829;1205;Wim van der Leegte;2.6;73;2021
+1243;1687;1205;Evan Williams;2.6;49;2021
+1244;3023;1205;Wu Guangming;2.6;59;2021
+1245;3435;1205;Yang Yuanxi;2.6;;2021
+1246;1484;1205;Yu Qibing;2.6;55;2021
+1247;860;1205;Charles Zegar;2.6;73;2021
+1248;2785;1205;Zhaojiang Zhu;2.6;47;2021
+1249;3436;1249;John Arrillaga;2.5;84;2021
+1250;3437;1249;Carol Jenkins Barnett;2.5;64;2021
+1251;753;1249;William Berkley;2.5;74;2021
+1252;840;1249;Markus Blocher;2.5;50;2021
+1253;1092;1249;Andrei Bokarev;2.5;54;2021
+1254;1702;1249;Jim Breyer;2.5;59;2021
+1255;1197;1249;Charles Bronfman;2.5;89;2021
+1256;2669;1249;Byju Raveendran and Divya Gokulnath;2.5;39;2021
+1257;2389;1249;Chang Jing;2.5;38;2021
+1258;1203;1249;Leon G. Cooperman;2.5;78;2021
+1259;2749;1249;Jose Luis Cutrale;2.5;74;2021
+1260;1254;1249;Gerald Ford;2.5;76;2021
+1261;1637;1249;Phillip Frost;2.5;84;2021
+1262;2859;1249;Mikhail Gutseriev;2.5;63;2021
+1263;1358;1249;Hans-Werner Hector;2.5;81;2021
+1264;2893;1249;Hu Kun;2.5;51;2021
+1265;674;1249;Jeremy Jacobs Sr;2.5;81;2021
+1266;2763;1249;Mark and Robyn Jones;2.5;;2021
+1267;1109;1249;Hans Langer;2.5;69;2021
+1268;2160;1249;Lee Hae-jin;2.5;53;2021
+1269;908;1249;Liang Feng;2.5;52;2021
+1270;987;1249;Lin Ming-hsiung;2.5;71;2021
+1271;789;1249;Mohamed Mansour;2.5;73;2021
+1272;989;1249;Harsh Mariwala;2.5;69;2021
+1273;1062;1249;Najib Mikati;2.5;65;2021
+1274;1063;1249;Taha Mikati;2.5;76;2021
+1275;720;1249;Pedro Moreira Salles;2.5;61;2021
+1276;3438;1249;Jose Neves;2.5;46;2021
+1277;2678;1249;Jerry Ng;2.5;56;2021
+1278;1067;1249;Nandan Nilekani;2.5;65;2021
+1279;914;1249;Ravi Pillai;2.5;67;2021
+1280;1460;1249;Victor Pinchuk;2.5;60;2021
+1281;1524;1249;Matthew Prince;2.5;46;2021
+1282;1228;1249;John Pritzker;2.5;67;2021
+1283;1271;1249;Rajan Raheja;2.5;66;2021
+1284;1272;1249;Matthias Reinhart;2.5;61;2021
+1285;1753;1249;Ruan Shuilong;2.5;85;2021
+1286;1038;1249;Rodney Sacks;2.5;71;2021
+1287;2069;1249;Carlos Sanchez;2.5;59;2021
+1288;1384;1249;Kavitark Ram Shriram;2.5;64;2021
+1289;3439;1249;Andre Street;2.5;37;2021
+1290;1471;1249;Sun Mengquan;2.5;71;2021
+1291;1041;1249;Daniel Sundheim;2.5;44;2021
+1292;1473;1249;Torsten Toeller;2.5;55;2021
+1293;1239;1249;Peter Unger;2.5;76;2021
+1294;1396;1249;Wang Wenmo;2.5;64;2021
+1295;1614;1249;Xie Juhua;2.5;70;2021
+1296;2219;1249;Xu Shaochun;2.5;58;2021
+1297;3440;1249;Eddie and Sol Zakay;2.5;;2021
+1298;1487;1249;Zhao Tao;2.5;55;2021
+1299;558;1299;Michael Ashley;2.4;56;2021
+1300;1146;1299;Yvonne Bauer;2.4;44;2021
+1301;1008;1299;Alberto Bombassei;2.4;80;2021
+1302;1149;1299;Richard Chandler;2.4;62;2021
+1303;3441;1299;David Chen;2.4;40;2021
+1304;1348;1299;Chen Jinxia;2.4;53;2021
+1305;3442;1299;Chen Xiao Ying;2.4;58;2021
+1306;1349;1299;Chen Xueli;2.4;69;2021
+1307;1497;1299;Kiat Chiaravanont;2.4;;2021
+1308;973;1299;Todd Christopher;2.4;58;2021
+1309;1631;1299;Mark Coombs;2.4;60;2021
+1310;2888;1299;Luigi Cremonini;2.4;82;2021
+1311;1051;1299;Smita Crishna-Godrej;2.4;70;2021
+1312;2929;1299;Dai Lizhong;2.4;52;2021
+1313;3443;1299;Eduardo de Pontes;2.4;41;2021
+1314;2716;1299;Chetan Dube;2.4;55;2021
+1315;738;1299;Stephen Feinberg;2.4;61;2021
+1316;1096;1299;Abhay Firodia;2.4;76;2021
+1317;1898;1299;Fu Mingkang;2.4;58;2021
+1318;399;1299;Gao Jifan;2.4;56;2021
+1319;2811;1299;Geng Jianming;2.4;58;2021
+1320;1055;1299;Sebastian Glaser;2.4;;2021
+1321;1056;1299;Adi Godrej;2.4;79;2021
+1322;1057;1299;Jamshyd Godrej;2.4;72;2021
+1323;1101;1299;Nadir Godrej;2.4;70;2021
+1324;2720;1299;Philip and Cristina Green;2.4;69;2021
+1325;2269;1299;Lawrence Ho;2.4;44;2021
+1326;1020;1299;Donald Horton;2.4;71;2021
+1327;1434;1299;Douglas Hsu;2.4;78;2021
+1328;1647;1299;Koo Kwang-mo;2.4;43;2021
+1329;1108;1299;Jonathan Kwok;2.4;29;2021
+1330;1652;1299;Luo Yangyong;2.4;45;2021
+1331;696;1299;Gail Miller;2.4;77;2021
+1332;1589;1299;Robert Miller;2.4;75;2021
+1333;1315;1299;Vadim Moshkovich;2.4;54;2021
+1334;1029;1299;Erwin Franz Mueller;2.4;88;2021
+1335;1065;1299;Rishad Naoroji;2.4;69;2021
+1336;1071;1299;Madhukar Parekh;2.4;75;2021
+1337;1033;1299;Gregorio Perez Companc;2.4;85;2021
+1338;1749;1299;Dmitry Pumpyansky;2.4;57;2021
+1339;2793;1299;Austin Russell;2.4;26;2021
+1340;610;1299;Hussain Sajwani;2.4;68;2021
+1341;473;1299;Jean Salata;2.4;55;2021
+1342;825;1299;Karin Sartorius-Herbst;2.4;;2021
+1343;1382;1299;Alice Schwartz;2.4;94;2021
+1344;2322;1299;Antonio Luiz Seabra;2.4;78;2021
+1345;1231;1299;Wenrong Shen;2.4;75;2021
+1346;2775;1299;Renate Sick-Glaser;2.4;;2021
+1347;1386;1299;William Stone;2.4;66;2021
+1348;1606;1299;Elizabeth Sy;2.4;68;2021
+1349;2336;1299;Tony Tan Caktiong;2.4;68;2021
+1350;1391;1299;Tang Jinkui;2.4;65;2021
+1351;923;1299;Roman Trotsenko;2.4;50;2021
+1352;1238;1299;Donald Trump;2.4;74;2021
+1353;1330;1299;T.Y. Tsai;2.4;68;2021
+1354;2695;1299;John Tyson;2.4;67;2021
+1355;1398;1299;David Wertheim;2.4;63;2021
+1356;3444;1299;Xiong Shaoming;2.4;50;2021
+1357;1282;1299;Yang Jianliang;2.4;51;2021
+1358;1483;1299;Michael Ying;2.4;71;2021
+1359;1486;1299;Zhang Ning;2.4;47;2021
+1360;3445;1299;Zhang Zhixiang;2.4;54;2021
+1361;3093;1299;Zhao Hongfei;2.4;46;2021
+1362;2731;1362;Bill and Jean Adderley;2.3;73;2021
+1363;1192;1362;Bill Alfond;2.3;72;2021
+1364;1193;1362;Susan Alfond;2.3;75;2021
+1365;1194;1362;Ted Alfond;2.3;76;2021
+1366;3446;1362;Carlos Ardila Luelle;2.3;90;2021
+1367;965;1362;Semahat Sevim Arsel;2.3;92;2021
+1368;1344;1362;Sezai Bacaksiz;2.3;71;2021
+1369;1084;1362;Suhail Bahwan;2.3;82;2021
+1370;2758;1362;Bang Jun-hyuk;2.3;52;2021
+1371;1700;1362;Bang Si-hyuk;2.3;48;2021
+1372;1411;1362;Anand Burman;2.3;69;2021
+1373;1009;1362;Cao Longxiang;2.3;63;2021
+1374;708;1362;Vanich Chaiyawan;2.3;89;2021
+1375;1557;1362;Chen Zhisong;2.3;55;2021
+1376;776;1362;Jim Coulter;2.3;61;2021
+1377;978;1362;Edward DeBartolo Jr;2.3;74;2021
+1378;1153;1362;Maria Del Pino;2.3;65;2021
+1379;2399;1362;Deng Yingzhong;2.3;70;2021
+1380;1421;1362;Bob Ell;2.3;76;2021
+1381;1209;1362;Sandeep Engineer;2.3;59;2021
+1382;3447;1362;Fong Yun Wah;2.3;96;2021
+1383;900;1362;Lindsay Fox;2.3;84;2021
+1384;1501;1362;Mario Germano Giuliani;2.3;49;2021
+1385;1428;1362;Harsh Goenka;2.3;63;2021
+1386;1354;1362;Noam Gottesman;2.3;59;2021
+1387;740;1362;Joseph Grendys;2.3;59;2021
+1388;2009;1362;Guan Yihong;2.3;;2021
+1389;2736;1362;David Hains;2.3;90;2021
+1390;904;1362;Michael Hintze;2.3;67;2021
+1391;1159;1362;Stewart Horejsi;2.3;83;2021
+1392;3060;1362;Hua Xuande;2.3;77;2021
+1393;1436;1362;Jared Isaacman;2.3;38;2021
+1394;3448;1362;David Jiang;2.3;42;2021
+1395;468;1362;Jiang Weiping;2.3;66;2021
+1396;3449;1362;Boris Jordan;2.3;54;2021
+1397;1215;1362;Baba Kalyani;2.3;72;2021
+1398;760;1362;Jim Kavanaugh;2.3;58;2021
+1399;1106;1362;Mustafa Rahmi Koc;2.3;90;2021
+1400;1817;1362;Eiichi Kuriwada;2.3;74;2021
+1401;1731;1362;Lai Jianfa;2.3;;2021
+1402;1306;1362;Lam Kong;2.3;56;2021
+1403;2788;1362;David Xueling Li;2.3;48;2021
+1404;2744;1362;Li Xuhui;2.3;52;2021
+1405;1515;1362;Liang Zhaoxian;2.3;56;2021
+1406;2042;1362;Liu Ming Chung;2.3;58;2021
+1407;3304;1362;Alexander Mamut;2.3;61;2021
+1408;949;1362;Daniel Mate;2.3;57;2021
+1409;1313;1362;Clayton Mathile;2.3;80;2021
+1410;911;1362;Aristotelis Mistakidis;2.3;59;2021
+1411;719;1362;Fernando Roberto Moreira Salles;2.3;74;2021
+1412;677;1362;Joao Moreira Salles;2.3;59;2021
+1413;678;1362;Walther Moreira Salles Junior;2.3;65;2021
+1414;1456;1362;Eugene Murtagh;2.3;78;2021
+1415;1664;1362;Nihat Ozdemir;2.3;71;2021
+1416;2755;1362;Gretel Packer;2.3;55;2021
+1417;3450;1362;Andrew Paradise;2.3;39;2021
+1418;1946;1362;Karl-Johan Persson;2.3;46;2021
+1419;2060;1362;Tom Persson;2.3;36;2021
+1420;1073;1362;Stewart Rahr;2.3;75;2021
+1421;1669;1362;Krit Ratanarak;2.3;75;2021
+1422;2795;1362;Michael Saylor;2.3;56;2021
+1423;1381;1362;Karl Scheufele III;2.3;82;2021
+1424;1325;1362;Stephan Schmidheiny;2.3;73;2021
+1425;2912;1362;Vijay Shekhar Sharma;2.3;42;2021
+1426;2075;1362;Charlotte Soderstrom;2.3;44;2021
+1427;1757;1362;Sun Huaiqing;2.3;51;2021
+1428;1678;1362;Sze Man Bok;2.3;71;2021
+1429;1390;1362;Katsumi Tada;2.3;75;2021
+1430;1278;1362;Ted Turner;2.3;82;2021
+1431;1610;1362;Jitendra Virwani;2.3;55;2021
+1432;2478;1362;Arkady Volozh;2.3;57;2021
+1433;1333;1362;Lang Walker;2.3;75;2021
+1434;1480;1362;Wei Ying-Chiao;2.3;66;2021
+1435;3321;1362;Wu Zhongyi;2.3;47;2021
+1436;1481;1362;Elaine Wynn;2.3;79;2021
+1437;2706;1362;Xu Chuanhua;2.3;86;2021
+1438;1281;1362;Jerry Yang;2.3;52;2021
+1439;1283;1362;Yang Weidong;2.3;52;2021
+1440;834;1362;Barry Zekelman;2.3;54;2021
+1441;2366;1362;Zhang Xuezheng;2.3;45;2021
+1442;2367;1362;Zhang Yin;2.3;64;2021
+1443;2224;1362;Kostyantin Zhevago;2.3;47;2021
+1444;1082;1444;Jose Joao Abdalla Filho;2.2;75;2021
+1445;1246;1444;Abdulla Al Futtaim;2.2;;2021
+1446;838;1444;Ramon Ang;2.2;67;2021
+1447;863;1444;Bill Austin;2.2;79;2021
+1448;839;1444;Acharya Balkrishna;2.2;48;2021
+1449;3451;1444;Richard Barton;2.2;53;2021
+1450;1247;1444;Edward Bass;2.2;75;2021
+1451;1196;1444;Thor Bjorgolfsson;2.2;54;2021
+1452;1550;1444;Nikolai Buinov;2.2;53;2021
+1453;1413;1444;Bruce Cheng;2.2;85;2021
+1454;2122;1444;Chin Jong Hwa;2.2;62;2021
+1456;1350;1444;Dermot Desmond;2.2;70;2021
+1457;1294;1444;K. Dinesh;2.2;66;2021
+1458;3020;1444;Frank Fertitta III.;2.2;59;2021
+1459;1054;1444;Lorenzo Fertitta;2.2;52;2021
+1460;1499;1444;Maria Franca Fissolo;2.2;86;2021
+1461;1210;1444;Serge Godin;2.2;71;2021
+1462;2812;1444;Gu Wei;2.2;56;2021
+1463;1355;1444;Jeffrey Gundlach;2.2;62;2021
+1464;3452;1444;Guo Jiangang;2.2;54;2021
+1465;3103;1444;Carlos Hank Rhon;2.2;73;2021
+1466;1715;1444;Gerry Harvey;2.2;81;2021
+1467;2270;1444;Huang Guanlin;2.2;56;2021
+1468;1642;1444;Wei Huang;2.2;61;2021
+1469;1809;1444;Hui Lin Chit;2.2;67;2021
+1470;1814;1444;Randal J. Kirk;2.2;67;2021
+1471;482;1444;Leo Koguan;2.2;66;2021
+1472;943;1444;Miguel Krigsner;2.2;71;2021
+1473;1261;1444;Kwek Leng Kee;2.2;66;2021
+1474;1440;1444;Thomas Kwok;2.2;69;2021
+1475;1732;1444;Lau Cho Kun;2.2;85;2021
+1476;3453;1444;Jeff Lawson;2.2;43;2021
+1477;3070;1444;Max Levchin;2.2;45;2021
+1478;2284;1444;Li Guoqing;2.2;51;2021
+1479;2615;1444;Shuirong Li;2.2;64;2021
+1480;2164;1444;Li Yongqing;2.2;56;2021
+1481;1366;1444;Liang Xinjun;2.2;53;2021
+1482;1445;1444;Lin Chang Su-O;2.2;80;2021
+1483;1516;1444;Lin Fanlian;2.2;59;2021
+1484;1928;1444;Scott Lin;2.2;88;2021
+1485;2296;1444;Mao Zhongwu;2.2;58;2021
+1486;2048;1444;David McMurtry;2.2;81;2021
+1487;2906;1444;Rubens Menin Teixeira de Souza;2.2;65;2021
+1488;1314;1444;Mi Enhua;2.2;63;2021
+1489;851;1444;Bob Parsons;2.2;70;2021
+1490;2962;1444;Catherine Phillips;2.2;;2021
+1491;2963;1444;John Phillips;2.2;70;2021
+1492;1035;1444;Arvind Poddar;2.2;63;2021
+1493;2312;1444;Qian Ying;2.2;55;2021
+1494;1377;1444;Phillip T. (Terry) Ragon;2.2;71;2021
+1495;2717;1444;Alberto Roemmers;2.2;94;2021
+1496;3454;1444;Shashi and Ravi Ruia;2.2;;2021
+1497;3455;1444;Vlad Shmunis;2.2;60;2021
+1498;1326;1444;Alberto Siccardi;2.2;77;2021
+1499;2687;1444;Sebastian Siemiatkowski;2.2;39;2021
+1500;1130;1444;Salil Singhal;2.2;73;2021
+1501;2464;1444;Dean Solon;2.2;56;2021
+1502;1468;1444;Timothy Springer;2.2;73;2021
+1503;680;1444;Peter Spuhler;2.2;61;2021
+1504;1328;1444;Tang Yiu;2.2;87;2021
+1505;1680;1444;Tran Dinh Long;2.2;60;2021
+1506;1186;1444;Anna Katharina Viessmann;2.2;;2021
+1507;1279;1444;David Walentas;2.2;82;2021
+1508;1766;1444;Wu Lanlan;2.2;47;2021
+1509;731;1444;Wu Yiling;2.2;71;2021
+1510;3096;1444;Xiang Wenbo;2.2;58;2021
+1511;2649;1444;Xie Liangzhi;2.2;55;2021
+1512;2361;1444;Xu Yuejuan;2.2;59;2021
+1513;3456;1444;Shintaro Yamada;2.2;43;2021
+1514;2824;1444;Yang Jian;2.2;49;2021
+1515;2852;1444;Gavril Yushvaev;2.2;63;2021
+1516;1340;1444;Zhang Jingzhang;2.2;85;2021
+1517;1491;1517;Michael Ashcroft;2.1;75;2021
+1518;967;1517;George Bishop;2.1;83;2021
+1519;1549;1517;Julio Bozano;2.1;85;2021
+1520;1199;1517;Herb Chambers;2.1;79;2021
+1521;1201;1517;Andrew Cherng;2.1;;2021
+1522;1012;1517;Jacques D Amours;2.1;64;2021
+1523;1152;1517;Ray Davis;2.1;79;2021
+1524;1634;1517;Diao Zhizhong;2.1;57;2021
+1525;1015;1517;Michael Federmann;2.1;77;2021
+1526;2531;1517;William Fisher;2.1;64;2021
+1527;1255;1517;Bernard Fraisse;2.1;64;2021
+1528;3418;1517;Franco Bittar Garcia;2.1;43;2021
+1529;3457;1517;Flavia Bittar Garcia Faleiros;2.1;40;2021
+1530;1425;1517;Gordon Getty;2.1;87;2021
+1531;1900;1517;Philippe Ginestet;2.1;67;2021
+1532;3458;1517;Gong Yingying;2.1;36;2021
+1533;2786;1517;Lutz Mario Helmig;2.1;74;2021
+1534;1719;1517;Ilkka Herlin;2.1;62;2021
+1535;3097;1517;Arthur Xiaobo Hong;2.1;49;2021
+1536;2540;1517;Hong Feng;2.1;44;2021
+1537;2896;1517;Huang Shih Tsai;2.1;69;2021
+1538;3459;1517;Jiang Yehua;2.1;58;2021
+1539;1723;1517;Keeree Kanjanapas;2.1;70;2021
+1540;2152;1517;Alexander Karp;2.1;53;2021
+1541;1303;1517;Bruce Karsh;2.1;65;2021
+1542;1728;1517;Mustafa Kucuk;2.1;57;2021
+1543;1581;1517;Dominika Kulczyk;2.1;43;2021
+1544;341;1517;Philippe Laffont;2.1;53;2021
+1545;1165;1517;Henry Laufer;2.1;75;2021
+1546;1110;1517;Frank Laukien;2.1;61;2021
+1547;1167;1517;Mark Leonard;2.1;65;2021
+1548;2562;1517;Li Wanqiang;2.1;43;2021
+1549;1824;1517;Li Weiwei;2.1;44;2021
+1550;1220;1517;Lin Chen-hai;2.1;74;2021
+1551;3460;1517;Lin Yinsun;2.1;57;2021
+1552;2764;1517;Liu Zhongtian;2.1;57;2021
+1553;1448;1517;Daniel Lubetzky;2.1;52;2021
+1554;1222;1517;Prayudh Mahagitsiri;2.1;75;2021
+1555;1369;1517;Igor Makarov;2.1;59;2021
+1556;1312;1517;Kishore Mariwala;2.1;86;2021
+1557;1370;1517;Howard Marks;2.1;75;2021
+1558;1452;1517;Katarina Martinson;2.1;40;2021
+1559;1115;1517;Vincent McMahon;2.1;75;2021
+1560;1316;1517;David Murdock;2.1;98;2021
+1561;1032;1517;Vikas Oberoi;2.1;50;2021
+1562;2721;1517;Erik Paulsson;2.1;79;2021
+1563;913;1517;Roger Penske;2.1;84;2021
+1564;1459;1517;Florentino Perez;2.1;74;2021
+1565;877;1517;Phil Ruffin;2.1;86;2021
+1566;1324;1517;Richard Sands;2.1;70;2021
+1567;996;1517;Robert Sands;2.1;62;2021
+1568;1183;1517;Dieter Schnabel;2.1;75;2021
+1569;1129;1517;Christiane Schoeller;2.1;;2021
+1570;883;1517;Jeffrey Talpins;2.1;46;2021
+1571;961;1517;Timur Turlov;2.1;33;2021
+1572;2343;1517;Sandro Veronesi;2.1;61;2021
+1573;1761;1517;Wang Chou-hsiong;2.1;80;2021
+1574;1762;1517;Wang Minwen;2.1;57;2021
+1575;1978;1517;Weng Xianding;2.1;59;2021
+1576;831;1517;Michael Xie;2.1;52;2021
+1577;1485;1517;Yuan Fugen;2.1;70;2021
+1578;1405;1517;Zhao Fenggang;2.1;55;2021
+1579;1989;1517;Zhou Zongwen;2.1;64;2021
+1580;1191;1580;S. Daniel Abraham;2;96;2021
+1581;1007;1580;Isak Andic;2;67;2021
+1582;1546;1580;Roberto Angelini Rossi;2;72;2021
+1583;1622;1580;Masaaki Arai;2;55;2021
+1584;1341;1580;George Argyros;2;84;2021
+1585;1492;1580;Pavel Baudis;2;60;2021
+1586;1090;1580;Anne Beaufour;2;57;2021
+1587;1091;1580;Henri Beaufour;2;55;2021
+1588;1346;1580;Brett Blundy;2;61;2021
+1589;1347;1580;J. Hyatt Brown;2;83;2021
+1590;2126;1580;Wenjun Dai;2;52;2021
+1591;1561;1580;Sol Daurella;2;55;2021
+1592;1632;1580;John de Mol;2;66;2021
+1593;1498;1580;Dou Zhenggang;2;67;2021
+1594;1094;1580;Glenn Dubin;2;64;2021
+1595;1708;1580;John Elkann;2;45;2021
+1596;492;1580;Ibrahim Erdemoglu;2;58;2021
+1597;2933;1580;Andy Fang;2;28;2021
+1598;2255;1580;Fang Hongbo;2;54;2021
+1599;1016;1580;Kenneth Feld;2;72;2021
+1600;867;1580;Walter Frey;2;77;2021
+1601;1710;1580;Yasuhiro Fukushima;2;73;2021
+1602;1427;1580;Dennis Gillings;2;77;2021
+1603;981;1580;Sam Goi;2;74;2021
+1604;1432;1580;Bahaa Hariri;2;55;2021
+1605;1806;1580;Ilona Herlin;2;56;2021
+1606;169;1580;Jeffery Hildebrand;2;62;2021
+1607;1213;1580;J. Tomilson Hill;2;72;2021
+1608;2268;1580;Orion Hindawi;2;41;2021
+1609;1575;1580;Reid Hoffman;2;53;2021
+1610;1160;1580;Hou Juncheng;2;56;2021
+1611;714;1580;W. Herbert Hunt;2;92;2021
+1612;2149;1580;George Joseph;2;99;2021
+1613;2277;1580;Ke Yunfeng;2;54;2021
+1614;2023;1580;Sergei Kolesnikov;2;49;2021
+1615;2743;1580;Thomas Lee;2;77;2021
+1616;1921;1580;Peter Leibinger;2;54;2021
+1617;1922;1580;Regine Leibinger;2;58;2021
+1618;1923;1580;Nicola Leibinger-Kammueller;2;61;2021
+1619;1365;1580;Solomon Lew;2;76;2021
+1620;3461;1580;Li Yong;2;44;2021
+1621;3462;1580;Liu Yachao;2;40;2021
+1622;2445;1580;Jeffrey Lorberbaum;2;66;2021
+1623;1264;1580;Jed McCaleb;2;46;2021
+1624;1519;1580;Craig McCaw;2;71;2021
+1625;2051;1580;Miao Yongjun;2;53;2021
+1627;1371;1580;Charles Munger;2;97;2021
+1628;1317;1580;David Nahmad;2;74;2021
+1629;952;1580;Jonathan Nelson;2;64;2021
+1630;1666;1580;Pierre Karl Peladeau;2;59;2021
+1631;2456;1580;Kevin Plank;2;48;2021
+1632;1321;1580;Alberto Prada;2;67;2021
+1633;1322;1580;Marina Prada;2;75;2021
+1634;3463;1580;Mahendra Prasad;2;81;2021
+1635;1595;1580;Jennifer Pritzker;2;70;2021
+1636;1525;1580;Linda Pritzker;2;67;2021
+1637;1752;1580;Joe Rogers jr;2;;2021
+1638;2068;1580;Igor Rybakov;2;48;2021
+1639;2796;1580;Sathien Setthasit;2;67;2021
+1640;622;1580;Mikhail Shelkov;2;52;2021
+1641;1674;1580;Shen Xiqiang;2;73;2021
+1642;1466;1580;Thaksin Shinawatra;2;71;2021
+1643;999;1580;Martua Sitorus;2;61;2021
+1644;1532;1580;Sylvia Stroeher;2;65;2021
+1645;1472;1580;Alexander Svetakov;2;53;2021
+1646;2916;1580;Stanley Tang;2;28;2021
+1647;3131;1580;Tang Xiuguo;2;57;2021
+1648;1758;1580;Alain Taravella;2;73;2021
+1649;1535;1580;Wichai Thongtang;2;74;2021
+1650;1236;1580;Arvind Tiku;2;51;2021
+1651;1475;1580;Hamdi Ulukaya;2;48;2021
+1652;1332;1580;Georg von Opel;2;55;2021
+1653;1611;1580;Wang Chaobin;2;65;2021
+1654;1397;1580;Wang Zhenghua;2;77;2021
+1655;1477;1580;Wei Ing-Chou;2;67;2021
+1656;2485;1580;Horst Wortmann;2;79;2021
+1657;3464;1580;Wu Junbao;2;55;2021
+1658;3045;1580;Wu Kai;2;53;2021
+1659;1691;1580;Amy Wyss;2;50;2021
+1660;1865;1580;Xue Xiangdong;2;62;2021
+1661;1692;1580;Yan Zhi;2;48;2021
+1662;1538;1580;William Young;2;80;2021
+1663;2499;1580;Zhang Xuansong;2;49;2021
+1664;1774;1664;Noubar Afeyan;1.9;58;2021
+1665;1876;1664;Aziz Akhannouch;1.9;60;2021
+1666;2228;1664;Joao Alves de Queiroz Filho;1.9;68;2021
+1667;1490;1664;Andrey Andreev;1.9;47;2021
+1668;1141;1664;Felix Baker;1.9;52;2021
+1669;1142;1664;Julian Baker;1.9;54;2021
+1670;1286;1664;Lee Bass;1.9;64;2021
+1671;3465;1664;Andrey Blokh;1.9;57;2021
+1672;1783;1664;Josef Boquoi;1.9;87;2021
+1673;1551;1664;Nicola Bulgari;1.9;80;2021
+1674;2518;1664;Chen Shiliang;1.9;57;2021
+1675;1250;1664;Chen Tei-fu;1.9;73;2021
+1676;2244;1664;Chung Yong-jin;1.9;52;2021
+1677;2829;1664;Thierry Cruanes;1.9;53;2021
+1678;2526;1664;Benoit Dageville;1.9;54;2021
+1679;1416;1664;Beda Diethelm;1.9;80;2021
+1680;1563;1664;James Dinan;1.9;61;2021
+1681;2527;1664;Mark Dixon;1.9;61;2021
+1682;1567;1664;Bulent Eczacibasi;1.9;71;2021
+1683;2734;1664;Fred Ehrsam;1.9;32;2021
+1684;1709;1664;Francois Feuillet;1.9;72;2021
+1685;2406;1664;Robert Fisher;1.9;67;2021
+1686;1798;1664;William Foley II.;1.9;76;2021
+1687;1800;1664;Gao Yi;1.9;52;2021
+1688;3466;1664;Gao Yu;1.9;;2021
+1689;1429;1664;Sanjiv Goenka;1.9;60;2021
+1690;1572;1664;Surjit Kumar Gupta;1.9;79;2021
+1691;1640;1664;Yusuf Hamied;1.9;84;2021
+1692;1357;1664;Shmuel Harlap;1.9;76;2021
+1693;1212;1664;Bill Haslam;1.9;62;2021
+1694;2751;1664;Roberto Hernandez Ramirez;1.9;79;2021
+1695;2941;1664;Huang Jiangji;1.9;;2021
+1696;1808;1664;Stanley Hubbard;1.9;87;2021
+1697;441;1664;Arthur Irving;1.9;91;2021
+1698;2699;1664;Hamilton James;1.9;69;2021
+1699;3081;1664;Jiang Zhaobai;1.9;57;2021
+1700;3467;1664;Ke Jinlong;1.9;;2021
+1701;3468;1664;Ke Kangbao;1.9;58;2021
+1702;186;1664;Michael Kim;1.9;57;2021
+1703;1022;1664;Ipek Kirac;1.9;36;2021
+1704;2839;1664;Kurt Krieger;1.9;73;2021
+1705;1729;1664;Christopher Kwok;1.9;35;2021
+1706;1730;1664;Edward Kwok;1.9;40;2021
+1707;1733;1664;Alexis Le-Quoc;1.9;;2021
+1708;3469;1664;Li Guangyu;1.9;57;2021
+1709;2903;1664;Hongjing Li;1.9;53;2021
+1710;1925;1664;Li Jiaquan;1.9;57;2021
+1711;1513;1664;Li Min;1.9;55;2021
+1712;1586;1664;Lin Dingqiang;1.9;54;2021
+1713;1651;1664;Louise Lindh;1.9;41;2021
+1714;1742;1664;Yusaku Maezawa;1.9;45;2021
+1715;1450;1664;Anand Mahindra;1.9;66;2021
+1716;1223;1664;Willy Michel;1.9;74;2021
+1717;1224;1664;Lachhman Das Mittal;1.9;90;2021
+1718;2654;1664;Ermirio Pereira de Moraes;1.9;88;2021
+1719;2655;1664;Maria Helena Moraes Scripilliti;1.9;90;2021
+1720;1940;1664;Stefan Olsson;1.9;72;2021
+1721;3470;1664;Peng Yongdong;1.9;41;2021
+1722;1668;1664;Olivier Pomel;1.9;44;2021
+1723;1598;1664;Larry Robbins;1.9;51;2021
+1724;1751;1664;Brian Roberts;1.9;61;2021
+1725;1951;1664;Christopher Rokos;1.9;50;2021
+1726;1675;1664;S.D. Shibulal;1.9;;2021
+1727;1842;1664;Evgeny (Eugene) Shvidler;1.9;;2021
+1728;1959;1664;Frank Slootman;1.9;62;2021
+1729;475;1664;Sergio Stevanato;1.9;78;2021
+1730;1965;1664;Kevin Systrom;1.9;37;2021
+1731;1966;1664;Tan Lili;1.9;;2021
+1732;1972;1664;David Teoh;1.9;65;2021
+1733;2778;1664;Patrizio Vinciarelli;1.9;74;2021
+1734;1686;1664;Todd Wagner;1.9;60;2021
+1735;2480;1664;Wan Long;1.9;80;2021
+1736;2851;1664;Wang Jian;1.9;;2021
+1737;2080;1664;Wang Jilei;1.9;56;2021
+1738;642;1664;Wang Junshi;1.9;72;2021
+1739;1478;1664;Wei Yin-Chun;1.9;64;2021
+1740;1479;1664;Wei Yin-Heng;1.9;62;2021
+1741;1764;1664;Stephen Winn;1.9;74;2021
+1742;1980;1664;Gordon Wu;1.9;85;2021
+1743;1768;1664;Yang Xuegang;1.9;56;2021
+1744;1402;1664;Huijiao Yu;1.9;55;2021
+1745;1871;1664;Zeng Kaitian;1.9;46;2021
+1746;164;1664;Changpeng Zhao;1.9;45;2021
+1747;2370;1664;Zhu Xingliang;1.9;62;2021
+1748;1545;1664;Zhu Yiwen;1.9;;2021
+1749;1617;1664;Anita Zucker;1.9;69;2021
+1750;1489;1750;Mohamed Al Fayed;1.8;92;2021
+1751;1621;1750;Leslie Alexander;1.8;77;2021
+1752;2802;1750;Joachim Ante;1.8;38;2021
+1753;2106;1750;Roman Avdeev;1.8;53;2021
+1754;892;1750;Arun Bharat Ram;1.8;80;2021
+1755;1625;1750;O. Francis Biondi;1.8;;2021
+1756;1995;1750;John Bloor;1.8;77;2021
+1757;1996;1750;Vladimir Bogdanov;1.8;69;2021
+1758;1701;1750;David Booth;1.8;75;2021
+1759;2116;1750;Cai Mingtong;1.8;69;2021
+1760;2887;1750;Yvon Chouinard;1.8;82;2021
+1761;1790;1750;Jack Cockwell;1.8;80;2021
+1762;1704;1750;Kommer Damen;1.8;77;2021
+1763;1633;1750;D. Leopoldo Del Pino;1.8;;2021
+1764;1794;1750;Jamie Dimon;1.8;65;2021
+1765;1635;1750;Robert Duggan;1.8;77;2021
+1766;1568;1750;Faruk Eczacibasi;1.8;66;2021
+1767;1095;1750;N. Murray Edwards;1.8;;2021
+1768;3471;1750;Anthony Eisen;1.8;49;2021
+1769;574;1750;Ali Erdemoglu;1.8;61;2021
+1770;1636;1750;James France;1.8;76;2021
+1771;1711;1750;Mario Gabelli;1.8;79;2021
+1772;2006;1750;Reinold Geiger;1.8;73;2021
+1773;1712;1750;Rolf Gerling;1.8;66;2021
+1774;2007;1750;Ali Ghodsi;1.8;42;2021
+1775;3472;1750;Carl Hansen;1.8;47;2021
+1776;3473;1750;He Xinming;1.8;;2021
+1777;1717;1750;William Heinecke;1.8;71;2021
+1778;1641;1750;Brian Higgins;1.8;56;2021
+1779;2420;1750;David Hindawi;1.8;76;2021
+1780;2017;1750;Drew Houston;1.8;38;2021
+1781;1360;1750;Thomas James;1.8;78;2021
+1782;1912;1750;Stephen Jarislowsky;1.8;95;2021
+1783;3474;1750;Jin Huiming;1.8;68;2021
+1784;1362;1750;Willis Johnson;1.8;73;2021
+1785;1162;1750;Dmitry Kamenshchik;1.8;53;2021
+1786;2555;1750;Ihor Kolomoyskyy;1.8;58;2021
+1787;1442;1750;Marc Lasry;1.8;60;2021
+1788;906;1750;Lee Boo-jin;1.8;50;2021
+1789;1734;1750;Lei Jufang;1.8;68;2021
+1790;1218;1750;Wolfgang Leitner;1.8;68;2021
+1791;1926;1750;Li Rucheng;1.8;69;2021
+1792;1826;1750;Vincent Lo;1.8;72;2021
+1793;3475;1750;Juan Lopez-Belmonte Lopez;1.8;;2021
+1794;2904;1750;Dalong Lv;1.8;59;2021
+1795;1653;1750;Joao Roberto Marinho;1.8;67;2021
+1796;1654;1750;Jose Roberto Marinho;1.8;65;2021
+1797;1655;1750;Roberto Irineu Marinho;1.8;73;2021
+1798;2050;1750;Miao Shouliang;1.8;66;2021
+1799;1934;1750;Romano Minozzi;1.8;86;2021
+1800;3476;1750;Nick Molnar;1.8;30;2021
+1801;1522;1750;Oei Hong Leong;1.8;73;2021
+1802;2181;1750;Kazuo Okada;1.8;78;2021
+1803;2182;1750;John Oyler;1.8;53;2021
+1804;3477;1750;Husnu Ozyegin;1.8;76;2021
+1805;1267;1750;Tor Peterson;1.8;56;2021
+1806;2791;1750;Jorge Pinheiro Koren de Lima;1.8;48;2021
+1808;2458;1750;Pu Zhongjie;1.8;58;2021
+1809;2062;1750;Qin Long;1.8;55;2021
+1810;3478;1750;Alvaro Saieh Bendeck;1.8;71;2021
+1811;3479;1750;Glenn Sanford;1.8;54;2021
+1812;1182;1750;Leonard Schleifer;1.8;68;2021
+1813;1840;1750;Shang Xiaobo;1.8;47;2021
+1814;1603;1750;Shi Wen-long;1.8;93;2021
+1815;1465;1750;Shi Yifeng;1.8;47;2021
+1816;1963;1750;Sergei Studennikov;1.8;54;2021
+1817;3028;1750;Sun Guangxin;1.8;58;2021
+1818;1387;1750;Henry Swieca;1.8;63;2021
+1819;2473;1750;Tan Yu Yeh;1.8;50;2021
+1820;703;1750;Torbjorn Tornqvist;1.8;67;2021
+1821;1684;1750;Martin Viessmann;1.8;67;2021
+1822;3480;1750;Wang Lizhan;1.8;;2021
+1823;2214;1750;Wei Lidong;1.8;45;2021
+1824;2746;1750;Kanye West;1.8;43;2021
+1825;3126;1750;Wu Bo;1.8;67;2021
+1826;2486;1750;Wu Kaiting;1.8;51;2021
+1827;2217;1750;Wu Xushun;1.8;73;2021
+1828;2089;1750;Xu Guozhong;1.8;57;2021
+1829;2800;1750;Yang Tingdong;1.8;60;2021
+1830;1872;1750;Zhang Xuexin;1.8;73;2021
+1831;2782;1750;Zhang Yubai;1.8;56;2021
+1832;2707;1750;Weiguo Zhao;1.8;54;2021
+1833;2104;1833;Chirayu Amin;1.7;74;2021
+1834;1697;1833;Marc Andreessen;1.7;49;2021
+1835;1777;1833;Vasily Anisimov;1.7;69;2021
+1836;1623;1833;Sabrina Benetton;1.7;47;2021
+1837;966;1833;Nicolas Berggruen;1.7;59;2021
+1838;1781;1833;Alex Birkenstock;1.7;52;2021
+1839;1782;1833;Christian Birkenstock;1.7;48;2021
+1840;2378;1833;Henadiy Boholyubov;1.7;59;2021
+1841;3481;1833;Peter Buck;1.7;90;2021
+1842;1887;1833;Saket Burman;1.7;44;2021
+1843;2115;1833;Stewart Butterfield;1.7;48;2021
+1844;2387;1833;Giuliana Caprotti;1.7;80;2021
+1845;2388;1833;Marina Caprotti;1.7;43;2021
+1846;1627;1833;R.G. Chandramogan;1.7;;2021
+1847;2119;1833;Richard Chang;1.7;74;2021
+1848;1291;1833;Chao Teng-hsiung;1.7;76;2021
+1849;3482;1833;Chen Guoxiang;1.7;70;2021
+1850;2393;1833;Tony Chen;1.7;71;2021
+1851;2000;1833;Chen Wenyuan;1.7;53;2021
+1852;2394;1833;Chen Xueling;1.7;53;2021
+1853;2243;1833;Cheng Xianfeng;1.7;52;2021
+1854;1415;1833;Daniel Chiu;1.7;60;2021
+1855;1788;1833;Ivan Chrenko;1.7;53;2021
+1856;895;1833;Brunello Cucinelli;1.7;67;2021
+1857;1560;1833;Alexandra Daitch;1.7;58;2021
+1858;2401;1833;Henry Engelhardt;1.7;63;2021
+1859;2135;1833;Philip Fayer;1.7;;2021
+1860;2256;1833;David Feffer;1.7;64;2021
+1861;1422;1833;Paul Foster;1.7;63;2021
+1862;2407;1833;Bernd Freier;1.7;64;2021
+1863;1099;1833;Robert Friedland;1.7;70;2021
+1864;1801;1833;Giammaria Giuliani;1.7;43;2021
+1865;1901;1833;G. Gnanalingam;1.7;76;2021
+1866;1639;1833;Christopher Goldsbury;1.7;78;2021
+1867;2415;1833;Said Gutseriev;1.7;33;2021
+1868;3483;1833;Chang-Woo Han;1.7;90;2021
+1869;1503;1833;John Hancock;1.7;45;2021
+1870;1904;1833;Patrick Hanrahan;1.7;65;2021
+1871;2015;1833;Christoph Henkel;1.7;63;2021
+1872;2145;1833;Anurang Jain;1.7;59;2021
+1873;3484;1833;Devendra Jain;1.7;92;2021
+1874;3043;1833;Jia Tianjiang;1.7;58;2021
+1875;3485;1833;Eric Jing;1.7;48;2021
+1876;2425;1833;Chatchai Kaewbootta;1.7;69;2021
+1877;1812;1833;Sergei Katsiev;1.7;63;2021
+1878;2838;1833;Kim Sang-yeol;1.7;60;2021
+1879;2155;1833;Kagemasa Kozuki;1.7;80;2021
+1880;1582;1833;Edward Lampert;1.7;58;2021
+1881;2816;1833;Lee Joon-ho;1.7;56;2021
+1882;1023;1833;Lee Seo-hyun;1.7;47;2021
+1883;1737;1833;Jimmy John Liautaud;1.7;57;2021
+1884;1585;1833;David Lichtenstein;1.7;59;2021
+1885;3486;1833;Bill Liu;1.7;38;2021
+1886;1739;1833;Lu Di;1.7;;2021
+1887;2566;1833;Ma Xiuhui;1.7;50;2021
+1888;1587;1833;Sarah MacMillan;1.7;67;2021
+1889;2174;1833;Yves-Loic Martin;1.7;55;2021
+1890;2905;1833;Todd McKinnon;1.7;49;2021
+1891;3049;1833;Shalom Meckenzie;1.7;44;2021
+1892;1656;1833;Gary Michelson;1.7;72;2021
+1893;1593;1833;Narendrakumar Parekh;1.7;83;2021
+1894;1748;1833;Jorge Perez;1.7;71;2021
+1895;2308;1833;Markus Persson;1.7;41;2021
+1896;1178;1833;Nicholas Pritzker;1.7;77;2021
+1897;957;1833;Theodore Rachmat;1.7;77;2021
+1898;2910;1833;Megdet Rahimkulov;1.7;75;2021
+1899;1379;1833;Jerry Reinsdorf;1.7;85;2021
+1900;2064;1833;Mochtar Riady;1.7;91;2021
+1901;1527;1833;Bianca Rinehart;1.7;44;2021
+1902;1528;1833;Ginia Rinehart;1.7;34;2021
+1903;2189;1833;Fernando Roig;1.7;73;2021
+1904;1953;1833;Sheryl Sandberg;1.7;51;2021
+1905;1838;1833;Andres Santo Domingo;1.7;42;2021
+1906;2794;1833;Ivan Savvidis;1.7;62;2021
+1907;3048;1833;Shao Genhuo;1.7;55;2021
+1908;2774;1833;Shao Qinxiang;1.7;66;2021
+1909;1756;1833;Rajju Shroff;1.7;87;2021
+1910;1605;1833;Lucy Stitzer;1.7;61;2021
+1911;662;1833;Djoko Susanto;1.7;71;2021
+1912;3487;1833;Peter Szulczewski;1.7;39;2021
+1913;2475;1833;Vonnarat Tangkaravakoon;1.7;49;2021
+1914;1536;1833;Ion Tiriac;1.7;81;2021
+1915;2208;1833;Robert Toennies;1.7;42;2021
+1916;2477;1833;Tung Ching Sai;1.7;56;2021
+1917;261;1833;Pavel Tykac;1.7;56;2021
+1918;704;1833;Rufino Vigil Gonzalez;1.7;72;2021
+1919;1977;1833;Wang Junmin;1.7;52;2021
+1921;1613;1833;Charlotte Colket Weber;1.7;78;2021
+1922;1537;1833;Hope Welker;1.7;35;2021
+1923;1861;1833;Wu Ying;1.7;57;2021
+1924;1862;1833;Wu Yulan;1.7;51;2021
+1925;1243;1833;Xie Weitong;1.7;64;2021
+1926;1482;1833;Xu Xudong;1.7;51;2021
+1927;2363;1833;Yang Yunyun;1.7;44;2021
+1928;2877;1833;Ye Yanqiao;1.7;51;2021
+1929;2221;1833;Zeng Chaoyi;1.7;52;2021
+1930;2603;1833;Zhang Guiping;1.7;69;2021
+1931;1620;1931;Faisal Bin Qassim Al Thani;1.6;73;2021
+1932;1881;1931;Patricia Angelini Rossi;1.6;67;2021
+1933;1699;1931;Lesley Bamberger;1.6;55;2021
+1934;1410;1931;William Boyd;1.6;89;2021
+1935;2238;1931;Bernhard Braun-Luedicke;1.6;44;2021
+1936;2239;1931;Eva Maria Braun-Luedicke;1.6;34;2021
+1937;2240;1931;Friederike Braun-Luedicke;1.6;37;2021
+1938;1997;1931;Amit Burman;1.6;51;2021
+1939;971;1931;Jean-Pierre Cayard;1.6;78;2021
+1940;1703;1931;Chen Kaichen;1.6;;2021
+1941;1556;1931;Chen Qiongxiang;1.6;;2021
+1942;2120;1931;Chen Xuehua;1.6;60;2021
+1943;1786;1931;Chen Yung-tai;1.6;85;2021
+1944;3488;1931;Chen Zemin;1.6;78;2021
+1945;933;1931;Ryan Cohen;1.6;35;2021
+1946;1793;1931;Norbert Dentressangle;1.6;66;2021
+1947;1896;1931;Mohammed Dewji;1.6;45;2021
+1948;3489;1931;Ding Lieming;1.6;57;2021
+1949;1417;1931;Domenico Dolce;1.6;62;2021
+1950;1566;1931;Lisa Draexlmaier;1.6;30;2021
+1951;1796;1931;Alfredo Egydio Arruda Villela Filho;1.6;51;2021
+1952;2402;1931;Daniel Feffer;1.6;61;2021
+1953;3111;1931;Jorge Feffer;1.6;56;2021
+1954;2403;1931;Ruben Feffer;1.6;;2021
+1955;3490;1931;Henrik Fisker;1.6;57;2021
+1956;1098;1931;Miguel Fluxa Rossello;1.6;82;2021
+1957;2771;1931;Donald Foss;1.6;76;2021
+1958;2857;1931;Susumu Fujita;1.6;47;2021
+1959;1423;1931;Stefano Gabbana;1.6;58;2021
+1960;1714;1931;Alexandre Grendene Bartelle;1.6;71;2021
+1961;3491;1931;Geeta Gupta-Fisker;1.6;46;2021
+1962;2140;1931;Heikki Herlin;1.6;34;2021
+1963;1720;1931;Asok Kumar Hiranandani;1.6;66;2021
+1964;1908;1931;Niranjan Hiranandani;1.6;71;2021
+1965;1909;1931;Ho Hung Anh;1.6;50;2021
+1966;3492;1931;Huang Zhengcong;1.6;54;2021
+1967;1577;1931;B. Wayne Hughes Jr;1.6;60;2021
+1968;3041;1931;Jiang Yintai;1.6;70;2021
+1969;1508;1931;Michael Jordan;1.6;58;2021
+1970;2276;1931;Ke Guihua;1.6;55;2021
+1971;2278;1931;Alexander Klyachin;1.6;53;2021
+1972;1815;1931;William Koch;1.6;81;2021
+1973;2025;1931;Sebastian Kulczyk;1.6;40;2021
+1974;1818;1931;Robert Langer;1.6;72;2021
+1975;3054;1931;Manuel Lao Hernandez;1.6;76;2021
+1976;2034;1931;Michael Lee-Chin;1.6;70;2021
+1978;2287;1931;Zhen Li;1.6;57;2021
+1979;3493;1931;Liang Yanfeng;1.6;56;2021
+1980;2039;1931;Jenny Linden Urnes;1.6;50;2021
+1981;3494;1931;Liu Yingqi;1.6;44;2021
+1982;1262;1931;Catherine Lozick;1.6;76;2021
+1983;2046;1931;Gary Magness;1.6;67;2021
+1984;2047;1931;Mao Lixiang;1.6;80;2021
+1985;1658;1931;David Mindus;1.6;49;2021
+1986;1830;1931;Massimo Moratti;1.6;75;2021
+1987;1936;1931;Mario Moretti Polegato;1.6;68;2021
+1988;1458;1931;Ni Zugen;1.6;64;2021
+1989;1591;1931;Kentaro Ogawa;1.6;72;2021
+1990;1226;1931;Tomas Olivo Lopez;1.6;47;2021
+1991;1941;1931;Rubens Ometto Silveira Mello;1.6;71;2021
+1992;2867;1931;Pan Gang;1.6;50;2021
+1993;1592;1931;Ajay Parekh;1.6;63;2021
+1994;2059;1931;David Paul;1.6;54;2021
+1995;1944;1931;Nelson Peltz;1.6;78;2021
+1996;3495;1931;Petro Poroshenko;1.6;55;2021
+1997;1596;1931;G. Rajendran;1.6;78;2021
+1998;1463;1931;P.P. Reddy;1.6;63;2021
+1999;1836;1931;Francisco Jose Riberas Mera;1.6;56;2021
+2000;1837;1931;Juan Maria Riberas Mera;1.6;52;2021
+2001;2067;1931;Subhash Runwal;1.6;77;2021
+2002;2192;1931;Deniz Sahenk;1.6;75;2021
+2003;1530;1931;Bhadresh Shah;1.6;69;2021
+2004;2700;1931;Shen Hua;1.6;58;2021
+2005;2688;1931;Barry Silbert;1.6;44;2021
+2006;1957;1931;Leonid Simanovsky;1.6;71;2021
+2007;1845;1931;Peter Sperling;1.6;61;2021
+2008;2470;1931;Sun Weijie;1.6;57;2021
+2009;3496;1931;Tang Jianfang;1.6;;2021
+2010;1969;1931;Prachak Tangkaravakoon;1.6;77;2021
+2011;2207;1931;Clemens Toennies;1.6;64;2021
+2012;1974;1931;Tran Ba Duong;1.6;61;2021
+2013;1076;1931;Tseng Cheng;1.6;59;2021
+2014;2799;1931;Tung Ching Bor;1.6;58;2021
+2015;2588;1931;Shigefumi Wada;1.6;68;2021
+2016;2873;1931;Wang Qinghua;1.6;55;2021
+2017;3497;1931;Wang Xuechao;1.6;;2021
+2018;3498;1931;Wang Yiran;1.6;41;2021
+2019;2215;1931;Myron Wentz;1.6;81;2021
+2020;1765;1931;Ian Wood;1.6;78;2021
+2021;2087;1931;Wu Chaoqun;1.6;51;2021
+2022;1690;1931;Wu Yingming;1.6;54;2021
+2023;1337;1931;Xie Bingkun;1.6;54;2021
+2024;2489;1931;Xiu Laigui;1.6;66;2021
+2025;2984;1931;Yang Erzhu;1.6;70;2021
+2026;3499;1931;Yang Lijuan;1.6;43;2021
+2027;2090;1931;Yao Kuizhang;1.6;56;2021
+2028;2091;1931;Yu Peidi;1.6;61;2021
+2029;1770;1931;David Zalik;1.6;47;2021
+2030;2988;1931;Zhang Cheng Fei;1.6;53;2021
+2031;2094;1931;Zhang Keqiang;1.6;61;2021
+2032;2682;1931;Zhang Shilong;1.6;55;2021
+2033;1771;1931;Zhang Xiaojuan;1.6;51;2021
+2034;3500;1931;Zhang Yuanlin;1.6;45;2021
+2035;1990;2035;Antti Aarnio-Wihuri;1.5;81;2021
+2036;1877;2035;Hamdi Akin;1.5;66;2021
+2037;1776;2035;Herbert Allen jr;1.5;81;2021
+2038;1088;2035;Harindarpal Banga;1.5;70;2021
+2039;1089;2035;Ulrike Baro;1.5;;2021
+2040;1406;2035;Alex Beard;1.5;53;2021
+2041;1883;2035;Barbara Benetton;1.5;51;2021
+2042;1886;2035;Paolo Bulgari;1.5;83;2021
+2043;893;2035;Ron Burkle;1.5;68;2021
+2044;1888;2035;Ahmet Calik;1.5;63;2021
+2045;1999;2035;Steve Case;1.5;62;2021
+2046;1889;2035;Safra Catz;1.5;59;2021
+2047;2390;2035;Chen Baohua;1.5;59;2021
+2048;2242;2035;Chen Xianbao;1.5;61;2021
+2049;3501;2035;Chen Xiaohui;1.5;50;2021
+2050;1558;2035;Manas Chiaravanond;1.5;;2021
+2051;1496;2035;Phongthep Chiaravanont;1.5;69;2021
+2052;1559;2035;Prathip Chiravanond;1.5;;2021
+2053;2124;2035;Alberto Cortina;1.5;75;2021
+2054;1895;2035;Bharat Desai;1.5;68;2021
+2055;2889;2035;Tim Draper;1.5;62;2021
+2056;2004;2035;John Farber;1.5;95;2021
+2057;1797;2035;Gary Fegel;1.5;47;2021
+2058;2835;2035;John Foley;1.5;50;2021
+2059;2891;2035;Geng Diangen;1.5;64;2021
+2060;1899;2035;Alan Gerry;1.5;92;2021
+2061;1902;2035;Esther Grether;1.5;85;2021
+2062;1802;2035;Bill Gross;1.5;77;2021
+2063;1803;2035;Sue Gross;1.5;71;2021
+2064;3502;2035;Guo Ziwen;1.5;57;2021
+2065;2011;2035;Torstein Hagen;1.5;78;2021
+2066;3503;2035;Huang Wen Tsai;1.5;67;2021
+2067;2897;2035;Huang Wenbiao;1.5;54;2021
+2068;2772;2035;Huh Jae-myung;1.5;50;2021
+2069;1915;2035;Ke Xiping;1.5;60;2021
+2070;1916;2035;Kim Jun-ki;1.5;76;2021
+2071;2154;2035;Seth Klarman;1.5;64;2021
+2072;1816;2035;Pyotr Kondrashev;1.5;71;2021
+2073;2032;2035;Raymond Kwok;1.5;68;2021
+2074;1511;2035;Heikki Kyostila;1.5;75;2021
+2075;2438;2035;Arvind Lal;1.5;71;2021
+2076;1819;2035;Anthony Langley;1.5;66;2021
+2077;1443;2035;Christian Latouche;1.5;80;2021
+2078;2159;2035;Gary Lauder;1.5;59;2021
+2079;1735;2035;James Leininger;1.5;76;2021
+2080;2443;2035;Lin Zhijun;1.5;45;2021
+2081;2444;2035;Lin Zhixiong;1.5;47;2021
+2082;948;2035;Vladimir Litvinenko;1.5;65;2021
+2083;1929;2035;Liu Xiucai;1.5;64;2021
+2084;1931;2035;Lu Zongjun;1.5;57;2021
+2085;1741;2035;Duncan MacMillan;1.5;83;2021
+2086;1932;2035;Youssef Mansour;1.5;75;2021
+2087;2173;2035;George Marcus;1.5;79;2021
+2088;1588;2035;Strive Masiyiwa;1.5;60;2021
+2089;2773;2035;Billy Joe (Red) McCombs;1.5;93;2021
+2090;2298;2035;Lorinc Meszaros;1.5;55;2021
+2091;1938;2035;Jerry Moyes;1.5;77;2021
+2092;2053;2035;Marius Nacht;1.5;55;2021
+2093;1661;2035;Ezra Nahmad;1.5;75;2021
+2094;2056;2035;Niti Osathanugrah;1.5;47;2021
+2095;1745;2035;Alberto Palatchi;1.5;71;2021
+2096;1594;2035;Sushilkumar Parekh;1.5;88;2021
+2097;1318;2035;Lirio Parisotto;1.5;67;2021
+2098;2309;2035;Mark Pincus;1.5;55;2021
+2099;1835;2035;Michael Polsky;1.5;72;2021
+2100;2869;2035;P.V.Krishna Reddy;1.5;51;2021
+2101;1378;2035;Prathap Reddy;1.5;89;2021
+2102;2188;2035;Satish Reddy;1.5;53;2021
+2103;2792;2035;Ren Jinsheng;1.5;58;2021
+2104;2460;2035;Helena Revoredo;1.5;74;2021
+2105;2461;2035;Matthew Roszak;1.5;48;2021
+2106;1670;2035;Vinod Saraf;1.5;68;2021
+2107;2820;2035;Fayez Sarofim;1.5;92;2021
+2108;2967;2035;Steven Schuurman;1.5;45;2021
+2109;1958;2035;Basudeo Singh;1.5;80;2021
+2110;1843;2035;Ryan Smith;1.5;42;2021
+2111;1604;2035;Peter Sondakh;1.5;71;2021
+2112;2845;2035;Sun Qinghuan;1.5;47;2021
+2113;3504;2035;Sun Yonghui;1.5;50;2021
+2114;2335;2035;Luc Tack;1.5;59;2021
+2115;2850;2035;Fernando Trajano;1.5;;2021
+2116;1849;2035;August Troendle;1.5;65;2021
+2117;1975;2035;Kenny Troutt;1.5;73;2021
+2118;2209;2035;John Van Lieshout;1.5;75;2021
+2119;1395;2035;Radha Vembu;1.5;48;2021
+2120;3505;2035;Wang Huiwen;1.5;43;2021
+2121;2745;2035;Wenbiao Wang;1.5;64;2021
+2122;3506;2035;Wang Yaohai;1.5;54;2021
+2123;2082;2035;Wang Zelong;1.5;24;2021
+2124;2922;2035;Wang Zhentao;1.5;55;2021
+2125;3507;2035;Wen Yilong;1.5;32;2021
+2126;1689;2035;Thomas Wu;1.5;71;2021
+2127;2981;2035;Wu Zhenxing;1.5;51;2021
+2128;1864;2035;Xiang Guangming;1.5;57;2021
+2129;2597;2035;Xu Gang;1.5;58;2021
+2130;2823;2035;Xu Wanmao;1.5;76;2021
+2131;2983;2035;Jane Yan;1.5;51;2021
+2132;3508;2035;Ye Cheng;1.5;59;2021
+2133;1869;2035;Yi Dasheng;1.5;60;2021
+2134;2600;2035;Yu Rong;1.5;49;2021
+2135;3509;2035;Yuan Zhimin;1.5;60;2021
+2136;2497;2035;Zeng Chaolin;1.5;38;2021
+2137;2098;2035;Zhong Sheng Jian;1.5;63;2021
+2138;1544;2035;Zhou Jian;1.5;44;2021
+2139;2501;2035;Zhu Yiming;1.5;48;2021
+2140;3127;2035;Zhuang Kuilong;1.5;58;2021
+2141;1488;2141;Anu Aga;1.4;78;2021
+2142;2372;2141;Farkhad Akhmedov;1.4;65;2021
+2143;1991;2141;Alberto Alcocer;1.4;78;2021
+2144;1879;2141;Alexandra Andresen;1.4;24;2021
+2145;1880;2141;Katharina Andresen;1.4;25;2021
+2146;1882;2141;Mori Arkin;1.4;68;2021
+2147;1778;2141;Clifford Asness;1.4;54;2021
+2148;1992;2141;Nigel Austin;1.4;50;2021
+2149;2107;2141;Ziv Aviram;1.4;62;2021
+2150;1779;2141;Louis Bacon;1.4;64;2021
+2151;3510;2141;Samuel Barata;1.4;83;2021
+2152;1884;2141;Angela Bennett;1.4;77;2021
+2153;803;2141;Maurizio Billi;1.4;63;2021
+2154;1885;2141;Zadik Bino;1.4;77;2021
+2155;2507;2141;Anna Maria Braun;1.4;42;2021
+2156;2508;2141;Johanna Braun;1.4;41;2021
+2157;2509;2141;Karl Friedrich Braun;1.4;38;2021
+2158;3511;2141;Cai Hao;1.4;50;2021
+2159;1628;2141;Binod Chaudhary;1.4;66;2021
+2160;2392;2141;Liying Chen;1.4;45;2021
+2161;3512;2141;Chen Qixing;1.4;61;2021
+2162;3513;2141;Chen Zhuolin;1.4;59;2021
+2163;1151;2141;Fernando Chico Pardo;1.4;69;2021
+2164;2999;2141;Jean-Paul Clozel;1.4;66;2021
+2165;1792;2141;Jim Crane;1.4;67;2021
+2166;1893;2141;Ana Lucia de Mattos Barretto Villela;1.4;47;2021
+2167;2245;2141;Darwin Deason;1.4;80;2021
+2168;2250;2141;Sefik Yilmaz Dizdar;1.4;83;2021
+2169;1295;2141;James Duff;1.4;60;2021
+2170;1296;2141;Thomas Duff;1.4;64;2021
+2171;1707;2141;Keith Dunleavy;1.4;51;2021
+2172;3514;2141;Fang Zhancheng;1.4;;2021
+2173;3515;2141;Lloyd Frink;1.4;56;2021
+2174;2532;2141;Gao Yunfeng;1.4;54;2021
+2175;1638;2141;Jayme Garfinkel;1.4;75;2021
+2176;2261;2141;Balkrishan Goenka;1.4;54;2021
+2177;3516;2141;Jitse Groen;1.4;42;2021
+2178;3145;2141;Mimi Haas;1.4;74;2021
+2179;2266;2141;Richard Hayne;1.4;73;2021
+2180;3517;2141;He Ningning;1.4;50;2021
+2181;2538;2141;He Yamin;1.4;64;2021
+2182;1805;2141;Timothy Headington;1.4;71;2021
+2183;2418;2141;Christian Herz;1.4;;2021
+2184;2419;2141;Michaela Herz;1.4;;2021
+2185;2016;2141;Daniel Hirschfeld;1.4;79;2021
+2186;2860;2141;Francis Holder;1.4;80;2021
+2187;2762;2141;Chengzhong Hu;1.4;60;2021
+2188;2542;2141;Hu Gengxi;1.4;57;2021
+2189;2894;2141;Huang Hongyun;1.4;54;2021
+2190;3144;2141;Huang Jian;1.4;54;2021
+2191;3518;2141;Huang Weibin;1.4;53;2021
+2192;2422;2141;Huang Xiaofen;1.4;59;2021
+2193;1910;2141;Archie Hwang;1.4;68;2021
+2194;1214;2141;Jay-Z;1.4;51;2021
+2195;2547;2141;Johan Johannson;1.4;54;2021
+2196;1579;2141;Scott Kapnick;1.4;62;2021
+2197;1917;2141;Sidney Kimmel;1.4;93;2021
+2198;2279;2141;Christine Knauf;1.4;;2021
+2199;2280;2141;Karl Knauf;1.4;;2021
+2200;2436;2141;Andrei Kosogov;1.4;60;2021
+2201;3095;2141;Guilherme Peirao Leal;1.4;71;2021
+2202;1444;2141;Theodore Leonsis;1.4;65;2021
+2203;2162;2141;Li Denghai;1.4;71;2021
+2204;1825;2141;Liang Qin;1.4;49;2021
+2205;3519;2141;Liang Yaoming;1.4;57;2021
+2206;3520;2141;Liu Hua;1.4;48;2021
+2207;2865;2141;Xuejing Liu;1.4;70;2021
+2208;2043;2141;Anatoly Lomakin;1.4;68;2021
+2209;2446;2141;Lu Rongfu;1.4;50;2021
+2210;3521;2141;Antonio Marcegaglia;1.4;57;2021
+2211;3522;2141;Emma Marcegaglia;1.4;55;2021
+2212;1743;2141;Ilson Mateus;1.4;58;2021
+2213;1827;2141;Terence (Terry) Matthews;1.4;78;2021
+2214;3523;2141;Trevor Milton;1.4;39;2021
+2215;1454;2141;Nirmal Minda;1.4;63;2021
+2216;1937;2141;Robert Mouawad;1.4;76;2021
+2217;3524;2141;Judith Neilson;1.4;75;2021
+2218;2960;2141;Kerr Neilson;1.4;71;2021
+2219;2055;2141;Vadim Novinsky;1.4;57;2021
+2220;1939;2141;John Ocampo;1.4;62;2021
+2221;2305;2141;Jonathan Oringer;1.4;47;2021
+2222;1833;2141;Andreas Pohl;1.4;56;2021
+2223;1834;2141;Reinfried Pohl jr;1.4;61;2021
+2224;2756;2141;Qi Jinxing;1.4;59;2021
+2225;2061;2141;Qian Jinghong;1.4;48;2021
+2226;3525;2141;Vito Rodriguez Rodriguez;1.4;82;2021
+2227;3143;2141;Oliver Samwer;1.4;47;2021
+2228;2070;2141;Martin Selig;1.4;83;2021
+2229;2071;2141;Airat Shaimiev;1.4;59;2021
+2230;1954;2141;Amnon Shashua;1.4;60;2021
+2231;2073;2141;Nobutoshi Shimamura;1.4;95;2021
+2232;2465;2141;Michael Spencer;1.4;65;2021
+2233;1470;2141;Edward Stack;1.4;66;2021
+2234;1962;2141;Thomas Steyer;1.4;63;2021
+2235;3526;2141;Tan Ruiqing;1.4;54;2021
+2236;3527;2141;Itaru Tanimura;1.4;56;2021
+2237;1001;2141;Sukanto Tanoto;1.4;71;2021
+2238;2917;2141;Alexander Tedja;1.4;75;2021
+2239;1679;2141;Jim Thompson;1.4;81;2021
+2240;1759;2141;Jonathan Tisch;1.4;67;2021
+2241;2078;2141;Wilma Tisch;1.4;93;2021
+2242;2849;2141;Gisele Trajano;1.4;;2021
+2243;1331;2141;Jayshree Ullal;1.4;60;2021
+2244;1609;2141;Vardis Vardinoyannis;1.4;88;2021
+2245;1002;2141;Sunny Varkey;1.4;64;2021
+2246;2590;2141;Wang Jianfeng;1.4;;2021
+2247;2212;2141;Junjin Wang;1.4;52;2021
+2248;2213;2141;Wang Mingwang;1.4;54;2021
+2249;2348;2141;Wang Xiaoshen;1.4;52;2021
+2250;2083;2141;Werner O. Weber;1.4;82;2021
+2251;2350;2141;Drorit Wertheim;1.4;65;2021
+2252;2085;2141;Alfred West jr;1.4;78;2021
+2253;3528;2141;Wu Po Sum;1.4;70;2021
+2254;3529;2141;Xie Ketao;1.4;57;2021
+2255;2088;2141;Swift Xie;1.4;41;2021
+2256;3530;2141;Yu Guo;1.4;59;2021
+2257;2601;2141;Richard Yuengling jr;1.4;78;2021
+2258;1404;2141;Clayton Zekelman;1.4;52;2021
+2259;2783;2141;Zheng Hong;1.4;70;2021
+2260;2926;2141;Shusheng Zheng;1.4;55;2021
+2261;2503;2141;Zhuo Jun;1.4;55;2021
+2262;2604;2141;Inigo Zobel;1.4;64;2021
+2263;2226;2263;Sanjay Agarwal;1.3;50;2021
+2264;2227;2263;Hamad bin Jassim bin Jaber Al Thani;1.3;61;2021
+2265;1878;2263;Nerio Alessandri;1.3;60;2021
+2266;1547;2263;Mika Anttonen;1.3;54;2021
+2267;2506;2263;Ryuji Arai;1.3;74;2021
+2268;2232;2263;Mehmet Aydinlar;1.3;64;2021
+2269;3531;2263;Achal Bakeri;1.3;61;2021
+2270;2110;2263;Elena Baturina;1.3;58;2021
+2271;2112;2263;Othman Benjelloun;1.3;88;2021
+2272;2380;2263;Oleg Boyko;1.3;56;2021
+2273;2510;2263;Ludwig Theodor Braun;1.3;31;2021
+2274;2511;2263;Ana Maria Brescia Cafferata;1.3;97;2021
+2275;2727;2263;Chris Britt;1.3;48;2021
+2276;3373;2263;Rafal Brzoska;1.3;43;2021
+2277;3532;2263;Chuck Bundrant;1.3;79;2021
+2278;2384;2263;Pradip Burman;1.3;78;2021
+2279;3533;2263;Cao Xiaochun;1.3;52;2021
+2280;3133;2263;Chang Pyung-soon;1.3;70;2021
+2281;2241;2263;Jeffrey Cheah;1.3;76;2021
+2282;2994;2263;Vivien Chen;1.3;62;2021
+2283;2395;2263;Cheng Lili;1.3;56;2021
+2284;842;2263;Cho Jung-ho;1.3;62;2021
+2285;2396;2263;Cho Jyh-jer;1.3;;2021
+2286;1891;2263;Chu Jian;1.3;58;2021
+2287;3534;2263;Eduard Chukhlebov;1.3;57;2021
+2288;2525;2263;Turgay Ciner;1.3;65;2021
+2289;1630;2263;Tim Cook;1.3;60;2021
+2290;2248;2263;Richard Desmond;1.3;69;2021
+2291;2830;2263;Du Shuanghua;1.3;56;2021
+2292;1897;2263;Egon Durban;1.3;47;2021
+2293;1569;2263;Eduardo Eurnekian;1.3;88;2021
+2294;2833;2263;Fan Minhua;1.3;59;2021
+2295;3535;2263;Feng Chenhui;1.3;55;2021
+2296;3536;2263;Feng Yi;1.3;47;2021
+2297;1713;2263;John Goff;1.3;66;2021
+2298;1905;2263;Kenneth Hao;1.3;52;2021
+2299;2012;2263;Ayman Hariri;1.3;42;2021
+2300;2267;2263;Michael Heine;1.3;71;2021
+2301;2940;2263;Eduardo Hochschild;1.3;57;2021
+2302;1505;2263;Huang Dawen;1.3;60;2021
+2303;2421;2263;Huang Shan;1.3;;2021
+2304;3537;2263;Jiang Ganjun;1.3;57;2021
+2305;2148;2263;Conni Jonsson;1.3;60;2021
+2306;2151;2263;Zbigniew Juroszek;1.3;58;2021
+2307;3538;2263;Andre Kasprzak;1.3;34;2021
+2308;3539;2263;Anna Kasprzak;1.3;31;2021
+2309;2861;2263;Peter Kelly;1.3;63;2021
+2310;2862;2263;Kim Nam-jung;1.3;48;2021
+2311;2024;2263;Hemendra Kothari;1.3;74;2021
+2312;2156;2263;Michael Krasny;1.3;67;2021
+2313;3142;2263;Igor Kudryashkin;1.3;59;2021
+2314;2036;2263;Bernard Lewis;1.3;95;2021
+2315;2951;2263;Li Tan;1.3;56;2021
+2316;3099;2263;Liang Guangwei;1.3;57;2021
+2317;3540;2263;Liang Jiankun;1.3;59;2021
+2318;3541;2263;Liu Jilu;1.3;74;2021
+2319;620;2263;Mangal Prabhat Lodha;1.3;65;2021
+2320;2044;2263;Brandt Louie;1.3;77;2021
+2321;2168;2263;Lu Hongyan;1.3;43;2021
+2322;2866;2263;Zhaoxi Lu;1.3;52;2021
+2323;3542;2263;Ma Renhe;1.3;61;2021
+2324;2049;2263;Deepak Mehta;1.3;64;2021
+2325;2569;2263;Ulrike Meister;1.3;54;2021
+2326;3543;2263;Lidiya Mikhailova;1.3;63;2021
+2327;2300;2263;Alan Miller;1.3;;2021
+2328;2177;2263;Martin Moller Nielsen;1.3;56;2021
+2329;1935;2263;Greg Mondre;1.3;46;2021
+2330;2052;2263;Yoshiko Mori;1.3;80;2021
+2331;2958;2263;Bob Muglia;1.3;61;2021
+2332;2841;2263;George Alexander Muthoot;1.3;65;2021
+2333;2842;2263;George Jacob Muthoot;1.3;68;2021
+2334;2843;2263;George Thomas Muthoot;1.3;70;2021
+2335;1070;2263;Ranjan Pai;1.3;48;2021
+2336;2455;2263;Antonio Percassi;1.3;67;2021
+2337;1832;2263;Stefan Pierer;1.3;64;2021
+2338;1229;2263;Qiu Minxiu;1.3;75;2021
+2339;2870;2263;Lily Safra;1.3;83;2021
+2340;2193;2263;Nobutada Saji;1.3;75;2021
+2341;2318;2263;Thomas Sandell;1.3;60;2021
+2342;3544;2263;Penny Sanford;1.3;55;2021
+2343;3545;2263;Ilya Scherbovich;1.3;46;2021
+2344;2321;2263;Gerald Schwartz;1.3;79;2021
+2345;1672;2263;Anatoly Sedykh;1.3;56;2021
+2346;2072;2263;Radik Shaimiev;1.3;56;2021
+2347;3546;2263;Shao Xiaofeng;1.3;55;2021
+2348;3547;2263;Shi Xu;1.3;57;2021
+2349;3121;2263;Shin Chang-jae;1.3;67;2021
+2350;1956;2263;Ron Sim;1.3;62;2021
+2351;3548;2263;Jasminder Singh;1.3;70;2021
+2352;2074;2263;Jared Smith;1.3;46;2021
+2353;1960;2263;Terry Snow;1.3;77;2021
+2354;2580;2263;Petter Stordalen;1.3;58;2021
+2355;2972;2263;Dirk Stroeer;1.3;52;2021
+2356;3549;2263;Satoshi Suzuki;1.3;67;2021
+2357;3550;2263;Tang Zhuang;1.3;48;2021
+2358;2341;2263;Joop van den Ende;1.3;79;2021
+2359;2591;2263;Masaru Wasami;1.3;75;2021
+2360;3551;2263;Wei Shaojun;1.3;58;2021
+2361;1979;2263;Farris Wilks;1.3;69;2021
+2362;3552;2263;Whitney Wolfe Herd;1.3;31;2021
+2363;2355;2263;Wu Yonghua;1.3;50;2021
+2364;3553;2263;Xia Shudong;1.3;48;2021
+2365;2982;2263;Xiong Jun;1.3;47;2021
+2366;3554;2263;Xu Guangfu;1.3;78;2021
+2367;3555;2263;Yang Keng;1.3;60;2021
+2368;3372;2263;Luis Enrique Yarur Rey;1.3;70;2021
+2369;2493;2263;Ye Qiongjiu;1.3;66;2021
+2370;2495;2263;Yeh Kuo-I;1.3;80;2021
+2371;3556;2263;Yu Bangping;1.3;53;2021
+2372;3557;2263;Yu Jinkun;1.3;78;2021
+2373;2878;2263;Patrick Zalupski;1.3;40;2021
+2374;2602;2263;Zhang Gongyun;1.3;58;2021
+2375;2099;2263;Zhou Chengjian;1.3;56;2021
+2376;3558;2263;Zhou Xiayun;1.3;66;2021
+2377;3559;2263;Zhu Tao;1.3;48;2021
+2378;3361;2378;Aras Agalarov;1.2;65;2021
+2379;1775;2378;Syed Mokhtar AlBukhary;1.2;69;2021
+2380;2105;2378;Anant Asavabhokhin;1.2;70;2021
+2381;2237;2378;Thomas Bailey;1.2;84;2021
+2382;3047;2378;Shay Banon;1.2;43;2021
+2383;2108;2378;Sachin Bansal;1.2;39;2021
+2384;3560;2378;Christian Bertermann;1.2;37;2021
+2385;2386;2378;Cao Kejian;1.2;59;2021
+2386;2514;2378;Edouard Carmignac;1.2;73;2021
+2387;2760;2378;Chen Gang;1.2;53;2021
+2388;2828;2378;Chen Tianqiao;1.2;47;2021
+2389;3561;2378;Henry Cheng;1.2;74;2021
+2390;3562;2378;Cheng Wei;1.2;38;2021
+2391;2995;2378;Chey Ki-won;1.2;56;2021
+2392;2001;2378;Chua Thian Poh;1.2;72;2021
+2393;2998;2378;Ronald Clarke;1.2;65;2021
+2394;1892;2378;Sandor Csanyi;1.2;68;2021
+2395;2246;2378;Diego Della Valle;1.2;67;2021
+2396;3563;2378;Deng Hui;1.2;59;2021
+2397;1705;2378;Carl DeSantis;1.2;81;2021
+2398;2251;2378;Mathias Doepfner;1.2;58;2021
+2399;2128;2378;Aydin Dogan;1.2;85;2021
+2400;1706;2378;Marek Dospiva;1.2;51;2021
+2401;737;2378;Wesley Edens;1.2;59;2021
+2402;2931;2378;Wolfgang Egger;1.2;55;2021
+2403;3120;2378;Gabriel Escarrer;1.2;86;2021
+2404;2890;2378;Fan Zhaoxia;1.2;53;2021
+2405;2807;2378;Clement Fayat;1.2;89;2021
+2406;2404;2378;Gleb Fetisov;1.2;54;2021
+2407;2530;2378;Benedicte Find;1.2;;2021
+2408;2005;2378;J. Christopher Flowers;1.2;63;2021
+2409;2260;2378;Dan Gertler;1.2;47;2021
+2410;2858;2378;Premchand Godha;1.2;74;2021
+2411;2008;2378;Lance Gokongwei;1.2;53;2021
+2412;2262;2378;Lawrence Golub;1.2;61;2021
+2413;3050;2378;Ryan Graves;1.2;37;2021
+2414;3564;2378;Mehmet Nazif Gunal;1.2;73;2021
+2415;2536;2378;Stelios Haji-Ioannou;1.2;54;2021
+2416;2013;2378;Alfredo Harp Helu;1.2;77;2021
+2417;1906;2378;Jaroslav Hascak;1.2;51;2021
+2418;2541;2378;Hong Seok-joh;1.2;68;2021
+2419;3565;2378;Hu Xiaojun;1.2;59;2021
+2420;2895;2378;Shanbing Huang;1.2;64;2021
+2421;3566;2378;Huang Yimeng;1.2;39;2021
+2422;2427;2378;Jonas Kamprad;1.2;55;2021
+2423;2428;2378;Mathias Kamprad;1.2;51;2021
+2424;2429;2378;Peter Kamprad;1.2;57;2021
+2425;1437;2378;Eugene Kaspersky;1.2;55;2021
+2426;2752;2378;Kim Dae-il;1.2;41;2021
+2427;2554;2378;Kim Jung-woong;1.2;46;2021
+2428;3567;2378;Kazutoshi Kobayashi;1.2;58;2021
+2429;3568;2378;Masanori Kobayashi;1.2;48;2021
+2430;3569;2378;Takao Kobayashi;1.2;56;2021
+2431;3570;2378;Hakan Koc;1.2;36;2021
+2432;2950;2378;Andrei Komarov;1.2;54;2021
+2433;3571;2378;Koo Bon-joon;1.2;69;2021
+2434;2557;2378;Koo Bon-neung;1.2;72;2021
+2435;2435;2378;Koo Bon-sik;1.2;62;2021
+2436;2031;2378;Kwek Leng Peck;1.2;65;2021
+2437;1649;2378;Joe Lacob;1.2;65;2021
+2438;2282;2378;Guy Laliberte;1.2;61;2021
+2439;3098;2378;Lee Jay-hyun;1.2;61;2021
+2440;3061;2378;Li Fengluan;1.2;59;2021
+2441;2953;2378;Lin Jie;1.2;52;2021
+2442;2563;2378;Liu Baolin;1.2;67;2021
+2443;2166;2378;Liu Gexin;1.2;69;2021
+2444;3572;2378;Lou Guoqiang;1.2;64;2021
+2445;3573;2378;Lu Shenglin;1.2;40;2021
+2446;3574;2378;Lu Zhilin;1.2;38;2021
+2447;2290;2378;Frederic Luddy;1.2;66;2021
+2448;2955;2378;Lun Ruixiang;1.2;53;2021
+2449;3107;2378;Alexander Lutsenko;1.2;59;2021
+2450;1518;2378;Bill Malhotra;1.2;71;2021
+2451;2297;2378;Jorge Mas;1.2;58;2021
+2452;3575;2378;Muneaki Masuda;1.2;70;2021
+2453;2570;2378;Andrei Molchanov;1.2;49;2021
+2454;2301;2378;Ulrich Mommert;1.2;80;2021
+2455;3576;2378;Taichiro Motoe;1.2;45;2021
+2456;3577;2378;Mou Jinxiang;1.2;67;2021
+2457;3578;2378;Udo Mueller;1.2;59;2021
+2458;2180;2378;Nguyen Dang Quang;1.2;57;2021
+2459;1590;2378;Simon Nixon;1.2;53;2021
+2460;1831;2378;Liora Ofer;1.2;67;2021
+2461;3579;2378;Roberto Ongpin;1.2;84;2021
+2462;1227;2378;Eren Ozmen;1.2;62;2021
+2463;1265;2378;Fatih Ozmen;1.2;63;2021
+2464;3580;2378;Chamath Palihapitiya;1.2;44;2021
+2465;2310;2378;Murdaya Poo;1.2;80;2021
+2466;2457;2378;G.V. Prasad;1.2;60;2021
+2467;2909;2378;Michael Price;1.2;68;2021
+2468;3581;2378;Qin Qingping;1.2;58;2021
+2469;3582;2378;Qiu Dongxu;1.2;61;2021
+2470;2459;2378;Rao Wei;1.2;56;2021
+2471;2314;2378;Andrei Rappoport;1.2;57;2021
+2472;3583;2378;Dani Reiss;1.2;47;2021
+2473;3584;2378;Ren Zhengfei;1.2;77;2021
+2474;1948;2378;Duke Reyes;1.2;64;2021
+2475;2066;2378;Boris Rotenberg;1.2;64;2021
+2476;3585;2378;Chris Sacca;1.2;45;2021
+2477;3586;2378;Alexander Samwer;1.2;46;2021
+2478;3587;2378;Marc Samwer;1.2;50;2021
+2479;2194;2378;Hajime Satomi;1.2;79;2021
+2480;2195;2378;James Scapa;1.2;64;2021
+2481;2198;2378;Albert Shigaboutdinov;1.2;68;2021
+2482;2970;2378;Kavita Singhania;1.2;59;2021
+2483;3588;2378;Ronald Slabke;1.2;;2021
+2484;2329;2378;Mike Speiser;1.2;50;2021
+2485;2332;2378;Michael Steinhardt;1.2;80;2021
+2486;882;2378;Nik Storonsky;1.2;36;2021
+2487;2582;2378;Sergei Sudarikov;1.2;49;2021
+2488;2914;2378;Winarko Sulistyo;1.2;75;2021
+2489;2206;2378;Rustem Sulteev;1.2;67;2021
+2490;2338;2378;Sam Tarascio;1.2;76;2021
+2491;3589;2378;Nutchamai Thanombooncharoen;1.2;59;2021
+2492;1846;2378;Laurie Tisch;1.2;70;2021
+2493;1847;2378;Steven Tisch;1.2;72;2021
+2494;2974;2378;Robert Toll;1.2;80;2021
+2495;1134;2378;Thomas Tull;1.2;50;2021
+2496;2344;2378;Thongma Vijitpongpun;1.2;63;2021
+2497;2345;2378;Thomas von Koch;1.2;55;2021
+2498;2589;2378;Wan Feng;1.2;52;2021
+2499;2346;2378;Wang Fuji;1.2;;2021
+2500;2872;2378;Wang Jianyi;1.2;58;2021
+2501;3590;2378;Wang Qunbin;1.2;;2021
+2502;1612;2378;Wang Ren-sheng;1.2;89;2021
+2503;2978;2378;Wang Shumin;1.2;64;2021
+2504;2483;2378;Allan Wong;1.2;71;2021
+2505;2487;2378;Wu Li-gann;1.2;80;2021
+2506;3108;2378;Xiang Guangda;1.2;63;2021
+2507;3591;2378;Xiong Haitao;1.2;57;2021
+2508;3592;2378;Xu Guifen;1.2;70;2021
+2509;3593;2378;Yao Liangbo;1.2;52;2021
+2510;2599;2378;Yi Xianzhong;1.2;62;2021
+2511;3594;2378;Yu Xuefeng;1.2;58;2021
+2512;3595;2378;Yuan Jiandong;1.2;;2021
+2513;1694;2378;Alan Zekelman;1.2;58;2021
+2514;2093;2378;Zhang Chuanwei;1.2;58;2021
+2515;3596;2378;Zhang Xi;1.2;47;2021
+2516;3597;2378;Zhang Xuanning;1.2;50;2021
+2517;3598;2378;Zhao Dongping;1.2;44;2021
+2518;2097;2378;Zheng Jianjiang;1.2;60;2021
+2519;1772;2378;Zheng Xiaodong;1.2;57;2021
+2520;2991;2378;Zhou Minghua;1.2;57;2021
+2521;3599;2378;Zhou Ruxin;1.2;58;2021
+2522;2369;2378;Zhou Wen;1.2;56;2021
+2523;3600;2378;Zhou Yifeng;1.2;42;2021
+2524;2827;2524;Radhe Shyam Agarwal;1.1;76;2021
+2525;2233;2524;Danna Azrieli;1.1;53;2021
+2526;2234;2524;Naomi Azrieli;1.1;55;2021
+2527;2235;2524;Sharon Azrieli;1.1;60;2021
+2528;2236;2524;Bai Houshan;1.1;57;2021
+2529;1993;2524;Binny Bansal;1.1;38;2021
+2530;3601;2524;Eduardo Belmont Anderson;1.1;75;2021
+2531;1287;2524;John Bicket;1.1;41;2021
+2532;1288;2524;Sanjit Biswas;1.1;39;2021
+2533;2377;2524;Lloyd Blankfein;1.1;66;2021
+2534;2382;2524;Thomas Bruch;1.1;71;2021
+2535;2385;2524;Cai Hongbin;1.1;;2021
+2536;1494;2524;Cao Jianwei;1.1;42;2021
+2537;2516;2524;Chen Jiancheng;1.1;62;2021
+2538;3602;2524;Chen Jinshi;1.1;58;2021
+2539;2520;2524;Yuantai Chen;1.1;53;2021
+2540;2521;2524;Cheng Antares;1.1;63;2021
+2541;3039;2524;Ron Corio;1.1;59;2021
+2542;3603;2524;Trudy Shan Dai;1.1;45;2021
+2543;2397;2524;Weili Dai;1.1;59;2021
+2544;1205;2524;Henry Davis;1.1;70;2021
+2545;3000;2524;Charles Dunstone;1.1;57;2021
+2546;2529;2524;Feng Yuxia;1.1;56;2021
+2547;2405;2524;Paul Fireman;1.1;77;2021
+2548;1799;2524;Richard Fortin;1.1;72;2021
+2549;2408;2524;Donald Friese;1.1;80;2021
+2550;2934;2524;Soichiro Fukutake;1.1;75;2021
+2551;2935;2524;Antonio Gallardo Ballart;1.1;85;2021
+2552;3003;2524;Jorge Gallardo Ballart;1.1;79;2021
+2553;3042;2524;Gao Xingjiang;1.1;57;2021
+2554;2410;2524;Rahul Gautam;1.1;68;2021
+2555;2137;2524;Simona Giorgetta;1.1;44;2021
+2556;3604;2524;Anne Gittinger;1.1;85;2021
+2557;3605;2524;Gaston Glock;1.1;92;2021
+2558;2836;2524;Radhe Shyam Goenka;1.1;75;2021
+2559;2411;2524;David Golub;1.1;59;2021
+2560;3606;2524;Guo Jianqiang;1.1;53;2021
+2561;2416;2524;Polys Haji-Ioannou;1.1;61;2021
+2562;2265;2524;Fahed Hariri;1.1;40;2021
+2563;3607;2524;Ho Kuang-chi;1.1;58;2021
+2564;3608;2524;Ming Hsieh;1.1;65;2021
+2565;1576;2524;Hu Rongda;1.1;62;2021
+2566;3609;2524;Huang Qiaolong;1.1;61;2021
+2567;2272;2524;Mohammed Ibrahim;1.1;75;2021
+2568;2544;2524;Hedda im Brahm-Droege;1.1;66;2021
+2569;2423;2524;Hiroshi Ishibashi;1.1;74;2021
+2570;2144;2524;Mitchell Jacobson;1.1;70;2021
+2571;2944;2524;Jiang Xuefei;1.1;51;2021
+2573;3610;2524;Kenji Kasahara;1.1;45;2021
+2574;1580;2524;Richard Kayne;1.1;75;2021
+2575;1725;2524;Kim Chang-soo;1.1;60;2021
+2576;2947;2524;Alexander Knauf;1.1;46;2021
+2577;2948;2524;Martin Knauf;1.1;;2021
+2578;2949;2524;Robert Knauf;1.1;;2021
+2579;3611;2524;Gennady Kozovoy;1.1;69;2021
+2580;2157;2524;Eduard Kucera;1.1;68;2021
+2581;3612;2524;Lai Baosheng;1.1;;2021
+2582;3613;2524;Lai Guogui;1.1;57;2021
+2583;3614;2524;Lam Lung On;1.1;56;2021
+2584;2561;2524;Michiel Le Roux;1.1;71;2021
+2585;2033;2524;Lee Ho-jin;1.1;58;2021
+2586;2439;2524;Lee Joong-keun;1.1;80;2021
+2587;2035;2524;Manfredi Lefebvre d Ovidio;1.1;68;2021
+2588;2440;2524;Nancy Lerner;1.1;60;2021
+2589;2441;2524;Norma Lerner;1.1;85;2021
+2590;2442;2524;Randolph Lerner;1.1;59;2021
+2591;3073;2524;Li Qiong;1.1;43;2021
+2592;2952;2524;Li Wenmei;1.1;58;2021
+2593;550;2524;Lim Hariyanto Wijaya Sarwono;1.1;92;2021
+2594;3615;2524;Liu Shenghui;1.1;;2021
+2595;2954;2524;Lou Boliang;1.1;57;2021
+2596;56;2524;Low Tuck Kwong;1.1;73;2021
+2597;1171;2524;Lu Weiding;1.1;50;2021
+2598;2956;2524;Lv Yongxiang;1.1;71;2021
+2599;2291;2524;Cargill MacMillan III.;1.1;61;2021
+2600;2292;2524;John MacMillan;1.1;71;2021
+2601;2293;2524;Martha MacMillan;1.1;69;2021
+2602;2294;2524;William MacMillan;1.1;66;2021
+2603;2171;2524;Yasseen Mansour;1.1;59;2021
+2604;3616;2524;John Martin;1.1;;2021
+2605;2175;2524;Carsten Maschmeyer;1.1;61;2021
+2606;1933;2524;Bruce Mathieson;1.1;77;2021
+2607;3617;2524;John McConnell;1.1;67;2021
+2608;3087;2524;Takanori Nakamura;1.1;48;2021
+2609;3134;2524;Bruce Nordstrom;1.1;87;2021
+2610;3618;2524;Madeleine Olsson Ericksson;1.1;76;2021
+2611;3619;2524;Ou Xueming;1.1;72;2021
+2612;3620;2524;Mats Paulsson;1.1;77;2021
+2613;3621;2524;Peng Hao;1.1;53;2021
+2614;3622;2524;Ricardo Po Sr.;1.1;90;2021
+2615;2311;2524;Forrest Preston;1.1;88;2021
+2616;3623;2524;Enrico Preziosi;1.1;73;2021
+2617;3624;2524;Pu Shulin;1.1;65;2021
+2618;3625;2524;Qiu Lingyun;1.1;45;2021
+2619;2575;2524;Vera Rechulski Santo Domingo;1.1;72;2021
+2620;2063;2524;M.Satyanarayana Reddy;1.1;63;2021
+2621;3626;2524;Ruan Hongxian;1.1;54;2021
+2622;3627;2524;Chanchai Ruayrungruang;1.1;67;2021
+2623;3628;2524;Daisuke Sasaki;1.1;40;2021
+2624;3629;2524;Jack Schuler;1.1;80;2021
+2625;2578;2524;Neerja Sethi;1.1;66;2021
+2626;3630;2524;Shin Dong-guk;1.1;71;2021
+2627;3631;2524;Edgar Sia II;1.1;44;2021
+2628;1184;2524;Michael S. Smith;1.1;65;2021
+2629;3632;2524;Su Rubo;1.1;66;2021
+2630;3633;2524;Sun Xishuang;1.1;67;2021
+2631;2471;2524;Sehat Sutardja;1.1;59;2021
+2632;2973;2524;Susanto Suwarto;1.1;65;2021
+2633;3634;2524;Tan Eng Kee;1.1;51;2021
+2634;3635;2524;Tan Yu Wei;1.1;48;2021
+2635;2915;2524;Yoshikazu Tanaka;1.1;44;2021
+2636;2821;2524;Hary Tanoesoedibjo;1.1;55;2021
+2637;3218;2524;Mehmet Sinan Tara;1.1;62;2021
+2638;3636;2524;Shirou Terashita;1.1;62;2021
+2639;884;2524;Carl Thoma;1.1;72;2021
+2640;1850;2524;Tseng Sing-ai;1.1;;2021
+2641;2976;2524;Sunil Vachani;1.1;52;2021
+2642;2777;2524;Jan Van Geet;1.1;50;2021
+2643;1851;2524;Sekar Vembu;1.1;49;2021
+2644;2481;2524;Wang Han;1.1;33;2021
+2645;3637;2524;Wang Jianliang;1.1;45;2021
+2646;2921;2524;Wang Kunxiao;1.1;51;2021
+2647;2593;2524;Wen Pengcheng;1.1;58;2021
+2648;3638;2524;Wen Yibo;1.1;55;2021
+2649;2084;2524;Anne Werninghaus;1.1;35;2021
+2650;1856;2524;Dan Wilks;1.1;64;2021
+2651;3639;2524;Wong Hei;1.1;59;2021
+2652;3640;2524;Wong Hong King;1.1;59;2021
+2653;2353;2524;Wu Chung-yi;1.1;65;2021
+2654;3641;2524;Wu Eddie Yongming;1.1;46;2021
+2655;2354;2524;Eugene Wu;1.1;76;2021
+2656;3642;2524;Wu Wei;1.1;53;2021
+2657;3643;2524;Xiao Guoqing;1.1;52;2021
+2658;1866;2524;George Yancopoulos;1.1;61;2021
+2659;3644;2524;Yao Lisheng;1.1;;2021
+2660;2496;2524;Yu Faxiang;1.1;49;2021
+2661;3645;2524;Yuan Jinhua;1.1;62;2021
+2662;2986;2524;Igor Yusufov;1.1;64;2021
+2663;2365;2524;Zan Shengda;1.1;58;2021
+2664;3646;2524;Zeng Huansha;1.1;53;2021
+2665;2500;2524;Zhang Xuewu;1.1;46;2021
+2666;3647;2524;Zhang Yuxiang;1.1;56;2021
+2667;2223;2524;Zhao Tongtong;1.1;54;2021
+2668;3648;2524;Tony Zhao;1.1;49;2021
+2669;2784;2524;Zhong Peifeng;1.1;58;2021
+2670;3649;2524;Zhou Ping;1.1;58;2021
+2671;3067;2524;Zhou Yahui;1.1;44;2021
+2672;2100;2524;Boris Zingarevich;1.1;61;2021
+2673;3650;2524;Ahmet Nazif Zorlu;1.1;76;2021
+2674;2101;2674;A. Jayson Adair;1;51;2021
+2675;1343;2674;Albert Avdolyan;1;50;2021
+2676;3122;2674;Baiju Bhatt;1;36;2021
+2677;2993;2674;Wilbur Ed Bosarge jr;1;81;2021
+2678;3651;2674;Ina Chan;1;67;2021
+2679;2759;2674;Chang Byung-gyu;1;48;2021
+2680;3077;2674;Chung Mong-joon;1;69;2021
+2681;2398;2674;Carmen Daurella Aguilera;1;;2021
+2682;3652;2674;GT Dave;1;44;2021
+2683;2831;2674;Mukand Lal Dua;1;72;2021
+2684;2832;2674;Ramesh Kumar Dua;1;67;2021
+2685;3653;2674;Jose Elias;1;44;2021
+2686;3001;2674;Larry Fink;1;68;2021
+2687;3007;2674;Horst-Otto Gerberding;1;68;2021
+2688;3654;2674;Gim Seong-gon;1;67;2021
+2689;3655;2674;Gou Yiqun;1;48;2021
+2690;2535;2674;Clelia Haji-Ioannou;1;50;2021
+2691;2537;2674;Hang Hong;1;53;2021
+2692;2938;2674;Ronnen Harary;1;49;2021
+2693;3656;2674;David Harding;1;59;2021
+2694;2939;2674;David Helgason;1;43;2021
+2695;3657;2674;Hou Jianbin;1;39;2021
+2696;3658;2674;Hur Young-in;1;71;2021
+2697;1302;2674;Long Jiang;1;47;2021
+2698;2548;2674;Morris Kahn;1;91;2021
+2699;2549;2674;Ashok Kajaria;1;73;2021
+2700;3022;2674;T.S. Kalyanaraman;1;73;2021
+2701;2275;2674;Kim Kardashian;1;40;2021
+2702;3659;2674;David Katzman;1;61;2021
+2703;1304;2674;Bom Kim;1;42;2021
+2704;3660;2674;Masatoshi Kumagai;1;57;2021
+2705;2560;2674;Lev Kvetnoi;1;55;2021
+2706;3661;2674;Vladimir Leschikov;1;64;2021
+2707;3662;2674;Li Yinan;1;;2021
+2708;3663;2674;Liu Qingfeng;1;48;2021
+2709;3664;2674;Jose Llado Fernandez-Urrutia;1;87;2021
+2710;3080;2674;Kenneth Lo;1;82;2021
+2711;3665;2674;Ma Hong;1;53;2021
+2712;3666;2674;Sergei Makhlai;1;52;2021
+2713;1451;2674;Rafique Malik;1;70;2021
+2714;3667;2674;Mao Huihua;1;59;2021
+2715;2957;2674;Michael McCain;1;;2021
+2716;1660;2674;Mofatraj Munot;1;76;2021
+2717;2306;2674;Vitaly Orlov;1;56;2021
+2718;2908;2674;George Pedersen;1;85;2021
+2719;1945;2674;David Penaloza Alanis;1;47;2021
+2720;2573;2674;Tyler Perry;1;51;2021
+2721;3668;2674;Maria Pinheiro;1;;2021
+2722;2965;2674;Anton Rabie;1;49;2021
+2723;3669;2674;Jorge Rodriguez Rodriguez;1;75;2021
+2724;3058;2674;Hartley Rogers;1;61;2021
+2725;3670;2674;Alan Rydge;1;68;2021
+2726;3374;2674;Shin Dong-joo;1;67;2021
+2727;2579;2674;Scott Smith;1;;2021
+2728;1844;2674;Zakhar Smushkin;1;59;2021
+2729;2330;2674;Marco Squinzi;1;49;2021
+2730;2331;2674;Veronica Squinzi;1;49;2021
+2731;1961;2674;Axel Stawski;1;70;2021
+2732;2468;2674;Manny Stul;1;71;2021
+2733;3140;2674;Vlad Tenev;1;34;2021
+2734;3671;2674;Rit Thirakomen;1;69;2021
+2735;3672;2674;Tong Judy Wenhong;1;;2021
+2736;3673;2674;Tsai Chi-jui;1;81;2021
+2737;2975;2674;Surin Upatkoon;1;72;2021
+2738;2342;2674;Ruben Vardanyan;1;52;2021
+2739;2587;2674;Murat Vargi;1;73;2021
+2740;3674;2674;Vlad Vendrow;1;53;2021
+2741;3675;2674;Wang Qiangxiang;1;49;2021
+2742;3676;2674;Wang Wenjian;1;74;2021
+2743;2349;2674;J. Wayne Weaver;1;85;2021
+2744;3677;2674;Sandy Weill;1;88;2021
+2745;3678;2674;Xia Zhisheng;1;79;2021
+2746;2358;2674;Xu Jin;1;56;2021
+2747;2362;2674;Vadim Yakunin;1;58;2021
+2748;3679;2674;Mark Haoyong Yang;1;46;2021
+2749;2492;2674;Yao Hsiao Tung;1;81;2021
+2750;3680;2674;Yu De-Chao;1;57;2021
+2751;3681;2674;Daniel Yong Zhang;1;49;2021
+2752;3682;2674;Zhang Yuqiang;1;65;2021
+2753;3683;2674;Zhao Meiguang;1;58;2021
+2754;3684;2674;Zhong Naixiong;1;58;2021
+2755;3685;2674;Zhou Wie;1;54;2021

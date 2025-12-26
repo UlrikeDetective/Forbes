@@ -1,0 +1,5 @@
+Tasks:
+
+data cleaning July 2024 and add to MySQL
+
+SQL - DATABASE? ID + Person + Source + Industry, net_worth_2023 + AGE, net_worth_2022 + AGE,

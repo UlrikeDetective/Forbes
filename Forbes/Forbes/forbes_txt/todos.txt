@@ -1,0 +1,27 @@
+<b> TO DOS FORBES </b>
+
+* adding monthly data
+* building categories of rang
+* analysis
+* publish
+
+Working with SQL queries
+
+- queries monthly data 2024
+
+
+*create new Kaggle code
+
+Done
+
+- Data from Jan - Sep 2024
+- Data cleaning 2021
+* adding GPS data of residence - done with python code
+
+Working with SQL queries
+
+- how many billionairs per country
+- sum of wealth by billionairs per country
+- sum men vs women
+- counting male - female in dataset
+

@@ -1,0 +1,118 @@
+---
+title: "companies"
+author: "Ulrike Herold"
+date: "2024-08-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Read in Data
+
+```{r}
+library(readr)
+
+Sys.setlocale("LC_NUMERIC", "en_US.UTF-8")
+
+C01 <- read.csv("/path_to_file/01_CompaniesRankedByMarketCap.csv", stringsAsFactors = FALSE)
+
+str(C01)
+C01
+```
+
+
+
+```{r}
+# Step 1: Read the CSV file, force 'price..USD' as character
+data <- read.csv("/Users/ulrike_imac_air/projects/DataScienceProjects/Forbes/Companies/companies_raw/01_CompaniesRankedByMarketCap.csv", stringsAsFactors = FALSE, colClasses = c("price..USD" = "character"))
+
+# Step 2: Replace commas with points (if needed) and convert to numeric
+data$price..USD <- as.numeric(gsub(",", ".", data$price..USD))
+
+# Step 3: Format the numbers to two decimal places with commas as thousand separators
+data$price..USD <- format(data$price..USD, nsmall = 2, big.mark = ",")
+
+# Step 3: Check the structure and head of the data
+str(data)
+head(data)
+
+```
+
+```{r}
+# Assuming your data is already read and formatted
+# Generate User_ID as a sequence from 1 to the number of rows in the dataframe
+data$User_ID <- 1:nrow(data)
+
+# Reorder the columns to place User_ID as the first column
+data <- data[, c("User_ID", names(data)[-ncol(data)])]
+
+# Check the structure and the first few rows
+str(data)
+head(data)
+```
+
+```{r}
+write.csv(data, "/path_to_file/01_CompaniesRankedByMarketCap_cleaned.csv", row.names = FALSE)
+```
+
+
+```{r}
+library(readxl)
+
+F01 <- read_xlsx("/path_to_file/forbes (1).xlsx")
+
+F01
+```
+
+```{r}
+# Function to convert revenue to whole numbers
+convert <- function(x) {
+  # Remove the dollar sign, commas, and any spaces
+  x <- gsub("\\$", "", x)
+  x <- gsub(",", "", x)  # Remove commas
+  x <- gsub(" ", "", x)
+  
+  # Convert values ending in 'B' (billions)
+  x_b <- grepl("B$", x)
+  x[x_b] <- as.numeric(gsub("B", "", x[x_b])) * 1e9
+  
+  # Convert values ending in 'M' (millions)
+  x_m <- grepl("M$", x)
+  x[x_m] <- as.numeric(gsub("M", "", x[x_m])) * 1e6
+  
+  return(as.numeric(x))
+}
+
+# Apply the function to the columns
+F01$revenue_USD <- convert(F01$revenue)
+F01$profits_USD <- convert(F01$profits)
+F01$assets_USD <- convert(F01$assets)
+F01$marketValue_USD <- convert(F01$marketValue)
+
+# View the updated dataframe
+print(F01)
+
+```
+
+```{r}
+# Delete the columns revenue, profits, assets, and marketValue
+F01 <- subset(F01, select = -c(revenue, profits, assets, marketValue))
+
+# Alternatively, you can use NULL to remove the columns
+# F01$revenue <- NULL
+# F01$profits <- NULL
+# F01$assets <- NULL
+# F01$marketValue <- NULL
+
+# View the updated dataframe
+print(F01)
+
+```
+
+```{r}
+options(scipen = 999)
+write.csv(F01, "/path_to_file/Forbes_companies_2024.csv", row.names = FALSE)
+```
+
