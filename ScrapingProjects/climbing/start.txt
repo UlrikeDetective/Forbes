@@ -1,0 +1,6 @@
+python3 -m venv climbing_env
+source climbing_env/bin/activate
+
+Sources:
+https://ifsc.results.info - date 14/08/2025
+https://www.kaggle.com/datasets/mxmlnv/ifsc-competition-climbing?select=athlete_results.csv

@@ -1,0 +1,274 @@
+How to Track Amazon TV Prices and Analyze Trends Using Python and SQLite — A Newsletter Example
+
+Send Amazon TV Price Trends via Newsletter using Python
+Let’s pretend you are someone who runs a newsletter about electronics, keeping track of price trends is essential for sending timely updates. One of the most popular categories in tech is TVs. Knowing when the prices of top-selling TVs drop can help you alert your audience, save them money, and boost engagement.
+
+In this guide, I’ll show you how to track prices for the top ten TVs from Amazon’s Best Sellers list using Python. We’ll store these prices in an SQLite database so we can analyze trends over time. Plus, I’ll explain how the number 172659 in the URL plays a role.
+
+What Does 172659 Mean in the Amazon URL?
+We’re going to scrape this URL…
+
+https://www.amazon.com/Best-Sellers-Televisions/zgbs/electronics/172659
+The number 172659 refers to the specific Amazon category for "Televisions" under the broader "Electronics" category. Each category on Amazon has a unique identifier, and this number directs you specifically to the TVs section within the Amazon Best Sellers page. In this case, when we scrape this URL, we are targeting only the top-selling televisions.
+
+To find other category numbers:
+
+Navigate to the category or subcategory page you’re interested in.
+Check the URL for the unique identifier, which is usually a series of digits at the end of the URL.
+1. Setting Up the Project with a Virtual Environment
+We’ll start by creating a virtual environment to keep things tidy.
+
+Create a project folder:
+
+mkdir tv-price-tracker
+cd tv-price-tracker
+Set up the virtual environment:
+
+python3 -m venv venv
+Activate the virtual environment:
+
+On macOS/Linux:
+source venv/bin/activate
+On Windows:
+.\venv\Scripts\activate
+Install required libraries:
+
+Inside your terminal, run the following command to install requests, BeautifulSoup, and sqlite3 for database management:
+
+pip install requests beautifulsoup4 lxml
+2. Scraping the Top 10 TV Prices from Amazon
+Next, we’ll create a Python script to scrape the TV prices from Amazon. We will focus on the Best Sellers page at the URL above. Amazon frequently updates this list, so you’ll get the most current pricing.
+
+Create a file called tv_price_scraper.py in your project folder.
+
+The code:
+
+import requests
+from bs4 import BeautifulSoup
+import sqlite3
+from datetime import datetime
+
+# URL for the Amazon Best-Selling TVs
+url = "https://www.amazon.com/Best-Sellers-Televisions/zgbs/electronics/172659"
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
+
+def get_tv_prices():
+    response = requests.get(url, headers=headers)
+
+    if response.status_code != 200:
+        print(f"Failed to retrieve the page. Status code: {response.status_code}")
+        return None
+
+    soup = BeautifulSoup(response.content, 'lxml')
+    tvs = []
+
+    # Find the top 10 TVs in the Best Sellers list
+    tv_list = soup.find_all('div', class_='zg-grid-general-faceout', limit=10)
+
+    for tv in tv_list:
+        title = tv.find('div', class_='p13n-sc-truncated').get_text(strip=True)
+        price_tag = tv.find('span', class_='p13n-sc-price')
+
+        if price_tag:
+            price = price_tag.get_text().strip()
+            tvs.append((title, price))
+
+    return tvs
+
+def store_prices_in_db(tv_data):
+    conn = sqlite3.connect('tv_prices.db')
+    c = conn.cursor()
+
+    # Create a table to store price data if it doesn't already exist
+    c.execute('''CREATE TABLE IF NOT EXISTS prices
+                 (date TEXT, title TEXT, price TEXT)''')
+
+    # Insert the TV price data along with the current date
+    date_now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    for tv in tv_data:
+        c.execute("INSERT INTO prices (date, title, price) VALUES (?, ?, ?)", (date_now, tv[0], tv[1]))
+
+    conn.commit()
+    conn.close()
+
+if __name__ == "__main__":
+    tv_prices = get_tv_prices()
+
+    if tv_prices:
+        store_prices_in_db(tv_prices)
+        print(f"Stored prices for {len(tv_prices)} TVs in the database.")
+What Does This Code Do?
+Scraping TV Prices:
+We use requests.get() to fetch the HTML content of the Amazon Best Sellers page for televisions.
+Using BeautifulSoup, we parse the page and extract the top 10 TVs and their prices. The class "p13n-sc-truncated" represents the product title, while "p13n-sc-price" holds the price.
+Storing Prices in SQLite:
+The sqlite3 module lets us create a local database named tv_prices.db.
+We insert the TV prices along with the current date into a table. This allows us to track prices over time and see trends.
+3. How to Run the Script
+Make sure you’re still in your project folder and your virtual environment is activated.
+Run the script:
+python tv_price_scraper.py
+f everything runs smoothly, the script will print that the prices for the top 10 TVs have been stored in the SQLite database.
+
+4. Viewing the Data
+Now that the data is stored in an SQLite database, we can easily query it to see trends. For instance, you can query the database directly in Python or use a tool like DB Browser for SQLite to inspect the data.
+
+Here’s a quick Python script you can add to view the stored prices over time:
+
+import sqlite3
+
+def view_price_trends():
+    conn = sqlite3.connect('tv_prices.db')
+    c = conn.cursor()
+
+    c.execute("SELECT * FROM prices ORDER BY date ASC")
+
+    rows = c.fetchall()
+
+    for row in rows:
+        print(f"Date: {row[0]}, TV: {row[1]}, Price: {row[2]}")
+
+    conn.close()
+
+if __name__ == "__main__":
+    view_price_trends()
+Running this script will show you a list of all the TV prices you’ve tracked over time, allowing you to see when prices drop or increase.
+
+5. Automating the Process
+You can take this further by automating the price check. Set it up to run every day at a specific time, so you continuously gather data and can share up-to-date information with your audience.
+
+On Linux/macOS, you can use cron:
+crontab -e
+Add a line like this to run the script every day at 8 a.m.:
+
+0 8 * * * /path/to/venv/bin/python /path/to/tv_price_scraper.py
+On Windows, you can use Task Scheduler.
+
+6. Sharing Price Trends with Your Newsletter Audience
+Now that you’ve set up the script to track prices, you can share the insights with your audience. Some ideas for your newsletter include:
+
+Highlight TVs with the most significant price drops over the last week.
+Point out trends (e.g., “Prices tend to dip in the middle of the month”).
+Recommend the best TV deals based on your price tracking data.
+o send an HTML email containing the TV price data we’ve scraped, we’ll use Python’s smtplib for sending the email and sqlite3 to pull data from the database. We’ll format the email using basic HTML to make it visually appealing.
+
+Here’s a Python script that retrieves the price data from the SQLite database and sends it as a nicely formatted HTML email:
+
+Requirements
+Make sure you have access to a working SMTP server (such as Gmail’s SMTP).
+You’ll need to enable “Less secure apps” if you’re using Gmail for testing purposes (note: only for testing, and be cautious with security).
+Script: send_email.py
+import smtplib
+import sqlite3
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from datetime import datetime
+
+# SMTP configuration (use your own email credentials here)
+SMTP_SERVER = "smtp.gmail.com"
+SMTP_PORT = 587
+SENDER_EMAIL = "your-email@gmail.com"
+SENDER_PASSWORD = "your-email-password"
+RECIPIENT_EMAIL = "recipient-email@example.com"  # The recipient of your email
+
+# Function to retrieve TV price data from the database
+def get_tv_price_data():
+    conn = sqlite3.connect('tv_prices.db')
+    c = conn.cursor()
+    c.execute("SELECT date, title, price FROM prices ORDER BY date DESC LIMIT 10")
+    rows = c.fetchall()
+    conn.close()
+    return rows
+
+# Function to create an HTML email with the TV price data
+def create_html_email(tv_data):
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    
+    html = f"""
+    <html>
+    <body>
+        <h2>Top 10 Amazon TV Prices - {now}</h2>
+        <table border="1" cellpadding="5" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>TV</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+    """
+    
+    for row in tv_data:
+        html += f"""
+        <tr>
+            <td>{row[0]}</td>
+            <td>{row[1]}</td>
+            <td>{row[2]}</td>
+        </tr>
+        """
+    
+    html += """
+            </tbody>
+        </table>
+    </body>
+    </html>
+    """
+    
+    return html
+
+# Function to send an HTML email
+def send_email(html_content):
+    # Create a MIME multipart message
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = "Top 10 Amazon TV Prices"
+    msg["From"] = SENDER_EMAIL
+    msg["To"] = RECIPIENT_EMAIL
+
+    # Attach the HTML content to the email
+    html_part = MIMEText(html_content, "html")
+    msg.attach(html_part)
+
+    # Connect to the SMTP server and send the email
+    with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
+        server.starttls()  # Upgrade connection to secure
+        server.login(SENDER_EMAIL, SENDER_PASSWORD)
+        server.sendmail(SENDER_EMAIL, RECIPIENT_EMAIL, msg.as_string())
+
+    print("Email sent successfully!")
+
+# Main function to run the process
+if __name__ == "__main__":
+    # Get the TV price data
+    tv_price_data = get_tv_price_data()
+
+    if tv_price_data:
+        # Create the HTML content
+        html_email = create_html_email(tv_price_data)
+        
+        # Send the email
+        send_email(html_email)
+How This Script Works:
+Retrieve TV Prices:
+The get_tv_price_data() function queries the SQLite database for the top 10 most recent TV price entries.
+Create an HTML Table:
+The create_html_email() function formats the TV data into an HTML table for display. This includes headers like "Date", "TV", and "Price".
+Send the Email:
+The send_email() function connects to an SMTP server, formats the email as HTML using the MIMEText class, and sends it to the recipient.
+Running the Script
+Before running the script, be sure to:
+
+Replace your-email@gmail.com, your-email-password, and recipient-email@example.com with your actual email credentials and the recipient's email.
+Use an appropriate SMTP server configuration (the example above is for Gmail).
+To send the email, run:
+
+python send_email.py
+Once executed, the script will send out an email with the top 10 Amazon TV prices formatted in a neat HTML table.
+
+Thank you for reading this article. I hope you found it helpful and informative. If you have any questions, or if you would like to suggest new Python code examples or topics for future tutorials, please feel free to reach out. Your feedback and suggestions are always welcome!
+
+Happy coding!
+C. C. Python Programming

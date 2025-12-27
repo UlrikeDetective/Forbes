@@ -1,0 +1,18 @@
+Content:
+Initial Setup 
+Data Loading 
+Data Cleaning R
+Data Cleaning python
+Preprocessing
+1. Championship Progression
+2. Climbers Consistency Heatmap
+3. Qualification vs Semi-Final vs. Final Scatter Plot
+4. Team Performance Radar Chart
+5. Points Distribution Analysis
+6. Sprint Race Impact
+7. Lap Time & Speed Analysis
+8. Position Changes Visualization
+10. Momentum Analysis
+Summary Dashboard
+Conclusion
+Complete python code in a Github repository
