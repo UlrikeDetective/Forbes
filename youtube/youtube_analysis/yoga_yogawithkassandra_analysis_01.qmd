@@ -1,0 +1,462 @@
+---
+title: "youtube_yoga_analysis"
+format: html
+editor: visual
+---
+
+## Analysis - Youtube - Channel Yoga with Kassandra
+
+#### Data is from the Youtube Channel "Yoga with Kassandra".
+
+Data scraping was on March 16th 2024 using an API via fetching the channels ID, using a node.js code.
+
+#### Data cleaning:
+
+Deleted columns: "channelId", "publishedAt", "position", "duration", "dimension", "definition", "defaultLanguage", "thumbnail_maxres", "licensedContent", "locationDescription", "latitude", "longitude", "dislikeCount", "favoriteCount"
+
+Split column publishedAtSQL into Date (release_date) and Time (release_time).
+
+Changed durationSec - duration of video in seconds - to duration - duration of video mm:ss.
+
+Added columns yogaSubject - Style of yoga in video - and YogaChallenge - if this video is part of a yoga challenge (series).
+
+#### Loading libraries
+
+```{r, echo = FALSE}
+
+library(tidyverse)
+library(dplyr)
+library(knitr)
+library(ggplot2)
+library(skimr)
+```
+
+#### Loading csv file
+
+```{r, echo = FALSE}
+
+yoga <- read.csv("/youtube_yoga_with_kassandra_2024_03_16.csv")
+```
+
+#### Style of Analysis
+
+```{r}
+youtube_yoga_theme <- c("#fcf1ef","#f7e6e3", "#e4e4e2", "#bfae4a", "#e7d8c9","#e5babf","#e09592", "#cdd3d6", "#B6F9FF", "#78B1E5", "#5281B4", "#5e616b", "#4F5361", "#353E55", "#474844")
+```
+
+```{r}
+custom_yoga_theme_nolegend <- function() {
+  #theme_minimal() %+replace%  
+  theme(
+    # Define the overall appearance of the plot
+    plot.background = element_rect(fill = "azure2"),
+    panel.background = element_rect(fill = "azure2"),
+    panel.grid.major = element_line(color = "azure4"),
+    panel.grid.minor = element_blank(),
+    
+    # Define the appearance of the axes
+    axis.line = element_line(color = "azure4"),
+    axis.text = element_text(color = "azure4"),
+    axis.title = element_text(color = "azure4", size = 12, face = "bold.italic"),
+    axis.ticks = element_line(color = "azure4"),
+    legend.position = "none",
+    
+    # Define the appearance of the plot title and subtitles
+    plot.title = element_text(color = "#5281B4", size = 14, face = "bold.italic"),
+    plot.subtitle = element_text(color = "#5281B4", size = 12),
+    
+    # Define the appearance of the plot labels
+    plot.caption = element_text(color = "#5281B4", size = 10),
+    plot.tag = element_text(color = "#5281B4", size = 11, face = "bold.italic"),
+    
+    # Remove the plot border
+    panel.border = element_blank()
+  )
+}
+```
+
+#### First look into the dataframe
+
+```{r, echo = FALSE}
+
+head(yoga)
+skim(yoga)
+```
+
+```{r}
+colnames(yoga)
+```
+
+earliest episode, latest episode
+
+```{r}
+earliest_date <- min(yoga$release_date)
+latest_date <- max(yoga$release_date)
+
+print(paste("Earliest Date:", earliest_date))
+print(paste("Latest Date:", latest_date))
+
+```
+
+Count of episodes, number of episodes per year, month
+
+```{r}
+yoga_videos <- yoga %>% 
+  summarise(channelTitle = n()) %>%
+  mutate(Message = paste("There are", channelTitle, "in the dataset"))
+print(yoga_videos$Message)
+
+
+```
+
+But how many videos were released every year?
+
+```{r}
+library(dplyr)
+
+yoga_videos <- yoga %>%
+  mutate(year = lubridate::year(release_date)) %>%  # Extract year from release_date
+  group_by(year) %>%
+  summarise(num_videos = n())
+
+# Calculate mean and median of videos per year
+mean_videos_per_year <- mean(yoga_videos$num_videos)
+median_videos_per_year <- median(yoga_videos$num_videos)
+
+# Print the mean and median
+print(paste("Mean videos per year:", mean_videos_per_year))
+print(paste("Median videos per year:", median_videos_per_year))
+
+
+ggplot(yoga_videos, aes(x = factor(year), y = num_videos, fill = factor(year))) +
+  geom_bar(stat = "identity") +
+  geom_text(aes(label = num_videos), vjust = -0.5, color = "darkblue", size = 5, fontface = "bold") +  
+  labs(x = "Year", y = "Number of Videos", title = "Number of Yoga Videos per Year") +
+  scale_fill_manual(values = youtube_yoga_theme) +
+  custom_yoga_theme_nolegend()  +
+  scale_y_continuous(limits = c(0, max(160)))
+
+```
+
+video with most/least viewCount, mean, medium, viewCount per Year,
+
+```{r}
+mean(yoga$viewCount)
+median(yoga$viewCount)
+min(yoga$viewCount)
+max(yoga$viewCount)
+```
+
+```{r}
+# Subset the dataframe where viewCount is 0
+entries_with_zero_views <- yoga[yoga$viewCount == 0, ]
+entries_with_zero_views
+```
+
+Okay, that seems like just an add. I will delete this entry.
+
+```{r}
+# Find the index of the row with viewCount equal to 0
+index_to_delete <- which(yoga$viewCount == 0)
+
+# Remove the row at the identified index
+yoga <- yoga[-index_to_delete, ]
+```
+
+```{r}
+yoga_videos <- yoga %>% 
+  summarise(channelTitle = n()) %>%
+  mutate(Message = paste("Now, there are", channelTitle, "in the dataset"))
+print(yoga_videos$Message)
+```
+
+```{r}
+viewCount_mean <- round(mean(yoga$viewCount), 1)
+viewCount_median <- median(yoga$viewCount)
+viewCount_min <- min(yoga$viewCount)
+viewCount_max <- max(yoga$viewCount)
+
+print(paste("Mean view count:", viewCount_mean))
+print(paste("Median view count:", viewCount_median))
+
+print(paste("Minimum view count:", viewCount_min))
+print(paste("Maximum view count:", viewCount_max))
+
+entries_with_min_views <- yoga[yoga$viewCount == 1297, ]
+
+subset_entries_with_min_views <- entries_with_min_views[, c("release_date", "yogaSubject", "duration")]
+
+viewCount_output_format <- "Video with least view was released on: %s, Subject of video: %s, duration of video: %s"
+
+viewCount_output <- sprintf(viewCount_output_format, subset_entries_with_min_views$release_date, 
+                  subset_entries_with_min_views$yogaSubject, 
+                  subset_entries_with_min_views$duration)
+
+print(viewCount_output)
+entries_with_max_views <- yoga[yoga$viewCount == 36036204, ]
+subset_entries_with_max_views <- entries_with_max_views[, c("release_date", "yogaSubject", "duration")]
+
+viewCount_output_format_max <- "Video with most view was released on: %s, Subject of video: %s, duration of video: %s"
+
+viewCount_output_max <- sprintf(viewCount_output_format_max, subset_entries_with_max_views$release_date, 
+                  subset_entries_with_max_views$yogaSubject, 
+                  subset_entries_with_max_views$duration)
+
+print(viewCount_output_max)
+```
+
+```{r}
+library(dplyr)
+library(ggplot2)
+
+yoga <- yoga %>%
+  mutate(year = lubridate::year(release_date))
+
+yoga_mean <- yoga %>%
+  group_by(year) %>%
+  summarise(mean_count = mean(viewCount))
+
+yoga_median <- yoga %>%
+  group_by(year) %>%
+  summarise(median_count = median(viewCount))
+
+# Bar chart
+bar_plot_mean <- ggplot(yoga_mean, aes(x = factor(year), y = mean_count)) +
+  geom_bar(stat = "identity", fill = "#78B1E5") +
+  geom_text(aes(label = round(mean_count, 1)), vjust = -0.5, color = "darkblue", size = 3, fontface = "bold") +  
+  labs(x = "Year", y = "Mean View Count", title = "Mean View Count per Year") +
+  scale_fill_manual(values = youtube_yoga_theme) +
+  custom_yoga_theme_nolegend() +
+  scale_y_continuous(limits = c(0, max(1000000)))
+
+bar_plot_mean
+
+bar_plot_median <- ggplot(yoga_median, aes(x = factor(year), y = median_count)) +
+  geom_bar(stat = "identity", fill = "#bfae4a") +
+  geom_text(aes(label = round(median_count, 1)), vjust = -0.5, color = "darkblue", size = 3, fontface = "bold") +  
+  labs(x = "Year", y = "Median View Count", title = "Median View Count per Year") +
+  scale_fill_manual(values = youtube_yoga_theme) +
+  custom_yoga_theme_nolegend() +
+  scale_y_continuous(limits = c(0, max(400000)))
+
+bar_plot_median
+
+```
+
+```{r}
+# Box plot
+box_plot_viewCount <- ggplot(yoga, aes(x = factor(year), y = viewCount)) +
+  geom_boxplot(fill = "lightpink") +
+  labs(x = "Year", y = "View Count", title = "View Count Distribution per Year") +
+  scale_fill_manual(values = youtube_yoga_theme) +
+  custom_yoga_theme_nolegend()
+
+box_plot_viewCount
+```
+
+```{r}
+library(dplyr)
+
+# Filter out the extreme outlier from the year 2018
+yoga_filtered <- yoga %>%
+  filter(!(year == 2018 & viewCount > 3500000))
+
+# Create the box plot with filtered data
+box_plot_viewCount <- ggplot(yoga_filtered, aes(x = factor(year), y = viewCount)) +
+  geom_boxplot(fill = "lightpink") +
+  labs(x = "Year", y = "View Count", title = "View Count Distribution per Year") +
+  scale_fill_manual(values = youtube_yoga_theme) +
+  custom_yoga_theme_nolegend()
+
+box_plot_viewCount
+# better, but I think I have to exclued more extreme values.
+```
+
+```{r}
+# Filter out the extreme outlier with more than 2 million views
+yoga_filtered <- yoga %>%
+  filter(!(viewCount > 2000000))
+
+# Create the box plot with filtered data
+box_plot_viewCount <- ggplot(yoga_filtered, aes(x = factor(year), y = viewCount)) +
+  geom_boxplot(fill = "lightpink") +
+  labs(x = "Year", y = "View Count", title = "View Count Distribution per Year") +
+  scale_fill_manual(values = youtube_yoga_theme) +
+  custom_yoga_theme_nolegend()
+
+box_plot_viewCount
+```
+
+```{r}
+# Filter out the extreme outlier with more than 1 million views
+yoga_filtered <- yoga %>%
+  filter(!(viewCount > 1000000))
+
+# Create the box plot with filtered data
+box_plot_viewCount <- ggplot(yoga_filtered, aes(x = factor(year), y = viewCount)) +
+  geom_boxplot(fill = "lightpink") +
+  labs(x = "Year", y = "View Count", title = "View Count Distribution per Year") +
+  scale_fill_manual(values = youtube_yoga_theme) +
+  custom_yoga_theme_nolegend()
+
+box_plot_viewCount
+```
+
+```{r}
+# Filter out the extreme outlier with more than 1 million views
+yoga_filtered <- yoga %>%
+  filter(!(viewCount > 600000))
+
+# Create the box plot with filtered data
+box_plot_viewCount <- ggplot(yoga_filtered, aes(x = factor(year), y = viewCount)) +
+  geom_boxplot(fill = "lightpink") +
+  labs(x = "Year", y = "View Count", title = "View Count Distribution per Year") +
+  scale_fill_manual(values = youtube_yoga_theme) +
+  custom_yoga_theme_nolegend()
+
+box_plot_viewCount
+```
+
+```{r}
+library(ggplot2)
+
+# Filter the data to include only videos with more than 1 million views
+yoga_above_1m <- yoga %>%
+  filter(viewCount > 1000000)
+
+# Create a bar plot
+bar_plot_above_1m <- ggplot(yoga_above_1m, aes(x = factor(year))) +
+  geom_bar(fill = "#5281B4") +
+  geom_text(stat = 'count', aes(label = after_stat(count)), vjust = -0.5, color = "darkblue", size = 5, fontface = "bold") +  # Add text labels
+  labs(x = "Year", y = "Number of Videos (>1M views)", title = "Videos with More Than 1 Million Views per Year") +
+  scale_fill_manual(values = youtube_yoga_theme) +
+  custom_yoga_theme_nolegend() +
+  scale_y_continuous(limits = c(0, max(25)))
+
+bar_plot_above_1m
+print(paste("Videos with more than 1 mio views:", count(yoga_above_1m)))
+
+percent_above_1m <- round((count(yoga_above_1m) *100) / count(yoga), 1)
+print(paste("Percentage of videos with more than 1 mio views:", percent_above_1m))
+
+```
+
+```{r}
+library(ggplot2)
+
+# Filter the data to include only videos with more than 1 million views
+yoga_above_1m <- yoga %>%
+  filter(viewCount > 1000000)
+
+# Create a boxplot
+box_plot_above_1m <- ggplot(yoga_above_1m, aes(x = factor(year), y = viewCount)) +
+  geom_boxplot(fill = "#e7d8c9") +
+  labs(x = "Year", y = "View Count", title = "Distribution of View Counts for Videos Above 1 Million Views, \n by Year") +
+  scale_fill_manual(values = youtube_yoga_theme) +
+  custom_yoga_theme_nolegend()
+
+box_plot_above_1m
+
+```
+
+```{r}
+# puhhh still that one extreme outlier - lets exclude it also here!
+library(ggplot2)
+
+# Filter the data to include only videos with more than 1 million views
+yoga_above_1m <- yoga %>%
+  filter(viewCount > 1000000, viewCount <= 10000000)
+
+# Create a boxplot
+box_plot_above_1m <- ggplot(yoga_above_1m, aes(x = factor(year), y = viewCount)) +
+  geom_boxplot(fill = "#e7d8c9") +
+  labs(x = "Year", y = "View Count", title = "Distribution of View Counts for Videos Above 1 Million Views, \n by Year") +
+  scale_fill_manual(values = youtube_yoga_theme) +
+  custom_yoga_theme_nolegend()
+
+box_plot_above_1m
+```
+
+month, view count per length of episode
+
+likeCount - most/least - likeCount & length, like&Count and Subject
+
+```{r}
+likeCount_mean <- round(mean(yoga$likeCount), 1)
+likeCount_median <- median(yoga$likeCount)
+likeCount_min <- min(yoga$likeCount)
+likeCount_max <- max(yoga$likeCount)
+
+print(paste("Mean like count:", likeCount_mean))
+print(paste("Median like count:", likeCount_median))
+
+print(paste("Minimum like count:", likeCount_min))
+print(paste("Maximum like count:", likeCount_max))
+
+entries_with_min_likes <- yoga[yoga$likeCount == 26, ]
+# Subset the dataframe to include only specific columns
+subset_entries_with_min_likes <- entries_with_min_likes[, c("release_date", "yogaSubject", "duration")]
+# Define the format string
+likeCount_output_format <- "Video with least likes was released on: %s, Subject of video: %s, duration of video: %s"
+# Format the output
+likeCount_output <- sprintf(likeCount_output_format, subset_entries_with_min_likes$release_date, 
+                  subset_entries_with_min_likes$yogaSubject, 
+                  subset_entries_with_min_likes$duration)
+# Print the formatted output
+print(likeCount_output)
+
+entries_with_max_likes <- yoga[yoga$likeCount == 585954, ]
+subset_entries_with_max_likes <- entries_with_max_likes[, c("release_date", "yogaSubject", "duration")]
+# Define the format string
+likeCount_output_format_max <- "Video with most view was released on: %s, Subject of video: %s, duration of video: %s"
+# Format the output
+likeCount_output_max <- sprintf(likeCount_output_format_max, subset_entries_with_max_likes$release_date, 
+                  subset_entries_with_max_likes$yogaSubject, 
+                  subset_entries_with_max_likes$duration)
+# Print the formatted output
+print(likeCount_output_max)
+```
+
+commentCount - most/least - commentCount & length, comment&Count and Subject
+
+```{r}
+commentCount_mean <- round(mean(yoga$commentCount, na.rm = TRUE), 1)
+commentCount_median <- median(yoga$commentCount, na.rm = TRUE)
+commentCount_min <- min(yoga$commentCount, na.rm = TRUE)
+commentCount_max <- max(yoga$commentCount, na.rm = TRUE)
+
+print(paste("Mean comment count:", commentCount_mean))
+print(paste("Median comment count:", commentCount_median))
+
+print(paste("Minimum comment count:", commentCount_min))
+print(paste("Maximum comment count:", commentCount_max))
+```
+
+episode duration per year, month
+
+mean, median video length, shortest video, longest video
+
+```{r}
+# Convert durations to minutes
+yoga$duration_minutes <- as.numeric(substr(yoga$duration, 1, 2)) + as.numeric(substr(yoga$duration, 4, 5)) / 60
+
+# Compute mean and median
+mean_duration <- round(mean(yoga$duration_minutes, na.rm = TRUE), 1)
+median_duration <- round(median(yoga$duration_minutes, na.rm = TRUE), 1)
+
+# Print mean and median durations
+print(paste("Mean Duration of an episode of Yoga with Kassandra is:", mean_duration, "minutes"))
+print(paste("Median Duration of an episode of Yoga with Kassandra is:", median_duration, "minutes"))
+```
+
+Video part of a challenge? video with most/least viewCount, mean, medium, view count per length of episode
+
+yogaSubject - count per category, likeCount per category, ViewCount per Subject, Length per Subject, Year per Subject
+
+likeCount - most/least - likeCount & length, like&Count and Subject
+
+commentCount - most/least - commentCount & length, comment&Count and Subject
+
+VideoCategoryID (how many Video Categories has Youtube?)
+
+VideoCategoryLabel (how many Video Category Labels has Youtube?)

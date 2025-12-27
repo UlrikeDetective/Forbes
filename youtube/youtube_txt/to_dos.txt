@@ -1,0 +1,12 @@
+To dos
+
+- publish other datasets on Kaggle
+  ** Published Yoga with Kassandra and TED
+
+- doing analysis with data sets
+  ** done Yoga with Kassandra and TED
+
+- what insights can I gather from the youtube channels
+
+- TED: Wordcloud of words in Title, word cound in Titles, subject?
+

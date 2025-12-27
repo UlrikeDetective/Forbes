@@ -1,0 +1,165 @@
+---
+title: "youtube_yogawithkassandra_cleaning"
+format: html
+editor: visual
+---
+
+## Youtube - Yoga with Kassandra cleaning
+
+```{r, echo = FALSE}
+
+library(readcsv)
+library(tidyverse)
+library(dplyr)
+library(knitr)
+```
+
+You can add options to executable code like this
+
+```{r, echo = FALSE}
+
+yoga <- read.csv(".../youtube_yogawithkassandra_2024_03_16-23_09_37.csv")
+```
+
+```{r, echo = FALSE}
+
+head(yoga)
+colnames(yoga)
+skim(yoga)
+# str(yoga)
+#glimpse(yoga)
+#class(yoga)
+```
+
+```{r}
+# Assuming 'yoga' is your dataframe
+yoga <- yoga[, !colnames(yoga) %in% c("channelId", "publishedAt", "position", "duration", "dimension", "definition", "defaultLanguage", "thumbnail_maxres", "licensedContent", "locationDescription", "latitude", "longitude", "dislikeCount", "favoriteCount" )]
+
+head(yoga)
+colnames(yoga)
+str(yoga)
+```
+
+```{r}
+# Subset of publishedAtSQL into date and time
+
+# Assuming 'yoga' is your dataframe
+yoga$release_date <- substr(yoga$publishedAtSQL, 1, 10)  # Extract yyyy-mm-dd
+yoga$release_time <- substr(yoga$publishedAtSQL, 12, 19) # Extract hh:mm:ss
+
+# Convert release_date and release_time to appropriate formats
+yoga$release_date <- as.Date(yoga$release_date)
+yoga$release_time <- as.POSIXct(yoga$release_time, format = "%H:%M:%S")
+
+# Remove the original publishedAtSQL column if no longer needed
+# yoga <- yoga[, !colnames(yoga) %in% "publishedAtSQL"]
+
+```
+
+```{r}
+# Extract time portion from release_time column
+yoga$release_time <- format(yoga$release_time, "%H:%M:%S")
+
+# Check the dataframe
+head(yoga)
+
+
+
+```
+
+```{r}
+# Convert duration in seconds to minutes and seconds format
+yoga$duration <- sprintf("%02d:%02d", yoga$durationSec %/% 60, yoga$durationSec %% 60)
+
+# Check the dataframe
+head(yoga)
+
+```
+
+```{r}
+# remove column durationSec
+
+yoga <- yoga[, !colnames(yoga) %in% "durationSec"]
+
+head(yoga)
+skim(yoga)
+```
+
+```{r}
+new_order <- c("channelTitle", "videoId", "videoTitle", "release_date", "release_time", "duration", "viewCount", "likeCount", "commentCount", "defaultLAudioLanguage", "videoDescription", "tags", "videoCategoryId", "videoCategoryLabel", "topicCategories", "caption")
+yoga <- yoga[, new_order]
+```
+
+```{r}
+head(yoga, 850)
+```
+
+```{r}
+# Define a named vector mapping patterns to labels
+pattern_labels <- c(
+  "Morning" = "Morning Yoga",
+  "Element" = "Element Yoga",
+  "Intermediate" = "Intermediate Yoga",
+  "Beginner" = "Beginner Yoga",
+  "Advanced" = "Advanced Yoga",
+  "Yin" = "Yin Yoga",
+  "after work" = "After Work Yoga",
+  "pose|tutorial" = "Tutorial",
+  "Upper Body" = "Upper Body Yoga",
+  "Full Body" = "Full Body Yoga",
+  "Lower Body" = "Lower Body Yoga",
+  "Vinyasa" = "Vinyasa Flow Yoga",
+  "Power Yoga" = "Power Yoga",
+  "Chakra" = "Chakra Yoga",
+  "Bedtime|Evening" = "Evening/Bedtime Yoga",
+  "Yoga for Flexibility & Relaxation|Yoga for Flexibility" = "Yoga for Flexibility",
+  "Core Strength Yoga" = "Core Strength Yoga",
+  "Neck & Shoulder" = "Neck & Shoulder",
+  "Restorative Yoga" = "Restorative Yoga",
+  "Stress & Anxiety" = "Yoga for Stress & Anxiety",
+  "Affirmation" = "Affirmation Yoga",
+  "Meditation" = "Meditation",
+  "DAY" = "Yoga Challenge",
+  "Aquarius|Capricorn|Pisces|Sagittarius|Scorpio|Cancer|Virgo|Leo|Gemini|Taurus|Aries|Libra" = "Zodiac yoga"
+)
+
+# Apply pattern matching to create yogaSubject column
+yoga$yogaSubject <- sapply(yoga$videoTitle, function(title) {
+  for (pattern in names(pattern_labels)) {
+    if (grepl(pattern, title)) {
+      return(pattern_labels[pattern])
+    }
+  }
+  return("Other")
+})
+
+```
+
+```{r}
+head(yoga, 50)
+```
+
+```{r}
+# Create a new column "YogaChallenge" with TRUE for titles containing "DAY" or "day", otherwise FALSE
+yoga$YogaChallenge <- grepl("DAY|day|Day|Challenge", yoga$videoTitle, ignore.case = TRUE)
+
+# Convert the logical values to TRUE/FALSE
+yoga$YogaChallenge <- as.logical(yoga$YogaChallenge)
+
+```
+
+```{r}
+head(yoga, 150)
+```
+
+```{r}
+new_order <- c("channelTitle", "videoId", "videoTitle", "yogaSubject", "YogaChallenge", "release_date", "release_time", "duration", "viewCount", "likeCount", "commentCount", "defaultLAudioLanguage", "videoDescription", "tags", "videoCategoryId", "videoCategoryLabel", "topicCategories", "caption")
+yoga <- yoga[, new_order]
+head(yoga)
+```
+
+```{r}
+# Save the dataframe as a CSV file
+write.csv(yoga, "youtube_yoga_with_kassandra_2024_03_16.csv", row.names = FALSE)
+
+```

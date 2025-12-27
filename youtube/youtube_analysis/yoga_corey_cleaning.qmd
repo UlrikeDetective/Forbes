@@ -1,0 +1,123 @@
+---
+title: "youtube_corey_python_cleaning"
+format: html
+editor: visual
+---
+
+## Youtube - Corey Schafer Python
+
+```{r, echo = FALSE}
+
+library(tidyverse)
+library(dplyr)
+library(knitr)
+library(skimr)
+```
+
+You can add options to executable code like this
+
+```{r, echo = FALSE}
+
+corey <- read.csv(".../youtube_Corey_Schafer_python_2024_03_17-08_24_58.csv")
+```
+
+```{r, echo = FALSE}
+
+head(corey)
+colnames(corey)
+skim(corey)
+# str(corey)
+#glimpse(corey)
+#class(corey)
+```
+
+```{r}
+# Assuming 'corey' is your dataframe
+corey <- corey[, !colnames(corey) %in% c("channelId", "publishedAt", "position", "duration", "dimension", "definition", "defaultLanguage", "thumbnail_maxres", "licensedContent", "locationDescription", "latitude", "longitude", "dislikeCount", "favoriteCount" )]
+
+head(corey)
+colnames(corey)
+# str(corey)
+```
+
+```{r}
+# Subset of publishedAtSQL into date and time
+
+# Assuming 'corey' is your dataframe
+corey$release_date <- substr(corey$publishedAtSQL, 1, 10)  # Extract yyyy-mm-dd
+corey$release_time <- substr(corey$publishedAtSQL, 12, 19) # Extract hh:mm:ss
+
+# Convert release_date and release_time to appropriate formats
+corey$release_date <- as.Date(corey$release_date)
+corey$release_time <- as.POSIXct(corey$release_time, format = "%H:%M:%S")
+
+# Remove the original publishedAtSQL column if no longer needed
+# corey <- corey[, !colnames(corey) %in% "publishedAtSQL"]
+
+```
+
+```{r}
+# Extract time portion from release_time column
+corey$release_time <- format(corey$release_time, "%H:%M:%S")
+
+# Check the dataframe
+head(corey)
+
+
+
+```
+
+```{r}
+# Convert duration in seconds to minutes and seconds format
+corey$duration <- sprintf("%02d:%02d", corey$durationSec %/% 60, corey$durationSec %% 60)
+
+# Check the dataframe
+head(corey, 30)
+
+```
+
+```{r}
+# remove column durationSec
+
+corey <- corey[, !colnames(corey) %in% c("publishedAtSQL", "durationSec")]
+
+head(corey, 250)
+skim(corey)
+```
+
+```{r}
+# Assuming your dataframe is named corey
+corey$codeSubject <- ifelse(grepl("CSS", corey$videoTitle), "CSS",
+                    ifelse(grepl("Mac", corey$videoTitle), "Mac",
+                    ifelse(grepl("Linux/Mac", corey$videoTitle), "Linux/Mac",
+                    ifelse(grepl("Terminal", corey$videoTitle), "Terminal",
+                    ifelse(grepl("JavaScript", corey$videoTitle), "JavaScript",
+                    ifelse(grepl("WordPress", corey$videoTitle), "WordPress",
+                    ifelse(grepl("Python", corey$videoTitle), "Python",
+                    ifelse(grepl("Git", corey$videoTitle), "Git",
+                    ifelse(grepl("SQL", corey$videoTitle), "SQL",
+                    ifelse(grepl("Jupyter Notebook", corey$videoTitle), "Jupyter Notebook",
+                    ifelse(grepl("Matplotlib", corey$videoTitle), "Matplotlib",
+                    ifelse(grepl("Visual Studio Code", corey$videoTitle), "Visual Studio Code",
+                    "Other"))))))))))))
+
+
+```
+
+```{r}
+head(corey, 220)
+colnames(corey)
+```
+
+```{r}
+# Assuming your dataframe is named df
+new_order <- c("channelTitle", "videoId", "videoTitle", "release_date", "release_time", "duration", "codeSubject", "viewCount", "likeCount", "commentCount", "defaultLAudioLanguage", "videoDescription", "tags", "videoCategoryId", "videoCategoryLabel", "topicCategories", "caption")
+corey <- corey[, new_order]
+
+```
+
+```{r}
+# Save the dataframe as a CSV file
+write.csv(corey, "youtube_Corey_Schafer_python_2024_03_17.csv", row.names = FALSE)
+
+```

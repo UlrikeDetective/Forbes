@@ -1,0 +1,10 @@
+# Ignoriere temporäre Dateien
+*.tmp
+
+# Ignoriere das Verzeichnis "node_modules"
+node_modules/
+
+# Ignoriere Dateien, die auf ".log" enden
+*.log
+
+/youtube_txt/youtube_channel_ids.txt

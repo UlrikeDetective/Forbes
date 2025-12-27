@@ -1,0 +1,7 @@
+Youtube data sets
+
+First part look at YouTube.txt for how to get the data
+
+Second - schema of R Quatro how the datasets are cleaned
+
+Yoga_with_kassandra and Tate were quite easy to clean, but a lot of time spend with the ted dataset. The title category was messy. Added speaker categary. In all tables split the date and time into two columns and converted the running time from seconds into mm.ss.

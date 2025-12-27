@@ -1,0 +1,558 @@
+---
+title: "youtube_TED_analysis"
+format: html
+editor: visual
+---
+
+## Analysis - Youtube - Channel TED
+
+#### Data is from the Youtube Channel "TED".
+
+Data scraping was on March 16th 2024 using an API via fetching the channels ID, using a node.js code.
+
+#### Data cleaning:
+
+Deleted columns: "channelId", "publishedAt", "position", "duration", "dimension", "definition", "defaultLanguage", "thumbnail_maxres", "licensedContent", "locationDescription", "latitude", "longitude", "dislikeCount", "favoriteCount"
+
+Split column publishedAtSQL into Date (release_date) and Time (release_time).
+
+Changed durationSec - duration of video in seconds - to duration - duration of video mm:ss.
+
+Split information in "Title" into "Title" of episode and "Speaker".
+
+#### Loading libraries
+
+```{r, echo = FALSE}
+
+library(tidyverse)
+library(dplyr)
+library(knitr)
+library(ggplot2)
+library(skimr)
+```
+
+#### Loading csv file
+
+```{r, echo = FALSE}
+
+TED <- read.csv2("/Users/ulrike_imac_air/projects/DataScienceProjects/youtube_projects/youtube_csv/youtube_ted_2024_03_17.csv")
+
+head(TED)
+```
+
+#### Style of Analysis
+
+```{r}
+youtube_TED_theme <- c("#927397", "#D6809c", "#E7CBAE", "#FAF5EF", "#7F7F7F")
+my_palette_TealGrn <- paletteer::paletteer_c("grDevices::TealGrn", 30)
+```
+
+```{r}
+custom_TED_theme_nolegend <- function() {
+  #theme_minimal() %+replace%  
+  theme(
+    # Define the overall appearance of the plot
+    plot.background = element_rect(fill = "azure2"),
+    panel.background = element_rect(fill = "azure2"),
+    panel.grid.major = element_line(color = "azure4"),
+    panel.grid.minor = element_blank(),
+    
+    # Define the appearance of the axes
+    axis.line = element_line(color = "azure4"),
+    axis.text = element_text(color = "azure4"),
+    axis.title = element_text(color = "azure4", size = 12, face = "bold.italic"),
+    axis.ticks = element_line(color = "azure4"),
+    legend.position = "none",
+    
+    # Define the appearance of the plot title and subtitles
+    plot.title = element_text(color = "cornflowerblue", size = 14, face = "bold.italic"),
+    plot.subtitle = element_text(color = "cornflowerblue", size = 12),
+    
+    # Define the appearance of the plot labels
+    plot.caption = element_text(color = "cornflowerblue", size = 10),
+    plot.tag = element_text(color = "cornflowerblue", size = 11, face = "bold.italic"),
+    
+    # Remove the plot border
+    panel.border = element_blank()
+  )
+}
+```
+
+#### First look into the dataframe
+
+```{r, echo = FALSE}
+
+skim(TED)
+nrow(TED)
+ncol(TED)
+```
+
+```{r}
+colnames(TED)
+```
+
+earliest episode, latest episode
+
+```{r}
+earliest_date <- min(TED$release_date)
+latest_date <- max(TED$release_date)
+
+print(paste("Earliest Date:", earliest_date))
+print(paste("Latest Date:", latest_date))
+
+```
+
+Count of episodes, number of episodes per year, month
+
+```{r}
+TED_videos <- TED %>% 
+  summarise(channelTitle = n()) %>%
+  mutate(Message = paste("There are", channelTitle, "in the dataset"))
+print(TED_videos$Message)
+
+
+```
+
+But how many videos were released every year?
+
+```{r}
+library(dplyr)
+
+TED_videos <- TED %>%
+  mutate(year = lubridate::year(release_date)) %>%  # Extract year from release_date
+  group_by(year) %>%
+  summarise(num_videos = n())
+
+# Calculate mean and median of videos per year
+mean_videos_per_year <- round(mean(TED_videos$num_videos), 2)
+
+median_videos_per_year <- median(TED_videos$num_videos)
+
+# Print the mean and median
+print(paste("Mean videos per year:", mean_videos_per_year))
+print(paste("Median videos per year:", median_videos_per_year))
+
+
+ggplot(TED_videos, aes(x = factor(year), y = num_videos, fill = factor(year))) +
+  geom_bar(stat = "identity") +
+  geom_text(aes(label = num_videos), vjust = -0.5, color = "darkblue", size = 4, fontface = "bold") +  
+  labs(x = "Year", y = "Number of Videos", title = "Number of TED Videos per Year") +
+  scale_fill_manual(values = my_palette_TealGrn) +
+  custom_TED_theme_nolegend()  +
+  scale_y_continuous(limits = c(0, max(460)))
+
+```
+
+video with most/least viewCount, mean, medium, viewCount per Year,
+
+```{r}
+mean(TED$viewCount)
+median(TED$viewCount)
+min(TED$viewCount)
+max(TED$viewCount)
+```
+
+```{r}
+# Subset the dataframe where viewCount is 0
+entries_with_zero_views <- TED[TED$viewCount == 0, ]
+entries_with_zero_views
+```
+
+Okay, that seems like just an add. I will delete this entry.
+
+```{r}
+# Find the index of the row with viewCount equal to 0
+index_to_delete <- which(TED$viewCount == 0)
+
+# Remove the row at the identified index
+TED <- TED[-index_to_delete, ]
+```
+
+```{r}
+TED_videos <- TED %>% 
+  summarise(channelTitle = n()) %>%
+  mutate(Message = paste("Now, there are", channelTitle, "in the dataset"))
+print(TED_videos$Message)
+```
+
+```{r}
+viewCount_mean <- round(mean(TED$viewCount), 1)
+viewCount_median <- median(TED$viewCount)
+viewCount_min <- min(TED$viewCount)
+viewCount_max <- max(TED$viewCount)
+
+print(paste("Mean view count:", viewCount_mean))
+print(paste("Median view count:", viewCount_median))
+
+print(paste("Minimum view count:", viewCount_min))
+print(paste("Maximum view count:", viewCount_max))
+
+entries_with_min_views <- TED[TED$viewCount == 9, ]
+
+subset_entries_with_min_views <- entries_with_min_views[, c("release_date", "speaker", "duration")]
+
+viewCount_output_format <- "Video with least view was released on: %s, Speaker: %s, duration of video: %s"
+
+viewCount_output <- sprintf(viewCount_output_format, subset_entries_with_min_views$release_date, 
+                  subset_entries_with_min_views$speaker, 
+                  subset_entries_with_min_views$duration)
+
+print(viewCount_output)
+entries_with_max_views <- TED[TED$viewCount == 55087956, ]
+subset_entries_with_max_views <- entries_with_max_views[, c("release_date", "speaker", "duration")]
+
+viewCount_output_format_max <- "Video with most view was released on: %s, Speaker of video: %s, duration of video: %s"
+
+viewCount_output_max <- sprintf(viewCount_output_format_max, subset_entries_with_max_views$release_date, 
+                  subset_entries_with_max_views$speaker, 
+                  subset_entries_with_max_views$duration)
+
+print(viewCount_output_max)
+```
+
+```{r}
+library(dplyr)
+library(ggplot2)
+
+TED <- TED %>%
+  mutate(year = lubridate::year(release_date))
+
+TED_mean <- TED %>%
+  group_by(year) %>%
+  summarise(mean_count = mean(viewCount))
+
+TED_median <- TED %>%
+  group_by(year) %>%
+  summarise(median_count = median(viewCount))
+
+# Bar chart
+bar_plot_mean <- ggplot(TED_mean, aes(x = factor(year), y = mean_count)) +
+  geom_bar(stat = "identity", fill = "#D6809c") +
+  geom_text(aes(label = round(mean_count, 1)), vjust = -0.5, color = "darkblue", size = 2, fontface = "bold") +  
+  labs(x = "Year", y = "Mean View Count", title = "Mean View Count per Year") +
+  scale_fill_manual(values = my_palette_ag_GrnYL) +
+  custom_TED_theme_nolegend() +
+  scale_y_continuous(limits = c(0, max(1500000)))
+
+bar_plot_mean
+
+bar_plot_median <- ggplot(TED_median, aes(x = factor(year), y = median_count)) +
+  geom_bar(stat = "identity", fill = "#927397") +
+  geom_text(aes(label = round(median_count, 1)), vjust = -0.5, color = "darkblue", size = 2, fontface = "bold") +  
+  labs(x = "Year", y = "Median View Count", title = "Median View Count per Year") +
+  scale_fill_manual(values = youtube_TED_theme) +
+  custom_TED_theme_nolegend() +
+  scale_y_continuous(limits = c(0, max(400000)))
+
+bar_plot_median
+
+```
+
+```{r}
+# Box plot
+box_plot_viewCount <- ggplot(TED, aes(x = factor(year), y = viewCount)) +
+  geom_boxplot(fill = "#927397") +
+  labs(x = "Year", y = "View Count", title = "View Count Distribution per Year") +
+  scale_fill_manual(values = youtube_TED_theme) +
+  custom_TED_theme_nolegend()
+
+box_plot_viewCount
+```
+
+```{r}
+library(dplyr)
+
+# Filter out the extreme outlier from the year 2018
+TED_filtered <- TED %>%
+  filter(!(viewCount > 2500000))
+
+# Create the box plot with filtered data
+box_plot_viewCount <- ggplot(TED_filtered, aes(x = factor(year), y = viewCount)) +
+  geom_boxplot(fill = "#927397") +
+  labs(x = "Year", y = "View Count", title = "View Count Distribution per Year") +
+  scale_fill_manual(values = youtube_TED_theme) +
+  custom_TED_theme_nolegend()
+
+box_plot_viewCount
+# better, but I think I have to exclued more extreme values.
+```
+
+```{r}
+# Filter out the extreme outlier with more than 2 million views
+TED_filtered <- TED %>%
+  filter(!(viewCount > 300000))
+
+# Create the box plot with filtered data
+box_plot_viewCount <- ggplot(TED_filtered, aes(x = factor(year), y = viewCount)) +
+  geom_boxplot(fill = "#927397") +
+  labs(x = "Year", y = "View Count", title = "View Count Distribution per Year") +
+  scale_fill_manual(values = youtube_TED_theme) +
+  custom_TED_theme_nolegend()
+
+box_plot_viewCount
+```
+
+```{r}
+library(ggplot2)
+
+# Filter the data to include only videos with more than 1 million views
+TED_above_1m <- TED %>%
+  filter(viewCount > 1000000)
+
+# Create a bar plot
+bar_plot_above_1m <- ggplot(TED_above_1m, aes(x = factor(year))) +
+  geom_bar(fill = "#927397") +
+  geom_text(stat = 'count', aes(label = after_stat(count)), vjust = -0.5, color = "darkblue", size = 5, fontface = "bold") +  # Add text labels
+  labs(x = "Year", y = "Number of Videos (>1M views)", title = "Videos with More Than 1 Million Views per Year") +
+  scale_fill_manual(values = youtube_TED_theme) +
+  custom_TED_theme_nolegend() +
+  scale_y_continuous(limits = c(0, max(50)))
+
+bar_plot_above_1m
+print(paste("Videos with more than 1 mio views:", count(TED_above_1m)))
+
+percent_above_1m <- round((count(TED_above_1m) *100) / count(TED), 1)
+print(paste("Percentage of videos with more than 1 mio views:", percent_above_1m))
+
+```
+
+month, view count per length of episode
+
+likeCount - most/least - likeCount & length, like&Count and Subject
+
+```{r}
+likeCount_mean <- round(mean(TED$likeCount, na.rm = TRUE), 1)
+likeCount_median <- median(TED$likeCount, na.rm = TRUE)
+likeCount_min <- min(TED$likeCount, na.rm = TRUE)
+likeCount_max <- max(TED$likeCount, na.rm = TRUE)
+
+print(paste("Mean like count:", likeCount_mean))
+print(paste("Median like count:", likeCount_median))
+print(paste("Minimum like count:", likeCount_min))
+print(paste("Maximum like count:", likeCount_max))
+
+# entries_with_min_likes <- TED[TED$likeCount == 0, ]
+# subset_entries_with_min_likes <- entries_with_min_likes[, c("release_date", "speaker", "duration")]
+# likeCount_output_format <- "Video with least likes was released on: %s, Subject of video: %s, duration of video: %s"
+# likeCount_output <- sprintf(likeCount_output_format, subset_entries_with_min_likes$release_date, 
+#                             subset_entries_with_min_likes$speaker, 
+#                             subset_entries_with_min_likes$duration)
+# print(likeCount_output)
+# 
+# entries_with_max_likes <- TED[TED$likeCount == 1904208, ]
+# subset_entries_with_max_likes <- entries_with_max_likes[, c("release_date", "speaker", "duration")]
+# likeCount_output_format_max <- "Video with most likes was released on: %s, Subject of video: %s, duration of video: %s"
+# likeCount_output_max <- sprintf(likeCount_output_format_max, subset_entries_with_max_likes$release_date, 
+#                                 subset_entries_with_max_likes$speaker, 
+#                                 subset_entries_with_max_likes$duration)
+# print(likeCount_output_max)
+
+videos_with_zero_likes <- sum(TED$likeCount == 0, na.rm = TRUE)
+print(paste("Number of videos with 0 likes:", videos_with_zero_likes))
+
+videos_with_most_likes <- sum(TED$likeCount == 1904208, na.rm = TRUE)
+print(paste("Number of videos with most likes:", videos_with_most_likes))
+
+
+```
+
+commentCount - most/least - commentCount & length, comment&Count and Subject
+
+```{r}
+commentCount_mean <- round(mean(TED$commentCount, na.rm = TRUE), 1)
+commentCount_median <- median(TED$commentCount, na.rm = TRUE)
+commentCount_min <- min(TED$commentCount, na.rm = TRUE)
+commentCount_max <- max(TED$commentCount, na.rm = TRUE)
+
+print(paste("Mean comment count:", commentCount_mean))
+print(paste("Median comment count:", commentCount_median))
+
+print(paste("Minimum comment count:", commentCount_min))
+print(paste("Maximum comment count:", commentCount_max))
+```
+
+episode duration per year, month
+
+mean, median video length, shortest video, longest video
+
+```{r}
+# Convert durations to minutes
+TED$duration_minutes <- as.numeric(substr(TED$duration, 1, 2)) + as.numeric(substr(TED$duration, 4, 5)) / 60
+
+# Compute mean and median
+mean_duration <- round(mean(TED$duration_minutes, na.rm = TRUE), 1)
+median_duration <- round(median(TED$duration_minutes, na.rm = TRUE), 1)
+
+# Print mean and median durations
+print(paste("Mean Duration of an episode of TED is:", mean_duration, "minutes"))
+print(paste("Median Duration of an episode of TED is:", median_duration, "minutes"))
+```
+
+### Top 10 most watched videos
+
+```{r}
+library(dplyr)
+
+top_10_watched <- TED %>%
+  arrange(desc(viewCount)) %>%
+  head(10) %>%
+  select(speaker, viewCount, release_date, duration, title)
+
+print(top_10_watched)
+```
+
+### Top 10 most liked videos
+
+```{r}
+library(dplyr)
+
+# Arrange the dataframe by viewCount in descending order and select the top 10
+top_10_liked <- TED %>%
+  arrange(desc(likeCount)) %>%
+  head(10) %>%
+  select(speaker, likeCount, release_date, duration, title)
+
+# Print the result
+print(top_10_liked)
+```
+
+### Top 10 most comment videos
+
+```{r}
+library(dplyr)
+
+top_10_comments <- TED %>%
+  arrange(desc(commentCount)) %>%
+  head(10) %>%
+  select(speaker, commentCount, release_date, duration, title)
+
+print(top_10_comments)
+```
+
+### Top 10 most speakers in the dataset
+
+```{r}
+library(dplyr)
+
+TED_speaker <- unique(TED$speaker)
+
+print(TED_speaker)
+
+TED_speaker_counts_df <- as.data.frame(table(TED$speaker))
+
+colnames(TED_speaker_counts_df) <- c("speaker", "counts")
+
+TED_speaker_counts_df <- TED_speaker_counts_df[order(-TED_speaker_counts_df$counts), ]
+
+head(TED_speaker_counts_df, 50)
+```
+
+```{r}
+library(dplyr)
+
+TED_speaker_views_sum <- TED %>%
+  group_by(speaker) %>%
+  summarise(total_views = sum(viewCount))  %>%
+  arrange(desc(total_views))
+
+head(TED_speaker_views_sum, 50)
+
+TED_speaker_like_sum <- TED %>%
+  group_by(speaker) %>%
+  summarise(total_likes = sum(likeCount))  %>%
+  arrange(desc(total_likes))
+
+head(TED_speaker_like_sum, 50)
+
+TED_speaker_comment_sum <- TED %>%
+  group_by(speaker) %>%
+  summarise(total_comments = sum(commentCount))  %>%
+  arrange(desc(total_comments))
+
+head(TED_speaker_comment_sum, 50)
+```
+
+```{r}
+library(stringr) 
+library(dplyr)
+
+# Function to convert duration from mm:ss format to numeric seconds
+duration_to_seconds <- function(duration) {
+  parts <- strsplit(duration, ":")[[1]]
+  minutes <- as.numeric(parts[1])
+  seconds <- as.numeric(parts[2])
+  total_seconds <- (minutes * 60) + seconds
+  return(total_seconds)
+}
+
+# Convert duration column to numeric seconds
+TED$duration_seconds <- sapply(TED$duration, duration_to_seconds)
+
+# Convert duration column to numeric seconds
+TED <- TED %>%
+  mutate(duration_seconds = sapply(duration, duration_to_seconds))
+
+# Group the dataframe by TEDSubject and calculate the sum of duration_seconds for each group
+TED_speaker_duration_sum <- TED %>%
+  group_by(speaker) %>%
+  summarise(total_duration_seconds = sum(duration_seconds)) %>%
+  arrange(desc(total_duration_seconds))
+
+#head(TED_speaker_duration_sum, 10)
+```
+
+```{r}
+# Function to convert seconds to hh:mm:ss format
+seconds_to_hh_mm_ss <- function(seconds) {
+  hh <- floor(seconds / 3600)
+  mm <- floor((seconds %% 3600) / 60)
+  ss <- seconds %% 60
+  return(sprintf("%02d:%02d:%02d", hh, mm, ss))
+}
+
+# Convert the total_duration from seconds to hh:mm:ss format
+TED_speaker_duration_sum$total_duration_hh_mm_ss <- sapply(TED_speaker_duration_sum$total_duration_seconds, seconds_to_hh_mm_ss)
+
+# Print the dataframe
+#head(TED_speaker_duration_sum, 10)
+
+```
+
+```{r}
+TED_speaker_duration_avg <- TED_speaker_duration_sum %>%
+  group_by(speaker) %>%
+  summarise(avg_duration = total_duration_seconds / sum(TED_speaker_counts_df$counts[TED_speaker_counts_df$speaker == speaker])) %>%
+  arrange(desc(avg_duration))
+
+# head(TED_speaker_duration_avg, 10)
+```
+
+```{r}
+seconds_to_hh_mm_ss <- function(seconds) {
+  hh <- floor(seconds / 3600)
+  mm <- floor((seconds %% 3600) / 60)
+  ss <- round(seconds %% 60)  # Round to nearest integer
+  
+  # Check if any of the variables is NA
+  if (anyNA(c(hh, mm, ss))) {
+    return(NA)
+  } else {
+    return(sprintf("%02d:%02d:%02d", hh, mm, ss))
+  }
+}
+
+# Convert the average duration from seconds to hh:mm:ss format
+TED_speaker_duration_avg$avg_duration_hh_mm_ss <- sapply(TED_speaker_duration_avg$avg_duration, seconds_to_hh_mm_ss)
+
+# Filter out NA entries
+TED_speaker_duration_avg <- TED_speaker_duration_avg[complete.cases(TED_speaker_duration_avg), ]
+
+# Print the dataframe
+head(TED_speaker_duration_avg, 10)
+```
+
+### to do
+
+-   Wordcloud Titles
+
+-   wordcount Titles

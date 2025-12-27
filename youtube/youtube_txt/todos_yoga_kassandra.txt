@@ -1,0 +1,13 @@
+<b> TO DOS YOUTUBE DATA </B>
+
+* Part one finished
+
+* Start Part two - finished April 28th 2024
+
+- Top 10 of most watched, most liked and most commented videos
+- analysis of categories and subjects
+
+* Youtube Yoga - length of videos, video themes, building categories
+* use the schema form Yoga for the other analysis on the Youtube data
+
+- Finished Kassandra

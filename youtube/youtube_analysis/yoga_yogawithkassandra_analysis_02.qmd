@@ -1,0 +1,369 @@
+---
+title: "youtube_yoga_analysis"
+format: html
+editor: visual
+---
+
+## Analysis - Youtube - Channel Yoga with Kassandra Part two
+
+#### Data is from the Youtube Channel "Yoga with Kassandra".
+
+Data scraping was on March 16th 2024 using an API via fetching the channels ID, using a node.js code.
+
+#### Questions for that part:
+
+-   10 most watched videos
+
+-   10 most liked videos
+
+-   10 most commended videos
+
+-   Names of yoga styles and how they did
+
+-   yoga challenge vs no and how they did
+
+#### Loading libraries
+
+```{r, echo = FALSE}
+
+library(tidyverse)
+library(dplyr)
+library(knitr)
+library(ggplot2)
+```
+
+#### Loading csv file
+
+```{r, echo = FALSE}
+
+yoga <- read.csv2("v/youtube_yoga_with_kassandra_2024_03_16_V02.csv")
+yoga
+```
+
+```{r}
+# colnames(yoga)
+```
+
+```{r}
+yoga <- yoga[, !colnames(yoga) %in% c("videoID", "release_time", "defaultLAudioLanguage", "videoCategoryLabel")]
+colnames(yoga)
+```
+
+```{r}
+index_to_delete <- which(yoga$viewCount == 0)
+
+# Remove the row at the identified index
+yoga <- yoga[-index_to_delete, ]
+```
+
+#### Style of Analysis
+
+```{r}
+yoga_theme_blue <- c("#4F5361", "#353E55", "#B6F9FF", "#78B1E5", "#5281B4", "#00CCBB", "#A0DED9", "#FFF9D4" )
+```
+
+```{r}
+custom_yoga_theme_pink <- function() {
+  #theme_minimal() %+replace%  
+  theme(
+    # Define the overall appearance of the plot
+    plot.background = element_rect(fill = "#e5babf"),
+    panel.background = element_rect(fill = "#e5babf"),
+    panel.grid.major = element_line(color = "#e09592"),
+    panel.grid.minor = element_blank(),
+    
+    # Define the appearance of the axes
+    axis.line = element_line(color = "#b82677"),
+    axis.text = element_text(color = "#b82677"),
+    axis.title = element_text(color = "#b82677", size = 12, face = "bold.italic"),
+    axis.ticks = element_line(color = "#b82677"),
+    legend.position = "none",
+    
+    # Define the appearance of the plot title and subtitles
+    plot.title = element_text(color = "#b82677", size = 14, face = "bold.italic"),
+    plot.subtitle = element_text(color = "#b82677", size = 12),
+    
+    # Define the appearance of the plot labels
+    plot.caption = element_text(color = "#b82677", size = 10),
+    plot.tag = element_text(color = "#b82677", size = 11, face = "bold.italic"),
+    
+    # Remove the plot border
+    panel.border = element_blank()
+  )
+}
+```
+
+### 10 most watched videos
+
+```{r}
+
+library(dplyr)
+
+top_10_watched <- yoga %>%
+  arrange(desc(viewCount)) %>%
+  head(10) %>%
+  select(viewCount, yogaSubject, YogaChallenge, release_date, duration, videoTitle)
+
+print(top_10_watched)
+```
+
+### Top 10 most liked videos
+
+```{r}
+library(dplyr)
+
+# Arrange the dataframe by viewCount in descending order and select the top 10
+top_10_liked <- yoga %>%
+  arrange(desc(likeCount)) %>%
+  head(10) %>%
+  select(likeCount, yogaSubject, YogaChallenge, release_date, duration, videoTitle)
+
+# Print the result
+print(top_10_liked)
+```
+
+### Top 10 most commented videos
+
+```{r}
+library(dplyr)
+
+top_10_comments <- yoga %>%
+  arrange(desc(commentCount)) %>%
+  head(10) %>%
+  select(commentCount, yogaSubject, YogaChallenge, release_date, duration, videoTitle)
+
+print(top_10_comments)
+```
+
+### List of yoga subjects and styles in the videos
+
+```{r}
+yoga_subjects <- unique(yoga$yogaSubject)
+
+print(yoga_subjects)
+```
+
+```{r}
+yoga_subject_counts_df <- as.data.frame(table(yoga$yogaSubject))
+
+colnames(yoga_subject_counts_df) <- c("yogaSubject", "counts")
+
+yoga_subject_counts_df <- yoga_subject_counts_df[order(-yoga_subject_counts_df$counts), ]
+
+print(yoga_subject_counts_df)
+```
+
+```{r}
+library(dplyr)
+
+yoga_subject_views_sum <- yoga %>%
+  group_by(yogaSubject) %>%
+  summarise(total_views = sum(viewCount))  %>%
+  arrange(desc(total_views))
+
+print(yoga_subject_views_sum)
+
+yoga_subject_like_sum <- yoga %>%
+  group_by(yogaSubject) %>%
+  summarise(total_likes = sum(likeCount))  %>%
+  arrange(desc(total_likes))
+
+print(yoga_subject_like_sum)
+
+yoga_subject_comment_sum <- yoga %>%
+  group_by(yogaSubject) %>%
+  summarise(total_comments = sum(commentCount))  %>%
+  arrange(desc(total_comments))
+
+print(yoga_subject_comment_sum)
+```
+
+```{r}
+library(stringr) 
+library(dplyr)
+
+# Function to convert duration from mm:ss format to numeric seconds
+duration_to_seconds <- function(duration) {
+  parts <- strsplit(duration, ":")[[1]]
+  minutes <- as.numeric(parts[1])
+  seconds <- as.numeric(parts[2])
+  total_seconds <- (minutes * 60) + seconds
+  return(total_seconds)
+}
+
+# Convert duration column to numeric seconds
+yoga$duration_seconds <- sapply(yoga$duration, duration_to_seconds)
+
+# Convert duration column to numeric seconds
+yoga <- yoga %>%
+  mutate(duration_seconds = sapply(duration, duration_to_seconds))
+
+# Group the dataframe by yogaSubject and calculate the sum of duration_seconds for each group
+yoga_subject_duration_sum <- yoga %>%
+  group_by(yogaSubject) %>%
+  summarise(total_duration_seconds = sum(duration_seconds)) %>%
+  arrange(desc(total_duration_seconds))
+
+# print(yoga_subject_duration_sum)
+
+```
+
+```{r}
+# Function to convert seconds to hh:mm:ss format
+seconds_to_hh_mm_ss <- function(seconds) {
+  hh <- floor(seconds / 3600)
+  mm <- floor((seconds %% 3600) / 60)
+  ss <- seconds %% 60
+  return(sprintf("%02d:%02d:%02d", hh, mm, ss))
+}
+
+# Convert the total_duration from seconds to hh:mm:ss format
+yoga_subject_duration_sum$total_duration_hh_mm_ss <- sapply(yoga_subject_duration_sum$total_duration_seconds, seconds_to_hh_mm_ss)
+
+# Print the dataframe
+print(yoga_subject_duration_sum)
+
+```
+
+```{r}
+yoga_subject_duration_avg <- yoga_subject_duration_sum %>%
+  group_by(yogaSubject) %>%
+  summarise(avg_duration = total_duration_seconds / sum(yoga_subject_counts_df$counts[yoga_subject_counts_df$yogaSubject == yogaSubject])) %>%
+  arrange(desc(avg_duration))
+
+print(yoga_subject_duration_avg)
+```
+
+```{r}
+seconds_to_hh_mm_ss <- function(seconds) {
+  hh <- floor(seconds / 3600)
+  mm <- floor((seconds %% 3600) / 60)
+  ss <- round(seconds %% 60)  # Round to nearest integer
+  
+  # Check if any of the variables is NA
+  if (anyNA(c(hh, mm, ss))) {
+    return(NA)
+  } else {
+    return(sprintf("%02d:%02d:%02d", hh, mm, ss))
+  }
+}
+
+# Convert the average duration from seconds to hh:mm:ss format
+yoga_subject_duration_avg$avg_duration_hh_mm_ss <- sapply(yoga_subject_duration_avg$avg_duration, seconds_to_hh_mm_ss)
+
+# Filter out NA entries
+yoga_subject_duration_avg <- yoga_subject_duration_avg[complete.cases(yoga_subject_duration_avg), ]
+
+# Print the dataframe
+print(yoga_subject_duration_avg)
+
+
+```
+
+```{r}
+yoga_challenge_counts_df <- as.data.frame(table(yoga$YogaChallenge))
+
+colnames(yoga_challenge_counts_df) <- c("YogaChallenge", "counts")
+
+yoga_challenge_counts_df <- yoga_challenge_counts_df[order(-yoga_challenge_counts_df$counts), ]
+
+print(yoga_challenge_counts_df)
+```
+
+```{r}
+library(dplyr)
+
+yoga_challenge_views_sum <- yoga %>%
+  group_by(YogaChallenge) %>%
+  summarise(total_views = sum(viewCount))  %>%
+  arrange(desc(total_views))
+
+print(yoga_challenge_views_sum)
+
+yoga_challenge_like_sum <- yoga %>%
+  group_by(YogaChallenge) %>%
+  summarise(total_likes = sum(likeCount))  %>%
+  arrange(desc(total_likes))
+
+print(yoga_challenge_like_sum)
+
+library(dplyr)
+
+# Calculate the sum of non-NA commentCount for each group
+yoga_challenge_comment_sum <- yoga %>%
+  group_by(YogaChallenge) %>%
+  summarise(total_comments = sum(commentCount, na.rm = TRUE))  %>%
+  arrange(desc(total_comments))
+
+print(yoga_challenge_comment_sum)
+
+```
+
+```{r}
+library(dplyr)
+
+# Calculate the average viewCount, likeCount, and commentCount for each group
+yoga_challenge_avg_stats <- yoga %>%
+  group_by(YogaChallenge) %>%
+  summarise(avg_views = mean(viewCount),
+            avg_likes = mean(likeCount),
+            avg_comments = mean(commentCount, na.rm = TRUE)) %>%
+  arrange(desc(avg_views))
+
+print(yoga_challenge_avg_stats)
+
+```
+
+```{r}
+yoga_challenge_avg_stats <- yoga %>%
+  filter(viewCount <= 36000000) %>%  # Exclude entries with viewCount greater than 36 million
+  group_by(YogaChallenge) %>%
+  summarise(avg_views = mean(viewCount),
+            avg_likes = mean(likeCount),
+            avg_comments = mean(commentCount, na.rm = TRUE)) %>%
+  arrange(desc(avg_views))
+
+print(yoga_challenge_avg_stats)
+
+```
+
+```{r}
+library(ggplot2)
+
+# Calculate average viewCount, likeCount, and commentCount per Yoga Challenge
+average_stats <- yoga %>%
+  group_by(YogaChallenge) %>%
+  summarise(avg_viewCount = mean(viewCount, na.rm = TRUE),
+            avg_likeCount = mean(likeCount, na.rm = TRUE),
+            avg_commentCount = mean(commentCount, na.rm = TRUE))
+
+# Plotting separate bar charts for viewCount, likeCount, and commentCount with average lines
+ggplot(average_stats, aes(x = reorder(YogaChallenge, avg_viewCount), y = avg_viewCount)) +
+  geom_bar(stat = "identity", fill = "#78B1E5") +
+  labs(title = "Average View Count per Yoga Challenge",
+       x = "Yoga Challenge",
+       y = "Average View Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  custom_yoga_theme_pink() +
+  facet_wrap(~ "viewCount", scales = "free_x") +
+  scale_y_continuous(labels = scales::comma)
+
+ggplot(average_stats, aes(x = reorder(YogaChallenge, avg_likeCount), y = avg_likeCount)) +
+  geom_bar(stat = "identity", fill = "#4F5361") +
+  labs(title = "Average Like Count per Yoga Challenge",
+       x = "Yoga Challenge",
+       y = "Average Like Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  custom_yoga_theme_pink() +
+  facet_wrap(~ "likeCount", scales = "free_x")
+
+ggplot(average_stats, aes(x = reorder(YogaChallenge, avg_commentCount), y = avg_commentCount)) +
+  geom_bar(stat = "identity", fill = "#FFF9D4") +
+  labs(title = "Average Comment Count per Yoga Challenge",
+       x = "Yoga Challenge",
+       y = "Average Comment Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  custom_yoga_theme_pink() +
+  facet_wrap(~ "commentCount", scales = "free_y", labeller = labeller(NULL))
+
+```
