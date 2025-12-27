@@ -1,0 +1,17 @@
+** To dos **
+- update data every three month - so far April 2024, June 2024
+- read instructions
+- data cleaning of new data
+
+- better way of web scraping?
+
+- map of layoffs numbers after location and country
+  - filter and sum of layoffs after location and country
+- interactive charts
+  - layoff changes per year using highcharts?
+
+Done
+
+- getting GPS from location (city + country + us_state?)
+
+- new Kaggle dataset with 2024 data
