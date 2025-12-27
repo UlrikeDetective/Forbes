@@ -1,0 +1,641 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "5024e9eb",
+   "metadata": {
+    "papermill": {
+     "duration": 0.004953,
+     "end_time": "2025-03-09T19:29:54.778870",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:54.773917",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "## March Machine Learning Mania 2025\n",
+    "### Forecast the 2025 NCAA Basketball Tournaments"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "af155fdf",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-03-09T19:29:54.787846Z",
+     "iopub.status.busy": "2025-03-09T19:29:54.787363Z",
+     "iopub.status.idle": "2025-03-09T19:29:57.324332Z",
+     "shell.execute_reply": "2025-03-09T19:29:57.323339Z"
+    },
+    "papermill": {
+     "duration": 2.54361,
+     "end_time": "2025-03-09T19:29:57.326306",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:54.782696",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# load libraries\n",
+    "\n",
+    "import pandas as pd\n",
+    "import numpy as np\n",
+    "from sklearn.model_selection import train_test_split\n",
+    "from sklearn.linear_model import LogisticRegression\n",
+    "from sklearn.metrics import brier_score_loss"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "45caff70",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-03-09T19:29:57.335447Z",
+     "iopub.status.busy": "2025-03-09T19:29:57.334879Z",
+     "iopub.status.idle": "2025-03-09T19:29:57.373362Z",
+     "shell.execute_reply": "2025-03-09T19:29:57.371884Z"
+    },
+    "papermill": {
+     "duration": 0.04569,
+     "end_time": "2025-03-09T19:29:57.375978",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.330288",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# Load data\n",
+    "m_tourney_results = pd.read_csv('/kaggle/input/march-machine-learning-mania-2025/MNCAATourneyCompactResults.csv')\n",
+    "w_tourney_results = pd.read_csv('/kaggle/input/march-machine-learning-mania-2025/WNCAATourneyCompactResults.csv')\n",
+    "m_seeds = pd.read_csv('/kaggle/input/march-machine-learning-mania-2025/MNCAATourneySeeds.csv')\n",
+    "w_seeds = pd.read_csv('/kaggle/input/march-machine-learning-mania-2025/WNCAATourneySeeds.csv')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "1acc7630",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-03-09T19:29:57.385829Z",
+     "iopub.status.busy": "2025-03-09T19:29:57.385439Z",
+     "iopub.status.idle": "2025-03-09T19:29:57.410157Z",
+     "shell.execute_reply": "2025-03-09T19:29:57.408956Z"
+    },
+    "papermill": {
+     "duration": 0.031269,
+     "end_time": "2025-03-09T19:29:57.411773",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.380504",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "   Season  DayNum  WTeamID  WScore  LTeamID  LScore WLoc  NumOT\n",
+      "0    1985     136     1116      63     1234      54    N      0\n",
+      "1    1985     136     1120      59     1345      58    N      0\n",
+      "2    1985     136     1207      68     1250      43    N      0\n",
+      "3    1985     136     1229      58     1425      55    N      0\n",
+      "4    1985     136     1242      49     1325      38    N      0\n",
+      "   Season  DayNum  WTeamID  WScore  LTeamID  LScore WLoc  NumOT\n",
+      "0    1998     137     3104      94     3422      46    H      0\n",
+      "1    1998     137     3112      75     3365      63    H      0\n",
+      "2    1998     137     3163      93     3193      52    H      0\n",
+      "3    1998     137     3198      59     3266      45    H      0\n",
+      "4    1998     137     3203      74     3208      72    A      0\n",
+      "   Season Seed  TeamID\n",
+      "0    1985  W01    1207\n",
+      "1    1985  W02    1210\n",
+      "2    1985  W03    1228\n",
+      "3    1985  W04    1260\n",
+      "4    1985  W05    1374\n",
+      "   Season Seed  TeamID\n",
+      "0    1998  W01    3330\n",
+      "1    1998  W02    3163\n",
+      "2    1998  W03    3112\n",
+      "3    1998  W04    3301\n",
+      "4    1998  W05    3272\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Basic data exploration\n",
+    "print(m_tourney_results.head())\n",
+    "print(w_tourney_results.head())\n",
+    "print(m_seeds.head())\n",
+    "print(w_seeds.head())"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a78eefca",
+   "metadata": {
+    "papermill": {
+     "duration": 0.003517,
+     "end_time": "2025-03-09T19:29:57.419388",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.415871",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    " The following code add seed information for both winning and losing teams to the tournament results data for both men's and women's tournaments."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "bf428635",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-03-09T19:29:57.427962Z",
+     "iopub.status.busy": "2025-03-09T19:29:57.427614Z",
+     "iopub.status.idle": "2025-03-09T19:29:57.459174Z",
+     "shell.execute_reply": "2025-03-09T19:29:57.458171Z"
+    },
+    "papermill": {
+     "duration": 0.03823,
+     "end_time": "2025-03-09T19:29:57.461266",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.423036",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# Merge seeds with results\n",
+    "m_tourney_results = m_tourney_results.merge(m_seeds, left_on=['Season', 'WTeamID'], right_on=['Season', 'TeamID'])\n",
+    "m_tourney_results = m_tourney_results.merge(m_seeds, left_on=['Season', 'LTeamID'], right_on=['Season', 'TeamID'], suffixes=('_W', '_L'))\n",
+    "w_tourney_results = w_tourney_results.merge(w_seeds, left_on=['Season', 'WTeamID'], right_on=['Season', 'TeamID'])\n",
+    "w_tourney_results = w_tourney_results.merge(w_seeds, left_on=['Season', 'LTeamID'], right_on=['Season', 'TeamID'], suffixes=('_W', '_L'))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6e92ea03",
+   "metadata": {
+    "papermill": {
+     "duration": 0.003451,
+     "end_time": "2025-03-09T19:29:57.468814",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.465363",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "The following code performs feature engineering by creating a new feature called SeedDiff for both men's and women's tournament results.\n",
+    "\n",
+    "This calculates the seed difference for each game in the men's or women's tournament results. It extracts the numeric part of the seed (ignoring the first character which indicates the region) for both the losing team (Seed_L) and the winning team (Seed_W), converts them to integers, and then subtracts the winning team's seed from the losing team's seed.\n",
+    "\n",
+    "The SeedDiff feature represents the difference in seed rankings between the losing and winning teams, which can be used as a predictor in the model."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "6ae44a38",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-03-09T19:29:57.478668Z",
+     "iopub.status.busy": "2025-03-09T19:29:57.478326Z",
+     "iopub.status.idle": "2025-03-09T19:29:57.491614Z",
+     "shell.execute_reply": "2025-03-09T19:29:57.490239Z"
+    },
+    "papermill": {
+     "duration": 0.020303,
+     "end_time": "2025-03-09T19:29:57.493478",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.473175",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# Feature engineering\n",
+    "m_tourney_results['SeedDiff'] = m_tourney_results['Seed_L'].apply(lambda x: int(x[1:3])) - m_tourney_results['Seed_W'].apply(lambda x: int(x[1:3]))\n",
+    "w_tourney_results['SeedDiff'] = w_tourney_results['Seed_L'].apply(lambda x: int(x[1:3])) - w_tourney_results['Seed_W'].apply(lambda x: int(x[1:3]))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5154c5dd",
+   "metadata": {
+    "papermill": {
+     "duration": 0.003639,
+     "end_time": "2025-03-09T19:29:57.502178",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.498539",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "The following code prepares the training data for the models:\n",
+    "\n",
+    "X_m = m_tourney_results[['SeedDiff']]\n",
+    "\n",
+    "Selects the SeedDiff feature from the men's tournament results as the input data (X_m).\n",
+    "y_m = m_tourney_results['WTeamID'] < m_tourney_results['LTeamID']\n",
+    "\n",
+    "Creates the target variable (y_m) for the men's model, indicating whether the winning team's ID is less than the losing team's ID.\n",
+    "X_w = w_tourney_results[['SeedDiff']]\n",
+    "\n",
+    "Selects the SeedDiff feature from the women's tournament results as the input data (X_w).\n",
+    "y_w = w_tourney_results['WTeamID'] < w_tourney_results['LTeamID']\n",
+    "\n",
+    "Creates the target variable (y_w) for the women's model, indicating whether the winning team's ID is less than the losing team's ID.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "6f907685",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-03-09T19:29:57.511204Z",
+     "iopub.status.busy": "2025-03-09T19:29:57.510805Z",
+     "iopub.status.idle": "2025-03-09T19:29:57.518505Z",
+     "shell.execute_reply": "2025-03-09T19:29:57.517210Z"
+    },
+    "papermill": {
+     "duration": 0.014196,
+     "end_time": "2025-03-09T19:29:57.520236",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.506040",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# Prepare training data\n",
+    "X_m = m_tourney_results[['SeedDiff']]\n",
+    "y_m = m_tourney_results['WTeamID'] < m_tourney_results['LTeamID']\n",
+    "X_w = w_tourney_results[['SeedDiff']]\n",
+    "y_w = w_tourney_results['WTeamID'] < w_tourney_results['LTeamID']"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "816a6162",
+   "metadata": {
+    "papermill": {
+     "duration": 0.00372,
+     "end_time": "2025-03-09T19:29:57.528267",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.524547",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "Split data into training and testing sets\n",
+    "\n",
+    "Training Set: This subset of the data is used to train the model. The model learns the patterns and relationships in the data from this set.\n",
+    "\n",
+    "Testing Set: This subset of the data is used to evaluate the model's performance. It helps to assess how well the model generalizes to new, unseen data. By testing the model on data it hasn't seen before, you can get an unbiased estimate of its accuracy and other performance metrics."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "b3de1b38",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-03-09T19:29:57.539698Z",
+     "iopub.status.busy": "2025-03-09T19:29:57.539173Z",
+     "iopub.status.idle": "2025-03-09T19:29:57.549354Z",
+     "shell.execute_reply": "2025-03-09T19:29:57.548468Z"
+    },
+    "papermill": {
+     "duration": 0.016368,
+     "end_time": "2025-03-09T19:29:57.550800",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.534432",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# Split data into training and testing sets\n",
+    "X_train_m, X_test_m, y_train_m, y_test_m = train_test_split(X_m, y_m, test_size=0.2, random_state=42)\n",
+    "X_train_w, X_test_w, y_train_w, y_test_w = train_test_split(X_w, y_w, test_size=0.2, random_state=42)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f405340b",
+   "metadata": {
+    "papermill": {
+     "duration": 0.004158,
+     "end_time": "2025-03-09T19:29:57.559034",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.554876",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "The following code trains logistic regression models for both men's and women's tournament data:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "c50c892b",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-03-09T19:29:57.570641Z",
+     "iopub.status.busy": "2025-03-09T19:29:57.570168Z",
+     "iopub.status.idle": "2025-03-09T19:29:57.616951Z",
+     "shell.execute_reply": "2025-03-09T19:29:57.615892Z"
+    },
+    "papermill": {
+     "duration": 0.053771,
+     "end_time": "2025-03-09T19:29:57.618577",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.564806",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<style>#sk-container-id-1 {color: black;background-color: white;}#sk-container-id-1 pre{padding: 0;}#sk-container-id-1 div.sk-toggleable {background-color: white;}#sk-container-id-1 label.sk-toggleable__label {cursor: pointer;display: block;width: 100%;margin-bottom: 0;padding: 0.3em;box-sizing: border-box;text-align: center;}#sk-container-id-1 label.sk-toggleable__label-arrow:before {content: \"▸\";float: left;margin-right: 0.25em;color: #696969;}#sk-container-id-1 label.sk-toggleable__label-arrow:hover:before {color: black;}#sk-container-id-1 div.sk-estimator:hover label.sk-toggleable__label-arrow:before {color: black;}#sk-container-id-1 div.sk-toggleable__content {max-height: 0;max-width: 0;overflow: hidden;text-align: left;background-color: #f0f8ff;}#sk-container-id-1 div.sk-toggleable__content pre {margin: 0.2em;color: black;border-radius: 0.25em;background-color: #f0f8ff;}#sk-container-id-1 input.sk-toggleable__control:checked~div.sk-toggleable__content {max-height: 200px;max-width: 100%;overflow: auto;}#sk-container-id-1 input.sk-toggleable__control:checked~label.sk-toggleable__label-arrow:before {content: \"▾\";}#sk-container-id-1 div.sk-estimator input.sk-toggleable__control:checked~label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-1 div.sk-label input.sk-toggleable__control:checked~label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-1 input.sk-hidden--visually {border: 0;clip: rect(1px 1px 1px 1px);clip: rect(1px, 1px, 1px, 1px);height: 1px;margin: -1px;overflow: hidden;padding: 0;position: absolute;width: 1px;}#sk-container-id-1 div.sk-estimator {font-family: monospace;background-color: #f0f8ff;border: 1px dotted black;border-radius: 0.25em;box-sizing: border-box;margin-bottom: 0.5em;}#sk-container-id-1 div.sk-estimator:hover {background-color: #d4ebff;}#sk-container-id-1 div.sk-parallel-item::after {content: \"\";width: 100%;border-bottom: 1px solid gray;flex-grow: 1;}#sk-container-id-1 div.sk-label:hover label.sk-toggleable__label {background-color: #d4ebff;}#sk-container-id-1 div.sk-serial::before {content: \"\";position: absolute;border-left: 1px solid gray;box-sizing: border-box;top: 0;bottom: 0;left: 50%;z-index: 0;}#sk-container-id-1 div.sk-serial {display: flex;flex-direction: column;align-items: center;background-color: white;padding-right: 0.2em;padding-left: 0.2em;position: relative;}#sk-container-id-1 div.sk-item {position: relative;z-index: 1;}#sk-container-id-1 div.sk-parallel {display: flex;align-items: stretch;justify-content: center;background-color: white;position: relative;}#sk-container-id-1 div.sk-item::before, #sk-container-id-1 div.sk-parallel-item::before {content: \"\";position: absolute;border-left: 1px solid gray;box-sizing: border-box;top: 0;bottom: 0;left: 50%;z-index: -1;}#sk-container-id-1 div.sk-parallel-item {display: flex;flex-direction: column;z-index: 1;position: relative;background-color: white;}#sk-container-id-1 div.sk-parallel-item:first-child::after {align-self: flex-end;width: 50%;}#sk-container-id-1 div.sk-parallel-item:last-child::after {align-self: flex-start;width: 50%;}#sk-container-id-1 div.sk-parallel-item:only-child::after {width: 0;}#sk-container-id-1 div.sk-dashed-wrapped {border: 1px dashed gray;margin: 0 0.4em 0.5em 0.4em;box-sizing: border-box;padding-bottom: 0.4em;background-color: white;}#sk-container-id-1 div.sk-label label {font-family: monospace;font-weight: bold;display: inline-block;line-height: 1.2em;}#sk-container-id-1 div.sk-label-container {text-align: center;}#sk-container-id-1 div.sk-container {/* jupyter's `normalize.less` sets `[hidden] { display: none; }` but bootstrap.min.css set `[hidden] { display: none !important; }` so we also need the `!important` here to be able to override the default hidden behavior on the sphinx rendered scikit-learn.org. See: https://github.com/scikit-learn/scikit-learn/issues/21755 */display: inline-block !important;position: relative;}#sk-container-id-1 div.sk-text-repr-fallback {display: none;}</style><div id=\"sk-container-id-1\" class=\"sk-top-container\"><div class=\"sk-text-repr-fallback\"><pre>LogisticRegression()</pre><b>In a Jupyter environment, please rerun this cell to show the HTML representation or trust the notebook. <br />On GitHub, the HTML representation is unable to render, please try loading this page with nbviewer.org.</b></div><div class=\"sk-container\" hidden><div class=\"sk-item\"><div class=\"sk-estimator sk-toggleable\"><input class=\"sk-toggleable__control sk-hidden--visually\" id=\"sk-estimator-id-1\" type=\"checkbox\" checked><label for=\"sk-estimator-id-1\" class=\"sk-toggleable__label sk-toggleable__label-arrow\">LogisticRegression</label><div class=\"sk-toggleable__content\"><pre>LogisticRegression()</pre></div></div></div></div></div>"
+      ],
+      "text/plain": [
+       "LogisticRegression()"
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Train logistic regression model\n",
+    "model_m = LogisticRegression()\n",
+    "model_m.fit(X_train_m, y_train_m)\n",
+    "model_w = LogisticRegression()\n",
+    "model_w.fit(X_train_w, y_train_w)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d94b9fef",
+   "metadata": {
+    "papermill": {
+     "duration": 0.00385,
+     "end_time": "2025-03-09T19:29:57.626802",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.622952",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "The following code makes predictions using the trained logistic regression models"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "def744ea",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-03-09T19:29:57.636177Z",
+     "iopub.status.busy": "2025-03-09T19:29:57.635785Z",
+     "iopub.status.idle": "2025-03-09T19:29:57.642524Z",
+     "shell.execute_reply": "2025-03-09T19:29:57.641631Z"
+    },
+    "papermill": {
+     "duration": 0.013216,
+     "end_time": "2025-03-09T19:29:57.644093",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.630877",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# Make predictions\n",
+    "preds_m = model_m.predict_proba(X_test_m)[:, 1]\n",
+    "preds_w = model_w.predict_proba(X_test_w)[:, 1]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9da408b0",
+   "metadata": {
+    "papermill": {
+     "duration": 0.003856,
+     "end_time": "2025-03-09T19:29:57.652344",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.648488",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "The following code evaluates the performance of the models:\n",
+    "\n",
+    "It calculates the Brier score for the men's and women's model, which measures the accuracy of the predicted probabilities (preds_m) against the actual outcomes (y_test_m)."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "2a03c75d",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-03-09T19:29:57.662334Z",
+     "iopub.status.busy": "2025-03-09T19:29:57.661846Z",
+     "iopub.status.idle": "2025-03-09T19:29:57.670630Z",
+     "shell.execute_reply": "2025-03-09T19:29:57.669222Z"
+    },
+    "papermill": {
+     "duration": 0.016048,
+     "end_time": "2025-03-09T19:29:57.672562",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.656514",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Brier score for men's model: 0.2500367011908847\n",
+      "Brier score for women's model: 0.24944396562964813\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Evaluate model\n",
+    "brier_score_m = brier_score_loss(y_test_m, preds_m)\n",
+    "brier_score_w = brier_score_loss(y_test_w, preds_w)\n",
+    "print(f'Brier score for men\\'s model: {brier_score_m}')\n",
+    "print(f'Brier score for women\\'s model: {brier_score_w}')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "d9d88b96",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-03-09T19:29:57.682810Z",
+     "iopub.status.busy": "2025-03-09T19:29:57.682429Z",
+     "iopub.status.idle": "2025-03-09T19:29:57.688907Z",
+     "shell.execute_reply": "2025-03-09T19:29:57.687910Z"
+    },
+    "papermill": {
+     "duration": 0.01349,
+     "end_time": "2025-03-09T19:29:57.690509",
+     "exception": false,
+     "start_time": "2025-03-09T19:29:57.677019",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "' import pandas as pd\\nimport itertools\\n\\nteams = pd.concat([m_seeds[[\\'Season\\', \\'TeamID\\', \\'Seed\\']], w_seeds[[\\'Season\\', \\'TeamID\\', \\'Seed\\']]])\\nteams = teams.drop_duplicates()\\n\\n# Function to process a batch of team pairs\\ndef process_batch(batch, season, model_m, model_w):\\n    results = []\\n    for team1, team2 in batch:\\n        seed1 = teams.loc[teams[\\'TeamID\\'] == team1, \\'Seed\\'].values[0]\\n        seed2 = teams.loc[teams[\\'TeamID\\'] == team2, \\'Seed\\'].values[0]\\n        seed_diff = int(seed2[1:3]) - int(seed1[1:3])  # Extract numeric part of seed\\n\\n        pred = model_m.predict_proba([[seed_diff]])[0][1] if team1 < 2000 else model_w.predict_proba([[seed_diff]])[0][1]\\n        results.append([f\\'{season}_{team1}_{team2}\\', pred])\\n    return results\\n\\n# Process in chunks and write directly to CSV\\nbatch_size = 1000\\ncsv_filename = \\'submission.csv\\'\\n\\n# Initialize CSV with header\\npd.DataFrame(columns=[\\'ID\\', \\'Pred\\']).to_csv(csv_filename, index=False)\\n\\nbatch_count = 0  # Counter for number of batches\\n\\nseason = 2025\\nteam_pairs = list(itertools.combinations(teams[\\'TeamID\\'], 2))  # Generate team pairs\\nteam_pairs = list(set(team_pairs))  # Remove duplicates\\nbatch = []  # Temporary batch storage\\n\\nfor pair in team_pairs:\\n    batch.append(pair)\\n\\n    # Process when batch reaches batch_size\\n    if len(batch) == batch_size:\\n        batch_results = process_batch(batch, season, model_m, model_w)\\n\\n        # Append results to CSV in chunks\\n        pd.DataFrame(batch_results, columns=[\\'ID\\', \\'Pred\\']).to_csv(csv_filename, mode=\\'a\\', header=False, index=False)\\n\\n        batch_count += 1\\n        print(f\"Processed batch {batch_count}\")  # Print batch count\\n\\n        batch = []  # Reset batch\\n\\n# Process any remaining pairs in batch (if not exactly batch_size)\\nif batch:\\n    batch_results = process_batch(batch, season, model_m, model_w)\\n    pd.DataFrame(batch_results, columns=[\\'ID\\', \\'Pred\\']).to_csv(csv_filename, mode=\\'a\\', header=False, index=False)\\n\\n    batch_count += 1\\n    print(f\"Processed batch {batch_count}\")  # Print batch count '"
+      ]
+     },
+     "execution_count": 11,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "\"\"\" import pandas as pd\n",
+    "import itertools\n",
+    "\n",
+    "teams = pd.concat([m_seeds[['Season', 'TeamID', 'Seed']], w_seeds[['Season', 'TeamID', 'Seed']]])\n",
+    "teams = teams.drop_duplicates()\n",
+    "\n",
+    "# Function to process a batch of team pairs\n",
+    "def process_batch(batch, season, model_m, model_w):\n",
+    "    results = []\n",
+    "    for team1, team2 in batch:\n",
+    "        seed1 = teams.loc[teams['TeamID'] == team1, 'Seed'].values[0]\n",
+    "        seed2 = teams.loc[teams['TeamID'] == team2, 'Seed'].values[0]\n",
+    "        seed_diff = int(seed2[1:3]) - int(seed1[1:3])  # Extract numeric part of seed\n",
+    "\n",
+    "        pred = model_m.predict_proba([[seed_diff]])[0][1] if team1 < 2000 else model_w.predict_proba([[seed_diff]])[0][1]\n",
+    "        results.append([f'{season}_{team1}_{team2}', pred])\n",
+    "    return results\n",
+    "\n",
+    "# Process in chunks and write directly to CSV\n",
+    "batch_size = 1000\n",
+    "csv_filename = 'submission.csv'\n",
+    "\n",
+    "# Initialize CSV with header\n",
+    "pd.DataFrame(columns=['ID', 'Pred']).to_csv(csv_filename, index=False)\n",
+    "\n",
+    "batch_count = 0  # Counter for number of batches\n",
+    "\n",
+    "season = 2025\n",
+    "team_pairs = list(itertools.combinations(teams['TeamID'], 2))  # Generate team pairs\n",
+    "team_pairs = list(set(team_pairs))  # Remove duplicates\n",
+    "batch = []  # Temporary batch storage\n",
+    "\n",
+    "for pair in team_pairs:\n",
+    "    batch.append(pair)\n",
+    "\n",
+    "    # Process when batch reaches batch_size\n",
+    "    if len(batch) == batch_size:\n",
+    "        batch_results = process_batch(batch, season, model_m, model_w)\n",
+    "\n",
+    "        # Append results to CSV in chunks\n",
+    "        pd.DataFrame(batch_results, columns=['ID', 'Pred']).to_csv(csv_filename, mode='a', header=False, index=False)\n",
+    "\n",
+    "        batch_count += 1\n",
+    "        print(f\"Processed batch {batch_count}\")  # Print batch count\n",
+    "\n",
+    "        batch = []  # Reset batch\n",
+    "\n",
+    "# Process any remaining pairs in batch (if not exactly batch_size)\n",
+    "if batch:\n",
+    "    batch_results = process_batch(batch, season, model_m, model_w)\n",
+    "    pd.DataFrame(batch_results, columns=['ID', 'Pred']).to_csv(csv_filename, mode='a', header=False, index=False)\n",
+    "\n",
+    "    batch_count += 1\n",
+    "    print(f\"Processed batch {batch_count}\")  # Print batch count \"\"\""
+   ]
+  }
+ ],
+ "metadata": {
+  "kaggle": {
+   "accelerator": "none",
+   "dataSources": [
+    {
+     "databundleVersionId": 11320667,
+     "sourceId": 91497,
+     "sourceType": "competition"
+    }
+   ],
+   "dockerImageVersionId": 30918,
+   "isGpuEnabled": false,
+   "isInternetEnabled": true,
+   "language": "python",
+   "sourceType": "notebook"
+  },
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.12"
+  },
+  "papermill": {
+   "default_parameters": {},
+   "duration": 7.046447,
+   "end_time": "2025-03-09T19:29:58.417370",
+   "environment_variables": {},
+   "exception": null,
+   "input_path": "__notebook__.ipynb",
+   "output_path": "__notebook__.ipynb",
+   "parameters": {},
+   "start_time": "2025-03-09T19:29:51.370923",
+   "version": "2.6.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

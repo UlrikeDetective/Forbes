@@ -1,0 +1,28 @@
+Your Goal: Predict the price of backpacks given various attributes.
+
+Submission File
+For each id in the test set, you must predict the Price of the backpack. The file should contain a header and have the following format:
+
+id,Price
+300000,81.411
+300001,81.411
+300002,81.411
+etc.
+
+Dataset Description
+The dataset for this competition (both train and test) was generated from a deep learning model trained on the Student Bag Price Prediction Dataset dataset. Feature distributions are close to, but not exactly the same, as the original. Feel free to use the original dataset as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance.
+
+Files
+train.csv - the training dataset; Price is the target
+train_extra.csv - a whole lot more training data!
+test.csv - the test dataset; your objective is to predict the Price for each row
+sample_submission.csv - a sample submission file in the correct format.
+
+python3 -m venv kaggle_env
+source kaggle_env/bin/activate
+
+pip install ...
+
+python ....py
+
+python ....py

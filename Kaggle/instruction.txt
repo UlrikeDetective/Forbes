@@ -1,0 +1,6 @@
+python3 -m venv kaggle_env
+source kaggle_env/bin/activate
+
+pip install ...
+
+python ....py
