@@ -1,6 +1,6 @@
 # Data Analytics and data science projects
 
-![head_picture](Pics/Firefly%20Lazy%20breakfast%20on%20the%20terrasse%20in%20summertime%202463.jpg))
+![head_picture](Pics/Firefly%20Lazy%20breakfast%20on%20the%20terrasse%20in%20summertime%202463.jpg)
 
 ## About the Project
 
